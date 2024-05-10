@@ -13,8 +13,6 @@
 
 
 
-
-
 <channel>
 <name>[B][COLOR blue][/COLOR] [COLOR yellow] FILMES [/COLOR][/B]</name>
 <thumbnail>https://ia800309.us.archive.org/4/items/iconfanart_202405/fanart.jpg</thumbnail>
@@ -22,8 +20,6 @@
 <info>[COLOR blue] [COLOR blue] Sejam  Bem vindos ao  PluginStream [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/main/CATEGORIA%20DE%20FILMES.XML</externallink>
 </channel>
-
-
 
 
 
@@ -37,9 +33,17 @@
 
 
 
-
 <channel>
 <name>[B][COLOR blue][/COLOR] [COLOR yellow] DESENHOS [/COLOR][/B]</name>
+<thumbnail>https://ia800309.us.archive.org/4/items/iconfanart_202405/fanart.jpg</thumbnail>
+<fanart>https://ia800309.us.archive.org/4/items/iconfanart_202405/fanart.jpg</fanart>
+<info>[COLOR blue] [COLOR blue] Sejam  Bem vindos ao  PluginStream [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/main/CATEGORIA%20DE%20DESENHOS</externallink>
+</channel>
+
+
+<channel>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow] CANAIS DE TV [/COLOR][/B]</name>
 <thumbnail>https://ia800309.us.archive.org/4/items/iconfanart_202405/fanart.jpg</thumbnail>
 <fanart>https://ia800309.us.archive.org/4/items/iconfanart_202405/fanart.jpg</fanart>
 <info>[COLOR blue] [COLOR blue] Sejam  Bem vindos ao  PluginStream [/COLOR]</info>
