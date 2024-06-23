@@ -22,6 +22,15 @@
 
 
 <channel>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow] DRAMA [/COLOR][/B]</name>
+<thumbnail>https://ia600403.us.archive.org/10/items/icon_20240610/icon.jpeg</thumbnail>
+<fanart>https://ia800309.us.archive.org/4/items/iconfanart_202405/fanart.jpg</fanart>
+<info>[COLOR blue] [COLOR blue] Bem vindo ao addon PluginStream Add-on [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/main/Drama.XML</externallink>
+</channel>
+
+
+<channel>
 <name>[B][COLOR blue][/COLOR] [COLOR yellow]  COMÉDIA [/COLOR][/B]</name>
 <thumbnail>https://ia600403.us.archive.org/10/items/icon_20240610/icon.jpeg</thumbnail>
 <fanart>https://ia800309.us.archive.org/4/items/iconfanart_202405/fanart.jpg</fanart>
@@ -49,11 +58,29 @@
 
 
 <channel>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow] BASEADO EM FATOS [/COLOR][/B]</name>
+<thumbnail>https://ia600403.us.archive.org/10/items/icon_20240610/icon.jpeg</thumbnail>
+<fanart>https://ia800309.us.archive.org/4/items/iconfanart_202405/fanart.jpg</fanart>
+<info>[COLOR blue] [COLOR blue] Bem vindo ao addon PluginStream Add-on [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/main/Baseado%20em%20Fatos.XML</externallink>
+</channel>
+
+
+<channel>
 <name>[B][COLOR blue][/COLOR] [COLOR yellow] TERROR [/COLOR][/B]</name>
 <thumbnail>https://ia600403.us.archive.org/10/items/icon_20240610/icon.jpeg</thumbnail>
 <fanart>https://ia800309.us.archive.org/4/items/iconfanart_202405/fanart.jpg</fanart>
 <info>[COLOR blue] [COLOR blue] Bem vindo ao addon PluginStream Add-on [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/main/Terror.XML</externallink>
+</channel>
+
+
+<channel>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow] SUSPENSE [/COLOR][/B]</name>
+<thumbnail>https://ia600403.us.archive.org/10/items/icon_20240610/icon.jpeg</thumbnail>
+<fanart>https://ia800309.us.archive.org/4/items/iconfanart_202405/fanart.jpg</fanart>
+<info>[COLOR blue] [COLOR blue] Bem vindo ao addon PluginStream Add-on [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/main/Suspense.XML</externallink>
 </channel>
 
 
@@ -103,15 +130,6 @@
 
 
 <channel>
-<name>[B][COLOR blue][/COLOR] [COLOR yellow] BASEADO EM FATOS [/COLOR][/B]</name>
-<thumbnail>https://ia600403.us.archive.org/10/items/icon_20240610/icon.jpeg</thumbnail>
-<fanart>https://ia800309.us.archive.org/4/items/iconfanart_202405/fanart.jpg</fanart>
-<info>[COLOR blue] [COLOR blue] Bem vindo ao addon PluginStream Add-on [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/main/Baseado%20em%20Fatos.XML</externallink>
-</channel>
-
-
-<channel>
 <name>[B][COLOR blue][/COLOR] [COLOR yellow] DC  VS  MARVEL [/COLOR][/B]</name>
 <thumbnail>https://ia600403.us.archive.org/10/items/icon_20240610/icon.jpeg</thumbnail>
 <fanart>https://ia800309.us.archive.org/4/items/iconfanart_202405/fanart.jpg</fanart>
@@ -120,23 +138,7 @@
 </channel>
 
 
-<channel>
-<name>[B][COLOR blue][/COLOR] [COLOR yellow] DRAMA [/COLOR][/B]</name>
-<thumbnail>https://ia600403.us.archive.org/10/items/icon_20240610/icon.jpeg</thumbnail>
-<fanart>https://ia800309.us.archive.org/4/items/iconfanart_202405/fanart.jpg</fanart>
-<info>[COLOR blue] [COLOR blue] Bem vindo ao addon PluginStream Add-on [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/main/Drama.XML</externallink>
-</channel>
 
-
-
-<channel>
-<name>[B][COLOR blue][/COLOR] [COLOR yellow] SUSPENSE [/COLOR][/B]</name>
-<thumbnail>https://ia600403.us.archive.org/10/items/icon_20240610/icon.jpeg</thumbnail>
-<fanart>https://ia800309.us.archive.org/4/items/iconfanart_202405/fanart.jpg</fanart>
-<info>[COLOR blue] [COLOR blue] Bem vindo ao addon PluginStream Add-on [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/main/Suspense.XML</externallink>
-</channel>
 
 
 
