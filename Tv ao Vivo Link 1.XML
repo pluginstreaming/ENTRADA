@@ -5,7 +5,7 @@
 
 
 
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="ESTRELA DAY ACOMPANHE A CASA" tvg-logo="http://app.tvdigital.link:2095/logoscanais/EstrelaDaCasa.png" group-title="Canais | Estrela Day" addon-logo="https://baf-qrcode.b-cdn.net/icon.jpeg",ESTRELA DAY ACOMPANHE A CASA
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="ESTRELA DAY ACOMPANHE A CASA" tvg-logo="http://app.tvdigital.link:2095/logoscanais/EstrelaDaCasa.png" group-title="Canais | Estrela Day",ESTRELA DAY ACOMPANHE A CASA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://1111.wf:80/631038767/Y267V1056A/384589
 #EXTINF:-1 tvg-name="ESTRELA DAY MOSAICO" tvg-logo="http://app.tvdigital.link:2095/logoscanais/EstrelaDaCasa.png" group-title="Canais | Estrela Day",ESTRELA DAY MOSAICO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://1111.wf:80/631038767/Y267V1056A/385523
