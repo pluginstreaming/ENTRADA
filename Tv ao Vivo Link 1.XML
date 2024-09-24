@@ -12,7 +12,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smart.cdn23.click:80/leonardo4249/a980069/397633
 #EXTINF:-1 tvg-id="Afazenda.br" tvg-name="A Fazenda 5 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/fazenda.png" group-title=" Canais | A Fazenda",A Fazenda 5 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smart.cdn23.click:80/leonardo4249/a980069/397634
-
+#EXTINF:-1,PT: RTP 1 FHD*
+http://7go.xyz:8080/15259940617/use40617/307233
 
 
 
