@@ -1,8 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://baf-qrcode.b-cdn.net/icon.jpeg" group-title="🎬Filmes e Series", Filmes e Séries
-http://dummyurl.com/folderstream
+
 #EXTINF:-1 tvg-logo="https://baf-qrcode.b-cdn.net/RUNTIME.jpeg" group-title="🎬Filmes e Series", RunTime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 #EXTINF:-1 tvg-logo="https://baf-qrcode.b-cdn.net/RUNTIME.jpeg" group-title="🎬Filmes e Series", RunTime Ação
