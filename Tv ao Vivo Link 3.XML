@@ -15,33 +15,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 
 
 
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="ESTRELA DAY ACOMPANHE A CASA" tvg-logo="https://baf-qrcode.b-cdn.net/icon.jpeg" group-title="Canais | Estrela Day",ESTRELA DAY ACOMPANHE A CASA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://1111.wf:80/110034622/k145387y/384589
-#EXTINF:-1 tvg-name="ESTRELA DAY MOSAICO" tvg-logo="https://baf-qrcode.b-cdn.net/icon.jpeg" group-title="Canais | Estrela Day",ESTRELA DAY MOSAICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://1111.wf:80/110034622/k145387y/385523
-#EXTINF:-1 tvg-name="ESTRELA DAY ACOMPANHE A CASA 2" tvg-logo="https://baf-qrcode.b-cdn.net/icon.jpeg" group-title="Canais | Estrela Day",ESTRELA DAY ACOMPANHE A CASA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://1111.wf:80/110034622/k145387y/385524
-#EXTINF:-1 tvg-name="ESTRELA DAY DINAMICA" tvg-logo="https://baf-qrcode.b-cdn.net/icon.jpeg" group-title="Canais | Estrela Day",ESTRELA DAY DINAMICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://1111.wf:80/110034622/k145387y/385525
-#EXTINF:-1 tvg-name="ESTRELA DAY COZINHA HELLMANS" tvg-logo="https://baf-qrcode.b-cdn.net/icon.jpeg" group-title="Canais | Estrela Day",ESTRELA DAY COZINHA HELLMANS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://1111.wf:80/110034622/k145387y/385526
-#EXTINF:-1 tvg-name="ESTRELA DAY BANHEIRO ELSEVE" tvg-logo="https://baf-qrcode.b-cdn.net/icon.jpeg" group-title="Canais | Estrela Day",ESTRELA DAY BANHEIRO ELSEVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://1111.wf:80/110034622/k145387y/385527
-#EXTINF:-1 tvg-name="ESTRELA DAY QUARTO LARANJA" tvg-logo="https://baf-qrcode.b-cdn.net/icon.jpeg" group-title="Canais | Estrela Day",ESTRELA DAY QUARTO LARANJA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://1111.wf:80/110034622/k145387y/385528
-#EXTINF:-1 tvg-name="ESTRELA DAY QUARTO AZUL" tvg-logo="https://baf-qrcode.b-cdn.net/icon.jpeg" group-title="Canais | Estrela Day",ESTRELA DAY QUARTO AZUL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://1111.wf:80/110034622/k145387y/385529
-#EXTINF:-1 tvg-name="ESTRELA DAY LOUNGE" tvg-logo="https://baf-qrcode.b-cdn.net/icon.jpeg" group-title="Canais | Estrela Day",ESTRELA DAY LOUNGE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://1111.wf:80/110034622/k145387y/385530
-#EXTINF:-1 tvg-name="ESTRELA DAY VARANDA" tvg-logo="https://baf-qrcode.b-cdn.net/icon.jpeg" group-title="Canais | Estrela Day",ESTRELA DAY VARANDA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://1111.wf:80/110034622/k145387y/385531
-#EXTINF:-1 tvg-name="ESTRELA DAY PISCINA" tvg-logo="https://baf-qrcode.b-cdn.net/icon.jpeg" group-title="Canais | Estrela Day",ESTRELA DAY PISCINA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://1111.wf:80/110034622/k145387y/385532
-#EXTINF:-1 tvg-name="ESTRELA DAY CORPO E DANÇA" tvg-logo="https://baf-qrcode.b-cdn.net/icon.jpeg" group-title="Canais | Estrela Day",ESTRELA DAY CORPO E DANÇA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://1111.wf:80/110034622/k145387y/385533
-
-
-
 
 
 #EXTINF:-1 tvg-id="Tvdiariosp.br" tvg-name="TV Diario FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TVDIARIO.png" group-title="Canais |  Abertos",TV Diario FHD
