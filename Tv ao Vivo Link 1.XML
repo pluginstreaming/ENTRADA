@@ -18,34 +18,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 
 
 
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="ESTRELA DAY ACOMPANHE A CASA" tvg-logo="http://app.tvdigital.link:2095/logoscanais/EstrelaDaCasa.png" group-title="Canais | Estrela Day",ESTRELA DAY ACOMPANHE A CASA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://1111.wf:80/631038767/Y267V1056A/384589
-#EXTINF:-1 tvg-name="ESTRELA DAY MOSAICO" tvg-logo="http://app.tvdigital.link:2095/logoscanais/EstrelaDaCasa.png" group-title="Canais | Estrela Day",ESTRELA DAY MOSAICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://1111.wf:80/631038767/Y267V1056A/385523
-#EXTINF:-1 tvg-name="ESTRELA DAY ACOMPANHE A CASA 2" tvg-logo="http://app.tvdigital.link:2095/logoscanais/EstrelaDaCasa.png" group-title="Canais | Estrela Day",ESTRELA DAY ACOMPANHE A CASA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://1111.wf:80/631038767/Y267V1056A/385524
-#EXTINF:-1 tvg-name="ESTRELA DAY DINAMICA" tvg-logo="http://app.tvdigital.link:2095/logoscanais/EstrelaDaCasa.png" group-title="Canais | Estrela Day",ESTRELA DAY DINAMICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://1111.wf:80/631038767/Y267V1056A/385525
-#EXTINF:-1 tvg-name="ESTRELA DAY COZINHA HELLMANS" tvg-logo="http://app.tvdigital.link:2095/logoscanais/EstrelaDaCasa.png" group-title="Canais | Estrela Day",ESTRELA DAY COZINHA HELLMANS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://1111.wf:80/631038767/Y267V1056A/385526
-#EXTINF:-1 tvg-name="ESTRELA DAY BANHEIRO ELSEVE" tvg-logo="http://app.tvdigital.link:2095/logoscanais/EstrelaDaCasa.png" group-title="Canais | Estrela Day",ESTRELA DAY BANHEIRO ELSEVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://1111.wf:80/631038767/Y267V1056A/385527
-#EXTINF:-1 tvg-name="ESTRELA DAY QUARTO LARANJA" tvg-logo="http://app.tvdigital.link:2095/logoscanais/EstrelaDaCasa.png" group-title="Canais | Estrela Day",ESTRELA DAY QUARTO LARANJA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://1111.wf:80/631038767/Y267V1056A/385528
-#EXTINF:-1 tvg-name="ESTRELA DAY QUARTO AZUL" tvg-logo="http://app.tvdigital.link:2095/logoscanais/EstrelaDaCasa.png" group-title="Canais | Estrela Day",ESTRELA DAY QUARTO AZUL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://1111.wf:80/631038767/Y267V1056A/385529
-#EXTINF:-1 tvg-name="ESTRELA DAY LOUNGE" tvg-logo="http://app.tvdigital.link:2095/logoscanais/EstrelaDaCasa.png" group-title="Canais | Estrela Day",ESTRELA DAY LOUNGE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://1111.wf:80/631038767/Y267V1056A/385530
-#EXTINF:-1 tvg-name="ESTRELA DAY VARANDA" tvg-logo="http://app.tvdigital.link:2095/logoscanais/EstrelaDaCasa.png" group-title="Canais | Estrela Day",ESTRELA DAY VARANDA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://1111.wf:80/631038767/Y267V1056A/385531
-#EXTINF:-1 tvg-name="ESTRELA DAY PISCINA" tvg-logo="http://app.tvdigital.link:2095/logoscanais/EstrelaDaCasa.png" group-title="Canais | Estrela Day",ESTRELA DAY PISCINA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://1111.wf:80/631038767/Y267V1056A/385532
-#EXTINF:-1 tvg-name="ESTRELA DAY CORPO E DANÇA" tvg-logo="http://app.tvdigital.link:2095/logoscanais/EstrelaDaCasa.png" group-title="Canais | Estrela Day",ESTRELA DAY CORPO E DANÇA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://1111.wf:80/631038767/Y267V1056A/385533
-
-
-
-
 
 
 #EXTINF:-1 tvg-id="Agromais.br" tvg-name="AgroMais FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AGROMAIS.png" group-title="Canais | Noticias",AgroMais FHD
