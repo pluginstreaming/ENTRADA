@@ -9106,5 +9106,85 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 
 
 
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS FHD²" tvg-logo="https://prostore.app/logos/Bandnews.png" group-title="CANAIS | NOTICIA",BAND NEWS FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Jeffao/Jefao1010/644619
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS FHD¹" tvg-logo="https://prostore.app/logos/Bandnews.png" group-title="CANAIS | NOTICIA",BAND NEWS FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Jeffao/Jefao1010/608067
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS HD²" tvg-logo="https://prostore.app/logos/Bandnews.png" group-title="CANAIS | NOTICIA",BAND NEWS HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Jeffao/Jefao1010/644618
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS HD¹" tvg-logo="https://prostore.app/logos/Bandnews.png" group-title="CANAIS | NOTICIA",BAND NEWS HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Jeffao/Jefao1010/608065
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS SD²" tvg-logo="https://prostore.app/logos/Bandnews.png" group-title="CANAIS | NOTICIA",BAND NEWS SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Jeffao/Jefao1010/644617
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS SD¹" tvg-logo="https://prostore.app/logos/Bandnews.png" group-title="CANAIS | NOTICIA",BAND NEWS SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Jeffao/Jefao1010/608063
+#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL FHD²" tvg-logo="https://prostore.app/logos/cnnbrasil.png" group-title="CANAIS | NOTICIA",CNN BRASIL FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Jeffao/Jefao1010/644616
+#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL FHD¹" tvg-logo="https://prostore.app/logos/cnnbrasil.png" group-title="CANAIS | NOTICIA",CNN BRASIL FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Jeffao/Jefao1010/44724
+#EXTINF:-1 tvg-id="cnn.en.espanol.br" tvg-name="CNN BRASIL HD²" tvg-logo="https://prostore.app/logos/cnnbrasil.png" group-title="CANAIS | NOTICIA",CNN BRASIL HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Jeffao/Jefao1010/644615
+#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL HD¹" tvg-logo="https://prostore.app/logos/cnnbrasil.png" group-title="CANAIS | NOTICIA",CNN BRASIL HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Jeffao/Jefao1010/44723
+#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL SD²" tvg-logo="https://prostore.app/logos/cnnbrasil.png" group-title="CANAIS | NOTICIA",CNN BRASIL SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Jeffao/Jefao1010/644614
+#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL SD¹" tvg-logo="https://prostore.app/logos/cnnbrasil.png" group-title="CANAIS | NOTICIA",CNN BRASIL SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Jeffao/Jefao1010/57528
+#EXTINF:-1 tvg-id="cnn.en.espanol.br" tvg-name="CNN ESPANHOL FHD¹" tvg-logo="https://www.logolynx.com/images/logolynx/05/0558ff1f0a1073a71b4a81fab0495b1a.png" group-title="CANAIS | NOTICIA",CNN ESPANHOL FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Jeffao/Jefao1010/608154
+#EXTINF:-1 tvg-id="cnn.en.espanol.br" tvg-name="CNN ESPANHOL HD²" tvg-logo="https://www.logolynx.com/images/logolynx/05/0558ff1f0a1073a71b4a81fab0495b1a.png" group-title="CANAIS | NOTICIA",CNN ESPANHOL HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Jeffao/Jefao1010/644613
+#EXTINF:-1 tvg-id="cnn.en.espanol.br" tvg-name="CNN ESPANHOL HD¹" tvg-logo="https://www.logolynx.com/images/logolynx/05/0558ff1f0a1073a71b4a81fab0495b1a.png" group-title="CANAIS | NOTICIA",CNN ESPANHOL HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Jeffao/Jefao1010/608153
+#EXTINF:-1 tvg-id="cnn.en.espanol.br" tvg-name="CNN ESPANHOL SD¹" tvg-logo="https://www.logolynx.com/images/logolynx/05/0558ff1f0a1073a71b4a81fab0495b1a.png" group-title="CANAIS | NOTICIA",CNN ESPANHOL SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Jeffao/Jefao1010/608152
+#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN INTERNACIONAL FHD²" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_CNN.png" group-title="CANAIS | NOTICIA",CNN INTERNACIONAL FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Jeffao/Jefao1010/644612
+#EXTINF:-1 tvg-id="cnn.international.br" tvg-name="CNN INTERNACIONAL FHD¹" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_CNN.png" group-title="CANAIS | NOTICIA",CNN INTERNACIONAL FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Jeffao/Jefao1010/608157
+#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN INTERNACIONAL HD²" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_CNN.png" group-title="CANAIS | NOTICIA",CNN INTERNACIONAL HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Jeffao/Jefao1010/644611
+#EXTINF:-1 tvg-id="cnn.international.br" tvg-name="CNN INTERNACIONAL HD¹" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_CNN.png" group-title="CANAIS | NOTICIA",CNN INTERNACIONAL HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Jeffao/Jefao1010/608156
+#EXTINF:-1 tvg-id="cnn.international.br" tvg-name="CNN INTERNACIONAL SD¹" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOGO_SKY_CNN.png" group-title="CANAIS | NOTICIA",CNN INTERNACIONAL SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Jeffao/Jefao1010/608155
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS FHD H265" tvg-logo="https://prostore.app/logos/globonews.png" group-title="CANAIS | NOTICIA",GLOBO NEWS FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Jeffao/Jefao1010/608145
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS FHD²" tvg-logo="https://prostore.app/logos/globonews.png" group-title="CANAIS | NOTICIA",GLOBO NEWS FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Jeffao/Jefao1010/644610
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS FHD¹" tvg-logo="https://prostore.app/logos/globonews.png" group-title="CANAIS | NOTICIA",GLOBO NEWS FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Jeffao/Jefao1010/608143
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS HD²" tvg-logo="https://prostore.app/logos/globonews.png" group-title="CANAIS | NOTICIA",GLOBO NEWS HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Jeffao/Jefao1010/644609
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS HD¹" tvg-logo="https://prostore.app/logos/globonews.png" group-title="CANAIS | NOTICIA",GLOBO NEWS HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Jeffao/Jefao1010/608141
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS SD²" tvg-logo="https://prostore.app/logos/globonews.png" group-title="CANAIS | NOTICIA",GLOBO NEWS SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Jeffao/Jefao1010/644608
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS SD¹" tvg-logo="https://prostore.app/logos/globonews.png" group-title="CANAIS | NOTICIA",GLOBO NEWS SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Jeffao/Jefao1010/608139
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="JOVEM PAN NEWS FHD H265¹" tvg-logo="https://images2.imgbox.com/fb/28/pi0nPXBd_o.png" group-title="CANAIS | NOTICIA",JOVEM PAN NEWS FHD H265¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Jeffao/Jefao1010/608180
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="JOVEM PAN NEWS FHD²" tvg-logo="https://images2.imgbox.com/fb/28/pi0nPXBd_o.png" group-title="CANAIS | NOTICIA",JOVEM PAN NEWS FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Jeffao/Jefao1010/608179
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="JOVEM PAN NEWS FHD¹" tvg-logo="https://images2.imgbox.com/fb/28/pi0nPXBd_o.png" group-title="CANAIS | NOTICIA",JOVEM PAN NEWS FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Jeffao/Jefao1010/97766
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="JOVEM PAN NEWS HD²" tvg-logo="https://images2.imgbox.com/fb/28/pi0nPXBd_o.png" group-title="CANAIS | NOTICIA",JOVEM PAN NEWS HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Jeffao/Jefao1010/608178
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="JOVEM PAN NEWS HD¹" tvg-logo="https://images2.imgbox.com/fb/28/pi0nPXBd_o.png" group-title="CANAIS | NOTICIA",JOVEM PAN NEWS HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Jeffao/Jefao1010/97765
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD TV NEWS FHD²" tvg-logo="https://prostore.app/logos/Recordnews.png" group-title="CANAIS | NOTICIA",RECORD TV NEWS FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Jeffao/Jefao1010/644607
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD TV NEWS FHD¹" tvg-logo="https://prostore.app/logos/Recordnews.png" group-title="CANAIS | NOTICIA",RECORD TV NEWS FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Jeffao/Jefao1010/608150
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD TV NEWS HD²" tvg-logo="https://prostore.app/logos/Recordnews.png" group-title="CANAIS | NOTICIA",RECORD TV NEWS HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Jeffao/Jefao1010/644606
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD TV NEWS HD¹" tvg-logo="https://prostore.app/logos/Recordnews.png" group-title="CANAIS | NOTICIA",RECORD TV NEWS HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Jeffao/Jefao1010/608148
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD TV NEWS SD²" tvg-logo="https://prostore.app/logos/Recordnews.png" group-title="CANAIS | NOTICIA",RECORD TV NEWS SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Jeffao/Jefao1010/644605
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD TV NEWS SD¹" tvg-logo="https://prostore.app/logos/Recordnews.png" group-title="CANAIS | NOTICIA",RECORD TV NEWS SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://main.appnew.pro:80/Jeffao/Jefao1010/608146
+
+
 
 
