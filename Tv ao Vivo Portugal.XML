@@ -2,564 +2,202 @@
 
 
 
-#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="PT: A Bola TV HD" tvg-logo="https://baf-qrcode.b-cdn.net/17290888983366075005234090580261.jpg" group-title="LINK 1 | ESPORTES PORTUGAL / MUNDO",PT: A Bola TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/5193271958/5193271ips1/307927
-#EXTINF:-1 tvg-id="1plus1.pt" tvg-name="PT: BTV 1 FHD*" tvg-logo="https://baf-qrcode.b-cdn.net/17290888983366075005234090580261.jpg" group-title="LINK 1 | ESPORTES PORTUGAL / MUNDO",PT: BTV 1 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/5193271958/5193271ips1/297190
-#EXTINF:-1 tvg-id="1plus1.pt" tvg-name="PT: BTV 1 SD*" tvg-logo="https://baf-qrcode.b-cdn.net/17290888983366075005234090580261.jpg" group-title="LINK 1 | ESPORTES PORTUGAL / MUNDO",PT: BTV 1 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/5193271958/5193271ips1/297188
-#EXTINF:-1 tvg-name="PT: BTV HD*" tvg-logo="https://baf-qrcode.b-cdn.net/17290888983366075005234090580261.jpg" group-title="LINK 1 | ESPORTES PORTUGAL / MUNDO",PT: BTV HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/5193271958/5193271ips1/307953
-#EXTINF:-1 tvg-name="PT: BTV SD" tvg-logo="https://baf-qrcode.b-cdn.net/17290888983366075005234090580261.jpg" group-title="LINK 1 | ESPORTES PORTUGAL / MUNDO",PT: BTV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/5193271958/5193271ips1/307952
-#EXTINF:-1 tvg-name="PT: Canal 11 FHD" tvg-logo="https://baf-qrcode.b-cdn.net/17290888983366075005234090580261.jpg" group-title="LINK 1 | ESPORTES PORTUGAL / MUNDO",PT: Canal 11 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/5193271958/5193271ips1/307925
-#EXTINF:-1 tvg-name="PT: Combat FHD" tvg-logo="https://baf-qrcode.b-cdn.net/17290888983366075005234090580261.jpg://img-cdn.curl.pk/channels_icon/67073602011.png" group-title="LINK 1 | ESPORTES PORTUGAL / MUNDO",PT: Combat FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/5193271958/5193271ips1/307976
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1 FHD" tvg-logo="https://baf-qrcode.b-cdn.net/17290888983366075005234090580261.jpg://img-cdn.curl.pk/channels_icon/35068844511.png" group-title="LINK 1 | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/5193271958/5193271ips1/116716
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: Eleven Sports 1 FHD*" tvg-logo="https://baf-qrcode.b-cdn.net/17290888983366075005234090580261.jpg://img-cdn.curl.pk/channels_icon/90929690281.png" group-title="LINK 1 | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports 1 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/5193271958/5193271ips1/307954
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1 HD" tvg-logo="https://baf-qrcode.b-cdn.net/17290888983366075005234090580261.jpg://img-cdn.curl.pk/channels_icon/35068844511.png" group-title="LINK 1 | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/5193271958/5193271ips1/53994
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: Eleven Sports 1 HD*" tvg-logo="https://baf-qrcode.b-cdn.net/17290888983366075005234090580261.jpg://img-cdn.curl.pk/channels_icon/90921186001.png" group-title="LINK 1 | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports 1 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/5193271958/5193271ips1/307955
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: Eleven Sports SD 1*" tvg-logo="https://baf-qrcode.b-cdn.net/17290888983366075005234090580261.jpg://img-cdn.curl.pk/channels_icon/35068844511.png" group-title="LINK 1 | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports SD 1*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/5193271958/5193271ips1/307956
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2 FHD" tvg-logo="https://baf-qrcode.b-cdn.net/17290888983366075005234090580261.jpg://img-cdn.curl.pk/channels_icon/26437584021.png" group-title="LINK 1 | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/5193271958/5193271ips1/53996
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: Eleven Sports 2 FHD*" tvg-logo="https://baf-qrcode.b-cdn.net/17290888983366075005234090580261.jpg://img-cdn.curl.pk/channels_icon/26437584021.png" group-title="LINK 1 | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports 2 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/5193271958/5193271ips1/307959
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: Eleven Sports 2 HD" tvg-logo="https://baf-qrcode.b-cdn.net/17290888983366075005234090580261.jpg://img-cdn.curl.pk/channels_icon/66406572981.png" group-title="LINK 1 | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/5193271958/5193271ips1/307957
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: Eleven Sports 2 HD*" tvg-logo="https://baf-qrcode.b-cdn.net/17290888983366075005234090580261.jpg://img-cdn.curl.pk/channels_icon/59228469501.png" group-title="LINK 1 | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports 2 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/5193271958/5193271ips1/307958
-#EXTINF:-1 tvg-name="PT: Eleven Sports 3 HD" tvg-logo="https://baf-qrcode.b-cdn.net/17290888983366075005234090580261.jpg://img-cdn.curl.pk/channels_icon/21480419701.png" group-title="LINK 1 | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/5193271958/5193271ips1/307961
-#EXTINF:-1 tvg-name="Pt: Eleven Sports 4 FHD" tvg-logo="https://baf-qrcode.b-cdn.net/17290888983366075005234090580261.jpg://img-cdn.curl.pk/channels_icon/55288435571.png" group-title="LINK 1 | ESPORTES PORTUGAL / MUNDO",Pt: Eleven Sports 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/5193271958/5193271ips1/307964
-#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="https://baf-qrcode.b-cdn.net/17290888983366075005234090580261.jpg://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-title="LINK 1 | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/5193271958/5193271ips1/54003
-#EXTINF:-1 tvg-name="PT: Eleven Sports 4 HD" tvg-logo="https://baf-qrcode.b-cdn.net/17290888983366075005234090580261.jpg://img-cdn.curl.pk/channels_icon/33447846561.png" group-title="LINK 1 | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/5193271958/5193271ips1/307965
-#EXTINF:-1 tvg-name="PT: Eleven Sports 6 HD" tvg-logo="https://baf-qrcode.b-cdn.net/17290888983366075005234090580261.jpg://img-cdn.curl.pk/channels_icon/36475233501.png" group-title="LINK 1 | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/5193271958/5193271ips1/307970
-#EXTINF:-1 tvg-name="PT: Eurosports 1 HD" tvg-logo="https://baf-qrcode.b-cdn.net/17290888983366075005234090580261.jpg://img-cdn.curl.pk/channels_icon/84682087451.png" group-title="LINK 1 | ESPORTES PORTUGAL / MUNDO",PT: Eurosports 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/5193271958/5193271ips1/307973
-#EXTINF:-1 tvg-name="PT: Motorvision FHD" tvg-logo="https://baf-qrcode.b-cdn.net/17290888983366075005234090580261.jpg://curl.pk/img/u/1e770b9d24c77bdf5f69209093b609888701.png" group-title="LINK 1 | ESPORTES PORTUGAL / MUNDO",PT: Motorvision FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/5193271958/5193271ips1/307978
-#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="PT: SPORTING TV" tvg-logo="https://baf-qrcode.b-cdn.net/17290888983366075005234090580261.jpg://img-cdn.curl.pk/channels_icon/96737784111.png" group-title="LINK 1 | ESPORTES PORTUGAL / MUNDO",PT: SPORTING TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/5193271958/5193271ips1/307972
-#EXTINF:-1 tvg-name="PT: Sport TV 1 FHD" tvg-logo="https://baf-qrcode.b-cdn.net/17290888983366075005234090580261.jpg://img-cdn.curl.pk/channels_icon/42194239471.png" group-title="LINK 1 | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/5193271958/5193271ips1/307936
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 FHD*" tvg-logo="https://baf-qrcode.b-cdn.net/17290888983366075005234090580261.jpg://img-cdn.curl.pk/channels_icon/42194239471.png" group-title="LINK 1 | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 1 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/5193271958/5193271ips1/307413
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: Sport TV 1 HD" tvg-logo="https://baf-qrcode.b-cdn.net/17290888983366075005234090580261.jpg://img-cdn.curl.pk/channels_icon/99548243601.png" group-title="LINK 1 | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/5193271958/5193271ips1/307935
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 SD*" tvg-logo="https://baf-qrcode.b-cdn.net/17290888983366075005234090580261.jpg://img-cdn.curl.pk/channels_icon/63958668851.png" group-title="LINK 1 | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 1 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/5193271958/5193271ips1/307934
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 SD" tvg-logo="https://baf-qrcode.b-cdn.net/17290888983366075005234090580261.jpg://img-cdn.curl.pk/channels_icon/42194239471.png" group-title="LINK 1 | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/5193271958/5193271ips1/307415
-#EXTINF:-1 tvg-name="PT: Sport TV 2 FHD" tvg-logo="https://baf-qrcode.b-cdn.net/17290888983366075005234090580261.jpg://img-cdn.curl.pk/channels_icon/73219314261.png" group-title="LINK 1 | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/5193271958/5193271ips1/307939
-#EXTINF:-1 tvg-name="PT: Sport TV 2 HD" tvg-logo="https://baf-qrcode.b-cdn.net/17290888983366075005234090580261.jpg://img-cdn.curl.pk/channels_icon/60781612131.png" group-title="LINK 1 | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/5193271958/5193271ips1/307938
-#EXTINF:-1 tvg-name="Pt: Sport TV 2 SD" tvg-logo="https://baf-qrcode.b-cdn.net/17290888983366075005234090580261.jpg://img-cdn.curl.pk/channels_icon/58849997341.png" group-title="LINK 1 | ESPORTES PORTUGAL / MUNDO",Pt: Sport TV 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/5193271958/5193271ips1/307937
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: Sport TV 3 FHD" tvg-logo="https://baf-qrcode.b-cdn.net/17290888983366075005234090580261.jpg://img-cdn.curl.pk/channels_icon/94780071621.png" group-title="LINK 1 | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/5193271958/5193271ips1/306962
-#EXTINF:-1 tvg-name="PT: Sport TV 3 HD" tvg-logo="https://baf-qrcode.b-cdn.net/17290888983366075005234090580261.jpg://img-cdn.curl.pk/channels_icon/71272654001.png" group-title="LINK 1 | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/5193271958/5193271ips1/307941
-#EXTINF:-1 tvg-name="Pt: Sport TV 3 SD" tvg-logo="https://baf-qrcode.b-cdn.net/17290888983366075005234090580261.jpg://img-cdn.curl.pk/channels_icon/30700435421.png" group-title="LINK 1 | ESPORTES PORTUGAL / MUNDO",Pt: Sport TV 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/5193271958/5193271ips1/307940
-#EXTINF:-1 tvg-name="PT: Sport TV 4 SD" tvg-logo="https://baf-qrcode.b-cdn.net/17290888983366075005234090580261.jpg://img-cdn.curl.pk/channels_icon/98962157641.png" group-title="LINK 1 | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 4 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/5193271958/5193271ips1/307943
-#EXTINF:-1 tvg-name="Pt: Sport TV 5 SD" tvg-logo="https://baf-qrcode.b-cdn.net/17290888983366075005234090580261.jpg://img-cdn.curl.pk/channels_icon/13350691591.png" group-title="LINK 1 | ESPORTES PORTUGAL / MUNDO",Pt: Sport TV 5 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/5193271958/5193271ips1/307946
-#EXTINF:-1 tvg-name="PT: Sport TV Nba HD" tvg-logo="https://baf-qrcode.b-cdn.net/17290888983366075005234090580261.jpg://img-cdn.curl.pk/channels_icon/15105191281.png" group-title="LINK 1 | ESPORTES PORTUGAL / MUNDO",PT: Sport TV Nba HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7go.xyz:8080/5193271958/5193271ips1/307951
 
 
-
-#EXTINF:-1 tvg-name="BTV SD" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5y6g-ZT3GbDQrViKWeukZoOAo4ntXH7Hv-A&s" group-title="LINK 2 | PORTUGAL",BTV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/27417670
-#EXTINF:-1 tvg-name="BTV HD" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5y6g-ZT3GbDQrViKWeukZoOAo4ntXH7Hv-A&s" group-title="LINK 2 | PORTUGAL",BTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/27417669
-#EXTINF:-1 tvg-name="BTV FHD" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5y6g-ZT3GbDQrViKWeukZoOAo4ntXH7Hv-A&s" group-title="LINK 2 | PORTUGAL",BTV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/27417668
-#EXTINF:-1 tvg-name="CNN SD" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWzld95e5jSA68PhI810laBP-ye73FehMuHg&s" group-title="LINK 2 | PORTUGAL",CNN SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/27417667
-#EXTINF:-1 tvg-name="CNN HD" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWzld95e5jSA68PhI810laBP-ye73FehMuHg&s" group-title="LINK 2 | PORTUGAL",CNN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/27417666
-#EXTINF:-1 tvg-name="CNN ( HD HEVC )©" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWzld95e5jSA68PhI810laBP-ye73FehMuHg&s" group-title="LINK 2 | PORTUGAL",CNN ( HD HEVC )©
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/27417665
-#EXTINF:-1 tvg-name="CNN FHD" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWzld95e5jSA68PhI810laBP-ye73FehMuHg&s" group-title="LINK 2 | PORTUGAL",CNN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/27417664
-#EXTINF:-1 tvg-name="TV GLOBO SD" group-title="LINK 2 | PORTUGAL",TV GLOBO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/27395784
-#EXTINF:-1 tvg-name="TV GLOBO HD" group-title="LINK 2 | PORTUGAL",TV GLOBO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/27395783
-#EXTINF:-1 tvg-name="TV GLOBO FHD" group-title="LINK 2 | PORTUGAL",TV GLOBO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/27395782
-#EXTINF:-1 tvg-name="TV GLOBO NOW SD" group-title="LINK 2 | PORTUGAL",TV GLOBO NOW SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/27395781
-#EXTINF:-1 tvg-name="TVE INTERNACIONAL" tvg-logo="data:image/jpeg;base64,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" group-title="LINK 2 | PORTUGAL",TVE INTERNACIONAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239332
-#EXTINF:-1 tvg-name="TVE 24H" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="LINK 2 | PORTUGAL",TVE 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239331
-#EXTINF:-1 tvg-name="TELEVISIÓN DE GALICIA" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://upload.wikimedia.org/wikipedia/en/thumb/4/46/Television_de_Galicia.svg/1200px-Television_de_Galicia.svg.png" group-title="LINK 2 | PORTUGAL",TELEVISIÓN DE GALICIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239330
-#EXTINF:-1 tvg-name="TVCINE + HD" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://www.tvcine.pt/TVCine-PLUS-poster.jpg" group-title="LINK 2 | PORTUGAL",TVCINE + HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239328
-#EXTINF:-1 tvg-name="TVCINE TOP SD" tvg-logo="http://live21.site/LOGOS/picons/TVCine_Top.png" group-title="LINK 2 | PORTUGAL",TVCINE TOP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239327
-#EXTINF:-1 tvg-name="AXN" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://1.bp.blogspot.com/-eaIFUFMwW6Y/WDrqAy7WLPI/AAAAAAAAFac/ebV93SO38EkUak8XNhQCiITUZHNtWiSmQCLcB/s1600/AXN%2BHD%2Blogo.png" group-title="LINK 2 | PORTUGAL",AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239301
-#EXTINF:-1 tvg-name="SYFY" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://4.bp.blogspot.com/-KFpvGLvNb3Q/WDtdfKOQfEI/AAAAAAAAFkk/PXqW9GvFFdEvAHzpHiCy_cxWUTcb2-kVwCLcB/s1600/Syfy%2BHD%2Blogo.png" group-title="LINK 2 | PORTUGAL",SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239296
-#EXTINF:-1 tvg-name="FOX HD" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://pbs.twimg.com/profile_images/2213243445/fox_pt.png" group-title="LINK 2 | PORTUGAL",FOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239294
-#EXTINF:-1 tvg-name="FOX CRIME HD" tvg-logo="http://live21.site/LOGOS/picons/FOX_CRIME.png" group-title="LINK 2 | PORTUGAL",FOX CRIME HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239292
-#EXTINF:-1 tvg-name="FOX COMEDY" tvg-logo="http://live21.site/LOGOS/picons/FOX_COMEDY.png" group-title="LINK 2 | PORTUGAL",FOX COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239291
-#EXTINF:-1 tvg-name="FOX COMEDY HD" tvg-logo="http://live21.site/LOGOS/picons/FOX_COMEDY.png" group-title="LINK 2 | PORTUGAL",FOX COMEDY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239290
-#EXTINF:-1 tvg-name="FOX LIFE" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://i.ibb.co/YhPfLns/Fox-Life-Brasil-Logo.png" group-title="LINK 2 | PORTUGAL",FOX LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239289
-#EXTINF:-1 tvg-name="DISNEY PIXAR (EXCLUSIVO)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://i.imgur.com/g3PMUqj.png" group-title="LINK 2 | PORTUGAL",DISNEY PIXAR (EXCLUSIVO)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239287
-#EXTINF:-1 tvg-name="DISNEY+ (EXCLUSIVO)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://disneyplusbrasil.com.br/wp-content/uploads/2020/07/logo-grande.png" group-title="LINK 2 | PORTUGAL",DISNEY+ (EXCLUSIVO)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239286
-#EXTINF:-1 tvg-name="NETFLIX (EXCLUSIVO)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://cdn.wccftech.com/wp-content/uploads/2018/04/Netflix-HD.png" group-title="LINK 2 | PORTUGAL",NETFLIX (EXCLUSIVO)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239285
-#EXTINF:-1 tvg-name="MARVEL (EXCLUSIVO)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://i.imgur.com/aGGEfGL.png" group-title="LINK 2 | PORTUGAL",MARVEL (EXCLUSIVO)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239284
-#EXTINF:-1 tvg-name="APANHADOS (EXCLUSIVO)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://brincabrincando.com/wp-content/uploads/2019/07/logotipo2-2.jpg" group-title="LINK 2 | PORTUGAL",APANHADOS (EXCLUSIVO)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239283
-#EXTINF:-1 tvg-name="STAR WARS (EXCLUSIVO)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://i.imgur.com/D2ar9Yq.png" group-title="LINK 2 | PORTUGAL",STAR WARS (EXCLUSIVO)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239282
-#EXTINF:-1 tvg-name="CANAL 11" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://www.meiosepublicidade.pt/wp-content/uploads/2019/07/logo11-300x200.png" group-title="LINK 2 | PORTUGAL",CANAL 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239277
-#EXTINF:-1 tvg-name="CANAL 11 HD" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://www.meiosepublicidade.pt/wp-content/uploads/2019/07/logo11-300x200.png" group-title="LINK 2 | PORTUGAL",CANAL 11 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239276
-#EXTINF:-1 tvg-name="CANAL 11 BACKUP" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://www.meiosepublicidade.pt/wp-content/uploads/2019/07/logo11-300x200.png" group-title="LINK 2 | PORTUGAL",CANAL 11 BACKUP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239275
-#EXTINF:-1 tvg-name="CARTOON  NETWORK SD" tvg-logo="http://live21.site/LOGOS/picons/CARTOON_NETWORK.png" group-title="LINK 2 | PORTUGAL",CARTOON  NETWORK SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239255
-#EXTINF:-1 tvg-name="TVI FICÇÃO SD" tvg-logo="http://live21.site/LOGOS/PTS/tvificcao.png" group-title="LINK 2 | PORTUGAL",TVI FICÇÃO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239252
-#EXTINF:-1 tvg-name="TVI FICÇÃO HD" tvg-logo="http://live21.site/LOGOS/PTS/tvificcao.png" group-title="LINK 2 | PORTUGAL",TVI FICÇÃO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239251
-#EXTINF:-1 tvg-name="SIC Caras HD" tvg-logo="http://live21.site/LOGOS/picons/SIC_CARAS.png" group-title="LINK 2 | PORTUGAL",SIC Caras HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239245
-#EXTINF:-1 tvg-name="SIC MULHER HD" tvg-logo="http://live21.site/LOGOS/picons/SIC_MULHER.png" group-title="LINK 2 | PORTUGAL",SIC MULHER HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239244
-#EXTINF:-1 tvg-name="S + HD" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://uploads-eu-west-1.insided.com/nos-pt/attachment/d4fd2eee-d477-4621-855e-1e46ce4bc810.png" group-title="LINK 2 | PORTUGAL",S + HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239243
-#EXTINF:-1 tvg-name="SIC RADICAL SD" tvg-logo="http://live21.site/LOGOS/PTS/sicradical.png" group-title="LINK 2 | PORTUGAL",SIC RADICAL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239242
-#EXTINF:-1 tvg-name="SIC RADICAL HD" tvg-logo="http://live21.site/LOGOS/PTS/sicradical.png" group-title="LINK 2 | PORTUGAL",SIC RADICAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239241
-#EXTINF:-1 tvg-name="CASA E COZINHA HD" tvg-logo="http://live21.site/LOGOS/picons/CASA_COZINHA.png" group-title="LINK 2 | PORTUGAL",CASA E COZINHA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239239
-#EXTINF:-1 tvg-name="24 KITCHEN HD" tvg-logo="http://live21.site/LOGOS/picons/24_KITCHEN.png" group-title="LINK 2 | PORTUGAL",24 KITCHEN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239238
-#EXTINF:-1 tvg-name="MÁS CHIC HD" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://masideas.com/files/2015/06/MAS-CHIC.-LOGOTIPO.png" group-title="LINK 2 | PORTUGAL",MÁS CHIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239237
-#EXTINF:-1 tvg-name="FOOD NETWORK" tvg-logo="http://live21.site/LOGOS/picons/Food_Network.png" group-title="LINK 2 | PORTUGAL",FOOD NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239236
-#EXTINF:-1 tvg-name="E! ENTERTAINMENT SD" tvg-logo="http://live21.site/picons/DE/eentertainmenthd.png" group-title="LINK 2 | PORTUGAL",E! ENTERTAINMENT SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239235
-#EXTINF:-1 tvg-name="TRAVEL CHANNEL HD" tvg-logo="http://live21.site/LOGOS/picons/TRAVEL_CHANNEL_HD.png" group-title="LINK 2 | PORTUGAL",TRAVEL CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239234
-#EXTINF:-1 tvg-name="PORTO CANAL HD" tvg-logo="http://live21.site/LOGOS/picons/Porto_Canal.png" group-title="LINK 2 | PORTUGAL",PORTO CANAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239233
-#EXTINF:-1 tvg-name="CANAL Q SD" tvg-logo="http://live21.site/LOGOS/picons/CANAL_Q.png" group-title="LINK 2 | PORTUGAL",CANAL Q SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239232
-#EXTINF:-1 tvg-name="BLAZE HD" tvg-logo="http://live21.site/LOGOS/picons/BLAZE.png" group-title="LINK 2 | PORTUGAL",BLAZE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239231
-#EXTINF:-1 tvg-name="RTP MEMÓRIA SD" tvg-logo="http://prvxtv.dnsfor.me/TUGA/RTPMEMORIA.png" group-title="LINK 2 | PORTUGAL",RTP MEMÓRIA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239230
-#EXTINF:-1 tvg-name="RTP AÇORES SD" tvg-logo="http://live21.site/LOGOS/picons/RTP_ACORES.png" group-title="LINK 2 | PORTUGAL",RTP AÇORES SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239229
-#EXTINF:-1 tvg-name="RTP AFRICA SD" tvg-logo="http://live21.site/LOGOS/picons/RTP_Africa.png" group-title="LINK 2 | PORTUGAL",RTP AFRICA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239228
-#EXTINF:-1 tvg-name="RTP MADEIRA" tvg-logo="http://live21.site/LOGOS/picons/RTP_MADEIRA.png" group-title="LINK 2 | PORTUGAL",RTP MADEIRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239227
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD HD" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://www.nationalgeographicbrasil.com/images/logo.png" group-title="LINK 2 | PORTUGAL",NATIONAL GEOGRAPHIC WILD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239223
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://www.nationalgeographicbrasil.com/images/logo.png" group-title="LINK 2 | PORTUGAL",NATIONAL GEOGRAPHIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239222
-#EXTINF:-1 tvg-name="ID INVESTIGATION DISCOVERY HD" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Investiga%C3%A7%C3%A3o_Discovery_1.png/200px-Investiga%C3%A7%C3%A3o_Discovery_1.png" group-title="LINK 2 | PORTUGAL",ID INVESTIGATION DISCOVERY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239221
-#EXTINF:-1 tvg-name="ODISSEIA HD" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://i.imgur.com/OeQhRFQ.png" group-title="LINK 2 | PORTUGAL",ODISSEIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239220
-#EXTINF:-1 tvg-name="DISCOVERY ID" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://adma.tmsimg.com/assets/s16615_ll_h15_ad.png?w=360&h=270" group-title="LINK 2 | PORTUGAL",DISCOVERY ID
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239218
-#EXTINF:-1 tvg-name="EUROSPORT 1 HD" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://i.imgur.com/7u2MNJb.png" group-title="LINK 2 | PORTUGAL",EUROSPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239216
-#EXTINF:-1 tvg-name="PFC SD" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://i.imgur.com/kvmx029.png" group-title="LINK 2 | PORTUGAL",PFC SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239214
-#EXTINF:-1 tvg-name="FUEL TV HD" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://i.imgur.com/ZmZfDtk.png" group-title="LINK 2 | PORTUGAL",FUEL TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239213
-#EXTINF:-1 tvg-name="TOROS TV SD" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://i.imgur.com/iwj7CTK.png" group-title="LINK 2 | PORTUGAL",TOROS TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239212
-#EXTINF:-1 tvg-name="TOROS TV HD" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://i.imgur.com/iwj7CTK.png" group-title="LINK 2 | PORTUGAL",TOROS TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239211
-#EXTINF:-1 tvg-name="MUNDO TORO" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://www.mundotoro.com/wp-content/uploads/2023/03/mundotoro-logo.webp" group-title="LINK 2 | PORTUGAL",MUNDO TORO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239210
-#EXTINF:-1 tvg-name="CAMPO PEQUENO TV HD" tvg-logo="http://www.campopequeno.com/img/campopequenotv_logo.png" group-title="LINK 2 | PORTUGAL",CAMPO PEQUENO TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239206
-#EXTINF:-1 tvg-name="MOTORVISION TV SD" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://i.imgur.com/I0ZTOVi.png" group-title="LINK 2 | PORTUGAL",MOTORVISION TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239205
-#EXTINF:-1 tvg-name="GINX ESPORTS TV" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://vignette.wikia.nocookie.net/tvfanon6528/images/d/da/Ginx_eSports_TV_%282016-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20180608094248" group-title="LINK 2 | PORTUGAL",GINX ESPORTS TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239202
-#EXTINF:-1 tvg-name="WWE HD" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a77021bb-a973-4a9b-8902-47e05787b08f/d8txzp1-3f32b570-9b7f-437d-ad29-2df8cdbf554c.png" group-title="LINK 2 | PORTUGAL",WWE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239200
-#EXTINF:-1 tvg-name="MTV 00's SD" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="LINK 2 | PORTUGAL",MTV 00's SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239196
-#EXTINF:-1 tvg-name="TRACE URBAN" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://i.imgur.com/4M2XZfF.png" group-title="LINK 2 | PORTUGAL",TRACE URBAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239195
-#EXTINF:-1 tvg-name="MTV PORTUGAL HD" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://i.imgur.com/wNvqkOM.png" group-title="LINK 2 | PORTUGAL",MTV PORTUGAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239194
-#EXTINF:-1 tvg-name="MCM POP SD" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://i.imgur.com/nxTIh9U.png" group-title="LINK 2 | PORTUGAL",MCM POP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239193
-#EXTINF:-1 tvg-name="CANÇÃO NOVA" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://i.imgur.com/1EGWuDA.png" group-title="LINK 2 | PORTUGAL",CANÇÃO NOVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239192
-#EXTINF:-1 tvg-name="CLUBBING TV" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://upload.wikimedia.org/wikipedia/fr/3/39/Clubbing_TV.png" group-title="LINK 2 | PORTUGAL",CLUBBING TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239191
-#EXTINF:-1 tvg-name="CANAL 180" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://assets.bondlayer.com/nhjtx0kggg/_assets/nwxbgehephns507vsruet.png" group-title="LINK 2 | PORTUGAL",CANAL 180
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239190
-#EXTINF:-1 tvg-name="ALMA LUSA" tvg-logo="data:image/png;base64,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" group-title="LINK 2 | PORTUGAL",ALMA LUSA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239189
-#EXTINF:-1 tvg-name="M6 MUSIC HD" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://upload.wikimedia.org/wikipedia/en/c/c9/M6_Music_%282012%29.png" group-title="LINK 2 | PORTUGAL",M6 MUSIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239188
-#EXTINF:-1 tvg-name="TCV INTERNACIONAL" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://static.wikia.nocookie.net/logopedia/images/0/0c/TCV_2007.png/revision/latest?cb=20190328210628" group-title="LINK 2 | PORTUGAL",TCV INTERNACIONAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239185
-#EXTINF:-1 tvg-name="TVC CABO VERDE" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102010/tcv.gif?itok=fw_DgJJE" group-title="LINK 2 | PORTUGAL",TVC CABO VERDE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239184
-#EXTINF:-1 tvg-name="EURONEWS" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="LINK 2 | PORTUGAL",EURONEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239183
-#EXTINF:-1 tvg-name="PT- RTP 1 (LOW)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://2.bp.blogspot.com/-ygRxWjA8yjM/WB3MKzbPNFI/AAAAAAAAFRs/BUdrADdoHCE3hOK8PwzgiHpwzMSTJvpPQCLcB/s1600/RTP%2B1%2Blogo.png" group-title="LINK 2 | PORTUGAL",PT- RTP 1 (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239174
-#EXTINF:-1 tvg-name="PT- RTP 2 (LOW)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://4.bp.blogspot.com/-iC-8_X3fxMo/WB3MLP7PRrI/AAAAAAAAFRw/loEmJfcu0wIJna15b83hKr53bbsLmoRGQCLcB/s1600/RTP%2B2%2Blogo.png" group-title="LINK 2 | PORTUGAL",PT- RTP 2 (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239173
-#EXTINF:-1 tvg-name="PT- RTP 3 (LOW)" tvg-logo="http://live21.site/LOGOS/picons/RTP_3_LOW_BITRATE.png" group-title="LINK 2 | PORTUGAL",PT- RTP 3 (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239172
-#EXTINF:-1 tvg-name="PT- SIC (LOW)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://2.bp.blogspot.com/-GcddpZ7IEws/TyVcDa2hV4I/AAAAAAAABTA/YXUOBUjRfLs/s1600/SIC+logo.png" group-title="LINK 2 | PORTUGAL",PT- SIC (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239171
-#EXTINF:-1 tvg-name="PT- TVI (LOW)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://1.bp.blogspot.com/-t5GXF5OCKUc/WKte3ETJtsI/AAAAAAAAFrg/qTgWMdGokKsyXqjudlAMnyvRUeL6O_AlgCLcB/s1600/TVI%2Blogo.png" group-title="LINK 2 | PORTUGAL",PT- TVI (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239170
-#EXTINF:-1 tvg-name="PT- CMTV (LOW)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://4.bp.blogspot.com/-iO-o1CgV-7Y/WDrqBaMgUYI/AAAAAAAAFa8/639DZ7fRd6sryOZ8u32II8sNOO8WpG9FwCLcB/s1600/CM%2BTV%2Blogo.png" group-title="LINK 2 | PORTUGAL",PT- CMTV (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239169
-#EXTINF:-1 tvg-name="CNN 24 (LOW)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://e7.pngegg.com/pngimages/432/428/png-clipart-logo-graphics-cnn-turk-cruise-director-job-text-trademark.png" group-title="LINK 2 | PORTUGAL",CNN 24 (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239168
-#EXTINF:-1 tvg-name="PT- BTV (LOW)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://1.bp.blogspot.com/-bmo-eSDKLm0/WDrqBACM5GI/AAAAAAAAFas/uDRGh2C-tZ0oRPUufWBWVRtVHnHBJoduwCLcB/s1600/BTV%2BHD%2Blogo.png" group-title="LINK 2 | PORTUGAL",PT- BTV (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239167
-#EXTINF:-1 tvg-name="PT- PFC (LOW)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://i.imgur.com/kvmx029.png" group-title="LINK 2 | PORTUGAL",PT- PFC (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239165
-#EXTINF:-1 tvg-name="PT- RTP ACORES (LOW)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://i.imgur.com/1oHvxM5.png" group-title="LINK 2 | PORTUGAL",PT- RTP ACORES (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239164
-#EXTINF:-1 tvg-name="PT- RTP AFRICA (LOW)" tvg-logo="http://live21.site/LOGOS/picons/RTP_Africa.png" group-title="LINK 2 | PORTUGAL",PT- RTP AFRICA (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239163
-#EXTINF:-1 tvg-name="PT- RTP MADEIRA (LOW)" tvg-logo="http://live21.site/LOGOS/picons/RTP_MADEIRA.png" group-title="LINK 2 | PORTUGAL",PT- RTP MADEIRA (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239162
-#EXTINF:-1 tvg-name="PT- RTP MEMORIA (LOW)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://i.imgur.com/Hozoft0.png" group-title="LINK 2 | PORTUGAL",PT- RTP MEMORIA (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239161
-#EXTINF:-1 tvg-name="PT- 24 KITCHEN (LOW)" tvg-logo="http://live21.site/LOGOS/picons/24_KITCHEN.png" group-title="LINK 2 | PORTUGAL",PT- 24 KITCHEN (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239160
-#EXTINF:-1 tvg-name="PT- TVCINE TOP (LOW)" tvg-logo="http://live21.site/LOGOS/picons/TVCine_Top.png" group-title="LINK 2 | PORTUGAL",PT- TVCINE TOP (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239159
-#EXTINF:-1 tvg-name="PT- TVCINE EDITION (LOW)" tvg-logo="http://live21.site/LOGOS/picons/TVCine_Edition.png" group-title="LINK 2 | PORTUGAL",PT- TVCINE EDITION (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239158
-#EXTINF:-1 tvg-name="PT- TVCINE EMOTION (LOW)" tvg-logo="http://live21.site/LOGOS/picons/TVCine_Emotion.png" group-title="LINK 2 | PORTUGAL",PT- TVCINE EMOTION (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239157
-#EXTINF:-1 tvg-name="PT- TVCINE ACTION (LOW)" tvg-logo="http://live21.site/LOGOS/picons/TVCine_Action.png" group-title="LINK 2 | PORTUGAL",PT- TVCINE ACTION (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239156
-#EXTINF:-1 tvg-name="PT- AMC (LOW)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://1.bp.blogspot.com/-MPbCb1IAtps/WB8tayoyiLI/AAAAAAAAFTg/eFRAt4PCzzcW9bcsUh_wC7yVtyGATeYMACLcB/s1600/AMC%2Blogo.png" group-title="LINK 2 | PORTUGAL",PT- AMC (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239155
-#EXTINF:-1 tvg-name="PT- AXN MOVIES  (LOW)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://www.meiosepublicidade.pt/wp-content/uploads/2020/02/axnmovies-2015-v-black-magenta-rgb-hero.png" group-title="LINK 2 | PORTUGAL",PT- AXN MOVIES  (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239154
-#EXTINF:-1 tvg-name="PT- AXN WHITE (LOW)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://3.bp.blogspot.com/-t3GENrpvUc8/WDrqA3wE2uI/AAAAAAAAFak/s9-42gnbUGkqswvFSf0s60TnyuF3LiKawCLcB/s1600/AXN%2BWhite%2BHD%2Blogo.png" group-title="LINK 2 | PORTUGAL",PT- AXN WHITE (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239153
-#EXTINF:-1 tvg-name="PT- AXN (LOW)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://1.bp.blogspot.com/-eaIFUFMwW6Y/WDrqAy7WLPI/AAAAAAAAFac/ebV93SO38EkUak8XNhQCiITUZHNtWiSmQCLcB/s1600/AXN%2BHD%2Blogo.png" group-title="LINK 2 | PORTUGAL",PT- AXN (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239152
-#EXTINF:-1 tvg-name="PT- BABY TV (LOW)" tvg-logo="http://live21.site/LOGOS/picons/BABY_TV.png" group-title="LINK 2 | PORTUGAL",PT- BABY TV (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239151
-#EXTINF:-1 tvg-name="PT- BLAZE (LOW)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://www.nos.pt/particulares/televisao/LINK 2/PublishingImages/blaze/logo.png" group-title="LINK 2 | PORTUGAL",PT- BLAZE (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239150
-#EXTINF:-1 tvg-name="PT- CAZA E PESCA (LOW)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://i.imgur.com/xpqAcSz.png" group-title="LINK 2 | PORTUGAL",PT- CAZA E PESCA (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239149
-#EXTINF:-1 tvg-name="PT- CACAVISION (LOW)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://i.imgur.com/i0IDqQd.png" group-title="LINK 2 | PORTUGAL",PT- CACAVISION (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239148
-#EXTINF:-1 tvg-name="PT- CANAL Q (LOW)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://i.imgur.com/pChUy7I.png" group-title="LINK 2 | PORTUGAL",PT- CANAL Q (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239147
-#EXTINF:-1 tvg-name="PT- CARTOON NETWORK (LOW)" tvg-logo="http://live21.site/LOGOS/picons/CARTOON_NETWORK.png" group-title="LINK 2 | PORTUGAL",PT- CARTOON NETWORK (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239146
-#EXTINF:-1 tvg-name="PT- CINEMUNDO (LOW)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://3.bp.blogspot.com/-mHEz-7oSIXw/VSene5r6G5I/AAAAAAAAEyE/4R-rWWL9nyo/s1600/Cinemundo%2Blogo%2B1.png" group-title="LINK 2 | PORTUGAL",PT- CINEMUNDO (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239145
-#EXTINF:-1 tvg-name="PT- CRIME INVESTIGATION (LOW)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://www.nos.pt/particulares/televisao/LINK 2/PublishingImages/CI/logo-white.png" group-title="LINK 2 | PORTUGAL",PT- CRIME INVESTIGATION (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239144
-#EXTINF:-1 tvg-name="PT- DISCOVERY CHANNEL (LOW)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://i.imgur.com/kpeMjrn.png" group-title="LINK 2 | PORTUGAL",PT- DISCOVERY CHANNEL (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239143
-#EXTINF:-1 tvg-name="PT- DISNEY CHANNEL (LOW)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="LINK 2 | PORTUGAL",PT- DISNEY CHANNEL (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239142
-#EXTINF:-1 tvg-name="PT- DISNEY JUNIOR (LOW)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://i.imgur.com/4dzzQ0t.png" group-title="LINK 2 | PORTUGAL",PT- DISNEY JUNIOR (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239141
-#EXTINF:-1 tvg-name="PT- DOG TV (LOW)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://i.imgur.com/R1mVNpa.png" group-title="LINK 2 | PORTUGAL",PT- DOG TV (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239140
-#EXTINF:-1 tvg-name="PT- E! ENTERTAINMENT (LOW)" tvg-logo="http://i.imgur.com/DfsBEFp.png" group-title="LINK 2 | PORTUGAL",PT- E! ENTERTAINMENT (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239139
-#EXTINF:-1 tvg-name="PT- NICK JR (LOW)" tvg-logo="http://i.imgur.com/gz6kU7g.png" group-title="LINK 2 | PORTUGAL",PT- NICK JR (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239138
-#EXTINF:-1 tvg-name="PT- NICKELODEON (LOW)" tvg-logo="http://live21.site/LOGOS/picons/Nickelodeon.png" group-title="LINK 2 | PORTUGAL",PT- NICKELODEON (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239137
-#EXTINF:-1 tvg-name="PT- FOX COMEDY (LOW)" tvg-logo="http://live21.site/LOGOS/picons/FOX_COMEDY.png" group-title="LINK 2 | PORTUGAL",PT- FOX COMEDY (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239136
-#EXTINF:-1 tvg-name="PT- FOX CRIME (LOW)" tvg-logo="http://live21.site/LOGOS/picons/FOX_CRIME.png" group-title="LINK 2 | PORTUGAL",PT- FOX CRIME (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239135
-#EXTINF:-1 tvg-name="PT- FOX LIFE (LOW)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://1.bp.blogspot.com/-GXh7kwfzRTo/U96OitScklI/AAAAAAAAEnc/4-Dgt66u1II/s1600/FOX+Life+HD+logo.png" group-title="LINK 2 | PORTUGAL",PT- FOX LIFE (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239134
-#EXTINF:-1 tvg-name="PT- FOX MOVIES (LOW)" tvg-logo="http://live21.site/LOGOS/picons/FOX_MOVIES.png" group-title="LINK 2 | PORTUGAL",PT- FOX MOVIES (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239133
-#EXTINF:-1 tvg-name="PT- FOX (LOW)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://2.bp.blogspot.com/-Lkp3eIEVTT0/TyVavFNXZuI/AAAAAAAABHc/onUyR6tnwwI/s1600/Fox+HD+logo+2.png" group-title="LINK 2 | PORTUGAL",PT- FOX (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239132
-#EXTINF:-1 tvg-name="PT- FUEL TV (LOW)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://i.imgur.com/ZmZfDtk.png" group-title="LINK 2 | PORTUGAL",PT- FUEL TV (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239131
-#EXTINF:-1 tvg-name="PT- HISTORIA (LOW)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="LINK 2 | PORTUGAL",PT- HISTORIA (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239130
-#EXTINF:-1 tvg-name="PT- HOLLYWOOD (LOW)" tvg-logo="http://live21.site/LOGOS/picons/Hollywood.png" group-title="LINK 2 | PORTUGAL",PT- HOLLYWOOD (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239129
-#EXTINF:-1 tvg-name="PT- MCM TOP (LOW)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://i.imgur.com/ugDPCmB.png" group-title="LINK 2 | PORTUGAL",PT- MCM TOP (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239128
-#EXTINF:-1 tvg-name="PT- MOTORVISION (LOW)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://i.imgur.com/I0ZTOVi.png" group-title="LINK 2 | PORTUGAL",PT- MOTORVISION (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239127
-#EXTINF:-1 tvg-name="PT- NATIONAL GEOGRAPHIC (LOW)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://www.nationalgeographicbrasil.com/images/logo.png" group-title="LINK 2 | PORTUGAL",PT- NATIONAL GEOGRAPHIC (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239126
-#EXTINF:-1 tvg-name="PT- PORTO CANAL (LOW)" tvg-logo="http://live21.site/LOGOS/picons/Porto_Canal.png" group-title="LINK 2 | PORTUGAL",PT- PORTO CANAL (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239122
-#EXTINF:-1 tvg-name="PT- RECORD NEWS (LOW)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://media-manager.starsinsider.com/1920/na_5c9df95c17ee6.jpg" group-title="LINK 2 | PORTUGAL",PT- RECORD NEWS (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239121
-#EXTINF:-1 tvg-name="PT- SIC CARAS (LOW)" tvg-logo="http://live21.site/LOGOS/picons/SIC_CARAS.png" group-title="LINK 2 | PORTUGAL",PT- SIC CARAS (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239120
-#EXTINF:-1 tvg-name="PT- SIC K (LOW)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://i.imgur.com/WWW5qKT.png" group-title="LINK 2 | PORTUGAL",PT- SIC K (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239119
-#EXTINF:-1 tvg-name="PT- SIC MULHER (LOW)" tvg-logo="http://live21.site/LOGOS/picons/SIC_MULHER.png" group-title="LINK 2 | PORTUGAL",PT- SIC MULHER (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239118
-#EXTINF:-1 tvg-name="PT- SIC NOTICIAS (LOW)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://3.bp.blogspot.com/-qnWwcwxFnnk/WDrqHavQXjI/AAAAAAAAFes/H8b9nHTH8L4RqA2OTXP9R2qeYHLw4Xw2QCLcB/s1600/SIC%2BNot%25C3%25ADcias%2Blogo.png" group-title="LINK 2 | PORTUGAL",PT- SIC NOTICIAS (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239117
-#EXTINF:-1 tvg-name="PT- SIC RADICAL (LOW)" tvg-logo="http://live21.site/LOGOS/PTS/sicradical.png" group-title="LINK 2 | PORTUGAL",PT- SIC RADICAL (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239116
-#EXTINF:-1 tvg-name="PT- SYFY (LOW)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://4.bp.blogspot.com/-KFpvGLvNb3Q/WDtdfKOQfEI/AAAAAAAAFkk/PXqW9GvFFdEvAHzpHiCy_cxWUTcb2-kVwCLcB/s1600/Syfy%2BHD%2Blogo.png" group-title="LINK 2 | PORTUGAL",PT- SYFY (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239114
-#EXTINF:-1 tvg-name="PT- THE FOOD NETWORK (LOW)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://i.imgur.com/8usMt92.png" group-title="LINK 2 | PORTUGAL",PT- THE FOOD NETWORK (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239113
-#EXTINF:-1 tvg-name="PT- NOS STUDIOS (LOW)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://cdn.nos.pt/common/img/nos.png" group-title="LINK 2 | PORTUGAL",PT- NOS STUDIOS (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239112
-#EXTINF:-1 tvg-name="PT- TLC (LOW)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://i.imgur.com/JOiDYx6.png" group-title="LINK 2 | PORTUGAL",PT- TLC (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239111
-#EXTINF:-1 tvg-name="PT- TRACE TOCA (LOW)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://br.trace.company/wp-content/uploads//2017/03/logo-toca.png" group-title="LINK 2 | PORTUGAL",PT- TRACE TOCA (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239110
-#EXTINF:-1 tvg-name="PT- TRACE URBAN (LOW)" tvg-logo="https://baf-qrcode.b-cdn.net/17290890654751104470499199917039.jpg://i.imgur.com/4M2XZfF.png" group-title="LINK 2 | PORTUGAL",PT- TRACE URBAN (LOW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239109
-
-
-
-#EXTINF:-1 tvg-name="CANAL 11" tvg-logo="https://imagizer.imageshack.com/img924/216/JdBoHW.png" group-title="LINK 3 | DESPORTO PORTUGAL",CANAL 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 3[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/1510408
-#EXTINF:-1 tvg-name="CMTV" tvg-logo="https://imagizer.imageshack.com/img924/7873/sIWmgv.jpg" group-title="LINK 3 | DESPORTO PORTUGAL",CMTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 3[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/1510407
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIQu1G2-bDBgtdbL94qHle_xZxa3NL_Mn9fA&usqp=CAU" group-title="LINK 3 | DESPORTO PORTUGAL",ELEVEN SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 3[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/1510409
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIQu1G2-bDBgtdbL94qHle_xZxa3NL_Mn9fA&usqp=CAU" group-title="LINK 3 | DESPORTO PORTUGAL",ELEVEN SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 3[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/1510410
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIQu1G2-bDBgtdbL94qHle_xZxa3NL_Mn9fA&usqp=CAU" group-title="LINK 3 | DESPORTO PORTUGAL",ELEVEN SPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 3[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/1510411
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIQu1G2-bDBgtdbL94qHle_xZxa3NL_Mn9fA&usqp=CAU" group-title="LINK 3 | DESPORTO PORTUGAL",ELEVEN SPORTS 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 3[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/1510412
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIQu1G2-bDBgtdbL94qHle_xZxa3NL_Mn9fA&usqp=CAU" group-title="LINK 3 | DESPORTO PORTUGAL",ELEVEN SPORTS 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 3[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/1510413
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIQu1G2-bDBgtdbL94qHle_xZxa3NL_Mn9fA&usqp=CAU" group-title="LINK 3 | DESPORTO PORTUGAL",ELEVEN SPORTS 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 3[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/1510414
-#EXTINF:-1 tvg-name="SIC RADICAL HD" tvg-logo="https://imagizer.imageshack.com/img923/9517/DGNZD3.jpg" group-title="LINK 3 | DESPORTO PORTUGAL",SIC RADICAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 3[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/1510415
-#EXTINF:-1 tvg-name="SPORT -TV NBA" tvg-logo="https://imagizer.imageshack.com/img924/4330/EGhBcV.png" group-title="LINK 3 | DESPORTO PORTUGAL",SPORT -TV NBA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 3[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/1510423
-#EXTINF:-1 tvg-name="SPORT-TV +" tvg-logo="https://imagizer.imageshack.com/img923/7603/s0aL4n.jpg" group-title="LINK 3 | DESPORTO PORTUGAL",SPORT-TV +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 3[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/1510416
-#EXTINF:-1 tvg-name="SPORT-TV 1" tvg-logo="https://imagizer.imageshack.com/img923/7603/s0aL4n.jpg" group-title="LINK 3 | DESPORTO PORTUGAL",SPORT-TV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 3[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/1510417
-#EXTINF:-1 tvg-name="SPORT-TV 2" tvg-logo="https://imagizer.imageshack.com/img923/7603/s0aL4n.jpg" group-title="LINK 3 | DESPORTO PORTUGAL",SPORT-TV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 3[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/1510418
-#EXTINF:-1 tvg-name="SPORT-TV 3" tvg-logo="https://imagizer.imageshack.com/img923/7603/s0aL4n.jpg" group-title="LINK 3 | DESPORTO PORTUGAL",SPORT-TV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 3[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/1510419
-#EXTINF:-1 tvg-name="SPORT-TV 4" tvg-logo="https://imagizer.imageshack.com/img923/7603/s0aL4n.jpg" group-title="LINK 3 | DESPORTO PORTUGAL",SPORT-TV 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 3[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/1510420
-#EXTINF:-1 tvg-name="SPORT-TV 5" tvg-logo="https://imagizer.imageshack.com/img923/7603/s0aL4n.jpg" group-title="LINK 3 | DESPORTO PORTUGAL",SPORT-TV 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 3[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/1510421
-#EXTINF:-1 tvg-name="SPORT-TV 6" tvg-logo="https://imagizer.imageshack.com/img923/7603/s0aL4n.jpg" group-title="LINK 3 | DESPORTO PORTUGAL",SPORT-TV 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 3[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/1510422
+#EXTINF:-1 tvg-name="CANAL 11" tvg-logo="https://imagizer.imageshack.com/img924/216/JdBoHW.png" group-title="LINK 1 | DESPORTO PORTUGAL",CANAL 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 1[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/1510408
+#EXTINF:-1 tvg-name="CMTV" tvg-logo="https://imagizer.imageshack.com/img924/7873/sIWmgv.jpg" group-title="LINK 1 | DESPORTO PORTUGAL",CMTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 1[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/1510407
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIQu1G2-bDBgtdbL94qHle_xZxa3NL_Mn9fA&usqp=CAU" group-title="LINK 1 | DESPORTO PORTUGAL",ELEVEN SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 1[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/1510409
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIQu1G2-bDBgtdbL94qHle_xZxa3NL_Mn9fA&usqp=CAU" group-title="LINK 1 | DESPORTO PORTUGAL",ELEVEN SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 1[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/1510410
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIQu1G2-bDBgtdbL94qHle_xZxa3NL_Mn9fA&usqp=CAU" group-title="LINK 1 | DESPORTO PORTUGAL",ELEVEN SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 1[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/1510411
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIQu1G2-bDBgtdbL94qHle_xZxa3NL_Mn9fA&usqp=CAU" group-title="LINK 1 | DESPORTO PORTUGAL",ELEVEN SPORTS 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 1[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/1510412
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIQu1G2-bDBgtdbL94qHle_xZxa3NL_Mn9fA&usqp=CAU" group-title="LINK 1 | DESPORTO PORTUGAL",ELEVEN SPORTS 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 1[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/1510413
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIQu1G2-bDBgtdbL94qHle_xZxa3NL_Mn9fA&usqp=CAU" group-title="LINK 1 | DESPORTO PORTUGAL",ELEVEN SPORTS 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 1[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/1510414
+#EXTINF:-1 tvg-name="SIC RADICAL HD" tvg-logo="https://imagizer.imageshack.com/img923/9517/DGNZD3.jpg" group-title="LINK 1 | DESPORTO PORTUGAL",SIC RADICAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 1[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/1510415
+#EXTINF:-1 tvg-name="SPORT -TV NBA" tvg-logo="https://imagizer.imageshack.com/img924/4330/EGhBcV.png" group-title="LINK 1 | DESPORTO PORTUGAL",SPORT -TV NBA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 1[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/1510423
+#EXTINF:-1 tvg-name="SPORT-TV +" tvg-logo="https://imagizer.imageshack.com/img923/7603/s0aL4n.jpg" group-title="LINK 1 | DESPORTO PORTUGAL",SPORT-TV +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 1[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/1510416
+#EXTINF:-1 tvg-name="SPORT-TV 1" tvg-logo="https://imagizer.imageshack.com/img923/7603/s0aL4n.jpg" group-title="LINK 1 | DESPORTO PORTUGAL",SPORT-TV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 1[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/1510417
+#EXTINF:-1 tvg-name="SPORT-TV 2" tvg-logo="https://imagizer.imageshack.com/img923/7603/s0aL4n.jpg" group-title="LINK 1 | DESPORTO PORTUGAL",SPORT-TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 1[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/1510418
+#EXTINF:-1 tvg-name="SPORT-TV 3" tvg-logo="https://imagizer.imageshack.com/img923/7603/s0aL4n.jpg" group-title="LINK 1 | DESPORTO PORTUGAL",SPORT-TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 1[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/1510419
+#EXTINF:-1 tvg-name="SPORT-TV 4" tvg-logo="https://imagizer.imageshack.com/img923/7603/s0aL4n.jpg" group-title="LINK 1 | DESPORTO PORTUGAL",SPORT-TV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 1[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/1510420
+#EXTINF:-1 tvg-name="SPORT-TV 5" tvg-logo="https://imagizer.imageshack.com/img923/7603/s0aL4n.jpg" group-title="LINK 1 | DESPORTO PORTUGAL",SPORT-TV 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 1[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/1510421
+#EXTINF:-1 tvg-name="SPORT-TV 6" tvg-logo="https://imagizer.imageshack.com/img923/7603/s0aL4n.jpg" group-title="LINK 1 | DESPORTO PORTUGAL",SPORT-TV 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 1[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/1510422
 
 
 
 
-#EXTINF:-1 tvg-name="PT: 24 KITCHEN FHD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: 24 KITCHEN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990918
-#EXTINF:-1 tvg-name="PT: 24 KITCHEN HD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: 24 KITCHEN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990917
-#EXTINF:-1 tvg-name="PT: AFRO MUSIC" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: AFRO MUSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990925
-#EXTINF:-1 tvg-name="PT: ALMA LUSA" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: ALMA LUSA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990926
-#EXTINF:-1 tvg-name="PT: ARTV" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: ARTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990959
-#EXTINF:-1 tvg-name="PT: BABY TV" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: BABY TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990889
-#EXTINF:-1 tvg-name="PT: BBC Entertainment" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: BBC Entertainment
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990954
-#EXTINF:-1 tvg-name="PT: BBC WORLD NEWS" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: BBC WORLD NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990950
-#EXTINF:-1 tvg-name="PT: BLAZE" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: BLAZE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990910
-#EXTINF:-1 tvg-name="PT: Bloomberg" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: Bloomberg
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990970
-#EXTINF:-1 tvg-name="PT: BOOMERANG" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: BOOMERANG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990890
-#EXTINF:-1 tvg-name="PT: CACA E PESCA HD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: CACA E PESCA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990914
-#EXTINF:-1 tvg-name="PT: Cacavision" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: Cacavision
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990913
-#EXTINF:-1 tvg-name="PT: CAMPO PEQUENO FHD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: CAMPO PEQUENO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990965
-#EXTINF:-1 tvg-name="PT: CAMPO PEQUENO TV HD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: CAMPO PEQUENO TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990962
-#EXTINF:-1 tvg-name="PT: CANAL 180" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: CANAL 180
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990948
-#EXTINF:-1 tvg-name="PT: CANAL Q" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: CANAL Q
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990949
-#EXTINF:-1 tvg-name="PT: CANCAO NOVA" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: CANCAO NOVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990924
-#EXTINF:-1 tvg-name="PT: CARTOON NETWORK" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: CARTOON NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990894
-#EXTINF:-1 tvg-name="PT: CASA E COZINHA" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: CASA E COZINHA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990916
-#EXTINF:-1 tvg-name="PT: CBS Reality" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: CBS Reality
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990956
-#EXTINF:-1 tvg-name="PT: CNBC" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: CNBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990966
-#EXTINF:-1 tvg-name="PT: CRIME+INVESTIGATION" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: CRIME+INVESTIGATION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990904
-#EXTINF:-1 tvg-name="PT: DISCOVERY CHANNEL" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990902
-#EXTINF:-1 tvg-name="PT: DISCOVERY CHANNEL FHD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: DISCOVERY CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990903
-#EXTINF:-1 tvg-name="PT: DISNEY CHANNEL" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990895
-#EXTINF:-1 tvg-name="PT: DISNEY JUNIOR" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990896
-#EXTINF:-1 tvg-name="PT: E! ENTERTAINMENT" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: E! ENTERTAINMENT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990911
-#EXTINF:-1 tvg-name="PT: Euro News" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: Euro News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990952
-#EXTINF:-1 tvg-name="PT: FASHION TV HD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: FASHION TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990969
-#EXTINF:-1 tvg-name="PT: FOOD NETWORK HD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: FOOD NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990919
-#EXTINF:-1 tvg-name="PT: GLOBO" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: GLOBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990932
-#EXTINF:-1 tvg-name="PT: GLOBO FHD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: GLOBO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990933
-#EXTINF:-1 tvg-name="PT: GLOBO NOW" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: GLOBO NOW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990934
-#EXTINF:-1 tvg-name="PT: HISTORIA" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990909
-#EXTINF:-1 tvg-name="PT: ID Investigation Discovery FHD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: ID Investigation Discovery FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990905
-#EXTINF:-1 tvg-name="PT: KURIAKOS TV" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: KURIAKOS TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990944
-#EXTINF:-1 tvg-name="PT: KURIAKUS KIDS" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: KURIAKUS KIDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990964
-#EXTINF:-1 tvg-name="PT: MCM POP" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: MCM POP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990927
-#EXTINF:-1 tvg-name="PT: MCM TOP" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: MCM TOP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990928
-#EXTINF:-1 tvg-name="PT: MEZZO" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: MEZZO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990957
-#EXTINF:-1 tvg-name="PT: MTV PORTUGAL" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: MTV PORTUGAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990930
-#EXTINF:-1 tvg-name="PT: NAT GEO FHD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: NAT GEO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990908
-#EXTINF:-1 tvg-name="PT: NAT GEO WILD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990907
-#EXTINF:-1 tvg-name="PT: NATIONAL GEOGRAPHIC HD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: NATIONAL GEOGRAPHIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990906
-#EXTINF:-1 tvg-name="PT: Nick Jr" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: Nick Jr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990899
-#EXTINF:-1 tvg-name="PT: NICKELODEON" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: NICKELODEON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990898
-#EXTINF:-1 tvg-name="PT: ODISSEIA" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: ODISSEIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990921
-#EXTINF:-1 tvg-name="PT: PANDA" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: PANDA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990891
-#EXTINF:-1 tvg-name="PT: PANDA BIGGS" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: PANDA BIGGS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990892
-#EXTINF:-1 tvg-name="PT: Panda Kids" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: Panda Kids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990893
-#EXTINF:-1 tvg-name="PT: Record News" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: Record News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990937
-#EXTINF:-1 tvg-name="PT: REDBULL TV HD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: REDBULL TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990923
-#EXTINF:-1 tvg-name="PT: RTP Acores" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: RTP Acores
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990945
-#EXTINF:-1 tvg-name="PT: RTP Africa" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: RTP Africa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990967
-#EXTINF:-1 tvg-name="PT: RTP INTERNACIONAL" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: RTP INTERNACIONAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990938
-#EXTINF:-1 tvg-name="PT: RTP Madeira" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: RTP Madeira
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990946
-#EXTINF:-1 tvg-name="PT: RTP Memoria" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: RTP Memoria
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990947
-#EXTINF:-1 tvg-name="PT: SIC K" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: SIC K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990900
-#EXTINF:-1 tvg-name="PT: SIC K HD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: SIC K HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990901
-#EXTINF:-1 tvg-name="PT: SKY NEWS" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: SKY NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990951
-#EXTINF:-1 tvg-name="PT: SYfY" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: SYfY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990887
-#EXTINF:-1 tvg-name="PT: SYFY FHD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: SYFY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990888
-#EXTINF:-1 tvg-name="PT: TCV INTERNACIONAL" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: TCV INTERNACIONAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990941
-#EXTINF:-1 tvg-name="PT: TLC" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990912
-#EXTINF:-1 tvg-name="PT: TOROS TV" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: TOROS TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990915
-#EXTINF:-1 tvg-name="PT: TPA INTERNACIONAL" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: TPA INTERNACIONAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990943
-#EXTINF:-1 tvg-name="PT: TRACE TOCA" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: TRACE TOCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990958
-#EXTINF:-1 tvg-name="PT: TRACE URBAN" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: TRACE URBAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990929
-#EXTINF:-1 tvg-name="PT: TRAVEL CHANNEL HD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: TRAVEL CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990920
-#EXTINF:-1 tvg-name="PT: TV Galicia" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: TV Galicia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990953
-#EXTINF:-1 tvg-name="PT: TV RECORD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: TV RECORD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990935
-#EXTINF:-1 tvg-name="PT: TV RECORD HD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: TV RECORD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990936
-#EXTINF:-1 tvg-name="PT: TV5 MONDE EUROPE" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: TV5 MONDE EUROPE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990968
-#EXTINF:-1 tvg-name="PT: TVE Internacional" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: TVE Internacional
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990942
-#EXTINF:-1 tvg-name="PT: VH1" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: VH1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990931
-#EXTINF:-1 tvg-name="PT: ZAP VIVA" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",PT: ZAP VIVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990955
-#EXTINF:-1 tvg-name="SIC INTERNACIONAL" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 4 | PORTUGAL",SIC INTERNACIONAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 4[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990940
+#EXTINF:-1 tvg-name="PT: 24 KITCHEN FHD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: 24 KITCHEN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990918
+#EXTINF:-1 tvg-name="PT: 24 KITCHEN HD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: 24 KITCHEN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990917
+#EXTINF:-1 tvg-name="PT: AFRO MUSIC" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: AFRO MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990925
+#EXTINF:-1 tvg-name="PT: ALMA LUSA" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: ALMA LUSA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990926
+#EXTINF:-1 tvg-name="PT: ARTV" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: ARTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990959
+#EXTINF:-1 tvg-name="PT: BABY TV" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990889
+#EXTINF:-1 tvg-name="PT: BBC Entertainment" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: BBC Entertainment
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990954
+#EXTINF:-1 tvg-name="PT: BBC WORLD NEWS" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: BBC WORLD NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990950
+#EXTINF:-1 tvg-name="PT: BLAZE" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: BLAZE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990910
+#EXTINF:-1 tvg-name="PT: Bloomberg" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: Bloomberg
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990970
+#EXTINF:-1 tvg-name="PT: BOOMERANG" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: BOOMERANG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990890
+#EXTINF:-1 tvg-name="PT: CACA E PESCA HD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: CACA E PESCA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990914
+#EXTINF:-1 tvg-name="PT: Cacavision" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: Cacavision
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990913
+#EXTINF:-1 tvg-name="PT: CAMPO PEQUENO FHD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: CAMPO PEQUENO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990965
+#EXTINF:-1 tvg-name="PT: CAMPO PEQUENO TV HD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: CAMPO PEQUENO TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990962
+#EXTINF:-1 tvg-name="PT: CANAL 180" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: CANAL 180
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990948
+#EXTINF:-1 tvg-name="PT: CANAL Q" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: CANAL Q
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990949
+#EXTINF:-1 tvg-name="PT: CANCAO NOVA" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: CANCAO NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990924
+#EXTINF:-1 tvg-name="PT: CARTOON NETWORK" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: CARTOON NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990894
+#EXTINF:-1 tvg-name="PT: CASA E COZINHA" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: CASA E COZINHA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990916
+#EXTINF:-1 tvg-name="PT: CBS Reality" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: CBS Reality
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990956
+#EXTINF:-1 tvg-name="PT: CNBC" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: CNBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990966
+#EXTINF:-1 tvg-name="PT: CRIME+INVESTIGATION" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: CRIME+INVESTIGATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990904
+#EXTINF:-1 tvg-name="PT: DISCOVERY CHANNEL" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990902
+#EXTINF:-1 tvg-name="PT: DISCOVERY CHANNEL FHD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: DISCOVERY CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990903
+#EXTINF:-1 tvg-name="PT: DISNEY CHANNEL" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990895
+#EXTINF:-1 tvg-name="PT: DISNEY JUNIOR" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990896
+#EXTINF:-1 tvg-name="PT: E! ENTERTAINMENT" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: E! ENTERTAINMENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990911
+#EXTINF:-1 tvg-name="PT: Euro News" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: Euro News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990952
+#EXTINF:-1 tvg-name="PT: FASHION TV HD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: FASHION TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990969
+#EXTINF:-1 tvg-name="PT: FOOD NETWORK HD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: FOOD NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990919
+#EXTINF:-1 tvg-name="PT: GLOBO" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: GLOBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990932
+#EXTINF:-1 tvg-name="PT: GLOBO FHD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: GLOBO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990933
+#EXTINF:-1 tvg-name="PT: GLOBO NOW" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: GLOBO NOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990934
+#EXTINF:-1 tvg-name="PT: HISTORIA" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990909
+#EXTINF:-1 tvg-name="PT: ID Investigation Discovery FHD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: ID Investigation Discovery FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990905
+#EXTINF:-1 tvg-name="PT: KURIAKOS TV" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: KURIAKOS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990944
+#EXTINF:-1 tvg-name="PT: KURIAKUS KIDS" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: KURIAKUS KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990964
+#EXTINF:-1 tvg-name="PT: MCM POP" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: MCM POP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990927
+#EXTINF:-1 tvg-name="PT: MCM TOP" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: MCM TOP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990928
+#EXTINF:-1 tvg-name="PT: MEZZO" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: MEZZO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990957
+#EXTINF:-1 tvg-name="PT: MTV PORTUGAL" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: MTV PORTUGAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990930
+#EXTINF:-1 tvg-name="PT: NAT GEO FHD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: NAT GEO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990908
+#EXTINF:-1 tvg-name="PT: NAT GEO WILD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990907
+#EXTINF:-1 tvg-name="PT: NATIONAL GEOGRAPHIC HD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990906
+#EXTINF:-1 tvg-name="PT: Nick Jr" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: Nick Jr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990899
+#EXTINF:-1 tvg-name="PT: NICKELODEON" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990898
+#EXTINF:-1 tvg-name="PT: ODISSEIA" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: ODISSEIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990921
+#EXTINF:-1 tvg-name="PT: PANDA" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: PANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990891
+#EXTINF:-1 tvg-name="PT: PANDA BIGGS" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: PANDA BIGGS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990892
+#EXTINF:-1 tvg-name="PT: Panda Kids" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: Panda Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990893
+#EXTINF:-1 tvg-name="PT: Record News" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: Record News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990937
+#EXTINF:-1 tvg-name="PT: REDBULL TV HD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: REDBULL TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990923
+#EXTINF:-1 tvg-name="PT: RTP Acores" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: RTP Acores
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990945
+#EXTINF:-1 tvg-name="PT: RTP Africa" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: RTP Africa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990967
+#EXTINF:-1 tvg-name="PT: RTP INTERNACIONAL" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: RTP INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990938
+#EXTINF:-1 tvg-name="PT: RTP Madeira" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: RTP Madeira
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990946
+#EXTINF:-1 tvg-name="PT: RTP Memoria" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: RTP Memoria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990947
+#EXTINF:-1 tvg-name="PT: SIC K" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: SIC K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990900
+#EXTINF:-1 tvg-name="PT: SIC K HD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: SIC K HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990901
+#EXTINF:-1 tvg-name="PT: SKY NEWS" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: SKY NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990951
+#EXTINF:-1 tvg-name="PT: SYfY" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: SYfY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990887
+#EXTINF:-1 tvg-name="PT: SYFY FHD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: SYFY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990888
+#EXTINF:-1 tvg-name="PT: TCV INTERNACIONAL" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: TCV INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990941
+#EXTINF:-1 tvg-name="PT: TLC" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990912
+#EXTINF:-1 tvg-name="PT: TOROS TV" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: TOROS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990915
+#EXTINF:-1 tvg-name="PT: TPA INTERNACIONAL" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: TPA INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990943
+#EXTINF:-1 tvg-name="PT: TRACE TOCA" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: TRACE TOCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990958
+#EXTINF:-1 tvg-name="PT: TRACE URBAN" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: TRACE URBAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990929
+#EXTINF:-1 tvg-name="PT: TRAVEL CHANNEL HD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: TRAVEL CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990920
+#EXTINF:-1 tvg-name="PT: TV Galicia" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: TV Galicia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990953
+#EXTINF:-1 tvg-name="PT: TV RECORD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: TV RECORD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990935
+#EXTINF:-1 tvg-name="PT: TV RECORD HD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: TV RECORD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990936
+#EXTINF:-1 tvg-name="PT: TV5 MONDE EUROPE" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: TV5 MONDE EUROPE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990968
+#EXTINF:-1 tvg-name="PT: TVE Internacional" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: TVE Internacional
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990942
+#EXTINF:-1 tvg-name="PT: VH1" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990931
+#EXTINF:-1 tvg-name="PT: ZAP VIVA" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",PT: ZAP VIVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990955
+#EXTINF:-1 tvg-name="SIC INTERNACIONAL" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="LINK 2 | PORTUGAL",SIC INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ LINK 2[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990940
 
 
 
