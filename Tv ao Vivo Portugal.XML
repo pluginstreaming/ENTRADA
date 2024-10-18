@@ -164,7 +164,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 
 
 
-#EXTINF:-1 tvg-name="CANAL 11" tvg-logo="https://imagizer.imageshack.com/img924/216/JdBoHW.png" group-title="CANAIS | DESPORTO PORTUGAL",CANAL 11
+#EXTINF:-1 tvg-name="CANAL 11" tvg-logo="https://imagizer.imageshack.com/img924/216/JdBoHW.png" group-title="[COLOR green]CANAIS[/COLOR] | [COLOR red]DESPORTO PORTUGAL[/COLOR]",CANAL 11
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/1510408
 #EXTINF:-1 tvg-name="CMTV" tvg-logo="https://imagizer.imageshack.com/img924/7873/sIWmgv.jpg" group-title="CANAIS | DESPORTO PORTUGAL",CMTV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/1510407
@@ -202,7 +202,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 
 
 
-#EXTINF:-1 tvg-name="BTV SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5y6g-ZT3GbDQrViKWeukZoOAo4ntXH7Hv-A&s" group-title="CANAIS | PORTUGAL",BTV SD
+#EXTINF:-1 tvg-name="BTV SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5y6g-ZT3GbDQrViKWeukZoOAo4ntXH7Hv-A&s" group-title="[COLOR green]CANAIS[/COLOR] |[COLOR red] PORTUGAL[/COLOR]",BTV SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/27417670
 #EXTINF:-1 tvg-name="BTV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5y6g-ZT3GbDQrViKWeukZoOAo4ntXH7Hv-A&s" group-title="CANAIS | PORTUGAL",BTV HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/27417669
@@ -489,7 +489,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 
 
 
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="PT-  UFC Figth Pass FHD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",PT-  UFC Figth Pass FHD
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="PT-  UFC Figth Pass FHD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="[COLOR green]CANAIS[/COLOR] |[COLOR red] PORTUGAL[/COLOR]",PT-  UFC Figth Pass FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smart.cdn23.click:80/Aline3213q/11236513/112088
 #EXTINF:-1 tvg-id="NFLGamePass.br" tvg-name="PT -NFL Network HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",PT -NFL Network HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smart.cdn23.click:80/Aline3213q/11236513/2475
@@ -740,264 +740,264 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 
 
 
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="PT-  UFC Figth Pass FHD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",PT-  UFC Figth Pass FHD
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="PT-  UFC Figth Pass FHD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="[COLOR green]CANAIS[/COLOR] |[COLOR red] PORTUGAL[/COLOR]",PT-  UFC Figth Pass FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112088
-#EXTINF:-1 tvg-id="NFLGamePass.br" tvg-name="PT -NFL Network HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",PT -NFL Network HD
+#EXTINF:-1 tvg-id="NFLGamePass.br" tvg-name="PT -NFL Network HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",PT -NFL Network HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/2475
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- SportTV +  HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",PT- SportTV +  HD
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- SportTV +  HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",PT- SportTV +  HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/111993
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- SportTV 1 HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",PT- SportTV 1 HD
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- SportTV 1 HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",PT- SportTV 1 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/111995
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- SportTV 2 HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",PT- SportTV 2 HD
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- SportTV 2 HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",PT- SportTV 2 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/111998
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- SportTV 3 HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",PT- SportTV 3 HD
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- SportTV 3 HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",PT- SportTV 3 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112000
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- SportTV 4 HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",PT- SportTV 4 HD
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- SportTV 4 HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",PT- SportTV 4 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112002
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- SportTV 5 HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",PT- SportTV 5 HD
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- SportTV 5 HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",PT- SportTV 5 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112004
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- SportTV 6 HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",PT- SportTV 6 HD
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- SportTV 6 HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",PT- SportTV 6 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112006
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- A Bola TV HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",PT- A Bola TV HD
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- A Bola TV HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",PT- A Bola TV HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112014
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="PT- BLOOMBERG" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",PT- BLOOMBERG
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="PT- BLOOMBERG" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",PT- BLOOMBERG
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112030
-#EXTINF:-1 tvg-name="PT- BTV HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",PT- BTV HD
+#EXTINF:-1 tvg-name="PT- BTV HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",PT- BTV HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112010
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- CacaVision SD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",PT- CacaVision SD
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- CacaVision SD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",PT- CacaVision SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112078
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- Canal 11 HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",PT- Canal 11 HD
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- Canal 11 HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",PT- Canal 11 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112016
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- Canal180" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",PT- Canal180
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- Canal180" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",PT- Canal180
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112102
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- Canal Panda HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",PT- Canal Panda HD
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- Canal Panda HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",PT- Canal Panda HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112026
-#EXTINF:-1 tvg-name="Canal Q SD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",Canal Q SD
+#EXTINF:-1 tvg-name="Canal Q SD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",Canal Q SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112052
-#EXTINF:-1 tvg-name="Casa Cozinha HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",Casa Cozinha HD
+#EXTINF:-1 tvg-name="Casa Cozinha HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",Casa Cozinha HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112045
-#EXTINF:-1 tvg-name="Caça & Pesca FHD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",Caça & Pesca FHD
+#EXTINF:-1 tvg-name="Caça & Pesca FHD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",Caça & Pesca FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112079
-#EXTINF:-1 tvg-name="CBS Reality SD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",CBS Reality SD
+#EXTINF:-1 tvg-name="CBS Reality SD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",CBS Reality SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112043
-#EXTINF:-1 tvg-name="Cine Mundo HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",Cine Mundo HD
+#EXTINF:-1 tvg-name="Cine Mundo HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",Cine Mundo HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/111971
-#EXTINF:-1 tvg-name="Clubbing TV" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",Clubbing TV
+#EXTINF:-1 tvg-name="Clubbing TV" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",Clubbing TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112101
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="CMTV HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",CMTV HD
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="CMTV HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",CMTV HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/111945
-#EXTINF:-1 tvg-name="CNN HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",CNN HD
+#EXTINF:-1 tvg-name="CNN HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",CNN HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/111947
-#EXTINF:-1 tvg-name="Crime Investigação SD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",Crime Investigação SD
+#EXTINF:-1 tvg-name="Crime Investigação SD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",Crime Investigação SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112066
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",Discovery Channel HD
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",Discovery Channel HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112063
-#EXTINF:-1 tvg-name="Discovery ID" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",Discovery ID
+#EXTINF:-1 tvg-name="Discovery ID" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",Discovery ID
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112067
-#EXTINF:-1 tvg-name="Disney +" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",Disney +
+#EXTINF:-1 tvg-name="Disney +" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",Disney +
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112022
-#EXTINF:-1 tvg-name="Disney Channel SD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",Disney Channel SD
+#EXTINF:-1 tvg-name="Disney Channel SD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",Disney Channel SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112031
-#EXTINF:-1 tvg-name="Disney Marvel" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",Disney Marvel
+#EXTINF:-1 tvg-name="Disney Marvel" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",Disney Marvel
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112020
-#EXTINF:-1 tvg-name="Disney Pixar" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",Disney Pixar
+#EXTINF:-1 tvg-name="Disney Pixar" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",Disney Pixar
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112019
-#EXTINF:-1 tvg-name="Disney Star Wars" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",Disney Star Wars
+#EXTINF:-1 tvg-name="Disney Star Wars" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",Disney Star Wars
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112018
-#EXTINF:-1 tvg-id="Dogtv.pt" tvg-name="DOG TV FHD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",DOG TV FHD
+#EXTINF:-1 tvg-id="Dogtv.pt" tvg-name="DOG TV FHD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",DOG TV FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112054
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! Entertainment SD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",E! Entertainment SD
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! Entertainment SD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",E! Entertainment SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112049
-#EXTINF:-1 tvg-name="Eeuro News" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",Eeuro News
+#EXTINF:-1 tvg-name="Eeuro News" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",Eeuro News
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112110
-#EXTINF:-1 tvg-id="Fashiontv.br" tvg-name="Fashion TV HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",Fashion TV HD
+#EXTINF:-1 tvg-id="Fashiontv.br" tvg-name="Fashion TV HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",Fashion TV HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112068
-#EXTINF:-1 tvg-name="Fight Box HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",Fight Box HD
+#EXTINF:-1 tvg-name="Fight Box HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",Fight Box HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112086
-#EXTINF:-1 tvg-name="Fight Network" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",Fight Network
+#EXTINF:-1 tvg-name="Fight Network" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",Fight Network
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112087
-#EXTINF:-1 tvg-name="Food Network" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",Food Network
+#EXTINF:-1 tvg-name="Food Network" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",Food Network
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112048
-#EXTINF:-1 tvg-name="FOX Comedy HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",FOX Comedy HD
+#EXTINF:-1 tvg-name="FOX Comedy HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",FOX Comedy HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/111989
-#EXTINF:-1 tvg-name="FOX Crime HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",FOX Crime HD
+#EXTINF:-1 tvg-name="FOX Crime HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",FOX Crime HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/111987
-#EXTINF:-1 tvg-name="FOX FHD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",FOX FHD
+#EXTINF:-1 tvg-name="FOX FHD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",FOX FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/111986
-#EXTINF:-1 tvg-name="FOX HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",FOX HD
+#EXTINF:-1 tvg-name="FOX HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",FOX HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/111985
-#EXTINF:-1 tvg-name="FOX Life FHD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",FOX Life FHD
+#EXTINF:-1 tvg-name="FOX Life FHD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",FOX Life FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/111992
-#EXTINF:-1 tvg-name="FOX Life HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",FOX Life HD
+#EXTINF:-1 tvg-name="FOX Life HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",FOX Life HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/111991
-#EXTINF:-1 tvg-name="FOX Muvies HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",FOX Muvies HD
+#EXTINF:-1 tvg-name="FOX Muvies HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",FOX Muvies HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/111969
-#EXTINF:-1 tvg-name="Fuel TV FHD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",Fuel TV FHD
+#EXTINF:-1 tvg-name="Fuel TV FHD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",Fuel TV FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112072
-#EXTINF:-1 tvg-name="Fuel TV HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",Fuel TV HD
+#EXTINF:-1 tvg-name="Fuel TV HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",Fuel TV HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112071
-#EXTINF:-1 tvg-name="GINX" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",GINX
+#EXTINF:-1 tvg-name="GINX" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",GINX
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112081
-#EXTINF:-1 tvg-name="HBO Portugal" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",HBO Portugal
+#EXTINF:-1 tvg-name="HBO PORTUGAL" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",HBO PORTUGAL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/111976
-#EXTINF:-1 tvg-name="Hollywood HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",Hollywood HD
+#EXTINF:-1 tvg-name="Hollywood HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",Hollywood HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/111967
-#EXTINF:-1 tvg-name="ID Invesigation Discovery HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",ID Invesigation Discovery HD
+#EXTINF:-1 tvg-name="ID Invesigation Discovery HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",ID Invesigation Discovery HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112064
-#EXTINF:-1 tvg-name="Jim Jam SD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",Jim Jam SD
+#EXTINF:-1 tvg-name="Jim Jam SD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",Jim Jam SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112024
-#EXTINF:-1 tvg-name="Kuriakos TV FHD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",Kuriakos TV FHD
+#EXTINF:-1 tvg-name="Kuriakos TV FHD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",Kuriakos TV FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112105
-#EXTINF:-1 tvg-name="Lolly Kids" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",Lolly Kids
+#EXTINF:-1 tvg-name="Lolly Kids" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",Lolly Kids
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112091
-#EXTINF:-1 tvg-name="M6 Music HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",M6 Music HD
+#EXTINF:-1 tvg-name="M6 Music HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",M6 Music HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112103
-#EXTINF:-1 tvg-name="MCM POP SD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",MCM POP SD
+#EXTINF:-1 tvg-name="MCM POP SD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",MCM POP SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112098
-#EXTINF:-1 tvg-name="MCM TOP" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",MCM TOP
+#EXTINF:-1 tvg-name="MCM TOP" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",MCM TOP
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112097
-#EXTINF:-1 tvg-name="Mezzo Live FHD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",Mezzo Live FHD
+#EXTINF:-1 tvg-name="Mezzo Live FHD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",Mezzo Live FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112099
-#EXTINF:-1 tvg-name="MotorVision TV SD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",MotorVision TV SD
+#EXTINF:-1 tvg-name="MotorVision TV SD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",MotorVision TV SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112076
-#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV Live HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",MTV Live HD
+#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV Live HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",MTV Live HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112096
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV Portugal HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",MTV Portugal HD
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV PORTUGAL HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",MTV PORTUGAL HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112095
-#EXTINF:-1 tvg-name="Más Chic HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",Más Chic HD
+#EXTINF:-1 tvg-name="Más Chic HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",Más Chic HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112047
-#EXTINF:-1 tvg-name="PT National Geographic HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",PT National Geographic HD
+#EXTINF:-1 tvg-name="PT National Geographic HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",PT National Geographic HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112061
-#EXTINF:-1 tvg-name="National Geographic Wild HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",National Geographic Wild HD
+#EXTINF:-1 tvg-name="National Geographic Wild HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",National Geographic Wild HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112059
-#EXTINF:-1 tvg-name="Nick + HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",Nick + HD
+#EXTINF:-1 tvg-name="Nick + HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",Nick + HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112021
-#EXTINF:-1 tvg-name="Nickelodeon SD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",Nickelodeon SD
+#EXTINF:-1 tvg-name="Nickelodeon SD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",Nickelodeon SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112025
-#EXTINF:-1 tvg-name="NOS StudiosHD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",NOS StudiosHD
+#EXTINF:-1 tvg-name="NOS StudiosHD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",NOS StudiosHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/111965
-#EXTINF:-1 tvg-name="Odisseia HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",Odisseia HD
+#EXTINF:-1 tvg-name="Odisseia HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",Odisseia HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112065
-#EXTINF:-1 tvg-name="Outdoor HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",Outdoor HD
+#EXTINF:-1 tvg-name="Outdoor HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",Outdoor HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112077
-#EXTINF:-1 tvg-name="Panda Biggs SD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",Panda Biggs SD
+#EXTINF:-1 tvg-name="Panda Biggs SD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",Panda Biggs SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112029
-#EXTINF:-1 tvg-name="PFC SD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",PFC SD
+#EXTINF:-1 tvg-name="PFC SD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",PFC SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112070
-#EXTINF:-1 tvg-name="Porto Canal HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",Porto Canal HD
+#EXTINF:-1 tvg-name="Porto Canal HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",Porto Canal HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112051
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- 24 Kitchen HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",PT- 24 Kitchen HD
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- 24 Kitchen HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",PT- 24 Kitchen HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112046
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="PT- AMC HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",PT- AMC HD
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="PT- AMC HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",PT- AMC HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/111973
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- AXN HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",PT- AXN HD
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- AXN HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",PT- AXN HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/111977
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- AXN MOVIES  HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",PT- AXN MOVIES  HD
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- AXN MOVIES  HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",PT- AXN MOVIES  HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/111981
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- AXN WHITE HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",PT- AXN WHITE HD
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- AXN WHITE HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",PT- AXN WHITE HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/111979
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- Baby TV SD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",PT- Baby TV SD
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- Baby TV SD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",PT- Baby TV SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112023
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- Blaze HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",PT- Blaze HD
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- Blaze HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",PT- Blaze HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112053
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="PT- Combate HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",PT- Combate HD
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="PT- Combate HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",PT- Combate HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112083
-#EXTINF:-1 tvg-name="PT- Marvel" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",PT- Marvel
+#EXTINF:-1 tvg-name="PT- Marvel" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",PT- Marvel
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/111935
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- RTP 1 HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",PT- RTP 1 HD
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- RTP 1 HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",PT- RTP 1 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/111937
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="PT- RTP 2 HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",PT- RTP 2 HD
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="PT- RTP 2 HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",PT- RTP 2 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/111939
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- RTP 3 HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",PT- RTP 3 HD
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- RTP 3 HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",PT- RTP 3 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/111949
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- RTP Africa SD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",PT- RTP Africa SD
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- RTP Africa SD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",PT- RTP Africa SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112057
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- RTP Açores SD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",PT- RTP Açores SD
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- RTP Açores SD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",PT- RTP Açores SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112056
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="PT- RTP MADEIRA" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",PT- RTP MADEIRA
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="PT- RTP MADEIRA" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",PT- RTP MADEIRA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112058
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- RTP Memória SD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",PT- RTP Memória SD
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- RTP Memória SD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",PT- RTP Memória SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112055
-#EXTINF:-1 tvg-name="Red Bull TV  FHD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",Red Bull TV  FHD
+#EXTINF:-1 tvg-name="Red Bull TV  FHD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",Red Bull TV  FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112080
-#EXTINF:-1 tvg-name="SIC Caras HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",SIC Caras HD
+#EXTINF:-1 tvg-name="SIC Caras HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",SIC Caras HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112039
-#EXTINF:-1 tvg-name="SIC HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",SIC HD
+#EXTINF:-1 tvg-name="SIC HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",SIC HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/111941
-#EXTINF:-1 tvg-name="SIC Kids HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",SIC Kids HD
+#EXTINF:-1 tvg-name="SIC Kids HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",SIC Kids HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112028
-#EXTINF:-1 tvg-name="SIC Mulher HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",SIC Mulher HD
+#EXTINF:-1 tvg-name="SIC Mulher HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",SIC Mulher HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112040
-#EXTINF:-1 tvg-name="SIC Noticias HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",SIC Noticias HD
+#EXTINF:-1 tvg-name="SIC Noticias HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",SIC Noticias HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/111952
-#EXTINF:-1 tvg-name="SIC Radical HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",SIC Radical HD
+#EXTINF:-1 tvg-name="SIC Radical HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",SIC Radical HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112041
-#EXTINF:-1 tvg-name="Star + HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",Star + HD
+#EXTINF:-1 tvg-name="Star + HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",Star + HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/111975
-#EXTINF:-1 tvg-name="SYFY HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",SYFY HD
+#EXTINF:-1 tvg-name="SYFY HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",SYFY HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/111983
-#EXTINF:-1 tvg-name="TCV Internacioanal" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",TCV Internacioanal
+#EXTINF:-1 tvg-name="TCV Internacioanal" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",TCV Internacioanal
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112108
-#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",TLC SD
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",TLC SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112044
-#EXTINF:-1 tvg-name="Toros TV FHD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",Toros TV FHD
+#EXTINF:-1 tvg-name="Toros TV FHD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",Toros TV FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112074
-#EXTINF:-1 tvg-name="Toros TV HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",Toros TV HD
+#EXTINF:-1 tvg-name="Toros TV HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",Toros TV HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112073
-#EXTINF:-1 tvg-name="TPA Internacional SD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",TPA Internacional SD
+#EXTINF:-1 tvg-name="TPA Internacional SD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",TPA Internacional SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112106
-#EXTINF:-1 tvg-name="Trace Urban" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",Trace Urban
+#EXTINF:-1 tvg-name="Trace Urban" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",Trace Urban
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112094
-#EXTINF:-1 tvg-name="Travel Channel HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",Travel Channel HD
+#EXTINF:-1 tvg-name="Travel Channel HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",Travel Channel HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112050
-#EXTINF:-1 tvg-name="TV Cine Action HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",TV Cine Action HD
+#EXTINF:-1 tvg-name="TV Cine Action HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",TV Cine Action HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/111963
-#EXTINF:-1 tvg-name="TV Cine Edition HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",TV Cine Edition HD
+#EXTINF:-1 tvg-name="TV Cine Edition HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",TV Cine Edition HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/111958
-#EXTINF:-1 tvg-name="TV Cine Emotion HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",TV Cine Emotion HD
+#EXTINF:-1 tvg-name="TV Cine Emotion HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",TV Cine Emotion HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/111961
-#EXTINF:-1 tvg-name="TV Cine Top HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",TV Cine Top HD
+#EXTINF:-1 tvg-name="TV Cine Top HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",TV Cine Top HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/111956
-#EXTINF:-1 tvg-name="TV Record HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",TV Record HD
+#EXTINF:-1 tvg-name="TV Record HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",TV Record HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112038
-#EXTINF:-1 tvg-name="TVC Cabo Verde" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",TVC Cabo Verde
+#EXTINF:-1 tvg-name="TVC Cabo Verde" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",TVC Cabo Verde
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112109
-#EXTINF:-1 tvg-name="TVCine + HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",TVCine + HD
+#EXTINF:-1 tvg-name="TVCine + HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",TVCine + HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/111955
-#EXTINF:-1 tvg-name="TVI FicçãoHD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",TVI FicçãoHD
+#EXTINF:-1 tvg-name="TVI FicçãoHD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",TVI FicçãoHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112033
-#EXTINF:-1 tvg-name="TVI HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",TVI HD
+#EXTINF:-1 tvg-name="TVI HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",TVI HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/111943
-#EXTINF:-1 tvg-name="TVI Reality" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",TVI Reality
+#EXTINF:-1 tvg-name="TVI Reality" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",TVI Reality
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112113
-#EXTINF:-1 tvg-name="TVI Reality FHD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",TVI Reality FHD
+#EXTINF:-1 tvg-name="TVI Reality FHD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",TVI Reality FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112114
-#EXTINF:-1 tvg-name="TVI Reality HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",TVI Reality HD
+#EXTINF:-1 tvg-name="TVI Reality HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",TVI Reality HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112035
-#EXTINF:-1 tvg-name="TVI Reality Low" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",TVI Reality Low
+#EXTINF:-1 tvg-name="TVI Reality Low" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",TVI Reality Low
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112112
-#EXTINF:-1 tvg-name="TVI Reality Mosaico" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",TVI Reality Mosaico
+#EXTINF:-1 tvg-name="TVI Reality Mosaico" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",TVI Reality Mosaico
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112111
-#EXTINF:-1 tvg-name="VH1 SD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",VH1 SD
+#EXTINF:-1 tvg-name="VH1 SD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",VH1 SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112093
-#EXTINF:-1 tvg-name="WWE HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",WWE HD
+#EXTINF:-1 tvg-name="WWE HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",WWE HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112085
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="Zap Viva FHD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",Zap Viva FHD
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="Zap Viva FHD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",Zap Viva FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/112104
-#EXTINF:-1 tvg-id="Globo.pt" tvg-name="TV Globo HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/Portugal.png" group-title="CANAIS | Portugal",TV Globo HD
+#EXTINF:-1 tvg-id="Globo.pt" tvg-name="TV Globo HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/PORTUGAL.png" group-title="CANAIS | PORTUGAL",TV Globo HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=in:80/110034622/k145387y/377249
 
 
 
 
 
-#EXTINF:-1 tvg-id="Tvtapajos.br" tvg-name="PT: Eleven Sport 1 HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/ELEVENSPORTS.png" group-title=" CANAIS | Eleven Sport",PT: Eleven Sport 1 HD
+#EXTINF:-1 tvg-id="Tvtapajos.br" tvg-name="PT: ELEVEN SPORT 1 HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/ELEVENSPORTS.png" group-title="[COLOR green] CANAIS [/COLOR] | [COLOR red] ELEVEN SPORT[/COLOR]",PT: ELEVEN SPORT 1 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplay.proxytv.in:80/110034622/k145387y/273450
-#EXTINF:-1 tvg-id="Tvtapajos.br" tvg-name="PT: Eleven Sport 2 HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/ELEVENSPORTS.png" group-title=" CANAIS | Eleven Sport",PT: Eleven Sport 2 HD
+#EXTINF:-1 tvg-id="Tvtapajos.br" tvg-name="PT: ELEVEN SPORT 2 HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/ELEVENSPORTS.png" group-title=" CANAIS | ELEVEN SPORT",PT: ELEVEN SPORT 2 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplay.proxytv.in:80/110034622/k145387y/273451
-#EXTINF:-1 tvg-id="Tvtapajos.br" tvg-name="PT: Eleven Sport 3 HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/ELEVENSPORTS.png" group-title=" CANAIS | Eleven Sport",PT: Eleven Sport 3 HD
+#EXTINF:-1 tvg-id="Tvtapajos.br" tvg-name="PT: ELEVEN SPORT 3 HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/ELEVENSPORTS.png" group-title=" CANAIS | ELEVEN SPORT",PT: ELEVEN SPORT 3 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplay.proxytv.in:80/110034622/k145387y/273452
-#EXTINF:-1 tvg-id="Tvtapajos.br" tvg-name="PT: Eleven Sport 5 HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/ELEVENSPORTS.png" group-title=" CANAIS | Eleven Sport",PT: Eleven Sport 5 HD
+#EXTINF:-1 tvg-id="Tvtapajos.br" tvg-name="PT: ELEVEN SPORT 5 HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/ELEVENSPORTS.png" group-title=" CANAIS | ELEVEN SPORT",PT: ELEVEN SPORT 5 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplay.proxytv.in:80/110034622/k145387y/273453
-#EXTINF:-1 tvg-id="Tvtapajos.br" tvg-name="PT: Eleven Sport 6 HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/ELEVENSPORTS.png" group-title=" CANAIS | Eleven Sport",PT: Eleven Sport 6 HD
+#EXTINF:-1 tvg-id="Tvtapajos.br" tvg-name="PT: ELEVEN SPORT 6 HD" tvg-logo="http://storage4you.net:2095/logosCANAIS/ELEVENSPORTS.png" group-title=" CANAIS | ELEVEN SPORT",PT: ELEVEN SPORT 6 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplay.proxytv.in:80/110034622/k145387y/273454
