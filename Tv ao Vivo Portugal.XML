@@ -202,9 +202,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 
 
 
-
-
-
 #EXTINF:-1 tvg-name="BTV SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5y6g-ZT3GbDQrViKWeukZoOAo4ntXH7Hv-A&s" group-title="CANAIS | PORTUGAL",BTV SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/27417670
 #EXTINF:-1 tvg-name="BTV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5y6g-ZT3GbDQrViKWeukZoOAo4ntXH7Hv-A&s" group-title="CANAIS | PORTUGAL",BTV HD
@@ -411,7 +408,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239152
 #EXTINF:-1 tvg-name="PT- BABY TV (LOW)" tvg-logo="http://live21.site/LOGOS/picons/BABY_TV.png" group-title="CANAIS | PORTUGAL",PT- BABY TV (LOW)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239151
-#EXTINF:-1 tvg-name="PT- BLAZE (LOW)" tvg-logo="https://www.nos.pt/particulares/televisao/CANAIS/PublishingImages/blaze/logo.png" group-title="CANAIS | PORTUGAL",PT- BLAZE (LOW)
+#EXTINF:-1 tvg-name="PT- BLAZE (LOW)" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/blaze/logo.png" group-title="CANAIS | PORTUGAL",PT- BLAZE (LOW)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239150
 #EXTINF:-1 tvg-name="PT- CAZA E PESCA (LOW)" tvg-logo="https://i.imgur.com/xpqAcSz.png" group-title="CANAIS | PORTUGAL",PT- CAZA E PESCA (LOW)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239149
@@ -423,7 +420,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239146
 #EXTINF:-1 tvg-name="PT- CINEMUNDO (LOW)" tvg-logo="https://3.bp.blogspot.com/-mHEz-7oSIXw/VSene5r6G5I/AAAAAAAAEyE/4R-rWWL9nyo/s1600/Cinemundo%2Blogo%2B1.png" group-title="CANAIS | PORTUGAL",PT- CINEMUNDO (LOW)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239145
-#EXTINF:-1 tvg-name="PT- CRIME INVESTIGATION (LOW)" tvg-logo="https://www.nos.pt/particulares/televisao/CANAIS/PublishingImages/CI/logo-white.png" group-title="CANAIS | PORTUGAL",PT- CRIME INVESTIGATION (LOW)
+#EXTINF:-1 tvg-name="PT- CRIME INVESTIGATION (LOW)" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/CI/logo-white.png" group-title="CANAIS | PORTUGAL",PT- CRIME INVESTIGATION (LOW)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239144
 #EXTINF:-1 tvg-name="PT- DISCOVERY CHANNEL (LOW)" tvg-logo="https://i.imgur.com/kpeMjrn.png" group-title="CANAIS | PORTUGAL",PT- DISCOVERY CHANNEL (LOW)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/239143
