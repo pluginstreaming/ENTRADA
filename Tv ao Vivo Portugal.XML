@@ -1,12 +1,30 @@
-#EXTM3U
-#BEM-VINDOS A PORTUGAL
-#Aproveite os melhores canais e programas ao vivo!
-#Fanart: https://baf-qrcode.b-cdn.net/17290890004247401151661244624308.jpg
-#Carregado em: [EXECUTED AT: ${datetime.now().strftime('%Y-%m-%d %H:%M:%S')}]
+from datetime import datetime
 
-#EXTINF:-1 tvg-name="PT: 24 KITCHEN FHD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="CANAIS | PORTUGAL",PT: 24 KITCHEN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990918
-#EXTINF:-1 tvg-name="PT: 24 KITCHEN HD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="CANAIS | PORTUGAL",PT: 24 KITCHEN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990917
-#EXTINF:-1 tvg-name="PT: AFRO MUSIC" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="CANAIS | PORTUGAL",PT: AFRO MUSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990919
+# Função para gerar o script com os canais
+def gerar_script_m3u():
+    # Cabeçalho da lista
+    script = "#EXTM3U\n"
+    script += "#BEM-VINDOS A PORTUGAL\n"
+    script += "#Aproveite os melhores canais e programas ao vivo!\n"
+    script += "#Fanart: https://baf-qrcode.b-cdn.net/17290890004247401151661244624308.jpg\n"
+    # Adicionar data e hora atual
+    script += f"#Carregado em: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n"
+    
+    # Adicionar links de canais
+    script += '#EXTINF:-1 tvg-name="PT: 24 KITCHEN FHD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="CANAIS | PORTUGAL",PT: 24 KITCHEN FHD\n'
+    script += 'plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990918\n'
+    
+    script += '#EXTINF:-1 tvg-name="PT: 24 KITCHEN HD" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="CANAIS | PORTUGAL",PT: 24 KITCHEN HD\n'
+    script += 'plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990917\n'
+
+    script += '#EXTINF:-1 tvg-name="PT: AFRO MUSIC" tvg-logo="https://imagizer.imageshack.com/img924/1485/4KMh11.jpg" group-title="CANAIS | PORTUGAL",PT: AFRO MUSIC\n'
+    script += 'plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/990919\n'
+
+    # Retorna o script completo
+    return script
+
+# Gera o script e salva em um arquivo
+with open('lista_canais.m3u', 'w') as file:
+    file.write(gerar_script_m3u())
+
+print("Script gerado com sucesso!")
