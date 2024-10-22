@@ -755,6 +755,9 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 
 
 
+
+
+
 #EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="PT | A BOLA TV" tvg-logo="https://sport-tv-guide.live/images/stations/a798.png" group-title="PORTUGAL",PT | A BOLA TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://extrahub.click:80/play/i-gFwJkanHxh0PkAjysY5XtRW6m3dbqdZnv5h6t4fhw
 #EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="PT | A BOLA TV(OPCAO 2)" tvg-logo="https://sport-tv-guide.live/images/stations/a798.png" group-title="PORTUGAL",PT | A BOLA TV(OPCAO 2)
