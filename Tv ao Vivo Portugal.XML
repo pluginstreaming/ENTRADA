@@ -403,6 +403,9 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 
 
 
+
+
+
 #EXTINF:-1 tvg-name="BTV SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5y6g-ZT3GbDQrViKWeukZoOAo4ntXH7Hv-A&s" group-title="[COLOR green]CANAIS[/COLOR] | [COLOR red]PORTUGAL[/COLOR]",BTV SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://asrv.io:80/5518997505280/ZQX8oNjL/27417670
 #EXTINF:-1 tvg-name="BTV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5y6g-ZT3GbDQrViKWeukZoOAo4ntXH7Hv-A&s" group-title="[COLOR green]CANAIS[/COLOR] | [COLOR red]PORTUGAL[/COLOR]",BTV HD
