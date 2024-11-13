@@ -3,48 +3,7 @@
 
 
 
-#EXTINF:-1 tvg-name="Teleweb TV ✪ | BR" tvg-logo="https://cdn.m3u.cl/logo/982_Teleweb_TV.png" group-title="✅BRASIL",Teleweb TV ✪ | BR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1218.ts
-#EXTINF:-1 tvg-name="Vintage TV ✪ | BR" tvg-logo="https://cdn.m3u.cl/logo/988_Vintage_TV.png" group-title="✅BRASIL",Vintage TV ✪ | BR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1220.ts
-#EXTINF:-1 tvg-name="Agro Brasil TV | BR" tvg-logo="https://cdn.m3u.cl/logo/593_Agro_Brasil_TV.png" group-title="✅BRASIL",Agro Brasil TV | BR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1221.ts
-#EXTINF:-1 tvg-name="Classique TV | BR" tvg-logo="https://cdn.m3u.cl/logo/547_Classique_TV.png" group-title="✅BRASIL",Classique TV | BR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1224.ts
-#EXTINF:-1 tvg-name="Record News Espirito Santo | BR" tvg-logo="https://cdn.m3u.cl/logo/572_Record_News_Espirito_Santo.png" group-title="✅BRASIL",Record News Espirito Santo | BR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1226.ts
-#EXTINF:-1 tvg-name="TV Água Boa | BR" tvg-logo="https://cdn.m3u.cl/logo/551_TV_Agua_Boa.png" group-title="✅BRASIL",TV Água Boa | BR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1231.ts
-#EXTINF:-1 tvg-name="TV Curuça | BR" tvg-logo="https://cdn.m3u.cl/logo/1296_TV_Curuca.png" group-title="✅BRASIL",TV Curuça | BR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1233.ts
-#EXTINF:-1 tvg-name="TV Destak | BR" tvg-logo="https://cdn.m3u.cl/logo/531_TV_Destak.png" group-title="✅BRASIL",TV Destak | BR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1234.ts
-#EXTINF:-1 tvg-name="TV Digital Birigui | BR" tvg-logo="https://cdn.m3u.cl/logo/536_TV_Digital_Birigui.jpg" group-title="✅BRASIL",TV Digital Birigui | BR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1238.ts
-#EXTINF:-1 tvg-name="TV Mais | BR" tvg-logo="https://cdn.m3u.cl/logo/989_TV_Mais.png" group-title="✅BRASIL",TV Mais | BR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1241.ts
-#EXTINF:-1 tvg-name="TV Mundial | BR" tvg-logo="https://cdn.m3u.cl/logo/567_TV_Mundial.jpg" group-title="✅BRASIL",TV Mundial | BR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1243.ts
-#EXTINF:-1 tvg-name="TV Rio Preto | BR" tvg-logo="https://cdn.m3u.cl/logo/582_TV_Rio_Preto.png" group-title="✅BRASIL",TV Rio Preto | BR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1246.ts
-#EXTINF:-1 tvg-name="Canal 29 | BR" tvg-logo="https://cdn.m3u.cl/logo/559_Canal_29.png" group-title="✅BRASIL",Canal 29 | BR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1260.ts
-#EXTINF:-1 tvg-name="Gospel Cartoon | BR" tvg-logo="https://cdn.m3u.cl/logo/528_Gospel_Cartoon.png" group-title="✅BRASIL",Gospel Cartoon | BR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1262.ts
-#EXTINF:-1 tvg-name="ISTV | BR" tvg-logo="https://cdn.m3u.cl/logo/554_ISTV.jpg" group-title="✅BRASIL",ISTV | BR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1263.ts
-#EXTINF:-1 tvg-name="Retro Cartoon | BR" tvg-logo="https://cdn.m3u.cl/logo/555_Retro_Cartoon.png" group-title="✅BRASIL",Retro Cartoon | BR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1265.ts
-#EXTINF:-1 tvg-name="TV Japi | BR" tvg-logo="https://cdn.m3u.cl/logo/550_TV_Japi.png" group-title="✅BRASIL",TV Japi | BR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1268.ts
-#EXTINF:-1 tvg-name="Top TV | BR" tvg-logo="https://cdn.m3u.cl/logo/546_Top_TV.png" group-title="✅BRASIL",Top TV | BR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1271.ts
-#EXTINF:-1 tvg-name="Gospel Movies Television | BR" tvg-logo="https://cdn.m3u.cl/logo/540_Gospel_Movies_Television.jpg" group-title="✅BRASIL",Gospel Movies Television | BR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1272.ts
-#EXTINF:-1 tvg-name="Nuevo Tiempo | BR" tvg-logo="https://cdn.m3u.cl/logo/165_Nuevo_Tiempo.png" group-title="✅BRASIL",Nuevo Tiempo | BR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1273.ts
-#EXTINF:-1 tvg-name="TV Rede Gospel | BR" tvg-logo="https://cdn.m3u.cl/logo/566_TV_Rede_Gospel.jpg" group-title="✅BRASIL",TV Rede Gospel | BR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1278.ts
+
 #EXTINF:-1 tvg-name="BR : GLOBO HD" tvg-logo="https://baf-qrcode.b-cdn.net/file-37j2JTEYMvELHXnBlRgRgvZz.webp" group-title="✅BRASIL",BR : GLOBO HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/256149.ts
 #EXTINF:-1 tvg-name="BAND CAMPINAS SD" tvg-logo="https://baf-qrcode.b-cdn.net/file-37j2JTEYMvELHXnBlRgRgvZz.webp" group-title="✅BRASIL",BAND CAMPINAS SD
@@ -109,7 +68,46 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/270066.ts
 #EXTINF:-1 tvg-name="Rede TV(NET)" tvg-logo="https://baf-qrcode.b-cdn.net/file-37j2JTEYMvELHXnBlRgRgvZz.webp" group-title="✅BRASIL",Rede TV(NET)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/270067.ts
-
-
-
+#EXTINF:-1 tvg-name="Teleweb TV ✪ | BR" tvg-logo="https://cdn.m3u.cl/logo/982_Teleweb_TV.png" group-title="✅BRASIL",Teleweb TV ✪ | BR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1218.ts
+#EXTINF:-1 tvg-name="Vintage TV ✪ | BR" tvg-logo="https://cdn.m3u.cl/logo/988_Vintage_TV.png" group-title="✅BRASIL",Vintage TV ✪ | BR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1220.ts
+#EXTINF:-1 tvg-name="Agro Brasil TV | BR" tvg-logo="https://cdn.m3u.cl/logo/593_Agro_Brasil_TV.png" group-title="✅BRASIL",Agro Brasil TV | BR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1221.ts
+#EXTINF:-1 tvg-name="Classique TV | BR" tvg-logo="https://cdn.m3u.cl/logo/547_Classique_TV.png" group-title="✅BRASIL",Classique TV | BR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1224.ts
+#EXTINF:-1 tvg-name="Record News Espirito Santo | BR" tvg-logo="https://cdn.m3u.cl/logo/572_Record_News_Espirito_Santo.png" group-title="✅BRASIL",Record News Espirito Santo | BR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1226.ts
+#EXTINF:-1 tvg-name="TV Água Boa | BR" tvg-logo="https://cdn.m3u.cl/logo/551_TV_Agua_Boa.png" group-title="✅BRASIL",TV Água Boa | BR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1231.ts
+#EXTINF:-1 tvg-name="TV Curuça | BR" tvg-logo="https://cdn.m3u.cl/logo/1296_TV_Curuca.png" group-title="✅BRASIL",TV Curuça | BR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1233.ts
+#EXTINF:-1 tvg-name="TV Destak | BR" tvg-logo="https://cdn.m3u.cl/logo/531_TV_Destak.png" group-title="✅BRASIL",TV Destak | BR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1234.ts
+#EXTINF:-1 tvg-name="TV Digital Birigui | BR" tvg-logo="https://cdn.m3u.cl/logo/536_TV_Digital_Birigui.jpg" group-title="✅BRASIL",TV Digital Birigui | BR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1238.ts
+#EXTINF:-1 tvg-name="TV Mais | BR" tvg-logo="https://cdn.m3u.cl/logo/989_TV_Mais.png" group-title="✅BRASIL",TV Mais | BR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1241.ts
+#EXTINF:-1 tvg-name="TV Mundial | BR" tvg-logo="https://cdn.m3u.cl/logo/567_TV_Mundial.jpg" group-title="✅BRASIL",TV Mundial | BR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1243.ts
+#EXTINF:-1 tvg-name="TV Rio Preto | BR" tvg-logo="https://cdn.m3u.cl/logo/582_TV_Rio_Preto.png" group-title="✅BRASIL",TV Rio Preto | BR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1246.ts
+#EXTINF:-1 tvg-name="Canal 29 | BR" tvg-logo="https://cdn.m3u.cl/logo/559_Canal_29.png" group-title="✅BRASIL",Canal 29 | BR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1260.ts
+#EXTINF:-1 tvg-name="Gospel Cartoon | BR" tvg-logo="https://cdn.m3u.cl/logo/528_Gospel_Cartoon.png" group-title="✅BRASIL",Gospel Cartoon | BR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1262.ts
+#EXTINF:-1 tvg-name="ISTV | BR" tvg-logo="https://cdn.m3u.cl/logo/554_ISTV.jpg" group-title="✅BRASIL",ISTV | BR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1263.ts
+#EXTINF:-1 tvg-name="Retro Cartoon | BR" tvg-logo="https://cdn.m3u.cl/logo/555_Retro_Cartoon.png" group-title="✅BRASIL",Retro Cartoon | BR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1265.ts
+#EXTINF:-1 tvg-name="TV Japi | BR" tvg-logo="https://cdn.m3u.cl/logo/550_TV_Japi.png" group-title="✅BRASIL",TV Japi | BR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1268.ts
+#EXTINF:-1 tvg-name="Top TV | BR" tvg-logo="https://cdn.m3u.cl/logo/546_Top_TV.png" group-title="✅BRASIL",Top TV | BR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1271.ts
+#EXTINF:-1 tvg-name="Gospel Movies Television | BR" tvg-logo="https://cdn.m3u.cl/logo/540_Gospel_Movies_Television.jpg" group-title="✅BRASIL",Gospel Movies Television | BR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1272.ts
+#EXTINF:-1 tvg-name="Nuevo Tiempo | BR" tvg-logo="https://cdn.m3u.cl/logo/165_Nuevo_Tiempo.png" group-title="✅BRASIL",Nuevo Tiempo | BR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1273.ts
+#EXTINF:-1 tvg-name="TV Rede Gospel | BR" tvg-logo="https://cdn.m3u.cl/logo/566_TV_Rede_Gospel.jpg" group-title="✅BRASIL",TV Rede Gospel | BR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1278.ts
 
