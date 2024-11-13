@@ -1,8 +1,8 @@
 #EXTM3U
 
 
-
-
+#EXTINF:-1 tvg-name="GLOBO CENTRO AMERICA(NET)" group-title="✅BRASIL",GLOBO CENTRO AMERICA(NET)
+http://boriflix.tv:80/Hugo123/Hugo123/270059.ts
 #EXTINF:-1 tvg-name="Teleweb TV ✪ | BR" tvg-logo="https://cdn.m3u.cl/logo/982_Teleweb_TV.png" group-title="✅BRASIL",Teleweb TV ✪ | BR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://boriflix.tv:80/Hugo123/Hugo123/1218.ts
 #EXTINF:-1 tvg-name="Vintage TV ✪ | BR" tvg-logo="https://cdn.m3u.cl/logo/988_Vintage_TV.png" group-title="✅BRASIL",Vintage TV ✪ | BR
