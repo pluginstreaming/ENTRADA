@@ -1,129 +1,62 @@
-#EXTM3U
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<items>
+
+
+<item>
+<title>[COLOR silver][B] SUPERMAN - COLEÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FD8CA8266B5E3ED80FF37808CFE1F7FE7850199C$$lsname=O FILME 1978</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6b1ef0eb398ca194949f0425df7e78923ff83947$$lsname=SUPERMAN II</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1dc1e8ef444a266ad9abbfa05a3486c89e217f5$$lsname=SUPERMAN III</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01533f4daf26ce9f9bc294587d1cabc7af22ec18$$lsname=SUPERMAN IV</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6800c0ec6bbeabbc356f5a42e1ffd5272c164a69$$lsname=SUPERMAN-O HOMEM DE AÇO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73d25802012d6309be1becb6aa7ae23bd95a7359$$lsname=SUPERMAN-O RETORNO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2f9tXyqJqHxYYJXiKQvlz07976e.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/k1d3n4TJAGTF90x93QhL9jKUaXv.jpg</fanart>
+<info>Esta coleção inclui a série de filmes de super-heróis originais do personagem Superman da DC Comics, estrelado por Christopher Reeve e a quinta e última parcela, Superman Returns, de 2006. A série é centrada em Clark Kent, um kryptoniano do planeta Krypton cujo nome de nascimento é Kal- El. Superman mora na cidade de Metrópolis, onde trabalha como jornalista para o jornal Planeta Diário.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] TRILOGIA - HOMEM ARANHA [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:W3XCP3C2FRPPK34PAFTRJ72R7TZSQHHY</link>                             
+<thumbnail>https://media.themoviedb.org/t/p/original/A39vPpNgZtQhe6sl0MUSyNKGLFS.jpg</thumbnail>
+<fanart>https://media.themoviedb.org/t/p/original/A39vPpNgZtQhe6sl0MUSyNKGLFS.jpg</fanart>
+<info> Orfão desde criança, Peter Parker vive em Nova York com sua querida tia May e seu estimado Tio Ben. Peter leva a vida normal de qualquer jovem estudante, trabalhando como fotógrafo no jornal Clarim Diário, sob a tutela do editor J. Jonah Jameson, correndo atrás da atraente Mary Jane e divertindo-se com seu amigo Harry Osborn. Durante uma excursão da escola, onde Peter e seus colegas assistem a demonstrações científicas com aranhas, Peter é mordido por uma aranha geneticamente modificada. Pouco depois, ele descobre que adquiriu poderes incríveis: ele vê-se dotado com força e agilidade de aranhas, bem como uma aguçada percepção extrasensorial "aracnídea". Como Homem Aranha, Peter entende as palavras do tio e decide usar seus extraordinários poderes na luta contra o crime. Enquanto isso, o empresário megalomaníaco Norman Osborn, pai de seu amigo Harry, também anda passando por transformações. Um teste com uma fórmula experimental aumenta sua força e inteligência, mas também o leva à insanidade. Agora, ele é o Duende Verde, que irá desafiar a determinação do jovem Peter Parker de combater o crime e ajudar inocentes. Inclui a versão estendida de Homem-Aranha 2</info>
+</item>
 
 
 
+<item>
+<title>[COLOR silver][B]  HOMEM ARANHA - SEM VOLTA PRA CASA [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PBXS2Q3UZHV3K5QO7OSUVRHTWW4NCZIB</link>                            
+<thumbnail>https://media.themoviedb.org/t/p/original/tjOKkZbzEUhVrGFeMgyUct28iZC.jpg</thumbnail>
+<fanart></fanart>
+<info>Depois do nosso herói ter sido desmascarado pelo seu inimigo Mysterio, Peter Parker já não é capaz de separar a sua vida normal do seu estatuto de super-herói, pelo que só lhe resta pedir ajuda ao Mestre das Artes Místicas, o Doutor Estranho, para que apague a sua real identidade da cabeça de todos. No entanto, esse feitiço leva-o a uma realidade que não é a sua e onde terá de enfrentar novos inimigos, ainda mais perigosos, forçando-o a descobrir o que realmente significa ser o Homem-Aranha. </info>
+</item>
 
-#EXTINF:-1 tvg-name="Resgate no Oeste (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cZc77NqnbELikUxv8i7YpnOCfkO.jpg" group-title="FAROESTE",Resgate no Oeste (2016)
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347838.mp4
-#EXTINF:-1 tvg-name="Terra dos Bravos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvbgUujcz9UF1fBe31v755bOmFG.jpg" group-title="FAROESTE",Terra dos Bravos (2019)
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347837.mp4
-#EXTINF:-1 tvg-name="Bronco Billy (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qiWVmWUq4M9Hc2Ui4jPkAnX6oAz.jpg" group-title="FAROESTE",Bronco Billy (1980)
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347836.mp4
-#EXTINF:-1 tvg-name="Sangue de Heróis (1948)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEfLxT1N3WWHpXTfkGyuioisT4p.jpg" group-title="FAROESTE",Sangue de Heróis (1948)
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347835.mp4
-#EXTINF:-1 tvg-name="Vingança & Castigo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/29WYtxffy1NJhxXZ8al5XJ8US1s.jpg" group-title="FAROESTE",Vingança & Castigo (2021)
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347833.mp4
-#EXTINF:-1 tvg-name="Vingana Cega" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/29WYtxffy1NJhxXZ8al5XJ8US1s.jpg" group-title="FAROESTE",Vingana Cega
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347832.mp4
-#EXTINF:-1 tvg-name="O Homem do Oeste (1958)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jmTbK9u2h3LDbx9vsWs1BZIIzxI.jpg" group-title="FAROESTE",O Homem do Oeste (1958)
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347831.mp4
-#EXTINF:-1 tvg-name="Uma Pistola Para Ringo (1965)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pveEikUHPYHulL4gVZEAe9Sf4MQ.jpg" group-title="FAROESTE",Uma Pistola Para Ringo (1965)
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347830.mp4
-#EXTINF:-1 tvg-name="Por um Punhado de Dlares" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pveEikUHPYHulL4gVZEAe9Sf4MQ.jpg" group-title="FAROESTE",Por um Punhado de Dlares
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347829.mp4
-#EXTINF:-1 tvg-name="Butch Cassidy and the Sundance Kid (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9y8PLKzxqsZLuctYMaEaC5XSXN4.jpg" group-title="FAROESTE",Butch Cassidy and the Sundance Kid (2014)
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347828.mp4
-#EXTINF:-1 tvg-name="Wyatt Earp (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51LItgyecu2KMAtIchYogEykCIu.jpg" group-title="FAROESTE",Wyatt Earp (1994)
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347826.mp4
-#EXTINF:-1 tvg-name="El desafío de Pancho Villa (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0ldcLdkQ0xZ2uc5V2Dq0j7cfNb.jpg" group-title="FAROESTE",El desafío de Pancho Villa (1972)
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347823.mp4
-#EXTINF:-1 tvg-name="Uma Cidade Contra o Xerife (1969)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0o188F7ZuplQI171sbBxVn4kYu.jpg" group-title="FAROESTE",Uma Cidade Contra o Xerife (1969)
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347821.mp4
-#EXTINF:-1 tvg-name="Trs Homens em Conflito" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0o188F7ZuplQI171sbBxVn4kYu.jpg" group-title="FAROESTE",Trs Homens em Conflito
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347818.mp4
-#EXTINF:-1 tvg-name="Punidos Pelo Prprio Sangue" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0o188F7ZuplQI171sbBxVn4kYu.jpg" group-title="FAROESTE",Punidos Pelo Prprio Sangue
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347817.mp4
-#EXTINF:-1 tvg-name="Os Jovens Pistoleiros (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVSLobLOyZqgUguTF5BZKEfRuhs.jpg" group-title="FAROESTE",Os Jovens Pistoleiros (1988)
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347816.mp4
-#EXTINF:-1 tvg-name="Wyatt Earp's Revenge" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVSLobLOyZqgUguTF5BZKEfRuhs.jpg" group-title="FAROESTE",Wyatt Earp's Revenge
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347814.mp4
-#EXTINF:-1 tvg-name="Big Kill - A Cidade do Medo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNJjVkLXgMi5sk3gVMV9oiHrVKq.jpg" group-title="FAROESTE",Big Kill - A Cidade do Medo (2019)
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347812.mp4
-#EXTINF:-1 tvg-name="No Vale da Violncia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNJjVkLXgMi5sk3gVMV9oiHrVKq.jpg" group-title="FAROESTE",No Vale da Violncia
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347811.mp4
-#EXTINF:-1 tvg-name="Um Refgio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNJjVkLXgMi5sk3gVMV9oiHrVKq.jpg" group-title="FAROESTE",Um Refgio
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347808.mp4
-#EXTINF:-1 tvg-name="Alma de Cowboy (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OBNEWwkFhsArvWJwgeL9BFmU7c.jpg" group-title="FAROESTE",Alma de Cowboy (2020)
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347806.mp4
-#EXTINF:-1 tvg-name="Enterrem Meu Corao na Curva do Rio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OBNEWwkFhsArvWJwgeL9BFmU7c.jpg" group-title="FAROESTE",Enterrem Meu Corao na Curva do Rio
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347804.mp4
-#EXTINF:-1 tvg-name="Trinity é o Meu Nome (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e3yxh1bd7Z8wikMTJJ4jJevqtr.jpg" group-title="FAROESTE",Trinity é o Meu Nome (1970)
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347802.mp4
-#EXTINF:-1 tvg-name="Silverado (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6zurzegRKsNGMICXZ57VJDUzXO.jpg" group-title="FAROESTE",Silverado (1985)
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347799.mp4
-#EXTINF:-1 tvg-name="O Trem do Inferno (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bWNV5YyYhXYjEaMW4L3iLkg1Dk.jpg" group-title="FAROESTE",O Trem do Inferno (1975)
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347797.mp4
-#EXTINF:-1 tvg-name="Sob o Sol do Oeste (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSA7maO0olKMY16hwTiG6PCKOXq.jpg" group-title="FAROESTE",Sob o Sol do Oeste (2018)
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347795.mp4
-#EXTINF:-1 tvg-name="O Cavaleiro Solitrio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSA7maO0olKMY16hwTiG6PCKOXq.jpg" group-title="FAROESTE",O Cavaleiro Solitrio
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347794.mp4
-#EXTINF:-1 tvg-name="Justia   Entre a Lei e a Vingana" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSA7maO0olKMY16hwTiG6PCKOXq.jpg" group-title="FAROESTE",Justia   Entre a Lei e a Vingana
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347789.mp4
-#EXTINF:-1 tvg-name="Gerônimo: Uma Lenda Americana (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oW4IM0G5fCR68YalmemTGbPK15F.jpg" group-title="FAROESTE",Gerônimo: Uma Lenda Americana (1993)
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347787.mp4
-#EXTINF:-1 tvg-name="Django Livre (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ar63Sx8jeqk0OOu2uchS477S2zE.jpg" group-title="FAROESTE",Django Livre (2012)
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347784.mp4
-#EXTINF:-1 tvg-name="Keoma (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SphX2YG2FxEkT2IVxlcKFeOjfY.jpg" group-title="FAROESTE",Keoma (1976)
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347781.mp4
-#EXTINF:-1 tvg-name="Assim Caminha a Humanidade (1956)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxjmr0giX8l19XepjXZVoyL30lK.jpg" group-title="FAROESTE",Assim Caminha a Humanidade (1956)
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347778.mp4
-#EXTINF:-1 tvg-name="Os Oito Odiados (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfTo9U9OgOXODEEspNnYFuZdR1q.jpg" group-title="FAROESTE",Os Oito Odiados (2015)
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347776.mp4
-#EXTINF:-1 tvg-name="Criminosos e Anjos (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x3nA5xQn2eOp9ohHLKsPa6z3eNZ.jpg" group-title="FAROESTE",Criminosos e Anjos (2016)
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347774.mp4
-#EXTINF:-1 tvg-name="Onde Imperam as Balas (1956)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dseUhH2ZGlDmAI3UndbNgfS8KuX.jpg" group-title="FAROESTE",Onde Imperam as Balas (1956)
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347773.mp4
-#EXTINF:-1 tvg-name="Nomadland (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/589uhtJOujc72fgNl6HcMYJS64D.jpg" group-title="FAROESTE",Nomadland (2021)
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347771.mp4
-#EXTINF:-1 tvg-name="O Bom, O Ruim, o Estranho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/589uhtJOujc72fgNl6HcMYJS64D.jpg" group-title="FAROESTE", o Estranho
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347769.mp4
-#EXTINF:-1 tvg-name="Old Henry" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/589uhtJOujc72fgNl6HcMYJS64D.jpg" group-title="FAROESTE",Old Henry
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347768.mp4
-#EXTINF:-1 tvg-name="Cactus Jack, o Vilão (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xs8JEbXMkMUtY30HwFiFsrLQDs2.jpg" group-title="FAROESTE", o Vilão (1979)
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347767.mp4
-#EXTINF:-1 tvg-name="Lucky Luke (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cnBw87wu31s6VM6LKilokFwgqZu.jpg" group-title="FAROESTE",Lucky Luke (1991)
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347766.mp4
-#EXTINF:-1 tvg-name="A Salvação (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkuXj5nma1UKajzX3ef0hcmRNao.jpg" group-title="FAROESTE",A Salvação (2014)
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347764.mp4
-#EXTINF:-1 tvg-name="Inferno no Faroeste (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wwpD6suBvsqIgSVm7xyqeVQ21LI.jpg" group-title="FAROESTE",Inferno no Faroeste (2013)
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347763.mp4
-#EXTINF:-1 tvg-name="O ltimo Duelo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wwpD6suBvsqIgSVm7xyqeVQ21LI.jpg" group-title="FAROESTE",O ltimo Duelo
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347760.mp4
-#EXTINF:-1 tvg-name="Inferno no Faroeste2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wwpD6suBvsqIgSVm7xyqeVQ21LI.jpg" group-title="FAROESTE",Inferno no Faroeste2
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347759.mp4
-#EXTINF:-1 tvg-name="Django (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYsDq0fTMC1XuEg63NOXfxzHBJY.jpg" group-title="FAROESTE",Django (1966)
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347758.mp4
-#EXTINF:-1 tvg-name="A Lenda do Cavaleiro Solitrio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYsDq0fTMC1XuEg63NOXfxzHBJY.jpg" group-title="FAROESTE",A Lenda do Cavaleiro Solitrio
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347755.mp4
-#EXTINF:-1 tvg-name="Hostis (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncHc81uGBw4PmsKfkFTJNCSKWgc.jpg" group-title="FAROESTE",Hostis (2017)
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347753.mp4
-#EXTINF:-1 tvg-name="Desperate Riders" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncHc81uGBw4PmsKfkFTJNCSKWgc.jpg" group-title="FAROESTE",Desperate Riders
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347749.mp4
-#EXTINF:-1 tvg-name="Cidade de Fantasmas (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c1RxAfjPsSWV1PxuxnJM9BXMTFP.jpg" group-title="FAROESTE",Cidade de Fantasmas (2017)
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347748.mp4
-#EXTINF:-1 tvg-name="Califrnia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c1RxAfjPsSWV1PxuxnJM9BXMTFP.jpg" group-title="FAROESTE",Califrnia
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347747.mp4
-#EXTINF:-1 tvg-name="A Caminho do Oeste (1967)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9E0w4E3wazxx4qm70MJSTWHnBI.jpg" group-title="FAROESTE",A Caminho do Oeste (1967)
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347745.mp4
-#EXTINF:-1 tvg-name="Cry Macho: O Caminho para a Redenção (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ei16H5IuCVt9pHYdQMkxOXeIkbp.jpg" group-title="FAROESTE",Cry Macho: O Caminho para a Redenção (2021)
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347743.mp4
-#EXTINF:-1 tvg-name="A Lenda de Wild Bill Hickok" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ei16H5IuCVt9pHYdQMkxOXeIkbp.jpg" group-title="FAROESTE",A Lenda de Wild Bill Hickok
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347742.mp4
-#EXTINF:-1 tvg-name="A Hora da Pistola (1967)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4sFnOXm9wvJIfWzfwIvTN1dZ8KE.jpg" group-title="FAROESTE",A Hora da Pistola (1967)
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347741.mp4
-#EXTINF:-1 tvg-name="Audcia de Um Forasteiro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4sFnOXm9wvJIfWzfwIvTN1dZ8KE.jpg" group-title="FAROESTE",Audcia de Um Forasteiro
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347739.mp4
-#EXTINF:-1 tvg-name="A Vingana de Lefty Brown" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4sFnOXm9wvJIfWzfwIvTN1dZ8KE.jpg" group-title="FAROESTE",A Vingana de Lefty Brown
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347737.mp4
-#EXTINF:-1 tvg-name="1:10 (1969)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="FAROESTE",1:10 (1969)
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347736.mp4
-#EXTINF:-1 tvg-name="Amaldioada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="FAROESTE",Amaldioada
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347735.mp4
-#EXTINF:-1 tvg-name="A Qualquer Custo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fz3RPQPquiyb4xi0isCIf6lIx7F.jpg" group-title="FAROESTE",A Qualquer Custo (2016)
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347734.mp4
-#EXTINF:-1 tvg-name="A Balada de Buster Scruggs (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nb4crpD43qLIlNj3k5mqC0izPCk.jpg" group-title="FAROESTE",A Balada de Buster Scruggs (2018)
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347733.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="FAROESTE",
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347732.mp4
-#EXTINF:-1 tvg-name="Alm da Liberdade   20019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="FAROESTE",Alm da Liberdade   20019
-http://bit.com.vc:80/movie/leonardo123/leonardo123/1347731.mp4
+
+
+<item>
+<title>[COLOR silver][B] HOMEM ARANHA - DE VOLTA AO LAR [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:24A2B95FCE907E19C69B3F1D0A2F0874EC01FA1E</link>                            
+<thumbnail>https://media.themoviedb.org/t/p/original/iLhIoKnj7G9I5NyknnS2YAxMizS.jpg</thumbnail>
+<fanart></fanart>
+<info>Entusiasmado com a sua recente experiência com os Vingadores, Peter regressa a casa, onde vive com a tia May, sob o olhar vigilante no seu novo mentor, Tony Stark. Peter procura reintegrar-se na sua rotina diária, sempre focado no desejo de provar que não é apenas o super-herói simpático que vive nas redondezas, e, assim sendo, quando Vulture surge como o novo vilão, tudo o que é mais importante para Peter fica ameaçado…</info>
+</item>
+
+
+
+<item>
+<title>[COLOR silver][B] DUOLOGIA - VENOM [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b019304dd9a72f74675d1a9411973fdef6545b2f$$lsname=TEMPO DE CARNIFICINA</link> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EB2196840A2133A26AEE37CEEE0D2BCC2C7A2D3A$$lsname=VENOM</link>   
+<thumbnail>https://media.themoviedb.org/t/p/original/hoTLlTIohrzQ13HQVkZrDlvffuT.jpg</thumbnail>
+<fanart></fanart>
+<info> Após os eventos do primeiro filme, o relacionamento entre Eddie (Tom Hardy) e o Venom está evoluindo. Buscando a melhor forma de lidar com a inevitável simbiose, esse dois lados descobrem como viver juntos e, de alguma forma, se tornarem melhores juntos do que separados. Brock tenta reviver sua carreira ao entrevistar o serial killer Cletus Kasady (Woody Harrelson), que escapa da prisão e se torna o novo hospedeiro do simbionte Carnificina.</info>
+</item>
+
+
+
+</items> 
+
