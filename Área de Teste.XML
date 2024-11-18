@@ -1,6 +1,17 @@
+<playercorefactory>
+    <players>
+        <player name="VLC" type="ExternalPlayer">
+            <filename>C:\Program Files\VideoLAN\VLC\vlc.exe</filename>
+            <args>{1}</args>
+            <hidestdin>true</hidestdin>
+            <hideconsole>true</hideconsole>
+        </player>
+    </players>
+</playercorefactory>
 
 
 
 #EXTINF:-1 tvg-name="Globo AC Rede Amazônica Rio Branco FHD" tvg-logo="https://w7.pngwing.com/pngs/452/30/png-transparent-rede-globo-globo-tv-international-grupo-globo-television-globosat-jato-television-broadcasting-television-channel-thumbnail.png" group-title="CANAIS GLOBO NORTE",Globo AC Rede Amazônica Rio Branco FHD
-http://axr.radio.fm:80/Daniel1234/Daniel1234/2639673|User-Agent=Mozilla/5.0&Referer=http://axr.radio.fm
+http://axr.radio.fm:80/Daniel1234/Daniel1234/2639673?User-Agent=Mozilla/5.0&Referer=http://axr.radio.fm
+
 
