@@ -1,12 +1,6 @@
 #EXTM3U
 
 
-
-#EXTM3U
-
-
-
-
 #EXTINF:-1 tvg-name="*ES | M. La Liga (OPC5)" group-title="ESPANHA",*ES | M. La Liga (OPC5)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://axr.radio.fm:80/Daniel1234/Daniel1234/2819504
 #EXTINF:-1 tvg-name="ES  | MOVISTAR DEPORTES 1 FULL HD" group-title="ESPANHA",ES  | MOVISTAR DEPORTES 1 FULL HD
