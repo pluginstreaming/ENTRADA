@@ -15,20 +15,30 @@
 
 
 <channel>
-<name>[B][COLOR blue][/COLOR] [COLOR yellow] AÇÃO [/COLOR][/B]</name>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow] BASEADO EM FATOS [/COLOR][/B]</name>
 <thumbnail>https://baf-qrcode.b-cdn.net/icon.jpeg</thumbnail>
 <fanart>https://baf-qrcode.b-cdn.net/fanart.jpeg</fanart>
 <info>[COLOR blue] [COLOR blue] Bem vindo ao addon PluginStream Add-on [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/refs/heads/main/CATEGORIA%20A%C3%87%C3%83O.XML</externallink>
+<externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/main/Baseado%20em%20Fatos.XML</externallink>
 </channel>
 
 
 <channel>
-<name>[B][COLOR blue][/COLOR] [COLOR yellow] GUERRA [/COLOR][/B]</name>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow]  DOCUMENTÁRIOS [/COLOR][/B]</name>
 <thumbnail>https://baf-qrcode.b-cdn.net/icon.jpeg</thumbnail>
 <fanart>https://baf-qrcode.b-cdn.net/fanart.jpeg</fanart>
 <info>[COLOR blue] [COLOR blue] Bem vindo ao addon PluginStream Add-on [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/refs/heads/main/Filmes%20de%20Guerra.XML</externallink> 
+<externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/refs/heads/main/CATEGORIA%20DOCUMENT%C3%81RIOS.XML</externallink>
+</channel>
+
+
+
+<channel>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow] SUSPENSE [/COLOR][/B]</name>
+<thumbnail>https://baf-qrcode.b-cdn.net/icon.jpeg</thumbnail>
+<fanart>https://baf-qrcode.b-cdn.net/fanart.jpeg</fanart>
+<info>[COLOR blue] [COLOR blue] Bem vindo ao addon PluginStream Add-on [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/refs/heads/main/CATEGORIA%20SUSPENSE.XML</externallink>
 </channel>
 
 
@@ -42,56 +52,11 @@
 
 
 <channel>
-<name>[B][COLOR blue][/COLOR] [COLOR yellow]  COMÉDIA [/COLOR][/B]</name>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow] GUERRA [/COLOR][/B]</name>
 <thumbnail>https://baf-qrcode.b-cdn.net/icon.jpeg</thumbnail>
 <fanart>https://baf-qrcode.b-cdn.net/fanart.jpeg</fanart>
 <info>[COLOR blue] [COLOR blue] Bem vindo ao addon PluginStream Add-on [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/refs/heads/main/CATEGORIA%20COM%C3%89DIA.XML</externallink>
-</channel>
-
-
-<channel>
-<name>[B][COLOR blue][/COLOR] [COLOR yellow]  DOCUMENTÁRIOS [/COLOR][/B]</name>
-<thumbnail>https://baf-qrcode.b-cdn.net/icon.jpeg</thumbnail>
-<fanart>https://baf-qrcode.b-cdn.net/fanart.jpeg</fanart>
-<info>[COLOR blue] [COLOR blue] Bem vindo ao addon PluginStream Add-on [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/refs/heads/main/CATEGORIA%20DOCUMENT%C3%81RIOS.XML</externallink>
-</channel>
-
-
-<channel>
-<name>[B][COLOR blue][/COLOR] [COLOR yellow]  ROMANCE [/COLOR][/B]</name>
-<thumbnail>https://baf-qrcode.b-cdn.net/icon.jpeg</thumbnail>
-<fanart>https://baf-qrcode.b-cdn.net/fanart.jpeg</fanart>
-<info>[COLOR blue] [COLOR blue] Bem vindo ao addon PluginStream Add-on [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/refs/heads/main/CATEGORIA%20ROMANCE.XML</externallink>
-</channel>
-
-
-<channel>
-<name>[B][COLOR blue][/COLOR] [COLOR yellow] BASEADO EM FATOS [/COLOR][/B]</name>
-<thumbnail>https://baf-qrcode.b-cdn.net/icon.jpeg</thumbnail>
-<fanart>https://baf-qrcode.b-cdn.net/fanart.jpeg</fanart>
-<info>[COLOR blue] [COLOR blue] Bem vindo ao addon PluginStream Add-on [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/main/Baseado%20em%20Fatos.XML</externallink>
-</channel>
-
-
-<channel>
-<name>[B][COLOR blue][/COLOR] [COLOR yellow] TERROR [/COLOR][/B]</name>
-<thumbnail>https://baf-qrcode.b-cdn.net/icon.jpeg</thumbnail>
-<fanart>https://baf-qrcode.b-cdn.net/fanart.jpeg</fanart>
-<info>[COLOR blue] [COLOR blue] Bem vindo ao addon PluginStream Add-on [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/refs/heads/main/CATEGORIA%20TERROR.XML</externallink>
-</channel>
-
-
-<channel>
-<name>[B][COLOR blue][/COLOR] [COLOR yellow] SUSPENSE [/COLOR][/B]</name>
-<thumbnail>https://baf-qrcode.b-cdn.net/icon.jpeg</thumbnail>
-<fanart>https://baf-qrcode.b-cdn.net/fanart.jpeg</fanart>
-<info>[COLOR blue] [COLOR blue] Bem vindo ao addon PluginStream Add-on [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/refs/heads/main/CATEGORIA%20SUSPENSE.XML</externallink>
+<externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/refs/heads/main/Filmes%20de%20Guerra.XML</externallink> 
 </channel>
 
 
@@ -105,6 +70,24 @@
 
 
 <channel>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow] AÇÃO [/COLOR][/B]</name>
+<thumbnail>https://baf-qrcode.b-cdn.net/icon.jpeg</thumbnail>
+<fanart>https://baf-qrcode.b-cdn.net/fanart.jpeg</fanart>
+<info>[COLOR blue] [COLOR blue] Bem vindo ao addon PluginStream Add-on [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/refs/heads/main/CATEGORIA%20A%C3%87%C3%83O.XML</externallink>
+</channel>
+
+
+<channel>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow] TERROR [/COLOR][/B]</name>
+<thumbnail>https://baf-qrcode.b-cdn.net/icon.jpeg</thumbnail>
+<fanart>https://baf-qrcode.b-cdn.net/fanart.jpeg</fanart>
+<info>[COLOR blue] [COLOR blue] Bem vindo ao addon PluginStream Add-on [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/refs/heads/main/CATEGORIA%20TERROR.XML</externallink>
+</channel>
+
+
+<channel>
 <name>[B][COLOR blue][/COLOR] [COLOR yellow] FAROESTE [/COLOR][/B]</name>
 <thumbnail>https://baf-qrcode.b-cdn.net/icon.jpeg</thumbnail>
 <fanart>https://baf-qrcode.b-cdn.net/fanart.jpeg</fanart>
@@ -114,11 +97,11 @@
 
 
 <channel>
-<name>[B][COLOR blue][/COLOR] [COLOR yellow] CLASSICOS [/COLOR][/B]</name>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow]  ROMANCE [/COLOR][/B]</name>
 <thumbnail>https://baf-qrcode.b-cdn.net/icon.jpeg</thumbnail>
 <fanart>https://baf-qrcode.b-cdn.net/fanart.jpeg</fanart>
 <info>[COLOR blue] [COLOR blue] Bem vindo ao addon PluginStream Add-on [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/main/Classicos.XML</externallink>
+<externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/refs/heads/main/CATEGORIA%20ROMANCE.XML</externallink>
 </channel>
 
 
@@ -137,6 +120,24 @@
 <fanart>https://baf-qrcode.b-cdn.net/fanart.jpeg</fanart>
 <info>[COLOR blue] [COLOR blue] Bem vindo ao addon PluginStream Add-on [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/refs/heads/main/CATEGORIA%20NACIONAL.XML</externallink>
+</channel>
+
+
+<channel>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow]  COMÉDIA [/COLOR][/B]</name>
+<thumbnail>https://baf-qrcode.b-cdn.net/icon.jpeg</thumbnail>
+<fanart>https://baf-qrcode.b-cdn.net/fanart.jpeg</fanart>
+<info>[COLOR blue] [COLOR blue] Bem vindo ao addon PluginStream Add-on [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/refs/heads/main/CATEGORIA%20COM%C3%89DIA.XML</externallink>
+</channel>
+
+
+<channel>
+<name>[B][COLOR blue][/COLOR] [COLOR yellow] CLASSICOS [/COLOR][/B]</name>
+<thumbnail>https://baf-qrcode.b-cdn.net/icon.jpeg</thumbnail>
+<fanart>https://baf-qrcode.b-cdn.net/fanart.jpeg</fanart>
+<info>[COLOR blue] [COLOR blue] Bem vindo ao addon PluginStream Add-on [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/main/Classicos.XML</externallink>
 </channel>
 
 
