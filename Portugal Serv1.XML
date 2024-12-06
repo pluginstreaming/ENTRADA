@@ -3,419 +3,285 @@
 
 
 
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="RTP1" tvg-logo="http://novaera4.club/logo/RTP1.png" group-title="★●• PORTUGAL ●•★",RTP1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/56
-#EXTINF:-1 tvg-id="RTPD1" tvg-name="RTP1ᴴᴰ" tvg-logo="http://novaera4.club/logo/RTP1HD.png" group-title="★●• PORTUGAL ●•★",RTP1ᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/57
-#EXTINF:-1 tvg-id="RTxxP2" tvg-name="RTP2" tvg-logo="http://novaera4.club/logo/RTP2.png" group-title="★●• PORTUGAL ●•★",RTP2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/54
-#EXTINF:-1 tvg-id="RTPD2" tvg-name="RTP2ᴴᴰ" tvg-logo="http://novaera4.club/logo/RTP2HD.png" group-title="★●• PORTUGAL ●•★",RTP2ᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/55
-#EXTINF:-1 tvg-id="RTP3" tvg-name="RTP3" tvg-logo="http://novaera4.club/logo/RTP3.png" group-title="★●• PORTUGAL ●•★",RTP3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/53
-#EXTINF:-1 tvg-id="RTP3" tvg-name="RTP3ᴴᴰ" tvg-logo="https://static.epg.best/pt/Rtp3.pt.png" group-title="★●• PORTUGAL ●•★",RTP3ᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/68654
-#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC" tvg-logo="http://novaera4.club/logo/SIC.png" group-title="★●• PORTUGAL ●•★",SIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/46
-#EXTINF:-1 tvg-id="SIC FHD" tvg-name="SICᴴᴰ" tvg-logo="http://novaera4.club/logo/SICHD.png" group-title="★●• PORTUGAL ●•★",SICᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/48
-#EXTINF:-1 tvg-id="TVI" tvg-name="TVI" tvg-logo="http://novaera4.club/logo/TVI.png" group-title="★●• PORTUGAL ●•★",TVI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/9
-#EXTINF:-1 tvg-id="TVID" tvg-name="TVIᴴᴰ" tvg-logo="http://novaera4.club/logo/TVIHD.png" group-title="★●• PORTUGAL ●•★",TVIᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/139
-#EXTINF:-1 tvg-id="TVI_FICCAO" tvg-name="V+ TVI" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ef/V%2BTVI_Logo.png" group-title="★●• PORTUGAL ●•★",V+ TVI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/7
-#EXTINF:-1 tvg-id="TVI_FICCAO" tvg-name="V+ TVIᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ef/V%2BTVI_Logo.png" group-title="★●• PORTUGAL ●•★",V+ TVIᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/21423
-#EXTINF:-1 tvg-id="TVI Reality" tvg-name="TVI Reality" tvg-logo="http://novaera4.club/logo/TVIREALITY.png" group-title="★●• PORTUGAL ●•★",TVI Reality
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/6
-#EXTINF:-1 tvg-id="TVIReality" tvg-name="TVI Realityᴴᴰ" tvg-logo="http://novaera4.club/logo/TVIREALITY.png" group-title="★●• PORTUGAL ●•★",TVI Realityᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/21424
-#EXTINF:-1 tvg-id="SICMhd" tvg-name="SIC Mulher" tvg-logo="http://novaera4.club/logo/SICMULHER.png" group-title="★●• PORTUGAL ●•★",SIC Mulher
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/45
-#EXTINF:-1 tvg-id="SICM" tvg-name="SIC Mulherᴴᴰ" tvg-logo="http://novaera4.club/logo/SICMULHERHD.png" group-title="★●• PORTUGAL ●•★",SIC Mulherᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/5454
-#EXTINF:-1 tvg-id="SICRhd" tvg-name="SIC Radical" tvg-logo="http://novaera4.club/logo/SICRADICAL.png" group-title="★●• PORTUGAL ●•★",SIC Radical
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/43
-#EXTINF:-1 tvg-id="SICR" tvg-name="SIC Radicalᴴᴰ" tvg-logo="http://novaera4.club/logo/SICRADICALHD.png" group-title="★●• PORTUGAL ●•★",SIC Radicalᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/5453
-#EXTINF:-1 tvg-id="SICCARAS" tvg-name="Sic Caras	" tvg-logo="http://novaera4.club/logo/SICCARAS.png" group-title="★●• PORTUGAL ●•★",Sic Caras	
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/49
-#EXTINF:-1 tvg-id="SICCARAShd" tvg-name="SIC Carasᴴᴰ" tvg-logo="https://static.epg.best/pt/SicCaras.pt.png" group-title="★●• PORTUGAL ●•★",SIC Carasᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/68645
-#EXTINF:-1 tvg-id="SIC Novelas" tvg-name="SIC NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/SICNovelas.png" group-title="★●• PORTUGAL ●•★",SIC NOVELAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/88700
-#EXTINF:-1 tvg-id="TV RECORD" tvg-name="TV Record" tvg-logo="http://novaera4.club/logo/TVRECORD.png" group-title="★●• PORTUGAL ●•★",TV Record
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/20
-#EXTINF:-1 tvg-id="TV RecordHD" tvg-name="TV Recordᴴᴰ" tvg-logo="http://novaera4.club/logo/TVRECORD.png" group-title="★●• PORTUGAL ●•★",TV Recordᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/3135
-#EXTINF:-1 tvg-id="GLObbO" tvg-name="TV Globo" tvg-logo="http://novaera4.club/logo/GLOBO.png" group-title="★●• PORTUGAL ●•★",TV Globo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/82
-#EXTINF:-1 tvg-id="GLObbO" tvg-name="TV Globoᴴᴰ" tvg-logo="http://novaera4.club/logo/GLOBOHD.png" group-title="★●• PORTUGAL ●•★",TV Globoᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/2002
-#EXTINF:-1 tvg-id="SICN" tvg-name="SIC Notícias" tvg-logo="http://novaera4.club/logo/SICNOTICIAS.png" group-title="★●• PORTUGAL ●•★",SIC Notícias
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/44
-#EXTINF:-1 tvg-id="SICNHd" tvg-name="SIC Notíciasᴴᴰ" tvg-logo="http://novaera4.club/logo/SICNOTICIASHD.png" group-title="★●• PORTUGAL ●•★",SIC Notíciasᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/2000
-#EXTINF:-1 tvg-id="cnnportugal.pt" tvg-name="CNN Portugal" tvg-logo="http://novaera4.club/logo/cnn.png" group-title="★●• PORTUGAL ●•★",CNN Portugal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/39826
-#EXTINF:-1 tvg-id="cnnportugal.pt" tvg-name="CNN Portugalᴴᴰ" tvg-logo="http://novaera4.club/logo/cnn.png" group-title="★●• PORTUGAL ●•★",CNN Portugalᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/5451
-#EXTINF:-1 tvg-id="CMTVhd" tvg-name="CMTV" tvg-logo="http://novaera4.club/logo/CMTV.png" group-title="★●• PORTUGAL ●•★",CMTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/111
-#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTVᴴᴰ" tvg-logo="http://novaera4.club/logo/CMTVHD.png" group-title="★●• PORTUGAL ●•★",CMTVᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/65958
-#EXTINF:-1 tvg-id="A BOLA" tvg-name="A Bola TV" tvg-logo="http://novaera4.club/logo/ABOLATV.png" group-title="★●• PORTUGAL ●•★",A Bola TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/137
-#EXTINF:-1 tvg-id="A BOLA HD" tvg-name="A Bola TVᴴᴰ" tvg-logo="http://novaera4.club/logo/ABOLATV.png" group-title="★●• PORTUGAL ●•★",A Bola TVᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/5459
-#EXTINF:-1 tvg-id="CANAL11" tvg-name="Canal 11" tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2019/07/logo11-300x200.png" group-title="★●• PORTUGAL ●•★",Canal 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/2055
-#EXTINF:-1 tvg-id="CANAL11" tvg-name="Canal 11ᶠᴴᴰ" tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2019/07/logo11-300x200.png" group-title="★●• PORTUGAL ●•★",Canal 11ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/121
-#EXTINF:-1 tvg-id="splus.pt" tvg-name="SAUDE +ᴴᴰ" tvg-logo="https://uploads-eu-west-1.insided.com/nos-pt/attachment/304a6782-10ad-4d45-9386-bfce646e72ca.png" group-title="★●• PORTUGAL ●•★",SAUDE +ᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/37217
-#EXTINF:-1 tvg-id="localvisaotv.pt" tvg-name="Localvisão" tvg-logo="http://novaera4.club/logo/LOCALVISAO.png" group-title="★●• PORTUGAL ●•★",Localvisão
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/2001
-#EXTINF:-1 tvg-id="euronews.pt" tvg-name="Euronews" tvg-logo="http://novaera4.club/logo/EuroNews.png" group-title="★●• PORTUGAL ●•★",Euronews
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/95
-#EXTINF:-1 tvg-id="NEWS NOW" tvg-name="NewsNOW" tvg-logo="https://marketeer.sapo.pt/wp-content/uploads/2024/05/news-now.png" group-title="★●• PORTUGAL ●•★",NewsNOW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/88925
-#EXTINF:-1 tvg-id="LOLLY" tvg-name="Lolly Kids" tvg-logo="https://www.meo.pt/PublishingImages/logos/lolly-kids-logo-meo-desktop.png" group-title="★●• PORTUGAL ●•★",Lolly Kids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/27398
-#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="Disney Channel" tvg-logo="http://novaera4.club/logo/DISNEYCHANNEL.png" group-title="★●• PORTUGAL ●•★",Disney Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/105
-#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="Disney Chanelᴴᴰ" tvg-logo="https://static.epg.best/kr/DisneyChannel.kr.png" group-title="★●• PORTUGAL ●•★",Disney Chanelᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/68646
-#EXTINF:-1 tvg-id="disneyjunior.pt" tvg-name="Disney Junior" tvg-logo="http://novaera4.club/logo/DISNEYJUNIOR.png" group-title="★●• PORTUGAL ●•★",Disney Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/104
-#EXTINF:-1 tvg-id="disneyjunior.pt" tvg-name="Diseny Juniorᴴᴰ" tvg-logo="https://static.epg.best/kr/DisneyJunior.kr.png" group-title="★●• PORTUGAL ●•★",Diseny Juniorᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/68647
-#EXTINF:-1 tvg-id="cartoonnetwork.pt" tvg-name="Cartoon Network" tvg-logo="http://novaera4.club/logo/CARTOONNETWORK.png" group-title="★●• PORTUGAL ●•★",Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/117
-#EXTINF:-1 tvg-id="cartoonnetwork.pt" tvg-name="Cartoon Networkᴴᴰ" tvg-logo="https://seeklogo.com/images/C/cartoon-network-hd-logo-22798BB929-seeklogo.com.png" group-title="★●• PORTUGAL ●•★",Cartoon Networkᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/68649
-#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="Cartonitoo" tvg-logo="https://sender.epglogos.de/302x190_w/493.png" group-title="★●• PORTUGAL ●•★",Cartonitoo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/77341
-#EXTINF:-1 tvg-id="KANUCA" tvg-name="KanucaTV" tvg-logo="https://kanuca.ao/home/wp-content/uploads/2023/09/logo.png" group-title="★●• PORTUGAL ●•★",KanucaTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/92784
-#EXTINF:-1 tvg-id="panda.pt" tvg-name="Panda" tvg-logo="http://novaera4.club/logo/CANALPANDA.png" group-title="★●• PORTUGAL ●•★",Panda
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/120
-#EXTINF:-1 tvg-id="panda.pt" tvg-name="Pandaᴴᴰ" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-panda-pt.png" group-title="★●• PORTUGAL ●•★",Pandaᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/68648
-#EXTINF:-1 tvg-id="biggs.pt" tvg-name="Panda Biggs" tvg-logo="http://novaera4.club/logo/pandabiggs.png" group-title="★●• PORTUGAL ●•★",Panda Biggs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/127
-#EXTINF:-1 tvg-id="PANDA KIDS" tvg-name="Panda Kids" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2021/05/image001-9.png" group-title="★●• PORTUGAL ●•★",Panda Kids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/36498
-#EXTINF:-1 tvg-id="babytv.pt" tvg-name="Baby TV" tvg-logo="http://novaera4.club/logo/BABYTV.png" group-title="★●• PORTUGAL ●•★",Baby TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/130
-#EXTINF:-1 tvg-id="nickelodeon.pt" tvg-name="NICK JR	" tvg-logo="http://novaera4.club/logo/NICKJR.png" group-title="★●• PORTUGAL ●•★",NICK JR	
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/65
-#EXTINF:-1 tvg-id="nickelodeon.pt" tvg-name="Nickelodeon" tvg-logo="http://novaera4.club/logo/NICKELODEON.png" group-title="★●• PORTUGAL ●•★",Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/64
-#EXTINF:-1 tvg-id="sick.pt" tvg-name="SIC K" tvg-logo="http://novaera4.club/logo/ALL/sick.png" group-title="★●• PORTUGAL ●•★",SIC K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/47
-#EXTINF:-1 tvg-id="sick.pt" tvg-name="Sic Kᴴᴰ" tvg-logo="http://novaera4.club/logo/ALL/sick.png" group-title="★●• PORTUGAL ●•★",Sic Kᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/68650
-#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="SPORT.TV+" tvg-logo="http://novaera4.club/logo/SPORTTV+.png" group-title="★●• PORTUGAL ●•★",SPORT.TV+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/41
-#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="SPORT.TV+ᴴᴰ" tvg-logo="http://novaera4.club/logo/SPORTTV+HD.png" group-title="★●• PORTUGAL ●•★",SPORT.TV+ᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/1059
-#EXTINF:-1 tvg-id="SPORT.TV 1 HD" tvg-name="Sport.TV4K UHD" tvg-logo="http://novaera4.club/logo/icones2/SPORT.TV%25204K%2520UHD%2520(BETA).png" group-title="★●• PORTUGAL ●•★",Sport.TV4K UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/22627
-#EXTINF:-1 tvg-id="SPORT.TV 1" tvg-name="SPORT.TV1" tvg-logo="http://novaera4.club/logo/SPORTTV1.png" group-title="★●• PORTUGAL ●•★",SPORT.TV1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/40
-#EXTINF:-1 tvg-id="SPORT.TV 1" tvg-name="Sport.TV1 ᴴᴰ" tvg-logo="http://novaera4.club/logo/SPORTTV1HD.png" group-title="★●• PORTUGAL ●•★",Sport.TV1 ᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/38
-#EXTINF:-1 tvg-id="SPORT.TV 1 HD" tvg-name="SPORT.TV1ᶠᴴᴰ" tvg-logo="http://novaera4.club/logo/SPORTTV1HD.png" group-title="★●• PORTUGAL ●•★",SPORT.TV1ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/39
-#EXTINF:-1 tvg-id="SPORT.TV 1 HD" tvg-name="SPORT.TV1 ᴴ²⁶⁵" tvg-logo="http://novaera4.club/logo/SPORTTV1HD.png" group-title="★●• PORTUGAL ●•★",SPORT.TV1 ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/5438
-#EXTINF:-1 tvg-id="SPORT.TV 2 HD" tvg-name="SPORT.TV2" tvg-logo="http://novaera4.club/logo/SPORTTV2.png" group-title="★●• PORTUGAL ●•★",SPORT.TV2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/37
-#EXTINF:-1 tvg-id="SPORT.TV 2 HD" tvg-name="Sport.TV2ᴴᴰ" tvg-logo="http://novaera4.club/logo/SPORTTV2HD.png" group-title="★●• PORTUGAL ●•★",Sport.TV2ᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/35
-#EXTINF:-1 tvg-id="SPORT.TV 2 HD" tvg-name="SPORT.TV2ᶠᴴᴰ" tvg-logo="http://novaera4.club/logo/SPORTTV2HD.png" group-title="★●• PORTUGAL ●•★",SPORT.TV2ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/36
-#EXTINF:-1 tvg-id="SPORT.TV 2 HD" tvg-name="SPORT.TV2 ᴴ²⁶⁵" tvg-logo="http://novaera4.club/logo/SPORTTV2HD.png" group-title="★●• PORTUGAL ●•★",SPORT.TV2 ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/5439
-#EXTINF:-1 tvg-id="SPORT.TV 3" tvg-name="SPORT.TV3" tvg-logo="http://novaera4.club/logo/SPORTTV3.png" group-title="★●• PORTUGAL ●•★",SPORT.TV3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/34
-#EXTINF:-1 tvg-id="SPORT TV 3 HD" tvg-name="Sport.TV3 ᴴᴰ" tvg-logo="http://novaera4.club/logo/SPORTTV3HD.png" group-title="★●• PORTUGAL ●•★",Sport.TV3 ᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/32
-#EXTINF:-1 tvg-id="SPORT TV 3 FHD" tvg-name="SPORT.TV3ᶠᴴᴰ" tvg-logo="http://novaera4.club/logo/SPORTTV3HD.png" group-title="★●• PORTUGAL ●•★",SPORT.TV3ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/33
-#EXTINF:-1 tvg-id="SPORT TV 3 FHD" tvg-name="SPORT.TV3ᴴ²⁶⁵" tvg-logo="http://novaera4.club/logo/SPORTTV3HD.png" group-title="★●• PORTUGAL ●•★",SPORT.TV3ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/21427
-#EXTINF:-1 tvg-id="SPORT.TV 4" tvg-name="SPORT.TV4" tvg-logo="http://novaera4.club/logo/SPORTTV4.png" group-title="★●• PORTUGAL ●•★",SPORT.TV4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/31
-#EXTINF:-1 tvg-id="SPORT.TV 4 HD" tvg-name="Sport.TV4ᴴᴰ" tvg-logo="http://novaera4.club/logo/SPORTTV4HD.png" group-title="★●• PORTUGAL ●•★",Sport.TV4ᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/363
-#EXTINF:-1 tvg-id="SPORT.TVHG 4 FULL HD" tvg-name="SPORT.TV4ᶠᴴᴰ" tvg-logo="http://novaera4.club/logo/SPORTTV4HD.png" group-title="★●• PORTUGAL ●•★",SPORT.TV4ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/1992
-#EXTINF:-1 tvg-id="SPORT.TV 5" tvg-name="SPORT.TV5" tvg-logo="http://novaera4.club/logo/SPORTTV5.png" group-title="★●• PORTUGAL ●•★",SPORT.TV5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/30
-#EXTINF:-1 tvg-id="SPORT.TV 5 HD" tvg-name="Sport.TV5ᴴᴰ" tvg-logo="http://novaera4.club/logo/SPORTTV5HD.png" group-title="★●• PORTUGAL ●•★",Sport.TV5ᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/362
-#EXTINF:-1 tvg-id="SPORT.TVHG 5 FULL HD" tvg-name="SPORT.TV5ᶠᴴᴰ" tvg-logo="http://novaera4.club/logo/SPORTTV5HD.png" group-title="★●• PORTUGAL ●•★",SPORT.TV5ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/1993
-#EXTINF:-1 tvg-id="SPORT.TVHG 6 FULL HD" tvg-name="Sport.TV6ᴴᴰ" tvg-logo="http://novaera4.club/logo/SPORTTV6.png" group-title="★●• PORTUGAL ●•★",Sport.TV6ᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/60546
-#EXTINF:-1 tvg-id="SPORT.TVHG 6 FULL HD" tvg-name="SPORT.TV6ᶠᴴᴰ" tvg-logo="https://seeklogo.com/images/S/sport-tv6-2023-logo-2C16121341-seeklogo.com.png" group-title="★●• PORTUGAL ●•★",SPORT.TV6ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/36497
-#EXTINF:-1 tvg-id="SPORT TV 7" tvg-name="SPORT.TV7" tvg-logo="https://ecoonline.s3.amazonaws.com/uploads/2024/08/whatsapp-image-2024-08-02-at-10-45-21-1.jpeg" group-title="★●• PORTUGAL ●•★",SPORT.TV7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/89381
-#EXTINF:-1 tvg-id="SPORTV 7 HD" tvg-name="SPORT.TV7ᶠᴴᴰ" tvg-logo="https://ecoonline.s3.amazonaws.com/uploads/2024/08/whatsapp-image-2024-08-02-at-10-45-21-1.jpeg" group-title="★●• PORTUGAL ●•★",SPORT.TV7ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/93122
-#EXTINF:-1 tvg-id="BTV1hd" tvg-name="Benfica TV 4K UHD" tvg-logo="http://novaera4.club/logo/BenficaTV4k.png" group-title="★●• PORTUGAL ●•★",Benfica TV 4K UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/16974
-#EXTINF:-1 tvg-id="BTV 1hd" tvg-name="Benfica TV	" tvg-logo="http://novaera4.club/logo/BTV.png" group-title="★●• PORTUGAL ●•★",Benfica TV	
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/124
-#EXTINF:-1 tvg-id="BTV 1hd" tvg-name="Benfica TVᴴᴰ" tvg-logo="http://novaera4.club/logo/icones1/BTV%25201%2520FHD.png" group-title="★●• PORTUGAL ●•★",Benfica TVᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/122
-#EXTINF:-1 tvg-id="BTV1hd" tvg-name="Benfica TVᶠᴴᴰ" tvg-logo="http://novaera4.club/logo/icones2/Benfica%2520TV%25201%2520FULLHD.png" group-title="★●• PORTUGAL ●•★",Benfica TVᶠᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/123
-#EXTINF:-1 tvg-id="BTV1hd" tvg-name="BENFICA TV ᴴ²⁶⁵" tvg-logo="http://novaera4.club/logo/BenficaTV4k.png" group-title="★●• PORTUGAL ●•★",BENFICA TV ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/5443
-#EXTINF:-1 tvg-id="BTV1hd" tvg-name="BTV Multicamarasᶠᴴᴰ" tvg-logo="https://uploads-eu-west-1.insided.com/nos-pt/attachment/f352b629-b745-4a40-9900-ed991a747a20.png" group-title="★●• PORTUGAL ●•★",BTV Multicamarasᶠᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/83711
-#EXTINF:-1 tvg-id="ELEVENSPORT 1 HD" tvg-name="Dazn 1" tvg-logo="https://i.imgur.com/alzVFEm.png" group-title="★●• PORTUGAL ●•★",Dazn 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/370
-#EXTINF:-1 tvg-id="ELEVENSPORT 1 HD" tvg-name="Dazn 1ᴴᴰ" tvg-logo="https://i.imgur.com/alzVFEm.png" group-title="★●• PORTUGAL ●•★",Dazn 1ᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/667
-#EXTINF:-1 tvg-id="ELEVENSPORT 1 HD" tvg-name="Dazn 1ᶠᴴᴰ" tvg-logo="https://i.imgur.com/alzVFEm.png" group-title="★●• PORTUGAL ●•★",Dazn 1ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/102
-#EXTINF:-1 tvg-id="ELEVENSPORT 1 HD" tvg-name="Dazn 1ᴴ²⁶⁵" tvg-logo="https://i.imgur.com/alzVFEm.png" group-title="★●• PORTUGAL ●•★",Dazn 1ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/22442
-#EXTINF:-1 tvg-id="ELEVENSPORT 1 HD" tvg-name="Dazn 1 4K UHD" tvg-logo="https://i.imgur.com/alzVFEm.png" group-title="★●• PORTUGAL ●•★",Dazn 1 4K UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/16975
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-name="Dazn 2" tvg-logo="https://i.imgur.com/m2YgWg7.png" group-title="★●• PORTUGAL ●•★",Dazn 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/368
-#EXTINF:-1 tvg-id="ELEVENSPORT 2 HD" tvg-name="Dazn 2ᴴᴰ" tvg-logo="https://i.imgur.com/m2YgWg7.png" group-title="★●• PORTUGAL ●•★",Dazn 2ᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/367
-#EXTINF:-1 tvg-id="ELEVENSPORT 2 HD" tvg-name="Dazn 2ᶠᴴᴰ" tvg-logo="https://i.imgur.com/m2YgWg7.png" group-title="★●• PORTUGAL ●•★",Dazn 2ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/101
-#EXTINF:-1 tvg-id="ELEVENSPORT 3 HD" tvg-name="Dazn 3" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-3-espana-es.png" group-title="★●• PORTUGAL ●•★",Dazn 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/100
-#EXTINF:-1 tvg-id="ELEVENSPORT 3 HD" tvg-name="Dazn 3ᴴᴰ" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-3-espana-es.png" group-title="★●• PORTUGAL ●•★",Dazn 3ᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/365
-#EXTINF:-1 tvg-id="ELEVENSPORT 3 HD" tvg-name="Dazn 3ᶠᴴᴰ" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-3-espana-es.png" group-title="★●• PORTUGAL ●•★",Dazn 3ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/366
-#EXTINF:-1 tvg-id="ELEVENSPORT 4 HD" tvg-name="Dazn 4" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-4-espana-es.png" group-title="★●• PORTUGAL ●•★",Dazn 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/99
-#EXTINF:-1 tvg-id="ELEVENSPORT 4 HD" tvg-name="Dazn 4ᴴᴰ" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-4-espana-es.png" group-title="★●• PORTUGAL ●•★",Dazn 4ᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/1990
-#EXTINF:-1 tvg-id="ELEVENSPORT 4 HD" tvg-name="Dazn 4ᶠᴴᴰ" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-4-espana-es.png" group-title="★●• PORTUGAL ●•★",Dazn 4ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/1991
-#EXTINF:-1 tvg-id="ELEVENSPORT 5 HD" tvg-name="Dazn 5" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-5-uk.png" group-title="★●• PORTUGAL ●•★",Dazn 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/98
-#EXTINF:-1 tvg-id="ELEVENSPORT 5 HD" tvg-name="Dazn 5ᴴᴰ" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-5-uk.png" group-title="★●• PORTUGAL ●•★",Dazn 5ᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/60547
-#EXTINF:-1 tvg-id="ELEVENSPORT 5 HD" tvg-name="Dazn 5ᶠᴴᴰ" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-5-uk.png" group-title="★●• PORTUGAL ●•★",Dazn 5ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/60548
-#EXTINF:-1 tvg-id="ELEVENSPORT 6 HD" tvg-name="Dazn 6" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-6-uk.png" group-title="★●• PORTUGAL ●•★",Dazn 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/97
-#EXTINF:-1 tvg-id="ELEVENSPORT 6 HD" tvg-name="Dazn 6ᶠᴴᴰ" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-6-uk.png" group-title="★●• PORTUGAL ●•★",Dazn 6ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/60549
-#EXTINF:-1 tvg-id="wsport" tvg-name="W-Sport" tvg-logo="https://uploads-eu-west-1.insided.com/nos-pt/attachment/7f7023c3-2567-4861-a1ea-fbc9b0b74211.png" group-title="★●• PORTUGAL ●•★",W-Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/86204
-#EXTINF:-1 tvg-id="ginx.pt" tvg-name="Ginx" tvg-logo="https://www.lyngsat.com/logo/tv/gg/ginx-tv-uk.png" group-title="★●• PORTUGAL ●•★",Ginx
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/37214
-#EXTINF:-1 tvg-id="gametoon.pt" tvg-name="Gametoonᴴᴰ" tvg-logo="https://wpcdn.pl/ptv-stage/logo/bright/128/803.png" group-title="★●• PORTUGAL ●•★",Gametoonᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/37095
-#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="Eurosport 1" tvg-logo="http://novaera4.club/logo/EUROSPORT1.png" group-title="★●• PORTUGAL ●•★",Eurosport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/94
-#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="Eurosport 1ᴴᴰ" tvg-logo="http://novaera4.club/logo/EUROSPORT1HD.png" group-title="★●• PORTUGAL ●•★",Eurosport 1ᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/93
-#EXTINF:-1 tvg-id="eurosport2.pt" tvg-name="Eurosport 2" tvg-logo="http://novaera4.club/logo/EUROSPORT2.png" group-title="★●• PORTUGAL ●•★",Eurosport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/92
-#EXTINF:-1 tvg-id="eurosport2.pt" tvg-name="Eurosport 2ᴴᴰ" tvg-logo="http://novaera4.club/logo/EUROSPORT2HD.png" group-title="★●• PORTUGAL ●•★",Eurosport 2ᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/77597
-#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PFC" tvg-logo="http://novaera4.club/logo/PFC.png" group-title="★●• PORTUGAL ●•★",PFC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/61
-#EXTINF:-1 tvg-id="PORTOhd" tvg-name="Porto Canal" tvg-logo="http://novaera4.club/logo/PORTOCANAL.png" group-title="★●• PORTUGAL ●•★",Porto Canal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/59
-#EXTINF:-1 tvg-id="PORTO" tvg-name="Porto Canalᴴᴰ" tvg-logo="http://novaera4.club/logo/PORTOCANALHD.png" group-title="★●• PORTUGAL ●•★",Porto Canalᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/1998
-#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="Sporting TV" tvg-logo="http://novaera4.club/logo/SPORTINGTV.png" group-title="★●• PORTUGAL ●•★",Sporting TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/28
-#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="Sporting TVᴴᴰ" tvg-logo="http://novaera4.club/logo/SPORTINGTVHD.png" group-title="★●• PORTUGAL ●•★",Sporting TVᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/4855
-#EXTINF:-1 tvg-id="FREEDOM" tvg-name="FightBoxᴴᴰ" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_box_hd.png" group-title="★●• PORTUGAL ●•★",FightBoxᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/68652
-#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="SPORT.TV NBA" tvg-logo="http://novaera4.club/logo/SPORTTVNBA.png" group-title="★●• PORTUGAL ●•★",SPORT.TV NBA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/29
-#EXTINF:-1 tvg-name="Rally.TVᴴᴰ" tvg-logo="https://images.wrc.com/images/logo/logoRallyTv1.png" group-title="★●• PORTUGAL ●•★",Rally.TVᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/35890
-#EXTINF:-1 tvg-id="DAZN F1" tvg-name="Dazn F1" tvg-logo="https://tvonline.es/wp-content/uploads/2022/04/dazn-f1-logo.png" group-title="★●• PORTUGAL ●•★",Dazn F1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/88669
-#EXTINF:-1 tvg-id="redbulltv.us" tvg-name="RedBull TVᴴᴰ" tvg-logo="http://novaera4.club/logo/REDBULLTV.png" group-title="★●• PORTUGAL ●•★",RedBull TVᴴᴰ
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 tvg-id="motorvision.pt" tvg-name="Motorvision" tvg-logo="http://novaera4.club/logo/motorvisao.png" group-title="★●• PORTUGAL ●•★",Motorvision
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/71
-#EXTINF:-1 tvg-id="fueltv.pt" tvg-name="Fuel TV" tvg-logo="http://novaera4.club/logo/FUELTV.png" group-title="★●• PORTUGAL ●•★",Fuel TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/83
-#EXTINF:-1 tvg-id="nostudios.pt" tvg-name="NOS Studios" tvg-logo="http://novaera4.club/logo/NOSStudios.png" group-title="★●• PORTUGAL ●•★",NOS Studios
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/12136
-#EXTINF:-1 tvg-id="nostudios.pt" tvg-name="NOS Studiosᴴᴰ" tvg-logo="http://novaera4.club/logo/NOSStudios.png" group-title="★●• PORTUGAL ●•★",NOS Studiosᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/63
-#EXTINF:-1 tvg-id="TVCg1" tvg-name="TVCine TOP" tvg-logo="http://novaera4.club/logo/TvCineTop.png" group-title="★●• PORTUGAL ●•★",TVCine TOP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/29842
-#EXTINF:-1 tvg-id="TVCg1" tvg-name="TVCine TOPᴴᴰ" tvg-logo="http://novaera4.club/logo/TvCineTopHDv2.png" group-title="★●• PORTUGAL ●•★",TVCine TOPᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/18
-#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="TVCine EDITION" tvg-logo="http://novaera4.club/logo/TvCineEdition.png" group-title="★●• PORTUGAL ●•★",TVCine EDITION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/29843
-#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="TVCine EDITIONᴴᴰ" tvg-logo="http://novaera4.club/logo/TvCineEditionHDv2.png" group-title="★●• PORTUGAL ●•★",TVCine EDITIONᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/16
-#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="TVCine EMOTION" tvg-logo="http://novaera4.club/logo/TvCineEmotion.png" group-title="★●• PORTUGAL ●•★",TVCine EMOTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/29844
-#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="TVCine EMOTIONᴴᴰ" tvg-logo="http://novaera4.club/logo/TvCineEmotionv2.png" group-title="★●• PORTUGAL ●•★",TVCine EMOTIONᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/14
-#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="TVCine ACTION" tvg-logo="http://novaera4.club/logo/TvCineAction.png" group-title="★●• PORTUGAL ●•★",TVCine ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/29845
-#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="TVCine ACTIONᴴᴰ" tvg-logo="http://novaera4.club/logo/TvCineActionHDv2.png" group-title="★●• PORTUGAL ●•★",TVCine ACTIONᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/12
-#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="Hollywood" tvg-logo="http://novaera4.club/logo/HOLLYWOOD.png" group-title="★●• PORTUGAL ●•★",Hollywood
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/79
-#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="Hollywoodᴴᴰ" tvg-logo="http://novaera4.club/logo/HOLLYWOODHD.png" group-title="★●• PORTUGAL ●•★",Hollywoodᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/78
-#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="Cinemundo" tvg-logo="http://novaera4.club/logo/CINEMUNDO.png" group-title="★●• PORTUGAL ●•★",Cinemundo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/112
-#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="Cinemundoᴴᴰ" tvg-logo="http://novaera4.club/logo/CINEMUNDOHD.png" group-title="★●• PORTUGAL ●•★",Cinemundoᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/2006
-#EXTINF:-1 tvg-id="FOX MOVIES HD" tvg-name="STAR Movies" tvg-logo="https://seeklogo.com/images/S/star-movies-2023-logo-D90185EC1F-seeklogo.com.png" group-title="★●• PORTUGAL ●•★",STAR Movies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/87
-#EXTINF:-1 tvg-id="FOX MOVIES HD" tvg-name="STAR Moviesᴴᴰ" tvg-logo="https://seeklogo.com/images/S/star-movies-2023-logo-D90185EC1F-seeklogo.com.png" group-title="★●• PORTUGAL ●•★",STAR Moviesᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/2011
-#EXTINF:-1 tvg-id="axnmovies.pt" tvg-name="AXN Movies" tvg-logo="http://novaera4.club/logo/AXN_MOVIES.png" group-title="★●• PORTUGAL ●•★",AXN Movies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/2004
-#EXTINF:-1 tvg-id="axnmovies.pt" tvg-name="AXN Moviesᴴᴰ" tvg-logo="http://novaera4.club/logo/AXN_MOVIES.png" group-title="★●• PORTUGAL ●•★",AXN Moviesᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/133
-#EXTINF:-1 tvg-id="syfy.pt" tvg-name="SyFy" tvg-logo="http://novaera4.club/logo/SYFY.png" group-title="★●• PORTUGAL ●•★",SyFy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/27
-#EXTINF:-1 tvg-id="syfy.pt" tvg-name="SyFyᴴᴰ" tvg-logo="http://novaera4.club/logo/SYFYHD.png" group-title="★●• PORTUGAL ●•★",SyFyᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/2007
-#EXTINF:-1 tvg-id="axn.pt" tvg-name="AXN" tvg-logo="http://novaera4.club/logo/AXN.png" group-title="★●• PORTUGAL ●•★",AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/2003
-#EXTINF:-1 tvg-id="axn.pt" tvg-name="AXNᴴᴰ" tvg-logo="http://novaera4.club/logo/AXNHD.png" group-title="★●• PORTUGAL ●•★",AXNᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/132
-#EXTINF:-1 tvg-id="Dizi" tvg-name="Dizi" tvg-logo="http://novaera4.club/logo/DIZI.png" group-title="★●• PORTUGAL ●•★",Dizi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/37215
-#EXTINF:-1 tvg-id="amc.pt" tvg-name="AMC" tvg-logo="http://novaera4.club/logo/AMC.png" group-title="★●• PORTUGAL ●•★",AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/135
-#EXTINF:-1 tvg-id="amc.pt" tvg-name="AMCᴴᴰ" tvg-logo="http://novaera4.club/logo/Amchd.png" group-title="★●• PORTUGAL ●•★",AMCᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/134
-#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="AXN White" tvg-logo="http://novaera4.club/logo/axnwhite.png" group-title="★●• PORTUGAL ●•★",AXN White
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/2005
-#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="AXN Whiteᴴᴰ" tvg-logo="http://novaera4.club/logo/AXNWHITEHD.png" group-title="★●• PORTUGAL ●•★",AXN Whiteᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/131
-#EXTINF:-1 tvg-id="star.pt" tvg-name="STAR Channel" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-9D8C031AFB-seeklogo.com.png" group-title="★●• PORTUGAL ●•★",STAR Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/2008
-#EXTINF:-1 tvg-id="star.pt" tvg-name="STAR Channelᴴᴰ" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-9D8C031AFB-seeklogo.com.png" group-title="★●• PORTUGAL ●•★",STAR Channelᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/89
-#EXTINF:-1 tvg-id="starcrime.pt" tvg-name="STAR Crime" tvg-logo="https://seeklogo.com/images/S/star-crime-logo-2C5FFAA03E-seeklogo.com.png" group-title="★●• PORTUGAL ●•★",STAR Crime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/2009
-#EXTINF:-1 tvg-id="starcrime.pt" tvg-name="STAR Crimeᴴᴰ" tvg-logo="https://seeklogo.com/images/S/star-crime-logo-2C5FFAA03E-seeklogo.com.png" group-title="★●• PORTUGAL ●•★",STAR Crimeᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/90
-#EXTINF:-1 tvg-id="starcomedy.pt" tvg-name="STAR Comedy" tvg-logo="https://images.seeklogo.com/logo-png/52/1/star-comedy-logo-png_seeklogo-520560.png" group-title="★●• PORTUGAL ●•★",STAR Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/91
-#EXTINF:-1 tvg-id="starcomedy.pt" tvg-name="STAR Comedyᴴᴰ" tvg-logo="https://images.seeklogo.com/logo-png/52/1/star-comedy-logo-png_seeklogo-520560.png" group-title="★●• PORTUGAL ●•★",STAR Comedyᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/4858
-#EXTINF:-1 tvg-id="starlife.pt" tvg-name="STAR Life" tvg-logo="https://seeklogo.com/images/S/star-life-logo-D8AFE50BAF-seeklogo.com.png" group-title="★●• PORTUGAL ●•★",STAR Life
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/2010
-#EXTINF:-1 tvg-id="starlife.pt" tvg-name="STAR Lifeᴴᴰ" tvg-logo="https://seeklogo.com/images/S/star-life-logo-D8AFE50BAF-seeklogo.com.png" group-title="★●• PORTUGAL ●•★",STAR Lifeᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/88
-#EXTINF:-1 tvg-id="investigationdiscovery.pt" tvg-name="ID Investigation Discovery" tvg-logo="https://seeklogo.com/images/I/investigation-discovery-logo-D8839FBD94-seeklogo.com.png" group-title="★●• PORTUGAL ●•★",ID Investigation Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/76
-#EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC Crime " tvg-logo="http://novaera4.club/logo/AMCCRIME.png" group-title="★●• PORTUGAL ●•★",AMC Crime 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/50876
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="Discovery Channel" tvg-logo="http://novaera4.club/logo/DISCOVERYCHANNEL.png" group-title="★●• PORTUGAL ●•★",Discovery Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/107
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL HD" tvg-name="Discovery Channelᴴᴰ" tvg-logo="http://novaera4.club/logo/DISCOVERYCHANNEL.png" group-title="★●• PORTUGAL ●•★",Discovery Channelᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/106
-#EXTINF:-1 tvg-name="Love Nature 4K" tvg-logo="https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png" group-title="★●• PORTUGAL ●•★",Love Nature 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/78915
-#EXTINF:-1 tvg-id="nationalgeographicwild.pt" tvg-name="Nat Geo Wild" tvg-logo="http://novaera4.club/logo/NATGEOWILD.png" group-title="★●• PORTUGAL ●•★",Nat Geo Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/67
-#EXTINF:-1 tvg-id="nationalgeographicwild.pt" tvg-name="Nat Geo Wildᴴᴰ" tvg-logo="http://novaera4.club/logo/NATGEOWILDHD.png" group-title="★●• PORTUGAL ●•★",Nat Geo Wildᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/35848
-#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="National Geographic" tvg-logo="http://novaera4.club/logo/NATIONALGEOGRAPHIC.png" group-title="★●• PORTUGAL ●•★",National Geographic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/5467
-#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="National Geographicᴴᴰ" tvg-logo="http://novaera4.club/logo/NATIONALGEOGRAPHICHD.png" group-title="★●• PORTUGAL ●•★",National Geographicᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/68
-#EXTINF:-1 tvg-id="HISTÓRIA" tvg-name="History Channel" tvg-logo="http://novaera4.club/logo/historia.png" group-title="★●• PORTUGAL ●•★",History Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/80
-#EXTINF:-1 tvg-id="HISTÓRIA HD" tvg-name="History Channelᴴᴰ" tvg-logo="https://i.pinimg.com/originals/f0/f5/85/f0f5853626e544b66b851b80af88ef9a.png" group-title="★●• PORTUGAL ●•★",History Channelᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/22138
-#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="Odisseia" tvg-logo="http://novaera4.club/logo/ODISSEIA.png" group-title="★●• PORTUGAL ●•★",Odisseia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/62
-#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="Odisseiaᴴᴰ" tvg-logo="http://novaera4.club/logo/ODISSEIAHD.png" group-title="★●• PORTUGAL ●•★",Odisseiaᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/2013
-#EXTINF:-1 tvg-id="tcvinternational.pt" tvg-name="TCV Cabo Verde" tvg-logo="https://rtc.cv/upload/img/programas/logotipo_tcv.png" group-title="★●• PORTUGAL ●•★",TCV Cabo Verde
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/75762
-#EXTINF:-1 tvg-id="blaze.pt" tvg-name="AMC Break" tvg-logo="http://novaera4.club/logo/AMCBRECK.png" group-title="★●• PORTUGAL ●•★",AMC Break
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/126
-#EXTINF:-1 tvg-id="amcbreak.pt" tvg-name="AMC Breakᴴᴰ" tvg-logo="http://novaera4.club/logo/AMCBRECK.png" group-title="★●• PORTUGAL ●•★",AMC Breakᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/1989
-#EXTINF:-1 tvg-id="cacaepesca.pt" tvg-name="CACAPESCA" tvg-logo="http://novaera4.club/logo/CACAEPESCAHD.png" group-title="★●• PORTUGAL ●•★",CACAPESCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/116
-#EXTINF:-1 tvg-id="cacaepesca.pt" tvg-name="CACAPESCAᴴᴰ" tvg-logo="http://novaera4.club/logo/CACAEPESCAHD.png" group-title="★●• PORTUGAL ●•★",CACAPESCAᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/8077
-#EXTINF:-1 tvg-id="CAÇAVISION" tvg-name="CaçaVision" tvg-logo="http://novaera4.club/logo/CACAVISION.png" group-title="★●• PORTUGAL ●•★",CaçaVision
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/115
-#EXTINF:-1 tvg-name="Nautical Channel" tvg-logo="http://novaera4.club/logo/nauticachanel.png" group-title="★●• PORTUGAL ●•★",Nautical Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/73702
-#EXTINF:-1 tvg-id="OneToro" tvg-name="Onetoro TV ᴴᴰ" tvg-logo="https://www.lyngsat.com/logo/tv/oo/onetoro-tv-es.png" group-title="★●• PORTUGAL ●•★",Onetoro TV ᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/72571
-#EXTINF:-1 tvg-id="dogtv.pt" tvg-name="DOGTV" tvg-logo="http://novaera4.club/logo/DOGTV.png" group-title="★●• PORTUGAL ●•★",DOGTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/5469
-#EXTINF:-1 tvg-id="RTPM" tvg-name="RTP Memoria" tvg-logo="http://novaera4.club/logo/RTPMEMORIA.png" group-title="★●• PORTUGAL ●•★",RTP Memoria
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/50
-#EXTINF:-1 tvg-id="RTP Madeira" tvg-name="RTP Madeira" tvg-logo="http://novaera4.club/logo/RTPMADEIRA.png" group-title="★●• PORTUGAL ●•★",RTP Madeira
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/51
-#EXTINF:-1 tvg-id="RTP AÇORES" tvg-name="RTP Acores" tvg-logo="http://novaera4.club/logo/RTPACORES.png" group-title="★●• PORTUGAL ●•★",RTP Acores
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/52
-#EXTINF:-1 tvg-id="rtpafrica.pt" tvg-name="RTP Africa" tvg-logo="http://novaera4.club/logo/RTPAFRICA.png" group-title="★●• PORTUGAL ●•★",RTP Africa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/58
-#EXTINF:-1 tvg-id="CanaljQ" tvg-name="Canal Q" tvg-logo="http://novaera4.club/logo/CANALQ.png" group-title="★●• PORTUGAL ●•★",Canal Q
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/119
-#EXTINF:-1 tvg-id="tpainternational.pt" tvg-name="TPA Internacional" tvg-logo="http://novaera4.club/logo/TPAINTERNACIONAL.png" group-title="★●• PORTUGAL ●•★",TPA Internacional
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/2056
-#EXTINF:-1 tvg-id="cnnportugal.pt" tvg-name="CNN" tvg-logo="http://novaera4.club/logo/cnn.png" group-title="★●• PORTUGAL ●•★",CNN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/109
-#EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="24 Kitchenᴴᴰ" tvg-logo="http://novaera4.club/logo/24KITCHEN.png" group-title="★●• PORTUGAL ●•★",24 Kitchenᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/138
-#EXTINF:-1 tvg-id="foodnetwork.pt" tvg-name="Food Network	" tvg-logo="http://novaera4.club/logo/FOODNETWORKHD.png" group-title="★●• PORTUGAL ●•★",Food Network	
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/5457
-#EXTINF:-1 tvg-id="casaecozinha.pt" tvg-name="Casa e Cozinha HD" tvg-logo="https://uploads-eu-west-1.insided.com/nos-pt/attachment/4f8fb888-2ed7-4de5-86cb-bc4ddc6eb23e.png" group-title="★●• PORTUGAL ●•★",Casa e Cozinha HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/21270
-#EXTINF:-1 tvg-id="eentertainment.pt" tvg-name="E! Entertainment" tvg-logo="http://novaera4.club/logo/e-entertainment.png" group-title="★●• PORTUGAL ●•★",E! Entertainment
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/103
-#EXTINF:-1 tvg-id="travelchannel.pt" tvg-name="Travel Channel" tvg-logo="http://novaera4.club/logo/TRAVELCHANNEL.png" group-title="★●• PORTUGAL ●•★",Travel Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/22
-#EXTINF:-1 tvg-id="zapviva.pt" tvg-name="Zap Vivaᴴᴰ" tvg-logo="http://novaera4.club/logo/ZAPVIVAHD.png" group-title="★●• PORTUGAL ●•★",Zap Vivaᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/1
-#EXTINF:-1 tvg-id="tlc.pt" tvg-name="TLC" tvg-logo="http://novaera4.club/logo/TLC.png" group-title="★●• PORTUGAL ●•★",TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/26
-#EXTINF:-1 tvg-id="mtv.pt" tvg-name="MTVᴴᴰ" tvg-logo="http://novaera4.club/logo/MTV.png" group-title="★●• PORTUGAL ●•★",MTVᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/70
-#EXTINF:-1 tvg-id="almalusa" tvg-name="AlmaLusaᴴᴰ" tvg-logo="http://novaera4.club/logo/Almalusa.png" group-title="★●• PORTUGAL ●•★",AlmaLusaᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/37218
-#EXTINF:-1 tvg-id="afromusicchannel.pt" tvg-name="Afro Music" tvg-logo="http://novaera4.club/logo/AFROMUSIC.png" group-title="★●• PORTUGAL ●•★",Afro Music
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/136
-#EXTINF:-1 tvg-id="traceurban.pt" tvg-name="Trace Urban" tvg-logo="http://novaera4.club/logo/TRACEURBAN.png" group-title="★●• PORTUGAL ●•★",Trace Urban
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="tracetoca.pt" tvg-name="Trace Toca" tvg-logo="https://trace.tv/trace-toca/wp-content/uploads/2016/11/logo_toca2.png" group-title="★●• PORTUGAL ●•★",Trace Toca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/24
-#EXTINF:-1 tvg-id="TraceAfrica.fr" tvg-name="Trace Africaᴴᴰ" tvg-logo="http://novaera4.club/logo/TRACEAFRICA.png" group-title="★●• PORTUGAL ●•★",Trace Africaᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/4856
-#EXTINF:-1 tvg-id="Trace TV" tvg-name="TRACE NAIJA" tvg-logo="http://novaera4.club/logo/TRACENAIJA.png" group-title="★●• PORTUGAL ●•★",TRACE NAIJA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/5464
-#EXTINF:-1 tvg-id="mcmpop.pt" tvg-name="MCM Pop" tvg-logo="http://novaera4.club/logo/MCMPOP.png" group-title="★●• PORTUGAL ●•★",MCM Pop
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/73
-#EXTINF:-1 tvg-id="vh1.pt" tvg-name="VH1" tvg-logo="http://novaera4.club/logo/VH1.png" group-title="★●• PORTUGAL ●•★",VH1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/2
-#EXTINF:-1 tvg-id="cancaonova.pt" tvg-name="Canção Nova" tvg-logo="http://novaera4.club/logo/CANCAONOVA.png" group-title="★●• PORTUGAL ●•★",Canção Nova
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/118
-#EXTINF:-1 tvg-id="dummy012" tvg-name="Santuario De Fátimaᴴᴰ" tvg-logo="https://seeklogo.com/images/C/capelinha-nossa-senhora-de-fatima-logo-5D737673EE-seeklogo.com.png" group-title="★●• PORTUGAL ●•★",Santuario De Fátimaᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://novo1.xyz:8080/jorgeneves/777/1060
+#EXTINF:-1 tvg-name="BTV SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5y6g-ZT3GbDQrViKWeukZoOAo4ntXH7Hv-A&s" group-title="CANAIS | PORTUGAL",BTV SD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/27417670
+#EXTINF:-1 tvg-name="BTV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5y6g-ZT3GbDQrViKWeukZoOAo4ntXH7Hv-A&s" group-title="CANAIS | PORTUGAL",BTV HD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/27417669
+#EXTINF:-1 tvg-name="BTV FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5y6g-ZT3GbDQrViKWeukZoOAo4ntXH7Hv-A&s" group-title="CANAIS | PORTUGAL",BTV FHD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/27417668
+#EXTINF:-1 tvg-name="CNN SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWzld95e5jSA68PhI810laBP-ye73FehMuHg&s" group-title="CANAIS | PORTUGAL",CNN SD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/27417667
+#EXTINF:-1 tvg-name="CNN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWzld95e5jSA68PhI810laBP-ye73FehMuHg&s" group-title="CANAIS | PORTUGAL",CNN HD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/27417666
+#EXTINF:-1 tvg-name="CNN ( HD HEVC )©" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWzld95e5jSA68PhI810laBP-ye73FehMuHg&s" group-title="CANAIS | PORTUGAL",CNN ( HD HEVC )©
+http://dnsb.io:80/5518997505280/ZQX8oNjL/27417665
+#EXTINF:-1 tvg-name="CNN FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWzld95e5jSA68PhI810laBP-ye73FehMuHg&s" group-title="CANAIS | PORTUGAL",CNN FHD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/27417664
+#EXTINF:-1 tvg-name="TV GLOBO SD" group-title="CANAIS | PORTUGAL",TV GLOBO SD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/27395784
+#EXTINF:-1 tvg-name="TV GLOBO HD" group-title="CANAIS | PORTUGAL",TV GLOBO HD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/27395783
+#EXTINF:-1 tvg-name="TV GLOBO FHD" group-title="CANAIS | PORTUGAL",TV GLOBO FHD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/27395782
+#EXTINF:-1 tvg-name="TV GLOBO NOW SD" group-title="CANAIS | PORTUGAL",TV GLOBO NOW SD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/27395781
+#EXTINF:-1 tvg-name="TVE INTERNACIONAL" tvg-logo="data:image/jpeg;base64,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" group-title="CANAIS | PORTUGAL",TVE INTERNACIONAL
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239332
+#EXTINF:-1 tvg-name="TVE 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="CANAIS | PORTUGAL",TVE 24H
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239331
+#EXTINF:-1 tvg-name="TELEVISIÓN DE GALICIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Television_de_Galicia.svg/1200px-Television_de_Galicia.svg.png" group-title="CANAIS | PORTUGAL",TELEVISIÓN DE GALICIA
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239330
+#EXTINF:-1 tvg-name="TVCINE + HD" tvg-logo="https://www.tvcine.pt/TVCine-PLUS-poster.jpg" group-title="CANAIS | PORTUGAL",TVCINE + HD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239328
+#EXTINF:-1 tvg-name="TVCINE TOP SD" tvg-logo="http://live21.site/LOGOS/picons/TVCine_Top.png" group-title="CANAIS | PORTUGAL",TVCINE TOP SD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239327
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://1.bp.blogspot.com/-eaIFUFMwW6Y/WDrqAy7WLPI/AAAAAAAAFac/ebV93SO38EkUak8XNhQCiITUZHNtWiSmQCLcB/s1600/AXN%2BHD%2Blogo.png" group-title="CANAIS | PORTUGAL",AXN
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239301
+#EXTINF:-1 tvg-name="SYFY" tvg-logo="https://4.bp.blogspot.com/-KFpvGLvNb3Q/WDtdfKOQfEI/AAAAAAAAFkk/PXqW9GvFFdEvAHzpHiCy_cxWUTcb2-kVwCLcB/s1600/Syfy%2BHD%2Blogo.png" group-title="CANAIS | PORTUGAL",SYFY
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239296
+#EXTINF:-1 tvg-name="FOX HD" tvg-logo="https://pbs.twimg.com/profile_images/2213243445/fox_pt.png" group-title="CANAIS | PORTUGAL",FOX HD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239294
+#EXTINF:-1 tvg-name="FOX CRIME HD" tvg-logo="http://live21.site/LOGOS/picons/FOX_CRIME.png" group-title="CANAIS | PORTUGAL",FOX CRIME HD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239292
+#EXTINF:-1 tvg-name="FOX COMEDY" tvg-logo="http://live21.site/LOGOS/picons/FOX_COMEDY.png" group-title="CANAIS | PORTUGAL",FOX COMEDY
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239291
+#EXTINF:-1 tvg-name="FOX COMEDY HD" tvg-logo="http://live21.site/LOGOS/picons/FOX_COMEDY.png" group-title="CANAIS | PORTUGAL",FOX COMEDY HD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239290
+#EXTINF:-1 tvg-name="FOX LIFE" tvg-logo="https://i.ibb.co/YhPfLns/Fox-Life-Brasil-Logo.png" group-title="CANAIS | PORTUGAL",FOX LIFE
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239289
+#EXTINF:-1 tvg-name="DISNEY PIXAR (EXCLUSIVO)" tvg-logo="https://i.imgur.com/g3PMUqj.png" group-title="CANAIS | PORTUGAL",DISNEY PIXAR (EXCLUSIVO)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239287
+#EXTINF:-1 tvg-name="DISNEY+ (EXCLUSIVO)" tvg-logo="https://disneyplusbrasil.com.br/wp-content/uploads/2020/07/logo-grande.png" group-title="CANAIS | PORTUGAL",DISNEY+ (EXCLUSIVO)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239286
+#EXTINF:-1 tvg-name="NETFLIX (EXCLUSIVO)" tvg-logo="https://cdn.wccftech.com/wp-content/uploads/2018/04/Netflix-HD.png" group-title="CANAIS | PORTUGAL",NETFLIX (EXCLUSIVO)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239285
+#EXTINF:-1 tvg-name="MARVEL (EXCLUSIVO)" tvg-logo="https://i.imgur.com/aGGEfGL.png" group-title="CANAIS | PORTUGAL",MARVEL (EXCLUSIVO)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239284
+#EXTINF:-1 tvg-name="APANHADOS (EXCLUSIVO)" tvg-logo="https://brincabrincando.com/wp-content/uploads/2019/07/logotipo2-2.jpg" group-title="CANAIS | PORTUGAL",APANHADOS (EXCLUSIVO)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239283
+#EXTINF:-1 tvg-name="STAR WARS (EXCLUSIVO)" tvg-logo="https://i.imgur.com/D2ar9Yq.png" group-title="CANAIS | PORTUGAL",STAR WARS (EXCLUSIVO)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239282
+#EXTINF:-1 tvg-name="CANAL 11" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2019/07/logo11-300x200.png" group-title="CANAIS | PORTUGAL",CANAL 11
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239277
+#EXTINF:-1 tvg-name="CANAL 11 HD" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2019/07/logo11-300x200.png" group-title="CANAIS | PORTUGAL",CANAL 11 HD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239276
+#EXTINF:-1 tvg-name="CANAL 11 BACKUP" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2019/07/logo11-300x200.png" group-title="CANAIS | PORTUGAL",CANAL 11 BACKUP
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239275
+#EXTINF:-1 tvg-name="CARTOON  NETWORK SD" tvg-logo="http://live21.site/LOGOS/picons/CARTOON_NETWORK.png" group-title="CANAIS | PORTUGAL",CARTOON  NETWORK SD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239255
+#EXTINF:-1 tvg-name="TVI FICÇÃO SD" tvg-logo="http://live21.site/LOGOS/PTS/tvificcao.png" group-title="CANAIS | PORTUGAL",TVI FICÇÃO SD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239252
+#EXTINF:-1 tvg-name="TVI FICÇÃO HD" tvg-logo="http://live21.site/LOGOS/PTS/tvificcao.png" group-title="CANAIS | PORTUGAL",TVI FICÇÃO HD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239251
+#EXTINF:-1 tvg-name="SIC Caras HD" tvg-logo="http://live21.site/LOGOS/picons/SIC_CARAS.png" group-title="CANAIS | PORTUGAL",SIC Caras HD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239245
+#EXTINF:-1 tvg-name="SIC MULHER HD" tvg-logo="http://live21.site/LOGOS/picons/SIC_MULHER.png" group-title="CANAIS | PORTUGAL",SIC MULHER HD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239244
+#EXTINF:-1 tvg-name="S + HD" tvg-logo="https://uploads-eu-west-1.insided.com/nos-pt/attachment/d4fd2eee-d477-4621-855e-1e46ce4bc810.png" group-title="CANAIS | PORTUGAL",S + HD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239243
+#EXTINF:-1 tvg-name="SIC RADICAL SD" tvg-logo="http://live21.site/LOGOS/PTS/sicradical.png" group-title="CANAIS | PORTUGAL",SIC RADICAL SD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239242
+#EXTINF:-1 tvg-name="SIC RADICAL HD" tvg-logo="http://live21.site/LOGOS/PTS/sicradical.png" group-title="CANAIS | PORTUGAL",SIC RADICAL HD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239241
+#EXTINF:-1 tvg-name="CASA E COZINHA HD" tvg-logo="http://live21.site/LOGOS/picons/CASA_COZINHA.png" group-title="CANAIS | PORTUGAL",CASA E COZINHA HD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239239
+#EXTINF:-1 tvg-name="24 KITCHEN HD" tvg-logo="http://live21.site/LOGOS/picons/24_KITCHEN.png" group-title="CANAIS | PORTUGAL",24 KITCHEN HD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239238
+#EXTINF:-1 tvg-name="MÁS CHIC HD" tvg-logo="https://masideas.com/files/2015/06/MAS-CHIC.-LOGOTIPO.png" group-title="CANAIS | PORTUGAL",MÁS CHIC HD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239237
+#EXTINF:-1 tvg-name="FOOD NETWORK" tvg-logo="http://live21.site/LOGOS/picons/Food_Network.png" group-title="CANAIS | PORTUGAL",FOOD NETWORK
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239236
+#EXTINF:-1 tvg-name="E! ENTERTAINMENT SD" tvg-logo="http://live21.site/picons/DE/eentertainmenthd.png" group-title="CANAIS | PORTUGAL",E! ENTERTAINMENT SD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239235
+#EXTINF:-1 tvg-name="TRAVEL CHANNEL HD" tvg-logo="http://live21.site/LOGOS/picons/TRAVEL_CHANNEL_HD.png" group-title="CANAIS | PORTUGAL",TRAVEL CHANNEL HD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239234
+#EXTINF:-1 tvg-name="PORTO CANAL HD" tvg-logo="http://live21.site/LOGOS/picons/Porto_Canal.png" group-title="CANAIS | PORTUGAL",PORTO CANAL HD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239233
+#EXTINF:-1 tvg-name="CANAL Q SD" tvg-logo="http://live21.site/LOGOS/picons/CANAL_Q.png" group-title="CANAIS | PORTUGAL",CANAL Q SD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239232
+#EXTINF:-1 tvg-name="BLAZE HD" tvg-logo="http://live21.site/LOGOS/picons/BLAZE.png" group-title="CANAIS | PORTUGAL",BLAZE HD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239231
+#EXTINF:-1 tvg-name="RTP MEMÓRIA SD" tvg-logo="http://prvxtv.dnsfor.me/TUGA/RTPMEMORIA.png" group-title="CANAIS | PORTUGAL",RTP MEMÓRIA SD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239230
+#EXTINF:-1 tvg-name="RTP AÇORES SD" tvg-logo="http://live21.site/LOGOS/picons/RTP_ACORES.png" group-title="CANAIS | PORTUGAL",RTP AÇORES SD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239229
+#EXTINF:-1 tvg-name="RTP AFRICA SD" tvg-logo="http://live21.site/LOGOS/picons/RTP_Africa.png" group-title="CANAIS | PORTUGAL",RTP AFRICA SD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239228
+#EXTINF:-1 tvg-name="RTP MADEIRA" tvg-logo="http://live21.site/LOGOS/picons/RTP_MADEIRA.png" group-title="CANAIS | PORTUGAL",RTP MADEIRA
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239227
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD HD" tvg-logo="https://www.nationalgeographicbrasil.com/images/logo.png" group-title="CANAIS | PORTUGAL",NATIONAL GEOGRAPHIC WILD HD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239223
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://www.nationalgeographicbrasil.com/images/logo.png" group-title="CANAIS | PORTUGAL",NATIONAL GEOGRAPHIC HD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239222
+#EXTINF:-1 tvg-name="ID INVESTIGATION DISCOVERY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Investiga%C3%A7%C3%A3o_Discovery_1.png/200px-Investiga%C3%A7%C3%A3o_Discovery_1.png" group-title="CANAIS | PORTUGAL",ID INVESTIGATION DISCOVERY HD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239221
+#EXTINF:-1 tvg-name="ODISSEIA HD" tvg-logo="https://i.imgur.com/OeQhRFQ.png" group-title="CANAIS | PORTUGAL",ODISSEIA HD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239220
+#EXTINF:-1 tvg-name="DISCOVERY ID" tvg-logo="https://adma.tmsimg.com/assets/s16615_ll_h15_ad.png?w=360&h=270" group-title="CANAIS | PORTUGAL",DISCOVERY ID
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239218
+#EXTINF:-1 tvg-name="EUROSPORT 1 HD" tvg-logo="https://i.imgur.com/7u2MNJb.png" group-title="CANAIS | PORTUGAL",EUROSPORT 1 HD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239216
+#EXTINF:-1 tvg-name="PFC SD" tvg-logo="https://i.imgur.com/kvmx029.png" group-title="CANAIS | PORTUGAL",PFC SD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239214
+#EXTINF:-1 tvg-name="FUEL TV HD" tvg-logo="https://i.imgur.com/ZmZfDtk.png" group-title="CANAIS | PORTUGAL",FUEL TV HD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239213
+#EXTINF:-1 tvg-name="TOROS TV SD" tvg-logo="https://i.imgur.com/iwj7CTK.png" group-title="CANAIS | PORTUGAL",TOROS TV SD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239212
+#EXTINF:-1 tvg-name="TOROS TV HD" tvg-logo="https://i.imgur.com/iwj7CTK.png" group-title="CANAIS | PORTUGAL",TOROS TV HD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239211
+#EXTINF:-1 tvg-name="MUNDO TORO" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/03/mundotoro-logo.webp" group-title="CANAIS | PORTUGAL",MUNDO TORO
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239210
+#EXTINF:-1 tvg-name="CAMPO PEQUENO TV HD" tvg-logo="http://www.campopequeno.com/img/campopequenotv_logo.png" group-title="CANAIS | PORTUGAL",CAMPO PEQUENO TV HD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239206
+#EXTINF:-1 tvg-name="MOTORVISION TV SD" tvg-logo="https://i.imgur.com/I0ZTOVi.png" group-title="CANAIS | PORTUGAL",MOTORVISION TV SD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239205
+#EXTINF:-1 tvg-name="GINX ESPORTS TV" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/d/da/Ginx_eSports_TV_%282016-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20180608094248" group-title="CANAIS | PORTUGAL",GINX ESPORTS TV
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239202
+#EXTINF:-1 tvg-name="WWE HD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a77021bb-a973-4a9b-8902-47e05787b08f/d8txzp1-3f32b570-9b7f-437d-ad29-2df8cdbf554c.png" group-title="CANAIS | PORTUGAL",WWE HD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239200
+#EXTINF:-1 tvg-name="MTV 00's SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="CANAIS | PORTUGAL",MTV 00's SD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239196
+#EXTINF:-1 tvg-name="TRACE URBAN" tvg-logo="https://i.imgur.com/4M2XZfF.png" group-title="CANAIS | PORTUGAL",TRACE URBAN
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239195
+#EXTINF:-1 tvg-name="MTV PORTUGAL HD" tvg-logo="https://i.imgur.com/wNvqkOM.png" group-title="CANAIS | PORTUGAL",MTV PORTUGAL HD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239194
+#EXTINF:-1 tvg-name="MCM POP SD" tvg-logo="https://i.imgur.com/nxTIh9U.png" group-title="CANAIS | PORTUGAL",MCM POP SD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239193
+#EXTINF:-1 tvg-name="CANÇÃO NOVA" tvg-logo="https://i.imgur.com/1EGWuDA.png" group-title="CANAIS | PORTUGAL",CANÇÃO NOVA
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239192
+#EXTINF:-1 tvg-name="CLUBBING TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/39/Clubbing_TV.png" group-title="CANAIS | PORTUGAL",CLUBBING TV
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239191
+#EXTINF:-1 tvg-name="CANAL 180" tvg-logo="https://assets.bondlayer.com/nhjtx0kggg/_assets/nwxbgehephns507vsruet.png" group-title="CANAIS | PORTUGAL",CANAL 180
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239190
+#EXTINF:-1 tvg-name="ALMA LUSA" tvg-logo="data:image/png;base64,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" group-title="CANAIS | PORTUGAL",ALMA LUSA
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239189
+#EXTINF:-1 tvg-name="M6 MUSIC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/M6_Music_%282012%29.png" group-title="CANAIS | PORTUGAL",M6 MUSIC HD
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239188
+#EXTINF:-1 tvg-name="TCV INTERNACIONAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0c/TCV_2007.png/revision/latest?cb=20190328210628" group-title="CANAIS | PORTUGAL",TCV INTERNACIONAL
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239185
+#EXTINF:-1 tvg-name="TVC CABO VERDE" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102010/tcv.gif?itok=fw_DgJJE" group-title="CANAIS | PORTUGAL",TVC CABO VERDE
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239184
+#EXTINF:-1 tvg-name="EURONEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="CANAIS | PORTUGAL",EURONEWS
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239183
+#EXTINF:-1 tvg-name="PT- RTP 1 (LOW)" tvg-logo="https://2.bp.blogspot.com/-ygRxWjA8yjM/WB3MKzbPNFI/AAAAAAAAFRs/BUdrADdoHCE3hOK8PwzgiHpwzMSTJvpPQCLcB/s1600/RTP%2B1%2Blogo.png" group-title="CANAIS | PORTUGAL",PT- RTP 1 (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239174
+#EXTINF:-1 tvg-name="PT- RTP 2 (LOW)" tvg-logo="https://4.bp.blogspot.com/-iC-8_X3fxMo/WB3MLP7PRrI/AAAAAAAAFRw/loEmJfcu0wIJna15b83hKr53bbsLmoRGQCLcB/s1600/RTP%2B2%2Blogo.png" group-title="CANAIS | PORTUGAL",PT- RTP 2 (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239173
+#EXTINF:-1 tvg-name="PT- RTP 3 (LOW)" tvg-logo="http://live21.site/LOGOS/picons/RTP_3_LOW_BITRATE.png" group-title="CANAIS | PORTUGAL",PT- RTP 3 (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239172
+#EXTINF:-1 tvg-name="PT- SIC (LOW)" tvg-logo="https://2.bp.blogspot.com/-GcddpZ7IEws/TyVcDa2hV4I/AAAAAAAABTA/YXUOBUjRfLs/s1600/SIC+logo.png" group-title="CANAIS | PORTUGAL",PT- SIC (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239171
+#EXTINF:-1 tvg-name="PT- TVI (LOW)" tvg-logo="https://1.bp.blogspot.com/-t5GXF5OCKUc/WKte3ETJtsI/AAAAAAAAFrg/qTgWMdGokKsyXqjudlAMnyvRUeL6O_AlgCLcB/s1600/TVI%2Blogo.png" group-title="CANAIS | PORTUGAL",PT- TVI (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239170
+#EXTINF:-1 tvg-name="PT- CMTV (LOW)" tvg-logo="https://4.bp.blogspot.com/-iO-o1CgV-7Y/WDrqBaMgUYI/AAAAAAAAFa8/639DZ7fRd6sryOZ8u32II8sNOO8WpG9FwCLcB/s1600/CM%2BTV%2Blogo.png" group-title="CANAIS | PORTUGAL",PT- CMTV (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239169
+#EXTINF:-1 tvg-name="CNN 24 (LOW)" tvg-logo="https://e7.pngegg.com/pngimages/432/428/png-clipart-logo-graphics-cnn-turk-cruise-director-job-text-trademark.png" group-title="CANAIS | PORTUGAL",CNN 24 (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239168
+#EXTINF:-1 tvg-name="PT- BTV (LOW)" tvg-logo="https://1.bp.blogspot.com/-bmo-eSDKLm0/WDrqBACM5GI/AAAAAAAAFas/uDRGh2C-tZ0oRPUufWBWVRtVHnHBJoduwCLcB/s1600/BTV%2BHD%2Blogo.png" group-title="CANAIS | PORTUGAL",PT- BTV (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239167
+#EXTINF:-1 tvg-name="PT- PFC (LOW)" tvg-logo="https://i.imgur.com/kvmx029.png" group-title="CANAIS | PORTUGAL",PT- PFC (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239165
+#EXTINF:-1 tvg-name="PT- RTP ACORES (LOW)" tvg-logo="https://i.imgur.com/1oHvxM5.png" group-title="CANAIS | PORTUGAL",PT- RTP ACORES (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239164
+#EXTINF:-1 tvg-name="PT- RTP AFRICA (LOW)" tvg-logo="http://live21.site/LOGOS/picons/RTP_Africa.png" group-title="CANAIS | PORTUGAL",PT- RTP AFRICA (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239163
+#EXTINF:-1 tvg-name="PT- RTP MADEIRA (LOW)" tvg-logo="http://live21.site/LOGOS/picons/RTP_MADEIRA.png" group-title="CANAIS | PORTUGAL",PT- RTP MADEIRA (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239162
+#EXTINF:-1 tvg-name="PT- RTP MEMORIA (LOW)" tvg-logo="https://i.imgur.com/Hozoft0.png" group-title="CANAIS | PORTUGAL",PT- RTP MEMORIA (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239161
+#EXTINF:-1 tvg-name="PT- 24 KITCHEN (LOW)" tvg-logo="http://live21.site/LOGOS/picons/24_KITCHEN.png" group-title="CANAIS | PORTUGAL",PT- 24 KITCHEN (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239160
+#EXTINF:-1 tvg-name="PT- TVCINE TOP (LOW)" tvg-logo="http://live21.site/LOGOS/picons/TVCine_Top.png" group-title="CANAIS | PORTUGAL",PT- TVCINE TOP (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239159
+#EXTINF:-1 tvg-name="PT- TVCINE EDITION (LOW)" tvg-logo="http://live21.site/LOGOS/picons/TVCine_Edition.png" group-title="CANAIS | PORTUGAL",PT- TVCINE EDITION (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239158
+#EXTINF:-1 tvg-name="PT- TVCINE EMOTION (LOW)" tvg-logo="http://live21.site/LOGOS/picons/TVCine_Emotion.png" group-title="CANAIS | PORTUGAL",PT- TVCINE EMOTION (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239157
+#EXTINF:-1 tvg-name="PT- TVCINE ACTION (LOW)" tvg-logo="http://live21.site/LOGOS/picons/TVCine_Action.png" group-title="CANAIS | PORTUGAL",PT- TVCINE ACTION (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239156
+#EXTINF:-1 tvg-name="PT- AMC (LOW)" tvg-logo="https://1.bp.blogspot.com/-MPbCb1IAtps/WB8tayoyiLI/AAAAAAAAFTg/eFRAt4PCzzcW9bcsUh_wC7yVtyGATeYMACLcB/s1600/AMC%2Blogo.png" group-title="CANAIS | PORTUGAL",PT- AMC (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239155
+#EXTINF:-1 tvg-name="PT- AXN MOVIES  (LOW)" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2020/02/axnmovies-2015-v-black-magenta-rgb-hero.png" group-title="CANAIS | PORTUGAL",PT- AXN MOVIES  (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239154
+#EXTINF:-1 tvg-name="PT- AXN WHITE (LOW)" tvg-logo="https://3.bp.blogspot.com/-t3GENrpvUc8/WDrqA3wE2uI/AAAAAAAAFak/s9-42gnbUGkqswvFSf0s60TnyuF3LiKawCLcB/s1600/AXN%2BWhite%2BHD%2Blogo.png" group-title="CANAIS | PORTUGAL",PT- AXN WHITE (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239153
+#EXTINF:-1 tvg-name="PT- AXN (LOW)" tvg-logo="https://1.bp.blogspot.com/-eaIFUFMwW6Y/WDrqAy7WLPI/AAAAAAAAFac/ebV93SO38EkUak8XNhQCiITUZHNtWiSmQCLcB/s1600/AXN%2BHD%2Blogo.png" group-title="CANAIS | PORTUGAL",PT- AXN (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239152
+#EXTINF:-1 tvg-name="PT- BABY TV (LOW)" tvg-logo="http://live21.site/LOGOS/picons/BABY_TV.png" group-title="CANAIS | PORTUGAL",PT- BABY TV (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239151
+#EXTINF:-1 tvg-name="PT- BLAZE (LOW)" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/blaze/logo.png" group-title="CANAIS | PORTUGAL",PT- BLAZE (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239150
+#EXTINF:-1 tvg-name="PT- CAZA E PESCA (LOW)" tvg-logo="https://i.imgur.com/xpqAcSz.png" group-title="CANAIS | PORTUGAL",PT- CAZA E PESCA (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239149
+#EXTINF:-1 tvg-name="PT- CACAVISION (LOW)" tvg-logo="https://i.imgur.com/i0IDqQd.png" group-title="CANAIS | PORTUGAL",PT- CACAVISION (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239148
+#EXTINF:-1 tvg-name="PT- CANAL Q (LOW)" tvg-logo="https://i.imgur.com/pChUy7I.png" group-title="CANAIS | PORTUGAL",PT- CANAL Q (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239147
+#EXTINF:-1 tvg-name="PT- CARTOON NETWORK (LOW)" tvg-logo="http://live21.site/LOGOS/picons/CARTOON_NETWORK.png" group-title="CANAIS | PORTUGAL",PT- CARTOON NETWORK (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239146
+#EXTINF:-1 tvg-name="PT- CINEMUNDO (LOW)" tvg-logo="https://3.bp.blogspot.com/-mHEz-7oSIXw/VSene5r6G5I/AAAAAAAAEyE/4R-rWWL9nyo/s1600/Cinemundo%2Blogo%2B1.png" group-title="CANAIS | PORTUGAL",PT- CINEMUNDO (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239145
+#EXTINF:-1 tvg-name="PT- CRIME INVESTIGATION (LOW)" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/CI/logo-white.png" group-title="CANAIS | PORTUGAL",PT- CRIME INVESTIGATION (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239144
+#EXTINF:-1 tvg-name="PT- DISCOVERY CHANNEL (LOW)" tvg-logo="https://i.imgur.com/kpeMjrn.png" group-title="CANAIS | PORTUGAL",PT- DISCOVERY CHANNEL (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239143
+#EXTINF:-1 tvg-name="PT- DISNEY CHANNEL (LOW)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="CANAIS | PORTUGAL",PT- DISNEY CHANNEL (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239142
+#EXTINF:-1 tvg-name="PT- DISNEY JUNIOR (LOW)" tvg-logo="https://i.imgur.com/4dzzQ0t.png" group-title="CANAIS | PORTUGAL",PT- DISNEY JUNIOR (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239141
+#EXTINF:-1 tvg-name="PT- DOG TV (LOW)" tvg-logo="https://i.imgur.com/R1mVNpa.png" group-title="CANAIS | PORTUGAL",PT- DOG TV (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239140
+#EXTINF:-1 tvg-name="PT- E! ENTERTAINMENT (LOW)" tvg-logo="http://i.imgur.com/DfsBEFp.png" group-title="CANAIS | PORTUGAL",PT- E! ENTERTAINMENT (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239139
+#EXTINF:-1 tvg-name="PT- NICK JR (LOW)" tvg-logo="http://i.imgur.com/gz6kU7g.png" group-title="CANAIS | PORTUGAL",PT- NICK JR (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239138
+#EXTINF:-1 tvg-name="PT- NICKELODEON (LOW)" tvg-logo="http://live21.site/LOGOS/picons/Nickelodeon.png" group-title="CANAIS | PORTUGAL",PT- NICKELODEON (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239137
+#EXTINF:-1 tvg-name="PT- FOX COMEDY (LOW)" tvg-logo="http://live21.site/LOGOS/picons/FOX_COMEDY.png" group-title="CANAIS | PORTUGAL",PT- FOX COMEDY (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239136
+#EXTINF:-1 tvg-name="PT- FOX CRIME (LOW)" tvg-logo="http://live21.site/LOGOS/picons/FOX_CRIME.png" group-title="CANAIS | PORTUGAL",PT- FOX CRIME (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239135
+#EXTINF:-1 tvg-name="PT- FOX LIFE (LOW)" tvg-logo="https://1.bp.blogspot.com/-GXh7kwfzRTo/U96OitScklI/AAAAAAAAEnc/4-Dgt66u1II/s1600/FOX+Life+HD+logo.png" group-title="CANAIS | PORTUGAL",PT- FOX LIFE (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239134
+#EXTINF:-1 tvg-name="PT- FOX MOVIES (LOW)" tvg-logo="http://live21.site/LOGOS/picons/FOX_MOVIES.png" group-title="CANAIS | PORTUGAL",PT- FOX MOVIES (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239133
+#EXTINF:-1 tvg-name="PT- FOX (LOW)" tvg-logo="https://2.bp.blogspot.com/-Lkp3eIEVTT0/TyVavFNXZuI/AAAAAAAABHc/onUyR6tnwwI/s1600/Fox+HD+logo+2.png" group-title="CANAIS | PORTUGAL",PT- FOX (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239132
+#EXTINF:-1 tvg-name="PT- FUEL TV (LOW)" tvg-logo="https://i.imgur.com/ZmZfDtk.png" group-title="CANAIS | PORTUGAL",PT- FUEL TV (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239131
+#EXTINF:-1 tvg-name="PT- HISTORIA (LOW)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="CANAIS | PORTUGAL",PT- HISTORIA (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239130
+#EXTINF:-1 tvg-name="PT- HOLLYWOOD (LOW)" tvg-logo="http://live21.site/LOGOS/picons/Hollywood.png" group-title="CANAIS | PORTUGAL",PT- HOLLYWOOD (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239129
+#EXTINF:-1 tvg-name="PT- MCM TOP (LOW)" tvg-logo="https://i.imgur.com/ugDPCmB.png" group-title="CANAIS | PORTUGAL",PT- MCM TOP (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239128
+#EXTINF:-1 tvg-name="PT- MOTORVISION (LOW)" tvg-logo="https://i.imgur.com/I0ZTOVi.png" group-title="CANAIS | PORTUGAL",PT- MOTORVISION (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239127
+#EXTINF:-1 tvg-name="PT- NATIONAL GEOGRAPHIC (LOW)" tvg-logo="https://www.nationalgeographicbrasil.com/images/logo.png" group-title="CANAIS | PORTUGAL",PT- NATIONAL GEOGRAPHIC (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239126
+#EXTINF:-1 tvg-name="PT- PORTO CANAL (LOW)" tvg-logo="http://live21.site/LOGOS/picons/Porto_Canal.png" group-title="CANAIS | PORTUGAL",PT- PORTO CANAL (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239122
+#EXTINF:-1 tvg-name="PT- RECORD NEWS (LOW)" tvg-logo="https://media-manager.starsinsider.com/1920/na_5c9df95c17ee6.jpg" group-title="CANAIS | PORTUGAL",PT- RECORD NEWS (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239121
+#EXTINF:-1 tvg-name="PT- SIC CARAS (LOW)" tvg-logo="http://live21.site/LOGOS/picons/SIC_CARAS.png" group-title="CANAIS | PORTUGAL",PT- SIC CARAS (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239120
+#EXTINF:-1 tvg-name="PT- SIC K (LOW)" tvg-logo="https://i.imgur.com/WWW5qKT.png" group-title="CANAIS | PORTUGAL",PT- SIC K (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239119
+#EXTINF:-1 tvg-name="PT- SIC MULHER (LOW)" tvg-logo="http://live21.site/LOGOS/picons/SIC_MULHER.png" group-title="CANAIS | PORTUGAL",PT- SIC MULHER (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239118
+#EXTINF:-1 tvg-name="PT- SIC NOTICIAS (LOW)" tvg-logo="https://3.bp.blogspot.com/-qnWwcwxFnnk/WDrqHavQXjI/AAAAAAAAFes/H8b9nHTH8L4RqA2OTXP9R2qeYHLw4Xw2QCLcB/s1600/SIC%2BNot%25C3%25ADcias%2Blogo.png" group-title="CANAIS | PORTUGAL",PT- SIC NOTICIAS (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239117
+#EXTINF:-1 tvg-name="PT- SIC RADICAL (LOW)" tvg-logo="http://live21.site/LOGOS/PTS/sicradical.png" group-title="CANAIS | PORTUGAL",PT- SIC RADICAL (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239116
+#EXTINF:-1 tvg-name="PT- SYFY (LOW)" tvg-logo="https://4.bp.blogspot.com/-KFpvGLvNb3Q/WDtdfKOQfEI/AAAAAAAAFkk/PXqW9GvFFdEvAHzpHiCy_cxWUTcb2-kVwCLcB/s1600/Syfy%2BHD%2Blogo.png" group-title="CANAIS | PORTUGAL",PT- SYFY (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239114
+#EXTINF:-1 tvg-name="PT- THE FOOD NETWORK (LOW)" tvg-logo="https://i.imgur.com/8usMt92.png" group-title="CANAIS | PORTUGAL",PT- THE FOOD NETWORK (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239113
+#EXTINF:-1 tvg-name="PT- NOS STUDIOS (LOW)" tvg-logo="https://cdn.nos.pt/common/img/nos.png" group-title="CANAIS | PORTUGAL",PT- NOS STUDIOS (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239112
+#EXTINF:-1 tvg-name="PT- TLC (LOW)" tvg-logo="https://i.imgur.com/JOiDYx6.png" group-title="CANAIS | PORTUGAL",PT- TLC (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239111
+#EXTINF:-1 tvg-name="PT- TRACE TOCA (LOW)" tvg-logo="https://br.trace.company/wp-content/uploads//2017/03/logo-toca.png" group-title="CANAIS | PORTUGAL",PT- TRACE TOCA (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239110
+#EXTINF:-1 tvg-name="PT- TRACE URBAN (LOW)" tvg-logo="https://i.imgur.com/4M2XZfF.png" group-title="CANAIS | PORTUGAL",PT- TRACE URBAN (LOW)
+http://dnsb.io:80/5518997505280/ZQX8oNjL/239109
