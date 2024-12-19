@@ -1,5 +1,48 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-name="Rádio Nativa FM 90.1" group-title="Radios",Rádio Nativa FM 90.1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vodteste.com:80/jafdfdgg/462M43P3/80833
+#EXTINF:-1 tvg-name="Rádio Band FM 96.1" group-title="Radios",Rádio Band FM 96.1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vodteste.com:80/jafdfdgg/462M43P3/80834
+#EXTINF:-1 tvg-name="89 FM A Rádio Rock" group-title="Radios",89 FM A Rádio Rock
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vodteste.com:80/jafdfdgg/462M43P3/80836
+#EXTINF:-1 tvg-name="Rádio Mix FM 106.3" group-title="Radios",Rádio Mix FM 106.3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vodteste.com:80/jafdfdgg/462M43P3/80837
+#EXTINF:-1 tvg-name="Rádio Clube FM 105.5" group-title="Radios",Rádio Clube FM 105.5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vodteste.com:80/jafdfdgg/462M43P3/80838
+#EXTINF:-1 tvg-name="Rádio Foz In Rock" group-title="Radios",Rádio Foz In Rock
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vodteste.com:80/jafdfdgg/462M43P3/80823
+#EXTINF:-1 tvg-name="Rádio BandNews FM 90.7 Goiania" group-title="Radios",Rádio BandNews FM 90.7 Goiania
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vodteste.com:80/jafdfdgg/462M43P3/80824
+#EXTINF:-1 tvg-name="Rádio Itatiaia 610 AM 95.7 FM" group-title="Radios",Rádio Itatiaia 610 AM 95.7 FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vodteste.com:80/jafdfdgg/462M43P3/80825
+#EXTINF:-1 tvg-name="Rádio Antena 1 Lite FM 103.7" group-title="Radios",Rádio Antena 1 Lite FM 103.7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vodteste.com:80/jafdfdgg/462M43P3/80826
+#EXTINF:-1 tvg-name="Rádio Gaúcha AM 600 FM 93.7" group-title="Radios",Rádio Gaúcha AM 600 FM 93.7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vodteste.com:80/jafdfdgg/462M43P3/80827
+#EXTINF:-1 tvg-name="Rádio Jovem Pan SP AM 620" group-title="Radios",Rádio Jovem Pan SP AM 620
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vodteste.com:80/jafdfdgg/462M43P3/80828
+#EXTINF:-1 tvg-name="CBN Grandes Lagos 90.9 FM" group-title="Radios",CBN Grandes Lagos 90.9 FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vodteste.com:80/jafdfdgg/462M43P3/80829
+#EXTINF:-1 tvg-name="Rádio Onda Poços 96.7 FM" group-title="Radios",Rádio Onda Poços 96.7 FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vodteste.com:80/jafdfdgg/462M43P3/80830
+#EXTINF:-1 tvg-name="Radio Gospel Campinas" group-title="Radios",Radio Gospel Campinas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vodteste.com:80/jafdfdgg/462M43P3/80831
+#EXTINF:-1 tvg-name="Rádio Grenal 1020 AM 95.9 FM" group-title="Radios",Rádio Grenal 1020 AM 95.9 FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vodteste.com:80/jafdfdgg/462M43P3/80832
+#EXTINF:-1 tvg-name="Transamérica 100.1 FM" group-title="Radios",Transamérica 100.1 FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vodteste.com:80/jafdfdgg/462M43P3/80835
+#EXTINF:-1 tvg-name="Radio Suceso 97.1 FM" group-title="Radios",Radio Suceso 97.1 FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vodteste.com:80/jafdfdgg/462M43P3/127027
+#EXTINF:-1 tvg-name="Antenne Bayern 80's Hits" group-title="Radios",Antenne Bayern 80's Hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vodteste.com:80/jafdfdgg/462M43P3/127028
+
+
+
+
+
+
 #EXTINF:-1 tvg-name="Axe Brasil Web Rádio" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Axe Brasil Web Rádio
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/1y9WeS/unySNb/33442
 #EXTINF:-1 tvg-name="Black In Love Radio" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Black In Love Radio
