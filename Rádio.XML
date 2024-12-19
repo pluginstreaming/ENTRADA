@@ -1,5 +1,52 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Axe Brasil Web Rádio" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Axe Brasil Web Rádio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/1y9WeS/unySNb/33442
+#EXTINF:-1 tvg-name="Black In Love Radio" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Black In Love Radio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/1y9WeS/unySNb/33456
+#EXTINF:-1 tvg-name="Heavy Metal Ears Radio" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Heavy Metal Ears Radio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/1y9WeS/unySNb/33457
+#EXTINF:-1 tvg-name="House Brazil Radio Show" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",House Brazil Radio Show
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/1y9WeS/unySNb/33464
+#EXTINF:-1 tvg-name="Radioweb Sertaneja Raiz Só Modão" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Radioweb Sertaneja Raiz Só Modão
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/1y9WeS/unySNb/33463
+#EXTINF:-1 tvg-name="Rádio 92 FM GO" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rádio 92 FM GO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/1y9WeS/unySNb/33465
+#EXTINF:-1 tvg-name="Rádio Antena 1 94.7 FM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rádio Antena 1 94.7 FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/1y9WeS/unySNb/33466
+#EXTINF:-1 tvg-name="Rádio Bossa Nova Brazil" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rádio Bossa Nova Brazil
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/1y9WeS/unySNb/33444
+#EXTINF:-1 tvg-name="Rádio Cidade das Águas 101.3 FM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rádio Cidade das Águas 101.3 FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/1y9WeS/unySNb/33439
+#EXTINF:-1 tvg-name="Rádio Gold 94.7 FM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rádio Gold 94.7 FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/1y9WeS/unySNb/33451
+#EXTINF:-1 tvg-name="Rádio João Pessoa 97.7 FM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rádio João Pessoa 97.7 FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/1y9WeS/unySNb/33437
+#EXTINF:-1 tvg-name="Rádio Máxima 87.9 FM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rádio Máxima 87.9 FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/1y9WeS/unySNb/33450
+#EXTINF:-1 tvg-name="Rádio Novidades Na Mídia" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rádio Novidades Na Mídia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/1y9WeS/unySNb/33459
+#EXTINF:-1 tvg-name="Rádio Reggae Brasil" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rádio Reggae Brasil
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/1y9WeS/unySNb/33460
+#EXTINF:-1 tvg-name="SP: Rádio Antena 1 FM 94.7" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",SP: Rádio Antena 1 FM 94.7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/1y9WeS/unySNb/87716
+#EXTINF:-1 tvg-name="SP: Rádio Arena  FM 106" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",SP: Rádio Arena  FM 106
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/1y9WeS/unySNb/89537
+#EXTINF:-1 tvg-name="SP: Rádio Metropolitana FM 98.5" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",SP: Rádio Metropolitana FM 98.5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/1y9WeS/unySNb/140290
+#EXTINF:-1 tvg-name="Web Radio - Arena 106" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Web Radio - Arena 106
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/1y9WeS/unySNb/87715
+#EXTINF:-1 tvg-name="Web Radio - Arena 106" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Web Radio - Arena 106
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/1y9WeS/unySNb/81096
+#EXTINF:-1 tvg-name="Web Radio Jesus a Luz do Mundo" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Web Radio Jesus a Luz do Mundo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/1y9WeS/unySNb/133444
+#EXTINF:-1 tvg-name="Rádio Difusora Pantanal 101.9 FM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rádio Difusora Pantanal 101.9 FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/1y9WeS/unySNb/149374
+#EXTINF:-1 tvg-name="Rádio Band FM 96.1 FM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rádio Band FM 96.1 FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/1y9WeS/unySNb/149373
+
+
+
 
 
 
