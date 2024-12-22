@@ -3,246 +3,389 @@
 
 
 
-
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- SportTV +  HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",PT- SportTV +  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/111993
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- SportTV 1 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",PT- SportTV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/111995
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- SportTV 2 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",PT- SportTV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/111998
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- SportTV 3 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",PT- SportTV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112000
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- SportTV 4 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",PT- SportTV 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112002
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- SportTV 5 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",PT- SportTV 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112004
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- SportTV 6 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",PT- SportTV 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112006
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- A Bola TV HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",PT- A Bola TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112014
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="PT- BLOOMBERG" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",PT- BLOOMBERG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112030
-#EXTINF:-1 tvg-name="PT- BTV HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",PT- BTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112010
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- CacaVision SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",PT- CacaVision SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112078
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- Canal 11 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",PT- Canal 11 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112016
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- Canal180" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",PT- Canal180
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112102
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- Canal Panda HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",PT- Canal Panda HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112026
-#EXTINF:-1 tvg-name="Canal Q SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",Canal Q SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112052
-#EXTINF:-1 tvg-name="Casa Cozinha HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",Casa Cozinha HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112045
-#EXTINF:-1 tvg-name="Caça & Pesca FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",Caça & Pesca FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112079
-#EXTINF:-1 tvg-name="CBS Reality SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",CBS Reality SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112043
-#EXTINF:-1 tvg-name="Cine Mundo HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",Cine Mundo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/111971
-#EXTINF:-1 tvg-name="Clubbing TV" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",Clubbing TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112101
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="CMTV HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",CMTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/111945
-#EXTINF:-1 tvg-name="CNN HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",CNN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/111947
-#EXTINF:-1 tvg-name="Crime Investigação SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",Crime Investigação SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112066
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",Discovery Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112063
-#EXTINF:-1 tvg-name="Discovery ID" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",Discovery ID
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112067
-#EXTINF:-1 tvg-name="Disney +" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",Disney +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112022
-#EXTINF:-1 tvg-name="Disney Channel SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",Disney Channel SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112031
-#EXTINF:-1 tvg-name="Disney Marvel" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",Disney Marvel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112020
-#EXTINF:-1 tvg-name="Disney Pixar" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",Disney Pixar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112019
-#EXTINF:-1 tvg-name="Disney Star Wars" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",Disney Star Wars
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112018
-#EXTINF:-1 tvg-id="Dogtv.pt" tvg-name="DOG TV FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",DOG TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112054
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! Entertainment SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",E! Entertainment SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112049
-#EXTINF:-1 tvg-name="Eeuro News" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",Eeuro News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112110
-#EXTINF:-1 tvg-id="Fashiontv.br" tvg-name="Fashion TV HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",Fashion TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112068
-#EXTINF:-1 tvg-name="Fight Box HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",Fight Box HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112086
-#EXTINF:-1 tvg-name="Fight Network" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",Fight Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112087
-#EXTINF:-1 tvg-name="Food Network" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",Food Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112048
-#EXTINF:-1 tvg-name="FOX Comedy HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",FOX Comedy HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/111989
-#EXTINF:-1 tvg-name="FOX Crime HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",FOX Crime HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/111987
-#EXTINF:-1 tvg-name="FOX FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",FOX FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/111986
-#EXTINF:-1 tvg-name="FOX HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",FOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/111985
-#EXTINF:-1 tvg-name="FOX Life FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",FOX Life FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/111992
-#EXTINF:-1 tvg-name="FOX Life HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",FOX Life HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/111991
-#EXTINF:-1 tvg-name="FOX Muvies HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",FOX Muvies HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/111969
-#EXTINF:-1 tvg-name="Fuel TV FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",Fuel TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112072
-#EXTINF:-1 tvg-name="Fuel TV HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",Fuel TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112071
-#EXTINF:-1 tvg-name="GINX" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",GINX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112081
-#EXTINF:-1 tvg-name="HBO Portugal" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",HBO Portugal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/111976
-#EXTINF:-1 tvg-name="Hollywood HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",Hollywood HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/111967
-#EXTINF:-1 tvg-name="ID Invesigation Discovery HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",ID Invesigation Discovery HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112064
-#EXTINF:-1 tvg-name="Jim Jam SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",Jim Jam SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112024
-#EXTINF:-1 tvg-name="Kuriakos TV FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",Kuriakos TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112105
-#EXTINF:-1 tvg-name="Lolly Kids" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",Lolly Kids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112091
-#EXTINF:-1 tvg-name="M6 Music HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",M6 Music HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112103
-#EXTINF:-1 tvg-name="MCM POP SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",MCM POP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112098
-#EXTINF:-1 tvg-name="MCM TOP" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",MCM TOP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112097
-#EXTINF:-1 tvg-name="Mezzo Live FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",Mezzo Live FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112099
-#EXTINF:-1 tvg-name="MotorVision TV SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",MotorVision TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112076
-#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV Live HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",MTV Live HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112096
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV Portugal HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",MTV Portugal HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112095
-#EXTINF:-1 tvg-name="Más Chic HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",Más Chic HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112047
-#EXTINF:-1 tvg-name="PT National Geographic HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",PT National Geographic HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112061
-#EXTINF:-1 tvg-name="National Geographic Wild HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",National Geographic Wild HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112059
-#EXTINF:-1 tvg-name="Nick + HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",Nick + HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112021
-#EXTINF:-1 tvg-name="Nickelodeon SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",Nickelodeon SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112025
-#EXTINF:-1 tvg-name="NOS StudiosHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",NOS StudiosHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/111965
-#EXTINF:-1 tvg-name="Odisseia HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",Odisseia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112065
-#EXTINF:-1 tvg-name="Outdoor HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",Outdoor HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112077
-#EXTINF:-1 tvg-name="Panda Biggs SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",Panda Biggs SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112029
-#EXTINF:-1 tvg-name="PFC SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",PFC SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112070
-#EXTINF:-1 tvg-name="Porto Canal HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",Porto Canal HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112051
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- 24 Kitchen HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",PT- 24 Kitchen HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112046
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="PT- AMC HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",PT- AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/111973
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- AXN HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",PT- AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/111977
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- AXN MOVIES  HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",PT- AXN MOVIES  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/111981
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- AXN WHITE HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",PT- AXN WHITE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/111979
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- Baby TV SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",PT- Baby TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112023
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- Blaze HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",PT- Blaze HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112053
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="PT- Combate HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",PT- Combate HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112083
-#EXTINF:-1 tvg-name="PT- Marvel" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",PT- Marvel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/111935
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- RTP 1 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",PT- RTP 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/111937
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="PT- RTP 2 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",PT- RTP 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/111939
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- RTP 3 HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",PT- RTP 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/111949
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- RTP Africa SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",PT- RTP Africa SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112057
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- RTP Açores SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",PT- RTP Açores SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112056
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="PT- RTP MADEIRA" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",PT- RTP MADEIRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112058
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- RTP Memória SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",PT- RTP Memória SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112055
-#EXTINF:-1 tvg-name="Red Bull TV  FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",Red Bull TV  FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112080
-#EXTINF:-1 tvg-name="SIC Caras HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",SIC Caras HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112039
-#EXTINF:-1 tvg-name="SIC HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",SIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/111941
-#EXTINF:-1 tvg-name="SIC Kids HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",SIC Kids HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112028
-#EXTINF:-1 tvg-name="SIC Mulher HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",SIC Mulher HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112040
-#EXTINF:-1 tvg-name="SIC Noticias HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",SIC Noticias HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/111952
-#EXTINF:-1 tvg-name="SIC Radical HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",SIC Radical HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112041
-#EXTINF:-1 tvg-name="Star + HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",Star + HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/111975
-#EXTINF:-1 tvg-name="SYFY HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/111983
-#EXTINF:-1 tvg-name="TCV Internacioanal" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",TCV Internacioanal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112108
-#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",TLC SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112044
-#EXTINF:-1 tvg-name="Toros TV FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",Toros TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112074
-#EXTINF:-1 tvg-name="Toros TV HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",Toros TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112073
-#EXTINF:-1 tvg-name="TPA Internacional SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",TPA Internacional SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112106
-#EXTINF:-1 tvg-name="Trace Urban" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",Trace Urban
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112094
-#EXTINF:-1 tvg-name="Travel Channel HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",Travel Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112050
-#EXTINF:-1 tvg-name="TV Cine Action HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",TV Cine Action HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/111963
-#EXTINF:-1 tvg-name="TV Cine Edition HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",TV Cine Edition HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/111958
-#EXTINF:-1 tvg-name="TV Cine Emotion HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",TV Cine Emotion HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/111961
-#EXTINF:-1 tvg-name="TV Cine Top HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",TV Cine Top HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/111956
-#EXTINF:-1 tvg-name="TV Record HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",TV Record HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112038
-#EXTINF:-1 tvg-name="TVC Cabo Verde" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",TVC Cabo Verde
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112109
-#EXTINF:-1 tvg-name="TVCine + HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",TVCine + HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/111955
-#EXTINF:-1 tvg-name="TVI FicçãoHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",TVI FicçãoHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112033
-#EXTINF:-1 tvg-name="TVI HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",TVI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/111943
-#EXTINF:-1 tvg-name="TVI Reality" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",TVI Reality
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112113
-#EXTINF:-1 tvg-name="TVI Reality FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",TVI Reality FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112114
-#EXTINF:-1 tvg-name="TVI Reality HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",TVI Reality HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112035
-#EXTINF:-1 tvg-name="TVI Reality Low" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",TVI Reality Low
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112112
-#EXTINF:-1 tvg-name="TVI Reality Mosaico" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",TVI Reality Mosaico
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112111
-#EXTINF:-1 tvg-name="VH1 SD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",VH1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112093
-#EXTINF:-1 tvg-name="WWE HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",WWE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112085
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="Zap Viva FHD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",Zap Viva FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/112104
-#EXTINF:-1 tvg-id="Globo.pt" tvg-name="TV Globo HD" tvg-logo="http://beststorage4you.com:2095/logoscanais/Portugal.png" group-title="Canais | Portugal",TV Globo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniplayuhd.cdn23.click:80/649844320/z890800e/377249
+#EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1ˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/RTP%201.png" group-title="PORTUGAL SMART-HVEC",RTP 1ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/274
+#EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1 Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/RTP%201.png" group-title="PORTUGAL SMART-HVEC",RTP 1 Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16496
+#EXTINF:-1 tvg-id="RTP1HD" tvg-name="[hevc] RTP 1ᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/RTP_1_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] RTP 1ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21690
+#EXTINF:-1 tvg-id="RTP 2" tvg-name="RTP 2ˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/RTP%202.png" group-title="PORTUGAL SMART-HVEC",RTP 2ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/275
+#EXTINF:-1 tvg-id="RTP 2 HD" tvg-name="RTP 2 Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/RTP%202.png" group-title="PORTUGAL SMART-HVEC",RTP 2 Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21592
+#EXTINF:-1 tvg-id="RTP 2" tvg-name="[hevc] RTP 2ᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/RTP_2_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] RTP 2ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21688
+#EXTINF:-1 tvg-id="SIC" tvg-name="SICˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SIC.png" group-title="PORTUGAL SMART-HVEC",SICˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/276
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SIC.png" group-title="PORTUGAL SMART-HVEC",SIC Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16497
+#EXTINF:-1 tvg-id="SIC" tvg-name="[hevc] SICᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/SIC_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] SICᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21689
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVIˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVI.png" group-title="PORTUGAL SMART-HVEC",TVIˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/277
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVI Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVI.png" group-title="PORTUGAL SMART-HVEC",TVI Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16498
+#EXTINF:-1 tvg-id="TVI" tvg-name="[hevc] TVIᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/TVI_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] TVIᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21644
+#EXTINF:-1 tvg-name="✦ ✦ ✦ Smart INFORMACÃO✦ ✦ ✦" tvg-logo="https://w7.pngwing.com/pngs/692/726/png-transparent-ornament-seperator-miscellaneous-angle-symbol-thumbnail.png" group-title="PORTUGAL SMART-HVEC",✦ ✦ ✦ Smart INFORMACÃO✦ ✦ ✦
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21636
+#EXTINF:-1 tvg-id="EURON" tvg-name="EURONEWS" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Euronews.png" group-title="PORTUGAL SMART-HVEC",EURONEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/20307
+#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV Mobile" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/CM_TV_logo.png" group-title="PORTUGAL SMART-HVEC",CMTV Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16499
+#EXTINF:-1 tvg-id="CMTV" tvg-name="[hevc] CMTVᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/CMTV_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] CMTVᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21646
+#EXTINF:-1 tvg-id="CNN Portugal" tvg-name="CNN PORTUGALˢᵈ" tvg-logo="https://picons.my-ott.com/picons/CNN_PORTUGAL.png" group-title="PORTUGAL SMART-HVEC",CNN PORTUGALˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/280
+#EXTINF:-1 tvg-id="CNN Portugal" tvg-name="CNN PORTUGAL Mobile" tvg-logo="https://picons.my-ott.com/picons/CNN_PORTUGAL.png" group-title="PORTUGAL SMART-HVEC",CNN PORTUGAL Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16500
+#EXTINF:-1 tvg-id="CNN Portugal" tvg-name="[hevc] CNN PORTUGALᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/CNN_PORTUGAL_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] CNN PORTUGALᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21687
+#EXTINF:-1 tvg-id="RTP3" tvg-name="RTP 3ˢᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/RTP3_2016_%28Reduced_Version%29.svg/2560px-RTP3_2016_%28Reduced_Version%29.svg.png" group-title="PORTUGAL SMART-HVEC",RTP 3ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/22843
+#EXTINF:-1 tvg-id="RTP3" tvg-name="RTP 3 Mobile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/RTP3_2016_%28Reduced_Version%29.svg/2560px-RTP3_2016_%28Reduced_Version%29.svg.png" group-title="PORTUGAL SMART-HVEC",RTP 3 Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16508
+#EXTINF:-1 tvg-id="SICN" tvg-name="SIC NOTICIASˢᵈ" tvg-logo="https://picons.my-ott.com/picons/SIC%20NOTICIAS.png" group-title="PORTUGAL SMART-HVEC",SIC NOTICIASˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/279
+#EXTINF:-1 tvg-id="SICN" tvg-name="SIC Noticias Mobile" tvg-logo="https://picons.my-ott.com/picons/SIC%20NOTICIAS.png" group-title="PORTUGAL SMART-HVEC",SIC Noticias Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16503
+#EXTINF:-1 tvg-id="SICN" tvg-name="[hevc] SIC NOTICIASᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/SIC_NOTICIAS..png" group-title="PORTUGAL SMART-HVEC",[hevc] SIC NOTICIASᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21648
+#EXTINF:-1 tvg-id="CANAL 11 HD" tvg-name="CANAL 11ˢᵈ" tvg-logo="https://picons.my-ott.com/picons/CANAL_11_SD.png" group-title="PORTUGAL SMART-HVEC",CANAL 11ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/22696
+#EXTINF:-1 tvg-id="CANAL 11 HD" tvg-name="CANAL 11 Mobile" tvg-logo="https://picons.my-ott.com/picons/CANAL_11_SD.png" group-title="PORTUGAL SMART-HVEC",CANAL 11 Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21624
+#EXTINF:-1 tvg-id="CANAL 11" tvg-name="[hevc] CANAL 11ᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/CANAL_11.png" group-title="PORTUGAL SMART-HVEC",[hevc] CANAL 11ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/22695
+#EXTINF:-1 tvg-id="A BOLA" tvg-name="A Bola TVˢᵈ" tvg-logo="https://picons.my-ott.com/picons/A_BOLA_TV.png" group-title="PORTUGAL SMART-HVEC",A Bola TVˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21618
+#EXTINF:-1 tvg-id="A BOLA" tvg-name="A Bola TV Mobile" tvg-logo="https://picons.my-ott.com/picons/A_BOLA_TV.png" group-title="PORTUGAL SMART-HVEC",A Bola TV Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16510
+#EXTINF:-1 tvg-id="A BOLA" tvg-name="[hevc] A BOLA  TVᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/A_BOLA_TV_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] A BOLA  TVᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21649
+#EXTINF:-1 tvg-id="SPORT.TV+" tvg-name="SPORT TV +ˢᵈ" tvg-logo="https://picons.my-ott.com/SportTV/SPORT.TV+.png" group-title="PORTUGAL SMART-HVEC",SPORT TV +ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/343
+#EXTINF:-1 tvg-id="SPORT.TV+" tvg-name="SPORT TV + Mobile" tvg-logo="https://picons.my-ott.com/picons/SPORT_TV_+.png" group-title="PORTUGAL SMART-HVEC",SPORT TV + Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/18228
+#EXTINF:-1 tvg-id="SPORT.TV+" tvg-name="[hevc] SPORT TV +ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/NBAHD.png" group-title="PORTUGAL SMART-HVEC",[hevc] SPORT TV +ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21651
+#EXTINF:-1 tvg-id="PORTO" tvg-name="PORTO CANALˢᵈ " tvg-logo="https://portocanal.sapo.pt/uploads/defaults/default-16x9.png" group-title="PORTUGAL SMART-HVEC",PORTO CANALˢᵈ 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/282
+#EXTINF:-1 tvg-id="PORTO" tvg-name="PORTO CANAL Mobile" tvg-logo="https://portocanal.sapo.pt/uploads/defaults/default-16x9.png" group-title="PORTUGAL SMART-HVEC",PORTO CANAL Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21606
+#EXTINF:-1 tvg-id="PORTO" tvg-name=" [hevc] PORTO CANALᴴᴰ " tvg-logo="https://portocanal.sapo.pt/uploads/defaults/default-16x9.png" group-title="PORTUGAL SMART-HVEC", [hevc] PORTO CANALᴴᴰ 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/22654
+#EXTINF:-1 tvg-id="ARTV (Canal Parlamento)" tvg-name="AR TV " tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TV%20PARLAMENTO.png" group-title="PORTUGAL SMART-HVEC",AR TV 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/20676
+#EXTINF:-1 tvg-id="RTPA" tvg-name="RTP AFRICAˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/RTP%20Africa.png" group-title="PORTUGAL SMART-HVEC",RTP AFRICAˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/294
+#EXTINF:-1 tvg-id="RTPMAD" tvg-name="RTP MADEIRAˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/RTP%20MADEIRA.png" group-title="PORTUGAL SMART-HVEC",RTP MADEIRAˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/133
+#EXTINF:-1 tvg-id="RTPACO" tvg-name="RTP Açoresˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/RTP%20ACORES.png" group-title="PORTUGAL SMART-HVEC",RTP Açoresˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/131
+#EXTINF:-1 tvg-name="✦ ✦ ✦Smart DESPORTO✦ ✦ ✦" tvg-logo="https://w7.pngwing.com/pngs/692/726/png-transparent-ornament-seperator-miscellaneous-angle-symbol-thumbnail.png" group-title="PORTUGAL SMART-HVEC",✦ ✦ ✦Smart DESPORTO✦ ✦ ✦
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21633
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1 MOBILE" tvg-logo="https://picons.my-ott.com/SportTV/SPORT.TV1.png" group-title="PORTUGAL SMART-HVEC",SPORT TV 1 MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16511
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="[hevc] SPORT TV 1ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV1HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] SPORT TV 1ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/62437
+#EXTINF:-1 tvg-id="SPTV2" tvg-name="SPORT TV 2 MOBILE" tvg-logo="https://picons.my-ott.com/picons/SPORT_TV_2.png" group-title="PORTUGAL SMART-HVEC",SPORT TV 2 MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16512
+#EXTINF:-1 tvg-id="SPTV2" tvg-name="[hevc] SPORT TV 2 ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/SPORT.TV2.png" group-title="PORTUGAL SMART-HVEC",[hevc] SPORT TV 2 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21654
+#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3 MOBILE" tvg-logo="https://picons.my-ott.com/SportTV/SPORT.TV3.png" group-title="PORTUGAL SMART-HVEC",SPORT TV 3 MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16513
+#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="[hevc] Sport Tv 3 ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV3HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] Sport Tv 3 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21691
+#EXTINF:-1 tvg-id="SPORTV4HD" tvg-name="SPORT TV 4 MOBILE" tvg-logo="https://picons.my-ott.com/SportTV/SPORT.TV4.png" group-title="PORTUGAL SMART-HVEC",SPORT TV 4 MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21608
+#EXTINF:-1 tvg-id="SPORTV4HD" tvg-name="[hevc] SPORT TV 4 ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.T4HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] SPORT TV 4 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21656
+#EXTINF:-1 tvg-id="SPORTV5HD" tvg-name="SPORT TV 5 MOBILE" tvg-logo="https://picons.my-ott.com/SportTV/SPORT.TV5.png" group-title="PORTUGAL SMART-HVEC",SPORT TV 5 MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21609
+#EXTINF:-1 tvg-id="SPORTV5HD" tvg-name="[hevc] SPORT TV 5 ᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/SPORT.TV5HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] SPORT TV 5 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21657
+#EXTINF:-1 tvg-id="SPORT TV 6 HD" tvg-name="SPORT TV 6 MOBILE" tvg-logo="https://picons.my-ott.com/SportTV/SPORT.TV6.png" group-title="PORTUGAL SMART-HVEC",SPORT TV 6 MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/37971
+#EXTINF:-1 tvg-id="SportTVNBAHD" tvg-name="Sport TV NBAˢᵈ" tvg-logo="https://picons.my-ott.com/SportTV/NBA.png" group-title="PORTUGAL SMART-HVEC",Sport TV NBAˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21697
+#EXTINF:-1 tvg-id="SPORT TV NBA HD" tvg-name=" [hevc] SPORT TV NBAᴴᴰ" tvg-logo="https://picons.my-ott.com/SportTV/HD/NBAHD.png" group-title="PORTUGAL SMART-HVEC", [hevc] SPORT TV NBAᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/22635
+#EXTINF:-1 tvg-id="BTV" tvg-name="BTVˢᵈ" tvg-logo="https://picons.my-ott.com/picons/BTV_HD.png" group-title="PORTUGAL SMART-HVEC",BTVˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/384
+#EXTINF:-1 tvg-id="Benfica TV" tvg-name="BTV Mobile" tvg-logo="https://picons.my-ott.com/picons/BTV_HD.png" group-title="PORTUGAL SMART-HVEC",BTV Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16516
+#EXTINF:-1 tvg-id="BENFICATV1HD" tvg-name="[hevc] BTVᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/BTV_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] BTVᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21658
+#EXTINF:-1 tvg-id="SPORTINGTV" tvg-name="SPORTING TVˢᵈ" tvg-logo="http://directlogos.dotsi.pt/oesc/SPORTING%20TV.png" group-title="PORTUGAL SMART-HVEC",SPORTING TVˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/328
+#EXTINF:-1 tvg-id="SPORTINGHD" tvg-name="SPORTING TV Mobile" tvg-logo="http://directlogos.dotsi.pt/oesc/SPORTING%20TV.png" group-title="PORTUGAL SMART-HVEC",SPORTING TV Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21613
+#EXTINF:-1 tvg-id="SPORTINGHD" tvg-name="[hevc] SPORTING TVᴴᴰ " tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SPORTING%20TV%20HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] SPORTING TVᴴᴰ 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/22714
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1" tvg-name="ELEVEN SPORTS 1ˢᵈ" tvg-logo="https://picons.my-ott.com/eleven/ELEVEN1_NEW.png" group-title="PORTUGAL SMART-HVEC",ELEVEN SPORTS 1ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/38238
+#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="ELEVEN SPORTS 1 MOBILE" tvg-logo="https://picons.my-ott.com/eleven/ELEVEN1_NEW.png" group-title="PORTUGAL SMART-HVEC",ELEVEN SPORTS 1 MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16534
+#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="[hevc] ELEVEN SPORTS 1ᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_1_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] ELEVEN SPORTS 1ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21659
+#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="ELEVEN SPORTS 2ˢᵈ" tvg-logo="https://picons.my-ott.com/eleven/ELEVEN2_NEW.png" group-title="PORTUGAL SMART-HVEC",ELEVEN SPORTS 2ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/38239
+#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="ELEVEN SPORTS 2 MOBILE" tvg-logo="https://picons.my-ott.com/eleven/ELEVEN2_NEW.png" group-title="PORTUGAL SMART-HVEC",ELEVEN SPORTS 2 MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16535
+#EXTINF:-1 tvg-id="elevensports2HD" tvg-name="[hevc] ELEVEN SPORTS 2ᴴᴰ" tvg-logo="https://picons.my-ott.com/eleven/HD/ELEVEN_SPORTS_2_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] ELEVEN SPORTS 2ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21661
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-name="ELEVEN SPORTS 3ˢᵈ" tvg-logo="https://picons.my-ott.com/eleven/ELEVEN3_NEW.png" group-title="PORTUGAL SMART-HVEC",ELEVEN SPORTS 3ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/38240
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-name="ELEVEN SPORTS 3 MOBILE" tvg-logo="https://picons.my-ott.com/eleven/ELEVEN3_NEW.png" group-title="PORTUGAL SMART-HVEC",ELEVEN SPORTS 3 MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21597
+#EXTINF:-1 tvg-id="Eleven Sports 4" tvg-name="ELEVEN SPORTS 4ˢᵈ" tvg-logo="https://picons.my-ott.com/eleven/ELEVEN4_NEW.png" group-title="PORTUGAL SMART-HVEC",ELEVEN SPORTS 4ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/38241
+#EXTINF:-1 tvg-id="elevensports4HD" tvg-name="ELEVEN SPORTS 4  MOBILE" tvg-logo="https://picons.my-ott.com/eleven/ELEVEN4_NEW.png" group-title="PORTUGAL SMART-HVEC",ELEVEN SPORTS 4  MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21602
+#EXTINF:-1 tvg-id="Eleven Sports 5" tvg-name="ELEVEN SPORTS 5ˢᵈ" tvg-logo="https://picons.my-ott.com/eleven/ELEVEN5_NEW.png" group-title="PORTUGAL SMART-HVEC",ELEVEN SPORTS 5ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/38242
+#EXTINF:-1 tvg-id="Eleven Sports 6" tvg-name="ELEVEN SPORTS 6ˢᵈ" tvg-logo="https://picons.my-ott.com/eleven/ELEVEN6_NEW.png" group-title="PORTUGAL SMART-HVEC",ELEVEN SPORTS 6ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/38243
+#EXTINF:-1 tvg-name="✦ ✦ ✦Smart DIVERSIDADE DESPORTO✦ ✦ ✦" tvg-logo="https://w7.pngwing.com/pngs/692/726/png-transparent-ornament-seperator-miscellaneous-angle-symbol-thumbnail.png" group-title="PORTUGAL SMART-HVEC",✦ ✦ ✦Smart DIVERSIDADE DESPORTO✦ ✦ ✦
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21632
+#EXTINF:-1 tvg-id="EUROS" tvg-name="EUROSPORT 1ˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/EUROSPORT%201.png" group-title="PORTUGAL SMART-HVEC",EUROSPORT 1ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/329
+#EXTINF:-1 tvg-id="EUROS" tvg-name="EUROSPORT 1 Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/EUROSPORT%201.png" group-title="PORTUGAL SMART-HVEC",EUROSPORT 1 Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21595
+#EXTINF:-1 tvg-name="[hevc] EUROSPORT 1ᴴᴰ " tvg-logo="https://picons.my-ott.com/picons/EUROSPORT_1_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] EUROSPORT 1ᴴᴰ 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/22710
+#EXTINF:-1 tvg-id="EUROS2" tvg-name="EUROSPORT 2ˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/EUROSPORT%202.png" group-title="PORTUGAL SMART-HVEC",EUROSPORT 2ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/330
+#EXTINF:-1 tvg-id="EUROSPORT 2 HD" tvg-name="EUROSPORT 2 Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/EUROSPORT%202.png" group-title="PORTUGAL SMART-HVEC",EUROSPORT 2 Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21596
+#EXTINF:-1 tvg-id="RTP1HD" tvg-name="FUELˢᵈ" tvg-logo="http://ghost-x99.uno:8080/images/644228de21be373bc844b785f6bb9574.png" group-title="PORTUGAL SMART-HVEC",FUELˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/22699
+#EXTINF:-1 tvg-name="✦ ✦ ✦Smart FILMES✦ ✦ ✦" tvg-logo="https://w7.pngwing.com/pngs/692/726/png-transparent-ornament-seperator-miscellaneous-angle-symbol-thumbnail.png" group-title="PORTUGAL SMART-HVEC",✦ ✦ ✦Smart FILMES✦ ✦ ✦
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21635
+#EXTINF:-1 tvg-id="TVCine TOP" tvg-name="TVCINE TOPˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Top.png" group-title="PORTUGAL SMART-HVEC",TVCINE TOPˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/347
+#EXTINF:-1 tvg-id="TVCine TOP" tvg-name="TVCine TOP Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Top.png" group-title="PORTUGAL SMART-HVEC",TVCine TOP Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16517
+#EXTINF:-1 tvg-id="TVCine TOP" tvg-name="[hevc] TVCINE TOPᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Top%20HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] TVCINE TOPᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21663
+#EXTINF:-1 tvg-id="TVCine ACTION HD" tvg-name="TVCINE ACTIONˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Action.png" group-title="PORTUGAL SMART-HVEC",TVCINE ACTIONˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/346
+#EXTINF:-1 tvg-id="TVCine ACTION HD" tvg-name="TVCine Action Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Action.png" group-title="PORTUGAL SMART-HVEC",TVCine Action Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16520
+#EXTINF:-1 tvg-id="TVCine ACTION HD" tvg-name="[hevc] TVCINE ACTIONᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Action%20HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] TVCINE ACTIONᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21669
+#EXTINF:-1 tvg-id="TVCine EMOTION HD" tvg-name="TVCINE EMOTIONˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Edition.png" group-title="PORTUGAL SMART-HVEC",TVCINE EMOTIONˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/345
+#EXTINF:-1 tvg-id="TVCine EMOTION" tvg-name="TVCine Emotion Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Edition.png" group-title="PORTUGAL SMART-HVEC",TVCine Emotion Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16519
+#EXTINF:-1 tvg-id="TVCine EMOTION HD" tvg-name="[hevc] TVCINE EMOTIONᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Emotion%20HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] TVCINE EMOTIONᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21667
+#EXTINF:-1 tvg-id="TVCine EDITION HD" tvg-name="TVCINE EDITIONˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Edition.png" group-title="PORTUGAL SMART-HVEC",TVCINE EDITIONˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/344
+#EXTINF:-1 tvg-id="TVCine EDITION HD" tvg-name="TVCine Edition Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Edition.png" group-title="PORTUGAL SMART-HVEC",TVCine Edition Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16518
+#EXTINF:-1 tvg-id="TVCine EDITION" tvg-name="[hevc] TVCINE EDITIONᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVCine%20Edition%20HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] TVCINE EDITIONᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21665
+#EXTINF:-1 tvg-id="NOSSTUDIOSHD" tvg-name="NOS STUDIOSˢᵈ" tvg-logo="https://picons.my-ott.com/picons/NOS_STUDIOS.png" group-title="PORTUGAL SMART-HVEC",NOS STUDIOSˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16285
+#EXTINF:-1 tvg-id="NOSSTUDIOS" tvg-name="Nos Studios Mobile" tvg-logo="https://picons.my-ott.com/picons/NOS_STUDIOS.png" group-title="PORTUGAL SMART-HVEC",Nos Studios Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16521
+#EXTINF:-1 tvg-id="NOSSTUDIOSHD" tvg-name="[hevc] NOS STUDIOSᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/NOS_STUDIOS_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] NOS STUDIOSᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21680
+#EXTINF:-1 tvg-id="Hollywood Low" tvg-name="HOLLYWOODˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Hollywood.png" group-title="PORTUGAL SMART-HVEC",HOLLYWOODˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/304
+#EXTINF:-1 tvg-id="HOLLY" tvg-name="Hollywood Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Hollywood.png" group-title="PORTUGAL SMART-HVEC",Hollywood Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16522
+#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="[hevc] HOLLYWOODᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/HOLLYWOOD_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] HOLLYWOODᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21681
+#EXTINF:-1 tvg-id="FOX MOVIES HD" tvg-name="STAR MOVIESˢᵈ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Movies-logo.png" group-title="PORTUGAL SMART-HVEC",STAR MOVIESˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/305
+#EXTINF:-1 tvg-id="FOXNEXT" tvg-name="STAR MOVIES Mobile" tvg-logo="https://seeklogo.com/images/S/star-movies-2023-logo-D90185EC1F-seeklogo.com.png" group-title="PORTUGAL SMART-HVEC",STAR MOVIES Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/18226
+#EXTINF:-1 tvg-id="FOX MOVIES HD" tvg-name="[hevc] STAR MOVIESᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Movies-logo.png" group-title="PORTUGAL SMART-HVEC",[hevc] STAR MOVIESᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21677
+#EXTINF:-1 tvg-id="AXN MOVIES" tvg-name=" AXN MOVIES Mobile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/AXN_Movies_logo.jpg" group-title="PORTUGAL SMART-HVEC", AXN MOVIES Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/18225
+#EXTINF:-1 tvg-id="AXN Black" tvg-name="[hevc] AXN MOVIESᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AXN_MOVIES_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] AXN MOVIESᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21676
+#EXTINF:-1 tvg-id="Cinemundo" tvg-name="CINEMUNDOˢᵈ" tvg-logo="https://picons.my-ott.com/picons/CINEMUNDO.png" group-title="PORTUGAL SMART-HVEC",CINEMUNDOˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/270
+#EXTINF:-1 tvg-id="Cinemundo" tvg-name="Cinemundo Mobile" tvg-logo="https://picons.my-ott.com/picons/CINEMUNDO.png" group-title="PORTUGAL SMART-HVEC",Cinemundo Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16523
+#EXTINF:-1 tvg-id="Cinemundo" tvg-name="[hevc] CINEMUNDOᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/CINE_MUNDO_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] CINEMUNDOᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21682
+#EXTINF:-1 tvg-id="AMCLOW" tvg-name="AMCˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/AMC.png" group-title="PORTUGAL SMART-HVEC",AMCˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/310
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/AMC.png" group-title="PORTUGAL SMART-HVEC",AMC Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16533
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="[hevc] AMCᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AMC_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] AMCᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21685
+#EXTINF:-1 tvg-id="AMC Break HD" tvg-name="AMC BREAKˢᵈ" tvg-logo="https://picons.my-ott.com/picons/AMC_BREAK.png" group-title="PORTUGAL SMART-HVEC",AMC BREAKˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/43381
+#EXTINF:-1 tvg-name="✦ ✦ ✦Smart SERIES✦ ✦ ✦" tvg-logo="https://w7.pngwing.com/pngs/692/726/png-transparent-ornament-seperator-miscellaneous-angle-symbol-thumbnail.png" group-title="PORTUGAL SMART-HVEC",✦ ✦ ✦Smart SERIES✦ ✦ ✦
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21634
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXNˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/AXN.png" group-title="PORTUGAL SMART-HVEC",AXNˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21620
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN Mobile" tvg-logo="https://w7.pngwing.com/pngs/842/991/png-transparent-axn-television-channel-pay-television-logo-others-miscellaneous-television-angle.png" group-title="PORTUGAL SMART-HVEC",AXN Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16524
+#EXTINF:-1 tvg-id="AXN" tvg-name="[hevc] AXNᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/AXN%20HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] AXNᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21671
+#EXTINF:-1 tvg-id="AXN White" tvg-name="AXN WHITEˢᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png" group-title="PORTUGAL SMART-HVEC",AXN WHITEˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21623
+#EXTINF:-1 tvg-id="AXN WHITE HD (LOW BITRATE)" tvg-name="AXN WHITE MOBILE" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/AXN%20WHITE.png" group-title="PORTUGAL SMART-HVEC",AXN WHITE MOBILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/22703
+#EXTINF:-1 tvg-id="AXN White" tvg-name="[hevc] AXN WHITEᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/AXN_WHITE_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] AXN WHITEᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21675
+#EXTINF:-1 tvg-id="SyFy Full HD" tvg-name="SYFYˢᵈ" tvg-logo="https://picons.my-ott.com/picons/SYFY.png" group-title="PORTUGAL SMART-HVEC",SYFYˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/309
+#EXTINF:-1 tvg-id="SyFy" tvg-name="SYFY Mobile" tvg-logo="https://picons.my-ott.com/picons/SYFY.png" group-title="PORTUGAL SMART-HVEC",SYFY Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21604
+#EXTINF:-1 tvg-id="SyFy" tvg-name="[hevc] SYFYᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Syfy-HD-Logo.svg/1280px-Syfy-HD-Logo.svg.png" group-title="PORTUGAL SMART-HVEC",[hevc] SYFYᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/22704
+#EXTINF:-1 tvg-id="FOX" tvg-name="STAR Channelˢᵈ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Channel-logo.png" group-title="PORTUGAL SMART-HVEC",STAR Channelˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21622
+#EXTINF:-1 tvg-id="FOX LOW" tvg-name="STAR Channel Mobile" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Channel-logo.png" group-title="PORTUGAL SMART-HVEC",STAR Channel Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16525
+#EXTINF:-1 tvg-id="FOX" tvg-name="[hevc] STAR Channelᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Channel-logo.png" group-title="PORTUGAL SMART-HVEC",[hevc] STAR Channelᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21673
+#EXTINF:-1 tvg-id="FOXCRIME" tvg-name="STAR CRIMEˢᵈ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Crime-logo.png" group-title="PORTUGAL SMART-HVEC",STAR CRIMEˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21619
+#EXTINF:-1 tvg-id="FOXCRIMELOWOUHD" tvg-name="STAR CRIME Mobile" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Crime-logo.png" group-title="PORTUGAL SMART-HVEC",STAR CRIME Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/18227
+#EXTINF:-1 tvg-id="FOXCRIME" tvg-name="[hevc] STAR CRIMEᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Crime-logo.png" group-title="PORTUGAL SMART-HVEC",[hevc] STAR CRIMEᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21678
+#EXTINF:-1 tvg-id="FOX COMEDY LOW" tvg-name="STAR COMEDYˢᵈ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Comedy-logo.png" group-title="PORTUGAL SMART-HVEC",STAR COMEDYˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/313
+#EXTINF:-1 tvg-id="FX" tvg-name="STAR COMEDY Mobile" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Comedy-logo.png" group-title="PORTUGAL SMART-HVEC",STAR COMEDY Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21607
+#EXTINF:-1 tvg-id="FOX COMEDY HD" tvg-name="[hevc] STAR COMEDYᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Comedy-logo.png" group-title="PORTUGAL SMART-HVEC",[hevc] STAR COMEDYᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21679
+#EXTINF:-1 tvg-id="FOXLIFE" tvg-name="STAR LIFEˢᵈ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Life-logo.png" group-title="PORTUGAL SMART-HVEC",STAR LIFEˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21625
+#EXTINF:-1 tvg-id="FOXLIFE" tvg-name="STAR life Mobile" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Life-logo.png" group-title="PORTUGAL SMART-HVEC",STAR life Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21626
+#EXTINF:-1 tvg-id="FOXLIFE" tvg-name=" [hevc] STAR LIFEᴴᴰ" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-canais-STAR-Life-logo.png" group-title="PORTUGAL SMART-HVEC", [hevc] STAR LIFEᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/22705
+#EXTINF:-1 tvg-name="✦ ✦ ✦Smart INFANTIL✦ ✦ ✦" tvg-logo="https://w7.pngwing.com/pngs/692/726/png-transparent-ornament-seperator-miscellaneous-angle-symbol-thumbnail.png" group-title="PORTUGAL SMART-HVEC",✦ ✦ ✦Smart INFANTIL✦ ✦ ✦
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21627
+#EXTINF:-1 tvg-id="DISNEYJUNIOR" tvg-name="DISNEY JUNIORˢᵈ" tvg-logo="https://picons.my-ott.com/picons/DISNEY_JUNIOR.png" group-title="PORTUGAL SMART-HVEC",DISNEY JUNIORˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/90
+#EXTINF:-1 tvg-id="DISNEYJUNIOR" tvg-name="DISNEY JUNIOR Mobile" tvg-logo="https://picons.my-ott.com/picons/DISNEY_JUNIOR.png" group-title="PORTUGAL SMART-HVEC",DISNEY JUNIOR Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21599
+#EXTINF:-1 tvg-id="DISNEY CHANNEL LOW" tvg-name="DISNEY CHANNELˢᵈ" tvg-logo="https://picons.my-ott.com/picons/DISNEY_CHANNEL.png" group-title="PORTUGAL SMART-HVEC",DISNEY CHANNELˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/88
+#EXTINF:-1 tvg-id="DISNY" tvg-name="DISNEY CHANNEL Mobile" tvg-logo="https://picons.my-ott.com/picons/DISNEY_CHANNEL.png" group-title="PORTUGAL SMART-HVEC",DISNEY CHANNEL Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21601
+#EXTINF:-1 tvg-id="NICKJR" tvg-name="Nick Junior Mobile" tvg-logo="https://img2.gratispng.com/20181111/cvh/kisspng-logo-nick-jr-television-pop-max-tiny-pop-nick-jr-5be824cdedd9d5.9032510315419404299743.jpg" group-title="PORTUGAL SMART-HVEC",Nick Junior Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21598
+#EXTINF:-1 tvg-id="SIC K" tvg-name="Sic Kids  Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SIC%20K.png" group-title="PORTUGAL SMART-HVEC",Sic Kids  Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21600
+#EXTINF:-1 tvg-id="PANDABIGGS" tvg-name="PANDA BIGGS Mobile" tvg-logo="http://directlogos.dotsi.pt/oesc/PANDA%20BIGGS.png" group-title="PORTUGAL SMART-HVEC",PANDA BIGGS Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21605
+#EXTINF:-1 tvg-id="PANDA" tvg-name="CANAL PANDAˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Canal%20Panda.png" group-title="PORTUGAL SMART-HVEC",CANAL PANDAˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/86
+#EXTINF:-1 tvg-id="CANAL PANDA LOW" tvg-name="Canal Panda Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Canal%20Panda.png" group-title="PORTUGAL SMART-HVEC",Canal Panda Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16526
+#EXTINF:-1 tvg-name="✦ ✦ ✦Smart ENTRETENIMENTO✦ ✦ ✦" tvg-logo="https://w7.pngwing.com/pngs/692/726/png-transparent-ornament-seperator-miscellaneous-angle-symbol-thumbnail.png" group-title="PORTUGAL SMART-HVEC",✦ ✦ ✦Smart ENTRETENIMENTO✦ ✦ ✦
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21631
+#EXTINF:-1 tvg-id="TVIREAL" tvg-name="TVI REALITYˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVI%20REALITY.png" group-title="PORTUGAL SMART-HVEC",TVI REALITYˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/283
+#EXTINF:-1 tvg-name="TVI REALITY  CAM1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/49/Tvi_reality.png" group-title="PORTUGAL SMART-HVEC",TVI REALITY  CAM1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/53640
+#EXTINF:-1 tvg-name="TVI REALITY CAM2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/49/Tvi_reality.png" group-title="PORTUGAL SMART-HVEC",TVI REALITY CAM2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/53641
+#EXTINF:-1 tvg-name="TVI REALITY CAM3" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/49/Tvi_reality.png" group-title="PORTUGAL SMART-HVEC",TVI REALITY CAM3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/53642
+#EXTINF:-1 tvg-name="TVI REALITY CAM4" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/49/Tvi_reality.png" group-title="PORTUGAL SMART-HVEC",TVI REALITY CAM4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/53643
+#EXTINF:-1 tvg-id="TVIREAL" tvg-name="TVI REALITY Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/TVI%20REALITY.png" group-title="PORTUGAL SMART-HVEC",TVI REALITY Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21614
+#EXTINF:-1 tvg-id="TVI Ficçao HD" tvg-name="V+TV ˢᵈ" tvg-logo="https://quinto-canal.com/wp-content/uploads/2024/07/V-Mais-TVI-850x541.png" group-title="PORTUGAL SMART-HVEC",V+TV ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21056
+#EXTINF:-1 tvg-id="TVI Ficçao HD" tvg-name="V+TV Mobile" tvg-logo="https://quinto-canal.com/wp-content/uploads/2024/07/V-Mais-TVI-850x541.png" group-title="PORTUGAL SMART-HVEC",V+TV Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21612
+#EXTINF:-1 tvg-id="RTP 1" tvg-name=" [hevc] V+TV ᴴᴰ " tvg-logo="https://quinto-canal.com/wp-content/uploads/2024/07/V-Mais-TVI-850x541.png" group-title="PORTUGAL SMART-HVEC", [hevc] V+TV ᴴᴰ 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/22636
+#EXTINF:-1 tvg-id="TV Globo Portugal" tvg-name="Tv Globoˢᵈ" tvg-logo="https://picons.my-ott.com/picons/GLOBO.png" group-title="PORTUGAL SMART-HVEC",Tv Globoˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/289
+#EXTINF:-1 tvg-id="TV Globo Portugal" tvg-name="Tv Globo Mobile" tvg-logo="https://picons.my-ott.com/picons/GLOBO.png" group-title="PORTUGAL SMART-HVEC",Tv Globo Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16531
+#EXTINF:-1 tvg-id="TV Globo Portugal" tvg-name="[hevc] TV GLOBOᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/GLOBO_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] TV GLOBOᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21650
+#EXTINF:-1 tvg-id="TVRECORDHD2" tvg-name="TV RECORDˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Tv%20Record.png" group-title="PORTUGAL SMART-HVEC",TV RECORDˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/290
+#EXTINF:-1 tvg-id="TV RECORD HD" tvg-name="TV RECORD Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Tv%20Record.png" group-title="PORTUGAL SMART-HVEC",TV RECORD Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21611
+#EXTINF:-1 tvg-id="TV RECORD HD" tvg-name="[hevc] TV RECORDᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Tv%20Record%20HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] TV RECORDᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/22713
+#EXTINF:-1 tvg-id="SIC RADICAL HD" tvg-name="SIC RADICALˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SIC%20Radical.png" group-title="PORTUGAL SMART-HVEC",SIC RADICALˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/43780
+#EXTINF:-1 tvg-id="SIC RADICAL HD" tvg-name="[hevc] SIC RADICALᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SIC%20RADICAL%20HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] SIC RADICALᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/43779
+#EXTINF:-1 tvg-id="SICCARAS" tvg-name="SIC CARASˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SIC%20CARAS.png" group-title="PORTUGAL SMART-HVEC",SIC CARASˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/284
+#EXTINF:-1 tvg-id="SICCARAS" tvg-name="SIC CARAS Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SIC%20CARAS.png" group-title="PORTUGAL SMART-HVEC",SIC CARAS Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21615
+#EXTINF:-1 tvg-id="SICCARASHD" tvg-name="[hevc] SIC CARASᴴᴰ" tvg-logo="http://ghost-x99.uno:8080/images/e40b49b87db8df4314485ea3c1da6948.png" group-title="PORTUGAL SMART-HVEC",[hevc] SIC CARASᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21686
+#EXTINF:-1 tvg-id="SICM" tvg-name="SIC MULHERˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SIC%20MULHER.png" group-title="PORTUGAL SMART-HVEC",SIC MULHERˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/273
+#EXTINF:-1 tvg-id="SICM" tvg-name="SIC Mulher Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SIC%20MULHER.png" group-title="PORTUGAL SMART-HVEC",SIC Mulher Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/16502
+#EXTINF:-1 tvg-id="SicMulherHDFHD" tvg-name="[hevc] SIC MULHERᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/SIC%20MULHER%20HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] SIC MULHERᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/22708
+#EXTINF:-1 tvg-id="Casa e Cozinha HD" tvg-name="CASA COZINHA Mobile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Casa-e-cozinha-Logo.png" group-title="PORTUGAL SMART-HVEC",CASA COZINHA Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21617
+#EXTINF:-1 tvg-id="Casa e Cozinha HD" tvg-name="[hevc]  CASA COZINHAᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Casa-e-cozinha-Logo.png" group-title="PORTUGAL SMART-HVEC",[hevc]  CASA COZINHAᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21684
+#EXTINF:-1 tvg-id="24 Kitchen" tvg-name="24 KITCHENˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/24%20KITCHEN.png" group-title="PORTUGAL SMART-HVEC",24 KITCHENˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/287
+#EXTINF:-1 tvg-id="FOODNETWORKHD" tvg-name="FOOD NETWORKˢᵈ" tvg-logo="http://directlogos.dotsi.pt/oesc/Food%20Network.png" group-title="PORTUGAL SMART-HVEC",FOOD NETWORKˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/288
+#EXTINF:-1 tvg-id="FOODNETWORKHD" tvg-name=" FOOD NETWORK  Mobile" tvg-logo="http://directlogos.dotsi.pt/oesc/Food%20Network.png" group-title="PORTUGAL SMART-HVEC", FOOD NETWORK  Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21621
+#EXTINF:-1 tvg-id="EENTER" tvg-name="E! ENTERTAINMENTˢᵈ" tvg-logo="https://e7.pngegg.com/pngimages/466/7/png-clipart-e-television-channel-television-show-logo-tv-x-letter-television-angle.png" group-title="PORTUGAL SMART-HVEC",E! ENTERTAINMENTˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/322
+#EXTINF:-1 tvg-id="tlc.pt" tvg-name="TLCˢᵈ" tvg-logo="http://directlogos.dotsi.pt/oesc/TLC.png" group-title="PORTUGAL SMART-HVEC",TLCˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/321
+#EXTINF:-1 tvg-name="✦ ✦ ✦Smart DOCUMENTÃRIOS✦ ✦ ✦" tvg-logo="https://w7.pngwing.com/pngs/162/242/png-transparent-documentary-film-music-real-estate-property-manager-logo-distracted-driving-logo-signage-film.png" group-title="PORTUGAL SMART-HVEC",✦ ✦ ✦Smart DOCUMENTÃRIOS✦ ✦ ✦
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21630
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery Channelˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Discovery%20Channel.png" group-title="PORTUGAL SMART-HVEC",Discovery Channelˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/39102
+#EXTINF:-1 tvg-id="NGC" tvg-name="National Geographicˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/NATIONAL%20GEOGRAPHIC.png" group-title="PORTUGAL SMART-HVEC",National Geographicˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/20372
+#EXTINF:-1 tvg-id="NGC" tvg-name="[hevc]  National geographicᴴᴰ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/NATIONAL%20GEOGRAPHIC%20HD.png" group-title="PORTUGAL SMART-HVEC",[hevc]  National geographicᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21683
+#EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-name="National Geographic wildˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/NAT%20GEO%20WILD.png" group-title="PORTUGAL SMART-HVEC",National Geographic wildˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/20373
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="[hevc] National Geographic wildᴴᴰ " tvg-logo="http://directlogos.dotsi.pt/EuropaHD/NAT%20GEO%20WILD%20HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] National Geographic wildᴴᴰ 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21593
+#EXTINF:-1 tvg-id="InvestigationDiscovery" tvg-name="ID Investigation Discovery Mobile" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/ID_Logo_Screen_Reverse.png" group-title="PORTUGAL SMART-HVEC",ID Investigation Discovery Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21616
+#EXTINF:-1 tvg-id="ODIS" tvg-name="ODISSEIAˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Odisseia.png" group-title="PORTUGAL SMART-HVEC",ODISSEIAˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/326
+#EXTINF:-1 tvg-id="ODIS" tvg-name="ODISSEIA Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Odisseia.png" group-title="PORTUGAL SMART-HVEC",ODISSEIA Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21594
+#EXTINF:-1 tvg-id="ODIS" tvg-name="[hevc] ODISSEIAᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/ODISSEIA_HD.png" group-title="PORTUGAL SMART-HVEC",[hevc] ODISSEIAᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/22709
+#EXTINF:-1 tvg-id="Canal História" tvg-name="HISTORIAˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Canal%20de%20Historia.png" group-title="PORTUGAL SMART-HVEC",HISTORIAˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/325
+#EXTINF:-1 tvg-id="Canal História" tvg-name="HISTORIA Mobile" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Canal%20de%20Historia.png" group-title="PORTUGAL SMART-HVEC",HISTORIA Mobile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21610
+#EXTINF:-1 tvg-name="✦ ✦ ✦Smart MUSICA✦ ✦ ✦" tvg-logo="https://w7.pngwing.com/pngs/692/726/png-transparent-ornament-seperator-miscellaneous-angle-symbol-thumbnail.png" group-title="PORTUGAL SMART-HVEC",✦ ✦ ✦Smart MUSICA✦ ✦ ✦
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/21628
+#EXTINF:-1 tvg-id="TRACEURBANHD" tvg-name="TRACE URBANˢᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png" group-title="PORTUGAL SMART-HVEC",TRACE URBANˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/334
+#EXTINF:-1 tvg-id="kuriakostv.pt" tvg-name="KURIAKOS KIDS TVᴴᴰ" tvg-logo="https://imgur.com/Gj2RM4c.png" group-title="PORTUGAL SMART-HVEC",KURIAKOS KIDS TVᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/20306
+#EXTINF:-1 tvg-name="CNBC EUROPE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1280px-CNBC_logo.svg.png" group-title="PORTUGAL SMART-HVEC",CNBC EUROPE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/44040
+#EXTINF:-1 tvg-name="BLOOMBERG" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/Bloomberg.png" group-title="PORTUGAL SMART-HVEC",BLOOMBERG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/44039
+#EXTINF:-1 tvg-id="CART" tvg-name="CARTOON  NETWORKˢᵈ" tvg-logo="http://directlogos.dotsi.pt/EuropaHD/CARTOON%20NETWORK.png" group-title="PORTUGAL SMART-HVEC",CARTOON  NETWORKˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/94
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="CARTOONITO ˢᵈ" tvg-logo="https://picons.my-ott.com/picons/CARTOONITO.png" group-title="PORTUGAL SMART-HVEC",CARTOONITO ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/22947
+#EXTINF:-1 tvg-id="PANDA" tvg-name="PANDA KIDSˢᵈ" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2021/05/image001-9.png" group-title="PORTUGAL SMART-HVEC",PANDA KIDSˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/Mk72XvBv3PZD/X8NRg3KQqv56/37582
