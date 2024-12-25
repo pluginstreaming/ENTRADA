@@ -3,119 +3,159 @@
 
 
 
-#EXTINF:-1 tvg-id="RTPxx1" tvg-name="RTP1ᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/RTP1.png" group-title="★●• PORTUGAL LOW ●•★",RTP1ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65393
-#EXTINF:-1 tvg-id="RTxxP2" tvg-name="RTP2ᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/RTP2.png" group-title="★●• PORTUGAL LOW ●•★",RTP2ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65394
-#EXTINF:-1 tvg-id="RTP3" tvg-name="RTP3ᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/RTP3.png" group-title="★●• PORTUGAL LOW ●•★",RTP3ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65395
-#EXTINF:-1 tvg-id="SIC" tvg-name="SICᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/SIC.png" group-title="★●• PORTUGAL LOW ●•★",SICᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65397
-#EXTINF:-1 tvg-id="TVI" tvg-name="TVIᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/TVI.png" group-title="★●• PORTUGAL LOW ●•★",TVIᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65402
-#EXTINF:-1 tvg-id="TVI_FICCAO" tvg-name="V+ TVIᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/TVIFICCAO.png" group-title="★●• PORTUGAL LOW ●•★",V+ TVIᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65401
-#EXTINF:-1 tvg-id="TVI Reality" tvg-name="TVI Realityᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/TVIREALITY.png" group-title="★●• PORTUGAL LOW ●•★",TVI Realityᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65403
-#EXTINF:-1 tvg-id="SICMhd" tvg-name="SIC Mulherᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/SICMULHER.png" group-title="★●• PORTUGAL LOW ●•★",SIC Mulherᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65398
-#EXTINF:-1 tvg-id="SICN" tvg-name="SIC Notíciasᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/SICNOTICIAS.png" group-title="★●• PORTUGAL LOW ●•★",SIC Notíciasᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65399
-#EXTINF:-1 tvg-id="SICRhd" tvg-name="SIC Radicalᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/SICRADICAL.png" group-title="★●• PORTUGAL LOW ●•★",SIC Radicalᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65400
-#EXTINF:-1 tvg-id="CMTVhd" tvg-name="CMTVᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/CMTV.png" group-title="★●• PORTUGAL LOW ●•★",CMTVᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65425
-#EXTINF:-1 tvg-id="CNN Portugal" tvg-name="CNN Portugalᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/cnn.png" group-title="★●• PORTUGAL LOW ●•★",CNN Portugalᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65426
-#EXTINF:-1 tvg-id="Discovcxvery" tvg-name="Discovery Channelᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/DISCOVERYCHANNEL.png" group-title="★●• PORTUGAL LOW ●•★",Discovery Channelᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65427
-#EXTINF:-1 tvg-id="GLObbO" tvg-name="Globoᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/GLOBO.png" group-title="★●• PORTUGAL LOW ●•★",Globoᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65437
-#EXTINF:-1 tvg-id="TV RecordHD" tvg-name="TV Recordᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/RECORDTV.png" group-title="★●• PORTUGAL LOW ●•★",TV Recordᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65460
-#EXTINF:-1 tvg-id="HIST" tvg-name="Historiaᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/CANALHISTORIA.png" group-title="★●• PORTUGAL LOW ●•★",Historiaᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65440
-#EXTINF:-1 tvg-id="NGCWILD" tvg-name="National Geo Wildᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/NATGEOWILD.png" group-title="★●• PORTUGAL LOW ●•★",National Geo Wildᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65442
-#EXTINF:-1 tvg-id="NGC33" tvg-name="National Geoᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/NATIONALGEOGRAPHIC.png" group-title="★●• PORTUGAL LOW ●•★",National Geoᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65443
-#EXTINF:-1 tvg-id="HOLLYHD" tvg-name="Hollywoodᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/HOLLYWOOD.png" group-title="★●• PORTUGAL LOW ●•★",Hollywoodᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65404
-#EXTINF:-1 tvg-id="SYFYHD" tvg-name="SyFyᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/SYFY.png" group-title="★●• PORTUGAL LOW ●•★",SyFyᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65405
-#EXTINF:-1 tvg-id="TVCg4" tvg-name="TVCine ACTIONᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/TvCineAction.png" group-title="★●• PORTUGAL LOW ●•★",TVCine ACTIONᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65406
-#EXTINF:-1 tvg-id="TVCg3" tvg-name="TVCine EDITIONᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/TvCineEdition.png" group-title="★●• PORTUGAL LOW ●•★",TVCine EDITIONᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65407
-#EXTINF:-1 tvg-id="TVCg2" tvg-name="TVCine EMOTIONᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/TvCineEmotion.png" group-title="★●• PORTUGAL LOW ●•★",TVCine EMOTIONᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65408
-#EXTINF:-1 tvg-id="TVCg1" tvg-name="TVCine TOPᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/TvCineTop.png" group-title="★●• PORTUGAL LOW ●•★",TVCine TOPᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65409
-#EXTINF:-1 tvg-id="FXCOMEDY" tvg-name="STAR Comedyᴸᴼᵂ" tvg-logo="https://images.seeklogo.com/logo-png/52/1/star-comedy-logo-png_seeklogo-520560.png" group-title="★●• PORTUGAL LOW ●•★",STAR Comedyᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65410
-#EXTINF:-1 tvg-id="FOXCRIMEHD" tvg-name="STAR Crimeᴸᴼᵂ" tvg-logo="https://seeklogo.com/images/S/star-crime-logo-2C5FFAA03E-seeklogo.com.png" group-title="★●• PORTUGAL LOW ●•★",STAR Crimeᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65411
-#EXTINF:-1 tvg-id="FOXLIFEHD" tvg-name="STAR Lifeᴸᴼᵂ" tvg-logo="https://seeklogo.com/images/S/star-life-logo-D8AFE50BAF-seeklogo.com.png" group-title="★●• PORTUGAL LOW ●•★",STAR Lifeᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65412
-#EXTINF:-1 tvg-id="FOXHD" tvg-name="STAR Channelᴸᴼᵂ" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-9D8C031AFB-seeklogo.com.png" group-title="★●• PORTUGAL LOW ●•★",STAR Channelᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65413
-#EXTINF:-1 tvg-id="FOXMOVIESHD" tvg-name="STAR Moviesᴸᴼᵂ" tvg-logo="https://seeklogo.com/images/S/star-movies-2023-logo-D90185EC1F-seeklogo.com.png" group-title="★●• PORTUGAL LOW ●•★",STAR Moviesᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65414
-#EXTINF:-1 tvg-id="amc" tvg-name="AMCᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/AMC.png" group-title="★●• PORTUGAL LOW ●•★",AMCᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65415
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXNᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/AXN.png" group-title="★●• PORTUGAL LOW ●•★",AXNᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65416
-#EXTINF:-1 tvg-id="AXN MOVIES" tvg-name="AXN Moviesᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/AXN_MOVIES.png" group-title="★●• PORTUGAL LOW ●•★",AXN Moviesᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65417
-#EXTINF:-1 tvg-id="AXN White HD" tvg-name="AXN Whiteᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/axnwhith.png" group-title="★●• PORTUGAL LOW ●•★",AXN Whiteᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65418
-#EXTINF:-1 tvg-id="CINEMUNDO" tvg-name="Cinemundoᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/CINEMUNDO.png" group-title="★●• PORTUGAL LOW ●•★",Cinemundoᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65423
-#EXTINF:-1 tvg-id="NOSStudiosHD" tvg-name="NOS Studiosᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/NOSStudios.png" group-title="★●• PORTUGAL LOW ●•★",NOS Studiosᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65424
-#EXTINF:-1 tvg-id="CANAL11" tvg-name="Canal 11ᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/canal11.png" group-title="★●• PORTUGAL LOW ●•★",Canal 11ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65421
-#EXTINF:-1 tvg-id="PORTOhd" tvg-name="Porto Canalᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/PORTOCANAL.png" group-title="★●• PORTUGAL LOW ●•★",Porto Canalᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65449
-#EXTINF:-1 tvg-id="SPORT TV+" tvg-name="Sport.TV+ᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/SPORTTV+.png" group-title="★●• PORTUGAL LOW ●•★",Sport.TV+ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65450
-#EXTINF:-1 tvg-id="SPORT.TV 1" tvg-name="Sport.TV1ᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/SPORTTV1.png" group-title="★●• PORTUGAL LOW ●•★",Sport.TV1ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65451
-#EXTINF:-1 tvg-id="SPORT.TV 2" tvg-name="Sport.TV2ᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/SPORTTV2.png" group-title="★●• PORTUGAL LOW ●•★",Sport.TV2ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65452
-#EXTINF:-1 tvg-id="SPORT.TV 3" tvg-name="Sport.TV3ᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/SPORTTV3.png" group-title="★●• PORTUGAL LOW ●•★",Sport.TV3ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65453
-#EXTINF:-1 tvg-id="SPORT.TV 4" tvg-name="Sport.TV4ᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/SPORTTV4.png" group-title="★●• PORTUGAL LOW ●•★",Sport.TV4ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65455
-#EXTINF:-1 tvg-id="SPORT.TV 5" tvg-name="Sport.TV5ᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/SPORTTV5.png" group-title="★●• PORTUGAL LOW ●•★",Sport.TV5ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65456
-#EXTINF:-1 tvg-id="SPORT TV 6 LOW" tvg-name="Sport.TV6ᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/SPORTTV6.png" group-title="★●• PORTUGAL LOW ●•★",Sport.TV6ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65457
-#EXTINF:-1 tvg-id="A BOLA" tvg-name="A Bola TVᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/ABOLATV.png" group-title="★●• PORTUGAL LOW ●•★",A Bola TVᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65428
-#EXTINF:-1 tvg-id="BTV 1hd" tvg-name="Benfica TVᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/BTV.png" group-title="★●• PORTUGAL LOW ●•★",Benfica TVᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65429
-#EXTINF:-1 tvg-id="ELEVENSPORT 1 HD" tvg-name="Dazn 1ᴸᴼᵂ" tvg-logo="https://i.imgur.com/alzVFEm.png" group-title="★●• PORTUGAL LOW ●•★",Dazn 1ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65430
-#EXTINF:-1 tvg-id="ELEVENSPORT 2 HD" tvg-name="Dazn 2ᴸᴼᵂ" tvg-logo="https://i.imgur.com/m2YgWg7.png" group-title="★●• PORTUGAL LOW ●•★",Dazn 2ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65431
-#EXTINF:-1 tvg-id="ELEVENSPORT 3 HD" tvg-name="Dazn 3ᴸᴼᵂ" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-3-espana-es.png" group-title="★●• PORTUGAL LOW ●•★",Dazn 3ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65432
-#EXTINF:-1 tvg-id="ELEVENSPORT 4 HD" tvg-name="Dazn 4ᴸᴼᵂ" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-4-espana-es.png" group-title="★●• PORTUGAL LOW ●•★",Dazn 4ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65433
-#EXTINF:-1 tvg-id="ELEVENSPORT 5 HD" tvg-name="Dazn 5ᴸᴼᵂ" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-5-uk.png" group-title="★●• PORTUGAL LOW ●•★",Dazn 5ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65434
-#EXTINF:-1 tvg-id="EuroSport HD" tvg-name="Eurosport 1ᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/EUROSPORT1.png" group-title="★●• PORTUGAL LOW ●•★",Eurosport 1ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65435
-#EXTINF:-1 tvg-id="EuroSport 2" tvg-name="Eurosport 2ᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/EUROSPORT2.png" group-title="★●• PORTUGAL LOW ●•★",Eurosport 2ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65436
-#EXTINF:-1 tvg-id="PANDA" tvg-name="Pandaᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/CANALPANDA.png" group-title="★●• PORTUGAL LOW ●•★",Pandaᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65422
-#EXTINF:-1 tvg-id="DISNY" tvg-name="Disney Channelᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/DISNEYCHANNEL.png" group-title="★●• PORTUGAL LOW ●•★",Disney Channelᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65444
-#EXTINF:-1 tvg-id="DISNEYJUNIOR" tvg-name="Disney Juniorᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/DISNEYJUNIOR.png" group-title="★●• PORTUGAL LOW ●•★",Disney Juniorᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65445
-#EXTINF:-1 tvg-id="Nickejvgu" tvg-name="Nick JRᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/NICKJR.png" group-title="★●• PORTUGAL LOW ●•★",Nick JRᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65446
-#EXTINF:-1 tvg-id="Biggs" tvg-name="Panda Biggsᴸᴼᵂ" tvg-logo="http://novaera4.club/logo/BIGGS.png" group-title="★●• PORTUGAL LOW ●•★",Panda Biggsᴸᴼᵂ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://alfacinha.space:8080/jorgeneves/777/65448
+#EXTINF:-1 tvg-name="PT1: CAÇAVISION" group-title="CANAIS | PORTUGAL",PT1: CAÇAVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130220
+#EXTINF:-1 tvg-name="PT1: CBS REALITY" group-title="CANAIS | PORTUGAL",PT1: CBS REALITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130222
+#EXTINF:-1 tvg-name="PT1: CINEMUNDO SD" group-title="CANAIS | PORTUGAL",PT1: CINEMUNDO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130226
+#EXTINF:-1 tvg-name="PT1: CMTV HD" group-title="CANAIS | PORTUGAL",PT1: CMTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130228
+#EXTINF:-1 tvg-name="PT1: CMTV SD" group-title="CANAIS | PORTUGAL",PT1: CMTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130229
+#EXTINF:-1 tvg-name="PT1: CRIME INVESTIGATION" group-title="CANAIS | PORTUGAL",PT1: CRIME INVESTIGATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130233
+#EXTINF:-1 tvg-name="PT1: ELEVEN SPORTS 6²" group-title="CANAIS | PORTUGAL",PT1: ELEVEN SPORTS 6²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130259
+#EXTINF:-1 tvg-name="PT1: FOX CRIME HD" group-title="CANAIS | PORTUGAL",PT1: FOX CRIME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130278
+#EXTINF:-1 tvg-name="PT1: FOX MOVIES HD" group-title="CANAIS | PORTUGAL",PT1: FOX MOVIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130288
+#EXTINF:-1 tvg-name="PT1: FOX MOVIES SD" group-title="CANAIS | PORTUGAL",PT1: FOX MOVIES SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130289
+#EXTINF:-1 tvg-name="PT1: FOX SD" group-title="CANAIS | PORTUGAL",PT1: FOX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130290
+#EXTINF:-1 tvg-name="PT1: FUEL TV" group-title="CANAIS | PORTUGAL",PT1: FUEL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130293
+#EXTINF:-1 tvg-name="PT1: GLOBO" group-title="CANAIS | PORTUGAL",PT1: GLOBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130295
+#EXTINF:-1 tvg-name="PT1: GLOBO NOW" group-title="CANAIS | PORTUGAL",PT1: GLOBO NOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130298
+#EXTINF:-1 tvg-name="PT1: HOLLYWOOD HD" group-title="CANAIS | PORTUGAL",PT1: HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130301
+#EXTINF:-1 tvg-name="PT1: HOLLYWOOD SD" group-title="CANAIS | PORTUGAL",PT1: HOLLYWOOD SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130302
+#EXTINF:-1 tvg-name="PT1: JIMJAM" group-title="CANAIS | PORTUGAL",PT1: JIMJAM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130306
+#EXTINF:-1 tvg-name="PT1: MTV PORTUGAL" group-title="CANAIS | PORTUGAL",PT1: MTV PORTUGAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130315
+#EXTINF:-1 tvg-name="PT1: NAT GEO WILD" group-title="CANAIS | PORTUGAL",PT1: NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130317
+#EXTINF:-1 tvg-name="PT1: NICKELODEON" group-title="CANAIS | PORTUGAL",PT1: NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130323
+#EXTINF:-1 tvg-name="PT1: NICKELODEON JUNIOR" group-title="CANAIS | PORTUGAL",PT1: NICKELODEON JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130324
+#EXTINF:-1 tvg-name="PT1: NOS STUDIOS HD" group-title="CANAIS | PORTUGAL",PT1: NOS STUDIOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130326
+#EXTINF:-1 tvg-name="PT1: ODISSEIA" group-title="CANAIS | PORTUGAL",PT1: ODISSEIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130328
+#EXTINF:-1 tvg-name="PT1: PANDA BIGS" group-title="CANAIS | PORTUGAL",PT1: PANDA BIGS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130329
+#EXTINF:-1 tvg-name="PT1: PORTO CANAL" group-title="CANAIS | PORTUGAL",PT1: PORTO CANAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130333
+#EXTINF:-1 tvg-name="PT1: RTP 1 SD" group-title="CANAIS | PORTUGAL",PT1: RTP 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130337
+#EXTINF:-1 tvg-name="PT1: RTP 2 HD" group-title="CANAIS | PORTUGAL",PT1: RTP 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130340
+#EXTINF:-1 tvg-name="PT1: RTP 2 SD" group-title="CANAIS | PORTUGAL",PT1: RTP 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130341
+#EXTINF:-1 tvg-name="PT1: RTP 3" group-title="CANAIS | PORTUGAL",PT1: RTP 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130343
+#EXTINF:-1 tvg-name="PT1: RTP AFRICA" group-title="CANAIS | PORTUGAL",PT1: RTP AFRICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130346
+#EXTINF:-1 tvg-name="PT1: RTP MADEIRA" group-title="CANAIS | PORTUGAL",PT1: RTP MADEIRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130349
+#EXTINF:-1 tvg-name="PT1: SIC K" group-title="CANAIS | PORTUGAL",PT1: SIC K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130356
+#EXTINF:-1 tvg-name="PT1: TPA INTERNACIONAL" group-title="CANAIS | PORTUGAL",PT1: TPA INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130394
+#EXTINF:-1 tvg-name="PT1: TRACE TOCA" group-title="CANAIS | PORTUGAL",PT1: TRACE TOCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130396
+#EXTINF:-1 tvg-name="PT1: TRAVEL CHANNEL HD" group-title="CANAIS | PORTUGAL",PT1: TRAVEL CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130400
+#EXTINF:-1 tvg-name="PT1: TV RECORD" group-title="CANAIS | PORTUGAL",PT1: TV RECORD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130402
+#EXTINF:-1 tvg-name="PT1: TVCine EDITION HD" group-title="CANAIS | PORTUGAL",PT1: TVCine EDITION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130410
+#EXTINF:-1 tvg-name="PT1: TVCINE EDITION SD" group-title="CANAIS | PORTUGAL",PT1: TVCINE EDITION SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130411
+#EXTINF:-1 tvg-name="PT1: TVCine EMOTION HD" group-title="CANAIS | PORTUGAL",PT1: TVCine EMOTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130414
+#EXTINF:-1 tvg-name="PT1: TVCINE EMOTION SD" group-title="CANAIS | PORTUGAL",PT1: TVCINE EMOTION SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130415
+#EXTINF:-1 tvg-name="PT1: TVCine TOP HD" group-title="CANAIS | PORTUGAL",PT1: TVCine TOP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130418
+#EXTINF:-1 tvg-name="PT1: TVCINE TOP SD" group-title="CANAIS | PORTUGAL",PT1: TVCINE TOP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130419
+#EXTINF:-1 tvg-name="PT1: TVI FICÇAO" group-title="CANAIS | PORTUGAL",PT1: TVI FICÇAO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130424
+#EXTINF:-1 tvg-name="PT1: TVI HD" group-title="CANAIS | PORTUGAL",PT1: TVI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130426
+#EXTINF:-1 tvg-name="PT1: TVI Reality Camara 1" group-title="CANAIS | PORTUGAL",PT1: TVI Reality Camara 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130428
+#EXTINF:-1 tvg-name="PT1: TVI Reality Camara 2" group-title="CANAIS | PORTUGAL",PT1: TVI Reality Camara 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130429
+#EXTINF:-1 tvg-name="PT1: TVI Reality Camara 4" group-title="CANAIS | PORTUGAL",PT1: TVI Reality Camara 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130431
+#EXTINF:-1 tvg-name="PT1: TVI REALITY HD" group-title="CANAIS | PORTUGAL",PT1: TVI REALITY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130433
+#EXTINF:-1 tvg-name="PT1: TVI REALITY SD" group-title="CANAIS | PORTUGAL",PT1: TVI REALITY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130434
+#EXTINF:-1 tvg-name="PT1: TVI SD" group-title="CANAIS | PORTUGAL",PT1: TVI SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130435
+#EXTINF:-1 tvg-name="PT1: VH1 MUSIC" group-title="CANAIS | PORTUGAL",PT1: VH1 MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130438
+#EXTINF:-1 tvg-name="PT: DISCOVERY CHANNEL" group-title="CANAIS | PORTUGAL",PT: DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130236
+#EXTINF:-1 tvg-name="PT: E! ENTERTAINMENT" group-title="CANAIS | PORTUGAL",PT: E! ENTERTAINMENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130243
+#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 5²" group-title="CANAIS | PORTUGAL",PT: ELEVEN SPORTS 5²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130256
+#EXTINF:-1 tvg-name="PT: FOX CRIME FHD" group-title="CANAIS | PORTUGAL",PT: FOX CRIME FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130277
+#EXTINF:-1 tvg-name="PT: FOX LIFE FHD" group-title="CANAIS | PORTUGAL",PT: FOX LIFE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130283
+#EXTINF:-1 tvg-name="PT: FOX MOVIES FHD" group-title="CANAIS | PORTUGAL",PT: FOX MOVIES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130287
+#EXTINF:-1 tvg-name="PT: GLOBO" group-title="CANAIS | PORTUGAL",PT: GLOBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130294
+#EXTINF:-1 tvg-name="PT: GLOBO NOW" group-title="CANAIS | PORTUGAL",PT: GLOBO NOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130297
+#EXTINF:-1 tvg-name="PT: HISTORIA" group-title="CANAIS | PORTUGAL",PT: HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130299
+#EXTINF:-1 tvg-name="PT: MOTORVISION" group-title="CANAIS | PORTUGAL",PT: MOTORVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130311
+#EXTINF:-1 tvg-name="PT: NAT GEO WILD" group-title="CANAIS | PORTUGAL",PT: NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130316
+#EXTINF:-1 tvg-name="PT: NICKELODEON" group-title="CANAIS | PORTUGAL",PT: NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130322
+#EXTINF:-1 tvg-name="PT: PFC" group-title="CANAIS | PORTUGAL",PT: PFC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130330
+#EXTINF:-1 tvg-name="PT: RTP 1 FHD" group-title="CANAIS | PORTUGAL",PT: RTP 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130335
+#EXTINF:-1 tvg-name="PT: RTP 2 HD" group-title="CANAIS | PORTUGAL",PT: RTP 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130339
+#EXTINF:-1 tvg-name="PT: RTP MEMORIA" group-title="CANAIS | PORTUGAL",PT: RTP MEMORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130350
+#EXTINF:-1 tvg-name="PT: SIC NOTICIAS HD" group-title="CANAIS | PORTUGAL",PT: SIC NOTICIAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130358
+#EXTINF:-1 tvg-name="PT: SYFY FHD" group-title="CANAIS | PORTUGAL",PT: SYFY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130390
+#EXTINF:-1 tvg-name="PT: TVCINE Action" group-title="CANAIS | PORTUGAL",PT: TVCINE Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130404
+#EXTINF:-1 tvg-name="PT: TVCINE Edition" group-title="CANAIS | PORTUGAL",PT: TVCINE Edition
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130408
+#EXTINF:-1 tvg-name="PT: TVCINE Emotion" group-title="CANAIS | PORTUGAL",PT: TVCINE Emotion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130412
+#EXTINF:-1 tvg-name="PT: TVCINE Emotion FHD" group-title="CANAIS | PORTUGAL",PT: TVCINE Emotion FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130413
+#EXTINF:-1 tvg-name="PT: TVCINE Top FHD" group-title="CANAIS | PORTUGAL",PT: TVCINE Top FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130416
+#EXTINF:-1 tvg-name="PT: TVI FHD" group-title="CANAIS | PORTUGAL",PT: TVI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130421
+#EXTINF:-1 tvg-name="PT: TVI HD" group-title="CANAIS | PORTUGAL",PT: TVI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130425
+#EXTINF:-1 tvg-name="PT: TVI REALITY" group-title="CANAIS | PORTUGAL",PT: TVI REALITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130427
+#EXTINF:-1 tvg-name="PT: TVI Reality FHD" group-title="CANAIS | PORTUGAL",PT: TVI Reality FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gol7990.com:80/jafdfdgg/462M43P3/130432
