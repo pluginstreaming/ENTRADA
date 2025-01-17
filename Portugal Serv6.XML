@@ -3,89 +3,437 @@
 
 
 
-#EXTINF:-1 tvg-name="[PT] BTV" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] BTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993069
-#EXTINF:-1 tvg-name="[PT] CMTV" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] CMTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993070
-#EXTINF:-1 tvg-name="[PT] CNN Portugal" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] CNN Portugal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993071
-#EXTINF:-1 tvg-name="[PT] Canal 11" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] Canal 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993072
-#EXTINF:-1 tvg-name="[PT] Eleven Sports 1" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] Eleven Sports 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993073
-#EXTINF:-1 tvg-name="[PT] Eleven Sports 2" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] Eleven Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993074
-#EXTINF:-1 tvg-name="[PT] Eleven Sports 3" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] Eleven Sports 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993075
-#EXTINF:-1 tvg-name="[PT] Eleven Sports 4" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] Eleven Sports 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993076
-#EXTINF:-1 tvg-name="[PT] Eleven Sports 5" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] Eleven Sports 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993077
-#EXTINF:-1 tvg-name="[PT] Eleven Sports 6" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] Eleven Sports 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993078
-#EXTINF:-1 tvg-name="[PT] Eurosport 1" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] Eurosport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993079
-#EXTINF:-1 tvg-name="[PT] Eurosport 2" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] Eurosport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993080
-#EXTINF:-1 tvg-name="[PT] Now" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] Now
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993081
-#EXTINF:-1 tvg-name="[PT] Porto Canal" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] Porto Canal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993082
-#EXTINF:-1 tvg-name="[PT] RTP 1" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] RTP 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993083
-#EXTINF:-1 tvg-name="[PT] RTP 2" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] RTP 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993084
-#EXTINF:-1 tvg-name="[PT] RTP 3" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] RTP 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993085
-#EXTINF:-1 tvg-name="[PT] RTP Açores" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] RTP Açores
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993086
-#EXTINF:-1 tvg-name="[PT] RTP Madeira" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] RTP Madeira
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993087
-#EXTINF:-1 tvg-name="[PT] RTP Memória" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] RTP Memória
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993088
-#EXTINF:-1 tvg-name="[PT] RTP África" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] RTP África
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993089
-#EXTINF:-1 tvg-name="[PT] RecordTV" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] RecordTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993090
-#EXTINF:-1 tvg-name="[PT] SIC" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] SIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993091
-#EXTINF:-1 tvg-name="[PT] SIC Caras" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] SIC Caras
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993092
-#EXTINF:-1 tvg-name="[PT] SIC Mulher" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] SIC Mulher
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993093
-#EXTINF:-1 tvg-name="[PT] SIC Noticias" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] SIC Noticias
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993094
-#EXTINF:-1 tvg-name="[PT] SIC Radical" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] SIC Radical
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993095
-#EXTINF:-1 tvg-name="[PT] SporTV +" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] SporTV +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993096
-#EXTINF:-1 tvg-name="[PT] SporTV 1" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] SporTV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993097
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[PT] SporTV 1 HD" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] SporTV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993098
-#EXTINF:-1 tvg-name="[PT] SporTV 2" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] SporTV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993099
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[PT] SporTV 2 HD" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] SporTV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993100
-#EXTINF:-1 tvg-name="[PT] SporTV 3" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] SporTV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993101
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[PT] SporTV 3 HD" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] SporTV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993102
-#EXTINF:-1 tvg-name="[PT] SporTV 4" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] SporTV 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993103
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[PT] SporTV 4 HD" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] SporTV 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993104
-#EXTINF:-1 tvg-name="[PT] SporTV 5" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] SporTV 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993105
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[PT] SporTV 5 HD" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] SporTV 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993106
-#EXTINF:-1 tvg-name="[PT] SporTV 6" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] SporTV 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993107
-#EXTINF:-1 tvg-name="[PT] SporTV NBA" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] SporTV NBA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993108
-#EXTINF:-1 tvg-name="[PT] TVI" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] TVI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993109
-#EXTINF:-1 tvg-name="[PT] TVI Ficção" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] TVI Ficção
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993110
-#EXTINF:-1 tvg-name="[PT] TVI Reality" tvg-logo="https://imagizer.imageshack.com/img924/4701/dA1KCt.jpg" group-title="• CANAIS | PORTUGAL",[PT] TVI Reality
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gerencia.birdtv.xyz:80/8959659879/4707417068/2993111
+#EXTINF:-1 tvg-id="RTP 1 FHD" tvg-name="RTP 1 FHD" tvg-logo="https://cunhadigital.com/Picons/RTP1.png" group-title="Portugal",RTP 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/1
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="RTP 1" tvg-logo="https://cunhadigital.com/Picons/RTP1.png" group-title="Portugal",RTP 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/2
+#EXTINF:-1 tvg-id="RTP 2 FHD" tvg-name="RTP 2 FHD" tvg-logo="https://cunhadigital.com/Picons/RTP2_meo.png" group-title="Portugal",RTP 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/3
+#EXTINF:-1 tvg-id="RTP 2" tvg-name="RTP 2" tvg-logo="https://cunhadigital.com/Picons/RTP2_meo.png" group-title="Portugal",RTP 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/4
+#EXTINF:-1 tvg-id="SIC FHD" tvg-name="SIC FHD" tvg-logo="https://cunhadigital.com/Picons/SIC_nos.png" group-title="Portugal",SIC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/5
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC" tvg-logo="https://cunhadigital.com/Picons/SIC_nos.png" group-title="Portugal",SIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/6
+#EXTINF:-1 tvg-id="TVI FHD" tvg-name="TVI FHD" tvg-logo="https://cunhadigital.com/Picons/TVI_meo.png" group-title="Portugal",TVI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/7
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVI" tvg-logo="https://cunhadigital.com/Picons/TVI_meo.png" group-title="Portugal",TVI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/8
+#EXTINF:-1 tvg-name="▂ ▄ ▅ ▆ INFORMACAO ▆ ▅ ▄ ▂" tvg-logo="https://cunhadigital.com/Picons/news.png" group-title="Portugal",▂ ▄ ▅ ▆ INFORMACAO ▆ ▅ ▄ ▂
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/9
+#EXTINF:-1 tvg-id="NEWS NOW" tvg-name="NEWS NOW  FHD" tvg-logo="https://www.cunhadigital.com/Picons/NEWS_NOW.png" group-title="Portugal",NEWS NOW  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/10
+#EXTINF:-1 tvg-id="CNN Portugal FHD" tvg-name="CNN PORTUGAL FHD" tvg-logo="https://www.cunhadigital.com/Picons/CNN_Portugal.png" group-title="Portugal",CNN PORTUGAL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/11
+#EXTINF:-1 tvg-id="CNN Portugal" tvg-name="CNN PORTUGAL" tvg-logo="https://www.cunhadigital.com/Picons/CNN_Portugal.png" group-title="Portugal",CNN PORTUGAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/12
+#EXTINF:-1 tvg-id="SIC NOTÍCIAS FHD" tvg-name="SIC NOTICIAS FHD" tvg-logo="https://cunhadigital.com/Picons/SIC_NOTICIAS_meo.png" group-title="Portugal",SIC NOTICIAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/13
+#EXTINF:-1 tvg-id="SIC NOTÍCIAS" tvg-name="SIC NOTICIAS" tvg-logo="https://cunhadigital.com/Picons/SIC_NOTICIAS_meo.png" group-title="Portugal",SIC NOTICIAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/14
+#EXTINF:-1 tvg-id="CMTV FHD" tvg-name="CMTV FHD" tvg-logo="https://cunhadigital.com/Picons/CMTV.png" group-title="Portugal",CMTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/15
+#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV" tvg-logo="https://cunhadigital.com/Picons/CMTV.png" group-title="Portugal",CMTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/16
+#EXTINF:-1 tvg-id="RTP 3 FHD" tvg-name="RTP 3  FHD" tvg-logo="https://cunhadigital.com//Picons/RTP3_meo.png" group-title="Portugal",RTP 3  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/17
+#EXTINF:-1 tvg-id="RTP 3" tvg-name="RTP 3" tvg-logo="https://cunhadigital.com/Picons/RTP3_meo.png" group-title="Portugal",RTP 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/18
+#EXTINF:-1 tvg-id="RTP MEMÓRIA" tvg-name="RTP MEMORIA" tvg-logo="https://cunhadigital.com/Picons/RTP_MEMORIA_nos.png" group-title="Portugal",RTP MEMORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/19
+#EXTINF:-1 tvg-id="1+1 International" tvg-name="1+1 Ukraine (NEWS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/1_plus_1_logo.svg/1200px-1_plus_1_logo.svg.png" group-title="Portugal",1+1 Ukraine (NEWS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/20
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://cunhadigital.com/Picons/CNN_meo.png" group-title="Portugal",CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/21
+#EXTINF:-1 tvg-id="SKY NEWS" tvg-name="SKY NEWS" tvg-logo="https://cunhadigital.com/Picons/SKY_NEWS_meo.png" group-title="Portugal",SKY NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/22
+#EXTINF:-1 tvg-id="EURONEWS" tvg-name="EURONEWS" tvg-logo="https://cunhadigital.com/Picons/EURONEWS_meo.png" group-title="Portugal",EURONEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/23
+#EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS" tvg-logo="https://cunhadigital.com/Picons/RECORD_NEWS_meo.png" group-title="Portugal",RECORD NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/24
+#EXTINF:-1 tvg-id="CNBC HD" tvg-name="CNBC EUROPE" tvg-logo="https://cunhadigital.com/Picons/CNBC_meo.png" group-title="Portugal",CNBC EUROPE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/25
+#EXTINF:-1 tvg-id="BBC WORLD NEWS" tvg-name="BBC WORLD NEWS" tvg-logo="https://cunhadigital.com/Picons/BBC_WORLD_NEWS_nos.png" group-title="Portugal",BBC WORLD NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/26
+#EXTINF:-1 tvg-id="ARTV" tvg-name="ARTV" tvg-logo="https://cunhadigital.com/Picons/arte.png" group-title="Portugal",ARTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/27
+#EXTINF:-1 tvg-name="▂ ▄ ▅ ▆ ENTRETENIMENTO ▆ ▅ ▄ ▂" tvg-logo="https://cunhadigital.com/Picons/entretenimento.png" group-title="Portugal",▂ ▄ ▅ ▆ ENTRETENIMENTO ▆ ▅ ▄ ▂
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/28
+#EXTINF:-1 tvg-id="LOCALVISÃO FHD" tvg-name="LOCALVISAO TV HD" tvg-logo="https://cunhadigital.com/Picons/Localvisao.png" group-title="Portugal",LOCALVISAO TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/29
+#EXTINF:-1 tvg-id="NAUTICAL CHANNEL" tvg-name="Nautical Channel" tvg-logo="https://cunhadigital.com/Picons/Nautical_Channel.png" group-title="Portugal",Nautical Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/30
+#EXTINF:-1 tvg-id="SIC RADICAL FHD" tvg-name="SIC RADICAL FHD" tvg-logo="https://cunhadigital.com/Picons/SIC_RADICAL_nos.png" group-title="Portugal",SIC RADICAL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/31
+#EXTINF:-1 tvg-id="SIC RADICAL" tvg-name="SIC RADICAL" tvg-logo="https://cunhadigital.com/Picons/SIC_RADICAL_nos.png" group-title="Portugal",SIC RADICAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/32
+#EXTINF:-1 tvg-id="SIC MULHER FHD" tvg-name="SIC MULHER FHD" tvg-logo="https://cunhadigital.com/Picons/SIC_MULHER_nos.png" group-title="Portugal",SIC MULHER FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/33
+#EXTINF:-1 tvg-id="SIC MULHER" tvg-name="SIC MULHER" tvg-logo="https://cunhadigital.com/Picons/SIC_MULHER_nos.png" group-title="Portugal",SIC MULHER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/34
+#EXTINF:-1 tvg-id="SIC CARAS FHD" tvg-name="SIC CARAS FHD" tvg-logo="https://cunhadigital.com/Picons/SIC_CARAS.png" group-title="Portugal",SIC CARAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/35
+#EXTINF:-1 tvg-id="SIC CARAS" tvg-name="SIC CARAS" tvg-logo="https://cunhadigital.com/Picons/SIC_CARAS.png" group-title="Portugal",SIC CARAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/36
+#EXTINF:-1 tvg-name="CBS REALITY" tvg-logo="http://onecentcdn.com/newpicon/prt/cbsreality.png" group-title="Portugal",CBS REALITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/37
+#EXTINF:-1 tvg-id="SIC Novelas" tvg-name="SIC NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/SICNovelas.png" group-title="Portugal",SIC NOVELAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/38
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="V+ TVI FHD" tvg-logo="https://cunhadigital.com/Picons/TVI_mais_Logo.png" group-title="Portugal",V+ TVI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/39
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="V+ TVI HD" tvg-logo="https://cunhadigital.com/Picons/TVI_mais_Logo.png" group-title="Portugal",V+ TVI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/40
+#EXTINF:-1 tvg-id="V+ TVI" tvg-name="V+ TVI" tvg-logo="https://cunhadigital.com/Picons/TVI_mais_Logo.png" group-title="Portugal",V+ TVI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/41
+#EXTINF:-1 tvg-id="TVI REALITY FHD" tvg-name="TVI REALITY FHD" tvg-logo="https://cunhadigital.com/Picons/TVI_REALITY_nos.png" group-title="Portugal",TVI REALITY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/42
+#EXTINF:-1 tvg-id="TVI REALITY" tvg-name="TVI REALITY" tvg-logo="https://cunhadigital.com/Picons/TVI_REALITY_nos.png" group-title="Portugal",TVI REALITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/43
+#EXTINF:-1 tvg-id="TVI REALITY MOSAICO" tvg-name="TVI REALITY MOSAICO" tvg-logo="https://cunhadigital.com/Picons/TVI_REALITY_nos.png" group-title="Portugal",TVI REALITY MOSAICO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/44
+#EXTINF:-1 tvg-id="TVI REALITY CAMERA 1" tvg-name="TVI REALITY CAMARA 1" tvg-logo="https://cunhadigital.com/Picons/TVI_REALITY_nos.png" group-title="Portugal",TVI REALITY CAMARA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/45
+#EXTINF:-1 tvg-id="TVI REALITY CAMERA 2" tvg-name="TVI REALITY CAMARA 2" tvg-logo="https://cunhadigital.com/Picons/TVI_REALITY_nos.png" group-title="Portugal",TVI REALITY CAMARA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/46
+#EXTINF:-1 tvg-id="TVI REALITY CAMERA 3" tvg-name="TVI REALITY CAMARA 3" tvg-logo="https://cunhadigital.com/Picons/TVI_REALITY_nos.png" group-title="Portugal",TVI REALITY CAMARA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/47
+#EXTINF:-1 tvg-id="TVI REALITY CAMERA 4" tvg-name="TVI REALITY CAMARA 4" tvg-logo="https://cunhadigital.com/Picons/TVI_REALITY_nos.png" group-title="Portugal",TVI REALITY CAMARA 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/48
+#EXTINF:-1 tvg-id="CASA E COZINHA FHD" tvg-name="CASA E COZINHA FHD" tvg-logo="https://cunhadigital.com/Picons/casa_e_cozinha.png" group-title="Portugal",CASA E COZINHA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/49
+#EXTINF:-1 tvg-id="24 KITCHEN FHD" tvg-name="24 KITCHEN ᶠᴴᴰ" tvg-logo="https://cunhadigital.com/Picons/24KITCHEN_HD.png" group-title="Portugal",24 KITCHEN ᶠᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/50
+#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-name="FOOD NETWORK" tvg-logo="https://cunhadigital.com/Picons/Food_Network.png" group-title="Portugal",FOOD NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/51
+#EXTINF:-1 tvg-id="CANAL Q" tvg-name="CANAL Q" tvg-logo="https://cunhadigital.com/Picons/CANAL_Q_nos.png" group-title="Portugal",CANAL Q
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/52
+#EXTINF:-1 tvg-id="S+ FHD" tvg-name="S+ FHD" tvg-logo="https://cunhadigital.com//Picons/s%2B.png" group-title="Portugal",S+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/53
+#EXTINF:-1 tvg-name="▂ ▄ ▅ ▆ DESPORTO ▆ ▅ ▄ ▂" tvg-logo="https://cunhadigital.com/Picons/desporto.png" group-title="Portugal",▂ ▄ ▅ ▆ DESPORTO ▆ ▅ ▄ ▂
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/54
+#EXTINF:-1 tvg-id="SPORT TV+ FHD" tvg-name="SPORT TV + FHD" tvg-logo="https://cunhadigital.com/Picons/SPORT_TV%2B_nos.png" group-title="Portugal",SPORT TV + FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/55
+#EXTINF:-1 tvg-id="SPORT TV+" tvg-name="SPORT TV +" tvg-logo="https://cunhadigital.com/Picons/SPORT_TV%2B_nos.png" group-title="Portugal",SPORT TV +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/56
+#EXTINF:-1 tvg-id="SPORT TV 1 FHD" tvg-name="SPORT TV 1 FHD" tvg-logo="https://cunhadigital.com/Picons/SPORT_TV1_HD_nos.png" group-title="Portugal",SPORT TV 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/57
+#EXTINF:-1 tvg-id="SPORT TV 1 HD" tvg-name="SPORT TV 1 HD" tvg-logo="https://cunhadigital.com/Picons/SPORT_TV1_HD_nos.png" group-title="Portugal",SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/58
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1" tvg-logo="https://cunhadigital.com//Picons/SPORT_TV1_nos.png" group-title="Portugal",SPORT TV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/59
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1-low" tvg-logo="https://cunhadigital.com/Picons/SPORT_TV1_HD_nos.png" group-title="Portugal",SPORT TV 1-low
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/60
+#EXTINF:-1 tvg-id="SPORT TV 2 FHD" tvg-name="SPORT TV 2 FHD" tvg-logo="https://cunhadigital.com/Picons/SPORT_TV2_HD.png" group-title="Portugal",SPORT TV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/61
+#EXTINF:-1 tvg-id="SPORT TV 2 HD" tvg-name="SPORT TV 2 HD" tvg-logo="https://cunhadigital.com/Picons/SPORT_TV2_nos.png" group-title="Portugal",SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/62
+#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2" tvg-logo="https://cunhadigital.com/Picons/SPORT_TV2_nos.png" group-title="Portugal",SPORT TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/63
+#EXTINF:-1 tvg-id="SPORT TV 3 FHD" tvg-name="SPORT TV 3 FHD" tvg-logo="https://cunhadigital.com/Picons/SPORT_TV3_HD.png" group-title="Portugal",SPORT TV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/64
+#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3" tvg-logo="https://cunhadigital.com/Picons/SPORT_TV3_nos.png" group-title="Portugal",SPORT TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/65
+#EXTINF:-1 tvg-id="SPORT TV 4 FHD" tvg-name="SPORT TV 4 FHD" tvg-logo="https://cunhadigital.com/Picons/SPORT_TV4_HD.png" group-title="Portugal",SPORT TV 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/66
+#EXTINF:-1 tvg-id="SPORT TV 4 HD" tvg-name="SPORT TV 4 HD" tvg-logo="https://cunhadigital.com/Picons/SPORT_TV4_HD.png" group-title="Portugal",SPORT TV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/67
+#EXTINF:-1 tvg-id="SPORT TV 4" tvg-name="SPORT TV 4" tvg-logo="https://cunhadigital.com/Picons/SPORT_TV4.png" group-title="Portugal",SPORT TV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/68
+#EXTINF:-1 tvg-id="SPORT TV 5 FHD" tvg-name="SPORT TV 5 FHD" tvg-logo="https://cunhadigital.com/Picons/SPORT_TV5_HD.png" group-title="Portugal",SPORT TV 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/69
+#EXTINF:-1 tvg-id="SPORT TV 5 HD" tvg-name="SPORT TV 5 HD" tvg-logo="https://cunhadigital.com/Picons/SPORT_TV5_nos.png" group-title="Portugal",SPORT TV 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/70
+#EXTINF:-1 tvg-id="SPORT TV 5" tvg-name="SPORT TV 5" tvg-logo="https://cunhadigital.com/Picons/SPORT_TV5_nos.png" group-title="Portugal",SPORT TV 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/71
+#EXTINF:-1 tvg-id="SPORT TV 6 FHD" tvg-name="SPORT TV 6  FHD" tvg-logo="https://cunhadigital.com/Picons/sporttv6fhd.png" group-title="Portugal",SPORT TV 6  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/72
+#EXTINF:-1 tvg-id="SPORT TV 6" tvg-name="SPORT TV 6" tvg-logo="https://cunhadigital.com/Picons/sporttv6fhd.png" group-title="Portugal",SPORT TV 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/73
+#EXTINF:-1 tvg-id="SPORT TV 7" tvg-name="SPORT TV 7 FHD" tvg-logo="https://cunhadigital.com/Picons/Sport_TV7.png" group-title="Portugal",SPORT TV 7 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/74
+#EXTINF:-1 tvg-id="SPORT TV 7" tvg-name="SPORT TV 7" tvg-logo="https://cunhadigital.com/Picons/Sport_TV7.png" group-title="Portugal",SPORT TV 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/75
+#EXTINF:-1 tvg-id="SPORT TV NBA FHD" tvg-name="SPORT TV  NBA FHD" tvg-logo="https://cunhadigital.com/Picons/SPORT_TV_NBA_nos.png" group-title="Portugal",SPORT TV  NBA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/76
+#EXTINF:-1 tvg-id="DAZN1" tvg-name="DAZN 1 FHD" tvg-logo="https://cunhadigital.com/Picons/DAZN_1.png" group-title="Portugal",DAZN 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/77
+#EXTINF:-1 tvg-id="DAZN1" tvg-name="DAZN 1 HD" tvg-logo="https://cunhadigital.com/Picons/DAZN_1.png" group-title="Portugal",DAZN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/78
+#EXTINF:-1 tvg-id="DAZN1" tvg-name="DAZN 1" tvg-logo="https://cunhadigital.com/Picons/DAZN_1.png" group-title="Portugal",DAZN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/79
+#EXTINF:-1 tvg-id="DAZN2" tvg-name="DAZN 2 FHD" tvg-logo="https://cunhadigital.com/Picons/DAZN_2.png" group-title="Portugal",DAZN 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/80
+#EXTINF:-1 tvg-id="DAZN2" tvg-name="DAZN 2 HD" tvg-logo="https://cunhadigital.com/Picons/DAZN_2.png" group-title="Portugal",DAZN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/81
+#EXTINF:-1 tvg-id="DAZN2" tvg-name="DAZN 2" tvg-logo="https://cunhadigital.com/Picons/DAZN_2.png" group-title="Portugal",DAZN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/82
+#EXTINF:-1 tvg-id="DAZN3" tvg-name="DAZN 3 FHD" tvg-logo="https://cunhadigital.com/Picons/DAZN_3.png" group-title="Portugal",DAZN 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/83
+#EXTINF:-1 tvg-id="DAZN3" tvg-name="DAZN 3" tvg-logo="https://cunhadigital.com/Picons/DAZN_3.png" group-title="Portugal",DAZN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/84
+#EXTINF:-1 tvg-id="DAZN4" tvg-name="DAZN 4 FHD" tvg-logo="https://cunhadigital.com/Picons/DAZN_4.png" group-title="Portugal",DAZN 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/85
+#EXTINF:-1 tvg-id="DAZN4" tvg-name="DAZN 4" tvg-logo="https://cunhadigital.com/Picons/DAZN_4.png" group-title="Portugal",DAZN 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/86
+#EXTINF:-1 tvg-id="DAZN5" tvg-name="DAZN 5 FHD" tvg-logo="https://cunhadigital.com/Picons/DAZN_5.png" group-title="Portugal",DAZN 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/87
+#EXTINF:-1 tvg-id="DAZN5" tvg-name="DAZN 5" tvg-logo="https://cunhadigital.com/Picons/DAZN_5.png" group-title="Portugal",DAZN 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/88
+#EXTINF:-1 tvg-id="DAZN6" tvg-name="DAZN 6 FHD" tvg-logo="https://cunhadigital.com/Picons/DAZN_6.png" group-title="Portugal",DAZN 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/89
+#EXTINF:-1 tvg-id="DAZN6" tvg-name="DAZN 6" tvg-logo="https://cunhadigital.com/Picons/DAZN_6.png" group-title="Portugal",DAZN 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/90
+#EXTINF:-1 tvg-id="CANAL 11 FHD" tvg-name="CANAL 11 FHD" tvg-logo="https://cunhadigital.com/Picons/CANAL_11_nos.png" group-title="Portugal",CANAL 11 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/91
+#EXTINF:-1 tvg-id="CANAL 11" tvg-name="CANAL 11" tvg-logo="https://cunhadigital.com/Picons/CANAL_11_nos.png" group-title="Portugal",CANAL 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/92
+#EXTINF:-1 tvg-id="A BOLA FHD" tvg-name="A BOLA TV FHD" tvg-logo="https://cunhadigital.com/Picons/A_BOLA_TV_meo.png" group-title="Portugal",A BOLA TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/93
+#EXTINF:-1 tvg-id="A BOLA" tvg-name="A BOLA" tvg-logo="https://cunhadigital.com/Picons/A_BOLA_TV_meo.png" group-title="Portugal",A BOLA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/94
+#EXTINF:-1 tvg-id="BTV FHD" tvg-name="BTV FHD" tvg-logo="https://cunhadigital.com/Picons/BTV_HD_nos.png" group-title="Portugal",BTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/95
+#EXTINF:-1 tvg-id="BTV HD" tvg-name="BTV HD" tvg-logo="https://cunhadigital.com/Picons/BTV_HD_nos.png" group-title="Portugal",BTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/96
+#EXTINF:-1 tvg-id="BTV" tvg-name="BTV" tvg-logo="https://cunhadigital.com/Picons/BTV_HD_nos.png" group-title="Portugal",BTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/97
+#EXTINF:-1 tvg-id="PORTO CANAL FHD" tvg-name="PORTO CANAL FHD" tvg-logo="https://cunhadigital.com/Picons/PORTO_CANAL_nos.png" group-title="Portugal",PORTO CANAL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/98
+#EXTINF:-1 tvg-id="PORTO CANAL" tvg-name="PORTO CANAL" tvg-logo="https://cunhadigital.com/Picons/PORTO_CANAL_nos.png" group-title="Portugal",PORTO CANAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/100
+#EXTINF:-1 tvg-id="SPORTING TV FHD" tvg-name="SPORTING TV fhd" tvg-logo="https://cunhadigital.com/Picons/SPORTING_TV_nos.png" group-title="Portugal",SPORTING TV fhd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/101
+#EXTINF:-1 tvg-id="EUROSPORT 1 FHD" tvg-name="EUROSPORT 1 FHD" tvg-logo="https://cunhadigital.com/Picons/EUROSPORT1_HD.png" group-title="Portugal",EUROSPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/102
+#EXTINF:-1 tvg-id="EUROSPORT 1" tvg-name="EUROSPORT 1" tvg-logo="https://cunhadigital.com/Picons/EUROSPORT1_HD.png" group-title="Portugal",EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/103
+#EXTINF:-1 tvg-id="EUROSPORT 2 FHD" tvg-name="EUROSPORT 2 FHD" tvg-logo="https://cunhadigital.com/Picons/EUROSPORT_2_nos.png" group-title="Portugal",EUROSPORT 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/104
+#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-name="EUROSPORT 2" tvg-logo="https://cunhadigital.com/Picons/EUROSPORT_2_nos.png" group-title="Portugal",EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/105
+#EXTINF:-1 tvg-name="WWE HD" tvg-logo="http://silvertv.net:1997/images/USA/WWE.us.png" group-title="Portugal",WWE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/106
+#EXTINF:-1 tvg-name="COMBATE (Brasil)" tvg-logo="https://cunhadigital.com/Picons/Comabte.png" group-title="Portugal",COMBATE (Brasil)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/107
+#EXTINF:-1 tvg-id="CAÇAVISION" tvg-name="CACAVISION" tvg-logo="https://cunhadigital.com/Picons/CACAVISION_meo.png" group-title="Portugal",CACAVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/108
+#EXTINF:-1 tvg-id="CAÇA E PESCA FHD" tvg-name="CAZA y PESCA FHD" tvg-logo="https://cunhadigital.com/Picons/CASA_E_PESCA_nos.png" group-title="Portugal",CAZA y PESCA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/109
+#EXTINF:-1 tvg-id="TOROS TV" tvg-name="OneToro TV FHD" tvg-logo="https://www.cunhadigital.com/Picons/mundotoro.png" group-title="Portugal",OneToro TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/110
+#EXTINF:-1 tvg-id="MOTORVISION" tvg-name="MOTORVISION" tvg-logo="https://cunhadigital.com/Picons/MOTOSVISION_nos.png" group-title="Portugal",MOTORVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/111
+#EXTINF:-1 tvg-id="FUEL TV FHD" tvg-name="FUEL TV fhd" tvg-logo="https://cunhadigital.com/Picons/FUEL_TV_nos.png" group-title="Portugal",FUEL TV fhd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/112
+#EXTINF:-1 tvg-id="PFC HD" tvg-name="PFC" tvg-logo="https://cunhadigital.com/Picons/PFC_nos.png" group-title="Portugal",PFC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/113
+#EXTINF:-1 tvg-name="▂ ▄ ▅ ▆ TV FILMES ▆ ▅ ▄ ▂" tvg-logo="https://cunhadigital.com/Picons/logo-filmes-png-1.png" group-title="Portugal",▂ ▄ ▅ ▆ TV FILMES ▆ ▅ ▄ ▂
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/114
+#EXTINF:-1 tvg-id="NOS STUDIOS FHD" tvg-name="NOS STUDIOS FHD" tvg-logo="https://cunhadigital.com/Picons/NOS_STUDIOS_nos.png" group-title="Portugal",NOS STUDIOS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/115
+#EXTINF:-1 tvg-id="NOS STUDIOS" tvg-name="NOS STUDIOS" tvg-logo="https://cunhadigital.com/Picons/NOS_STUDIOS_nos.png" group-title="Portugal",NOS STUDIOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/116
+#EXTINF:-1 tvg-id="TVCine TOP FHD" tvg-name="TVCINE TOP FHD" tvg-logo="https://cunhadigital.com/Picons/TVCine_-TOP_FUNDOS-CLAROS.png" group-title="Portugal",TVCINE TOP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/117
+#EXTINF:-1 tvg-id="TVCine TOP" tvg-name="TVCINE TOP" tvg-logo="https://cunhadigital.com/Picons/TVCine_-TOP_FUNDOS-CLAROS.png" group-title="Portugal",TVCINE TOP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/118
+#EXTINF:-1 tvg-id="TVCine EDITION FHD" tvg-name="TVCINE EDITION FHD" tvg-logo="https://cunhadigital.com/Picons/TVCine_EDITION_FUNDOS-CLAROS.png" group-title="Portugal",TVCINE EDITION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/119
+#EXTINF:-1 tvg-id="TVCine EDITION" tvg-name="TVCINE EDITION" tvg-logo="https://cunhadigital.com/Picons/TVCine_EDITION_FUNDOS-CLAROS.png" group-title="Portugal",TVCINE EDITION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/120
+#EXTINF:-1 tvg-id="TVCine EMOTION FHD" tvg-name="TVCINE EMOTION FHD" tvg-logo="https://cunhadigital.com/Picons/TVCine_EMOTION_FUNDOS-CLAROS.png" group-title="Portugal",TVCINE EMOTION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/121
+#EXTINF:-1 tvg-id="TVCine EMOTION" tvg-name="TVCINE EMOTION" tvg-logo="https://cunhadigital.com/Picons/TVCine_EMOTION_FUNDOS-CLAROS.png" group-title="Portugal",TVCINE EMOTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/122
+#EXTINF:-1 tvg-id="TVCine ACTION FHD" tvg-name="TVCINE ACTION FHD" tvg-logo="https://cunhadigital.com/Picons/TVCine_ACTION_FUNDOS-CLAROS.png" group-title="Portugal",TVCINE ACTION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/123
+#EXTINF:-1 tvg-id="TVCine ACTION" tvg-name="TVCINE ACTION" tvg-logo="https://cunhadigital.com/Picons/TVCine_ACTION_FUNDOS-CLAROS.png" group-title="Portugal",TVCINE ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/124
+#EXTINF:-1 tvg-id="HOLLYWOOD FHD" tvg-name="HOLLYWOOD FHD" tvg-logo="https://cunhadigital.com/Picons/HOLLYWOOD_HD.png" group-title="Portugal",HOLLYWOOD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/125
+#EXTINF:-1 tvg-id="HOLLYWOOD" tvg-name="HOLLYWOOD" tvg-logo="https://cunhadigital.com/Picons/HOLLYWOOD_meo.png" group-title="Portugal",HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/126
+#EXTINF:-1 tvg-id="AXN MOVIES FHD" tvg-name="AXN MOVIES FHD" tvg-logo="https://cunhadigital.com/Picons/AXN_MoviesHD.png" group-title="Portugal",AXN MOVIES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/127
+#EXTINF:-1 tvg-id="AXN MOVIES" tvg-name="AXN MOVIES" tvg-logo="https://cunhadigital.com/Picons/AXN_MoviesHD.png" group-title="Portugal",AXN MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/128
+#EXTINF:-1 tvg-id="STAR MOVIES FHD" tvg-name="STAR MOVIES FHD" tvg-logo="https://cunhadigital.com/Picons/Star_Movies_2023.png" group-title="Portugal",STAR MOVIES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/129
+#EXTINF:-1 tvg-id="STAR MOVIES" tvg-name="STAR MOVIES" tvg-logo="https://cunhadigital.com/Picons/Star_Movies_2023.png" group-title="Portugal",STAR MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/130
+#EXTINF:-1 tvg-id="AMC FHD" tvg-name="AMC FHD" tvg-logo="https://cunhadigital.com/Picons/AMC_HD_nos.png" group-title="Portugal",AMC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/131
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://cunhadigital.com/Picons/AMC_nos.png" group-title="Portugal",AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/132
+#EXTINF:-1 tvg-id="CINEMUNDO FHD" tvg-name="CINEMUNDO FHD" tvg-logo="https://cunhadigital.com/Picons/CINE_MUNDO.png" group-title="Portugal",CINEMUNDO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/133
+#EXTINF:-1 tvg-id="CINEMUNDO" tvg-name="CINEMUNDO" tvg-logo="https://cunhadigital.com/Picons/CINE_MUNDO.png" group-title="Portugal",CINEMUNDO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/134
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="OPTO SIC FHD" tvg-logo="https://cunhadigital.com/Picons/Opto.png" group-title="Portugal",OPTO SIC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/135
+#EXTINF:-1 tvg-name="▂ ▄ ▅ ▆ TV SERIES ▆ ▅ ▄ ▂" tvg-logo="https://cunhadigital.com/Picons/series.png" group-title="Portugal",▂ ▄ ▅ ▆ TV SERIES ▆ ▅ ▄ ▂
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/136
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://cunhadigital.com/Picons/AXN.png" group-title="Portugal",AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/137
+#EXTINF:-1 tvg-id="AXN FHD" tvg-name="AXN FHD" tvg-logo="https://cunhadigital.com/Picons/AXN_HD_nos.png" group-title="Portugal",AXN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/138
+#EXTINF:-1 tvg-id="AXN WHITE" tvg-name="AXN WHITE" tvg-logo="https://cunhadigital.com/Picons/AXN_WHITE_HD.png" group-title="Portugal",AXN WHITE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/139
+#EXTINF:-1 tvg-id="AXN WHITE FHD" tvg-name="AXN WHITE  ᶠᴴᴰ" tvg-logo="https://cunhadigital.com/Picons/AXN_WHITE_HD.png" group-title="Portugal",AXN WHITE  ᶠᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/140
+#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://cunhadigital.com/Picons/Star_Channel_2021.png" group-title="Portugal",STAR CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/141
+#EXTINF:-1 tvg-id="STAR CHANNEL FHD" tvg-name="STAR CHANNEL  FHD" tvg-logo="https://cunhadigital.com/Picons/Star_Channel_2021.png" group-title="Portugal",STAR CHANNEL  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/142
+#EXTINF:-1 tvg-id="STAR LIFE" tvg-name="STAR LIFE" tvg-logo="https://cunhadigital.com/Picons/star_life.png" group-title="Portugal",STAR LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/143
+#EXTINF:-1 tvg-id="STAR LIFE FHD" tvg-name="STAR LIFE  FHD" tvg-logo="https://cunhadigital.com/Picons/star_life.png" group-title="Portugal",STAR LIFE  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/144
+#EXTINF:-1 tvg-id="STAR CRIME" tvg-name="STAR CRIME" tvg-logo="https://cunhadigital.com/Picons/Star_Crime_2023.png" group-title="Portugal",STAR CRIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/145
+#EXTINF:-1 tvg-id="STAR CRIME FHD" tvg-name="STAR CRIME FHD" tvg-logo="https://cunhadigital.com/Picons/Star_Crime_2023.png" group-title="Portugal",STAR CRIME FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/146
+#EXTINF:-1 tvg-id="STAR COMEDY" tvg-name="STAR COMEDY" tvg-logo="https://cunhadigital.com/Picons/Star_Comedy_2020.png" group-title="Portugal",STAR COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/147
+#EXTINF:-1 tvg-id="STAR COMEDY FHD" tvg-name="STAR COMEDY FHD" tvg-logo="https://cunhadigital.com/Picons/Star_Comedy_2020.png" group-title="Portugal",STAR COMEDY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/148
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="https://cunhadigital.com/Picons/SYFY.png" group-title="Portugal",SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/149
+#EXTINF:-1 tvg-id="SYFY FHD" tvg-name="SYFY FHD" tvg-logo="https://cunhadigital.com/Picons/SYFY.png" group-title="Portugal",SYFY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/150
+#EXTINF:-1 tvg-name="▂ ▄ ▅ ▆ INFANTIL ▆ ▅ ▄ ▂" tvg-logo="https://cunhadigital.com/Picons/logos-kids-white.png" group-title="Portugal",▂ ▄ ▅ ▆ INFANTIL ▆ ▅ ▄ ▂
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/151
+#EXTINF:-1 tvg-id="Lolly kids HD" tvg-name="Lolly Kids" tvg-logo="https://cunhadigital.com//Picons/Lolly-Kids.png" group-title="Portugal",Lolly Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/152
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://cunhadigital.com/Picons/DISNEY_CHANNEL_nos.png" group-title="Portugal",DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/153
+#EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-name="DISNEY JUNIOR" tvg-logo="https://cunhadigital.com/Picons/DISNEY_JUNIOR_nos.png" group-title="Portugal",DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/154
+#EXTINF:-1 tvg-id="CANAL PANDA" tvg-name="CANAL PANDA" tvg-logo="https://cunhadigital.com/Picons/PANDA_nos.png" group-title="Portugal",CANAL PANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/155
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://cunhadigital.com/Picons/NICK_JR_nos.png" group-title="Portugal",NICK JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/156
+#EXTINF:-1 tvg-id="BIGGS" tvg-name="BIGGS" tvg-logo="https://cunhadigital.com/Picons/BIGGS_nos.png" group-title="Portugal",BIGGS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/157
+#EXTINF:-1 tvg-id="SIC K FHD" tvg-name="SIC K" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/SIC_K_Portugal.png" group-title="Portugal",SIC K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/158
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://cunhadigital.com/Picons/NICKELODEON_nos.png" group-title="Portugal",NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/160
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://cunhadigital.com/Picons/CARTOON_NETWORK_nos.png" group-title="Portugal",CARTOON NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/161
+#EXTINF:-1 tvg-id="BABY TV HD" tvg-name="BABY TV HD" tvg-logo="https://cunhadigital.com/Picons/BABY_TV_nos.png" group-title="Portugal",BABY TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/162
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://cunhadigital.com/Picons/BABY_TV_nos.png" group-title="Portugal",BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/163
+#EXTINF:-1 tvg-name="▂ ▄ ▅ ▆ MUSICA ▆ ▅ ▄ ▂" tvg-logo="https://cunhadigital.com/Picons/musica.png" group-title="Portugal",▂ ▄ ▅ ▆ MUSICA ▆ ▅ ▄ ▂
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/164
+#EXTINF:-1 tvg-id="CLUBBING TV HD" tvg-name="CLUBBING TV HD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Clubbing-TV.png" group-title="Portugal",CLUBBING TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/165
+#EXTINF:-1 tvg-id="MTV PORTUGAL FHD" tvg-name="MTV PORTUGAL" tvg-logo="https://cunhadigital.com/Picons/MTV_PORTUGAL_meo.png" group-title="Portugal",MTV PORTUGAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/166
+#EXTINF:-1 tvg-id="MTV00S" tvg-name="MTV 00's" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Portugal",MTV 00's
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/167
+#EXTINF:-1 tvg-id="TRACE URBAN FHD" tvg-name="TRACE URBAN FHD" tvg-logo="https://cunhadigital.com/Picons/TRACE_URBAN_meo.png" group-title="Portugal",TRACE URBAN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/168
+#EXTINF:-1 tvg-id="TRACE TOCA" tvg-name="TRACE TOCA" tvg-logo="https://cunhadigital.com/Picons/TRACE_TOCA_nos.png" group-title="Portugal",TRACE TOCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/169
+#EXTINF:-1 tvg-id="AFRO MUSIC" tvg-name="AFRO MUSIC" tvg-logo="https://cunhadigital.com/Picons/AFRO_MUSIC_meo.png" group-title="Portugal",AFRO MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/170
+#EXTINF:-1 tvg-id="MCM TOP" tvg-name="MCM TOP" tvg-logo="https://cunhadigital.com/Picons/mcmtop.png" group-title="Portugal",MCM TOP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/171
+#EXTINF:-1 tvg-id="MCM POP" tvg-name="MCM POP" tvg-logo="https://cunhadigital.com/Picons/MCM_POP.png" group-title="Portugal",MCM POP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/172
+#EXTINF:-1 tvg-id="MEZZO HD" tvg-name="MEZZO LIVE" tvg-logo="https://cunhadigital.com/Picons/MEZZO_nos.png" group-title="Portugal",MEZZO LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/173
+#EXTINF:-1 tvg-name="▂ ▄ ▅ ▆ DOCUMENTARIOS ▆ ▅ ▄ ▂" tvg-logo="https://cunhadigital.com/Picons/documentarios.png" group-title="Portugal",▂ ▄ ▅ ▆ DOCUMENTARIOS ▆ ▅ ▄ ▂
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/175
+#EXTINF:-1 tvg-id="AMC Crime FHD" tvg-name="AMC CRIME FHD" tvg-logo="https://cunhadigital.com/Picons/AMCCrime.png" group-title="Portugal",AMC CRIME FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/176
+#EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC CRIME" tvg-logo="https://cunhadigital.com/Picons/AMCCrime.png" group-title="Portugal",AMC CRIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/177
+#EXTINF:-1 tvg-id="AMC Break FHD" tvg-name="AMC BREAK FHD" tvg-logo="https://cunhadigital.com/Picons/AMCBREAK.png" group-title="Portugal",AMC BREAK FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/178
+#EXTINF:-1 tvg-id="AMC Break" tvg-name="AMC BREAK" tvg-logo="https://cunhadigital.com/Picons/AMCBREAK.png" group-title="Portugal",AMC BREAK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/179
+#EXTINF:-1 tvg-id="TRAVEL CHANNEL FHD" tvg-name="TRAVEL CHANNEL FHD" tvg-logo="https://cunhadigital.com/Picons/TRAVEL_CHANNEL_nos.png" group-title="Portugal",TRAVEL CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/180
+#EXTINF:-1 tvg-id="TRAVEL CHANNEL" tvg-name="TRAVEL CHANNEL" tvg-logo="https://cunhadigital.com/Picons/TRAVEL_CHANNEL_nos.png" group-title="Portugal",TRAVEL CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/181
+#EXTINF:-1 tvg-id="ID INVESTIGATION DISCOVERY FHD" tvg-name="ID INVESTIGATION DISCOVERY FHD" tvg-logo="https://cunhadigital.com/Picons/Investdisc.png" group-title="Portugal",ID INVESTIGATION DISCOVERY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/182
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC FHD" tvg-name="NATIONAL GEOGRAPHIC  FHD" tvg-logo="https://cunhadigital.com/Picons/NAT_GEOGRAPHIC_HD.png" group-title="Portugal",NATIONAL GEOGRAPHIC  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/183
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://cunhadigital.com/Picons/NATIONAL_GEOGRAPHIC_HD_nos.png" group-title="Portugal",NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/184
+#EXTINF:-1 tvg-id="NAT GEO WILD FHD" tvg-name="NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="https://cunhadigital.com/Picons/NAT_GEO_WILD_nos.png" group-title="Portugal",NATIONAL GEOGRAPHIC WILD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/185
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-logo="https://cunhadigital.com/Picons/NAT_GEO_WILD_nos.png" group-title="Portugal",NATIONAL GEOGRAPHIC WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/186
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL FHD" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://cunhadigital.com/Picons/DISCOVERY_CHANNEL_HD_nos.png" group-title="Portugal",DISCOVERY CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/187
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://cunhadigital.com/Picons/DISCOVERY_CHANNEL_HD_nos.png" group-title="Portugal",DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/188
+#EXTINF:-1 tvg-name="DISCOVERY TURBO" tvg-logo="https://cunhadigital.com/Picons/Discovery_Turbo.png" group-title="Portugal",DISCOVERY TURBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/189
+#EXTINF:-1 tvg-id="ODISSEIA FHD" tvg-name="ODISSEIA FHD" tvg-logo="https://cunhadigital.com/Picons/ODISSEIA_meo.png" group-title="Portugal",ODISSEIA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/190
+#EXTINF:-1 tvg-id="ODISSEIA" tvg-name="ODISSEIA" tvg-logo="https://cunhadigital.com/Picons/ODISSEIA_meo.png" group-title="Portugal",ODISSEIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/191
+#EXTINF:-1 tvg-id="HISTÓRIA FHD" tvg-name="HISTORIA FHD" tvg-logo="https://cunhadigital.com/Picons/HISTORIA_nos.png" group-title="Portugal",HISTORIA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/192
+#EXTINF:-1 tvg-id="FASHION TV (FTV)" tvg-name="FTV" tvg-logo="https://cunhadigital.com/Picons/FASHION_TV_nos.png" group-title="Portugal",FTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/193
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://cunhadigital.com/Picons/TLC_nos.png" group-title="Portugal",TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/194
+#EXTINF:-1 tvg-id="E! ENTERTAINMENT FHD" tvg-name="E! FHD" tvg-logo="https://cunhadigital.com/Picons/enter.jpg" group-title="Portugal",E! FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/195
+#EXTINF:-1 tvg-id="CANAL 180" tvg-name="CANAL 180" tvg-logo="https://cunhadigital.com/Picons/180.png" group-title="Portugal",CANAL 180
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/196
+#EXTINF:-1 tvg-id="CANÇÃO NOVA TV" tvg-name="CANCAO NOVA" tvg-logo="https://cunhadigital.com/Picons/CANCAO_NOVA.png" group-title="Portugal",CANCAO NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/197
+#EXTINF:-1 tvg-id="KURIAKOS TV" tvg-name="KURIAKOS TV" tvg-logo="https://cunhadigital.com/Picons/Kuriakos_TV_meo.png" group-title="Portugal",KURIAKOS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/198
+#EXTINF:-1 tvg-name="Fatima TV" group-title="Portugal",Fatima TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/199
+#EXTINF:-1 tvg-name="▂ ▄ ▅ ▆ INTERNACIONAL ▆ ▅ ▄ ▂" tvg-logo="https://cunhadigital.com/Picons/international.png" group-title="Portugal",▂ ▄ ▅ ▆ INTERNACIONAL ▆ ▅ ▄ ▂
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/200
+#EXTINF:-1 tvg-id="GLOBO FHD" tvg-name="GLOBO FHD" tvg-logo="https://cunhadigital.com/Picons/GLOBO_nos.png" group-title="Portugal",GLOBO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/201
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://cunhadigital.com/Picons/GLOBO_nos.png" group-title="Portugal",GLOBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/202
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="GLOBO NEWS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/GloboNews_logo.svg/2560px-GloboNews_logo.svg.png" group-title="Portugal",GLOBO NEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/203
+#EXTINF:-1 tvg-id="TV RECORD FHD" tvg-name="TV RECORD FHD" tvg-logo="https://cunhadigital.com/Picons/RECORD_HD_nos.png" group-title="Portugal",TV RECORD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/204
+#EXTINF:-1 tvg-id="TV RECORD" tvg-name="TV RECORD" tvg-logo="https://cunhadigital.com/Picons/RECORD_HD.png" group-title="Portugal",TV RECORD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/205
+#EXTINF:-1 tvg-id="RTP MADEIRA" tvg-name="RTP MADEIRA" tvg-logo="https://cunhadigital.com/Picons/RTP_MADEIRA_nos.png" group-title="Portugal",RTP MADEIRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/206
+#EXTINF:-1 tvg-id="RTP AÇORES" tvg-name="RTP ACORES" tvg-logo="https://cunhadigital.com/Picons/RTP_ACORES_nos.png" group-title="Portugal",RTP ACORES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/207
+#EXTINF:-1 tvg-id="RTP ÁFRICA" tvg-name="RTP AFRICA" tvg-logo="https://cunhadigital.com/Picons/RTP_AFRICA_nos.png" group-title="Portugal",RTP AFRICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/208
+#EXTINF:-1 tvg-id="TCV INTERNACIONAL" tvg-name="TCV INTERNACIONAL" tvg-logo="https://cunhadigital.com/Picons/TCV_Internacional.png" group-title="Portugal",TCV INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/209
+#EXTINF:-1 tvg-id="bfm.fr" tvg-name="BFM TV FHD" tvg-logo="https://cunhadigital.com//Picons/bfmtv.png" group-title="Portugal",BFM TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/210
+#EXTINF:-1 tvg-id="TV5 MONDE" tvg-name="TV5 MONDE" tvg-logo="https://cunhadigital.com//Picons/tv5monde.png" group-title="Portugal",TV5 MONDE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/211
+#EXTINF:-1 tvg-id="CUBAVISION" tvg-name="CUBAVISION INTERNACIONAL" tvg-logo="https://cunhadigital.com//Picons/Cubavision_Internacional.png" group-title="Portugal",CUBAVISION INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/212
+#EXTINF:-1 tvg-id="TVE INTERNACIONAL" tvg-name="TVE INTERNACIONAL" tvg-logo="https://cunhadigital.com//Picons/TVE_nos.png" group-title="Portugal",TVE INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/213
+#EXTINF:-1 tvg-id="TVE 24H" tvg-name="TVE 24H" tvg-logo="https://cunhadigital.com//Picons/TVE_24h.png" group-title="Portugal",TVE 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/214
+#EXTINF:-1 tvg-id="TV GALICIA" tvg-name="TV GALICIA" tvg-logo="https://cunhadigital.com//Picons/TELEVISION_GALICIA_meo.png" group-title="Portugal",TV GALICIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/215
+#EXTINF:-1 tvg-id="AL JAZEERA ENG" tvg-name="Al JAZEERA" tvg-logo="https://cunhadigital.com/Picons/AlJazeera.png" group-title="Portugal",Al JAZEERA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/217
+#EXTINF:-1 tvg-id="TVC NEWS" tvg-name="TVC NEWS" tvg-logo="https://cunhadigital.com//Picons/TVC_News.png" group-title="Portugal",TVC NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/218
+#EXTINF:-1 tvg-id="ZAPVIVA FHD" tvg-name="ZAP VIVA FHD" tvg-logo="https://cunhadigital.com//Picons/ZAP_VIVA_HD_nos.png" group-title="Portugal",ZAP VIVA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/219
+#EXTINF:-1 tvg-id="TPA INTERNACIONAL" tvg-name="TPA INTERNACIONAL" tvg-logo="https://cunhadigital.com//Picons/TPA_INTERNACIONAL.png" group-title="Portugal",TPA INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/220
+#EXTINF:-1 tvg-id="KBS WORLD HD" tvg-name="KBS World FHD" tvg-logo="https://cunhadigital.com//Picons/KBS_World.png" group-title="Portugal",KBS World FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d42.infopc.pro:80/Jcarla/10132021/221
