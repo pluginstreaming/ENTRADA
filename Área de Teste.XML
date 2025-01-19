@@ -3,781 +3,233 @@
 
 
 
-#EXTINF:-1 tvg-id="canal11.pt" tvg-name="PT | Canal 11 HD" tvg-logo="http://vod-logo.net/photos/34930a82a4c031443aa3f84ca5c3ac03.png" group-title="PT | DESPORTO",PT | Canal 11 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273600
-#EXTINF:-1 tvg-id="canal11.pt" tvg-name="PT | Canal 11 FHD" tvg-logo="http://vod-logo.net/photos/34930a82a4c031443aa3f84ca5c3ac03.png" group-title="PT | DESPORTO",PT | Canal 11 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273599
-#EXTINF:-1 tvg-id="sporttv+.pt" tvg-name="PT | Sport TV +" tvg-logo="http://vod-logo.net/photos/4ad414d19593ba23f33d8e87d1254811.png" group-title="PT | DESPORTO",PT | Sport TV +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273598
-#EXTINF:-1 tvg-id="sporttv+.pt" tvg-name="PT | Sport TV + HD" tvg-logo="http://vod-logo.net/photos/4ad414d19593ba23f33d8e87d1254811.png" group-title="PT | DESPORTO",PT | Sport TV + HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273597
-#EXTINF:-1 tvg-id="sporttv+.pt" tvg-name="PT | Sport TV + FHD" tvg-logo="http://vod-logo.net/photos/4ad414d19593ba23f33d8e87d1254811.png" group-title="PT | DESPORTO",PT | Sport TV + FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273596
-#EXTINF:-1 tvg-id="sporttv.pt" tvg-name="PT | Sport TV FHD" group-title="PT | DESPORTO",PT | Sport TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273595
-#EXTINF:-1 tvg-id="sporttv.pt" tvg-name="PT | Sport TV 1 HD" tvg-logo="http://vod-logo.net/photos/b2190652b2027dd2d2511adee1f9066a.png" group-title="PT | DESPORTO",PT | Sport TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273594
-#EXTINF:-1 tvg-id="sporttv.pt" tvg-name="PT | Sport TV 1 SD" tvg-logo="http://vod-logo.net/photos/b2190652b2027dd2d2511adee1f9066a.png" group-title="PT | DESPORTO",PT | Sport TV 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273593
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT | Sport TV 1 FHD" tvg-logo="http://vod-logo.net/photos/b2190652b2027dd2d2511adee1f9066a.png" group-title="PT | DESPORTO",PT | Sport TV 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273592
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT | Sport TV 1 4K" tvg-logo="http://vod-logo.net/photos/b2190652b2027dd2d2511adee1f9066a.png" group-title="PT | DESPORTO",PT | Sport TV 1 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273591
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT | Sport TV 2 HD" tvg-logo="http://vod-logo.net/photos/325b19251188b38a8f0109be641af706.png" group-title="PT | DESPORTO",PT | Sport TV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273590
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT | Sport  TV 2 SD" tvg-logo="http://vod-logo.net/photos/325b19251188b38a8f0109be641af706.png" group-title="PT | DESPORTO",PT | Sport  TV 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273589
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT | Sport TV 2 FHD" tvg-logo="http://vod-logo.net/photos/325b19251188b38a8f0109be641af706.png" group-title="PT | DESPORTO",PT | Sport TV 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273588
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT | Sport TV 3 HD" tvg-logo="http://vod-logo.net/photos/b0c43dcbf8d18f54a9de056c4d8c1515.png" group-title="PT | DESPORTO",PT | Sport TV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273587
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT | Sport TV 3 SD" tvg-logo="http://vod-logo.net/photos/b0c43dcbf8d18f54a9de056c4d8c1515.png" group-title="PT | DESPORTO",PT | Sport TV 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273586
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT | Sport TV 3 FHD" tvg-logo="http://vod-logo.net/photos/b0c43dcbf8d18f54a9de056c4d8c1515.png" group-title="PT | DESPORTO",PT | Sport TV 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273585
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT | Sport TV 4 HD" tvg-logo="http://vod-logo.net/photos/271f5410b895bc09d25919af45f236fd.png" group-title="PT | DESPORTO",PT | Sport TV 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273584
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT | Sport TV 4 FHD" tvg-logo="http://vod-logo.net/photos/271f5410b895bc09d25919af45f236fd.png" group-title="PT | DESPORTO",PT | Sport TV 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273583
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT | Sport TV 5 HD" group-title="PT | DESPORTO",PT | Sport TV 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273582
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT | Sport TV 5 FHD" tvg-logo="https://s9.gifyu.com/images/SULa4.png" group-title="PT | DESPORTO",PT | Sport TV 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273581
-#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="PT | SPORT TV 6 FHD" tvg-logo="https://s9.gifyu.com/images/SULa6.png" group-title="PT | DESPORTO",PT | SPORT TV 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/638007
-#EXTINF:-1 tvg-id="sporttv7.pt" tvg-name="PT | SPORT TV 7 FHD" tvg-logo="https://www.meo.pt/PublishingImages/canais/sport-tv-7-meo-logo.webp" group-title="PT | DESPORTO",PT | SPORT TV 7 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/631220
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT | Eleven Sport 1 HD" tvg-logo="http://vod-logo.net/photos/9a72ecc66d8220deb0587d3273d0248d.png" group-title="PT | DESPORTO",PT | Eleven Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273580
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT | Eleven Sports 1 FHD" tvg-logo="http://vod-logo.net/photos/9a72ecc66d8220deb0587d3273d0248d.png" group-title="PT | DESPORTO",PT | Eleven Sports 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273579
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT | Eleven Sport 2 HD" tvg-logo="http://vod-logo.net/photos/6c3d72dad461d373e5c6fec0ff2bde2a.png" group-title="PT | DESPORTO",PT | Eleven Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273578
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT | Eleven Sports 2 FHD" tvg-logo="http://vod-logo.net/photos/6c3d72dad461d373e5c6fec0ff2bde2a.png" group-title="PT | DESPORTO",PT | Eleven Sports 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273577
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT | Eleven Sport 3 HD" tvg-logo="http://vod-logo.net/photos/3b94182a3106fe5d3f1de1263c609ea8.png" group-title="PT | DESPORTO",PT | Eleven Sport 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273576
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT | Eleven Sports 3 FHD" tvg-logo="http://vod-logo.net/photos/3b94182a3106fe5d3f1de1263c609ea8.png" group-title="PT | DESPORTO",PT | Eleven Sports 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273575
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT | Eleven Sport 4 HD" tvg-logo="http://vod-logo.net/photos/f9cfd61484f039b87dd9070ecb6ec0b9.png" group-title="PT | DESPORTO",PT | Eleven Sport 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273574
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT | Eleven Sports 4 FHD" tvg-logo="http://vod-logo.net/photos/f9cfd61484f039b87dd9070ecb6ec0b9.png" group-title="PT | DESPORTO",PT | Eleven Sports 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273573
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT | Eleven Sport 5 HD" group-title="PT | DESPORTO",PT | Eleven Sport 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273572
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT | Eleven Sports 5 FHD" group-title="PT | DESPORTO",PT | Eleven Sports 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273571
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT | Eleven Sport 6 HD" group-title="PT | DESPORTO",PT | Eleven Sport 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273570
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT | Eleven Sports 6 HD" group-title="PT | DESPORTO",PT | Eleven Sports 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273569
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT | Eleven Sports 6 FHD" group-title="PT | DESPORTO",PT | Eleven Sports 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273568
-#EXTINF:-1 tvg-id="btv.pt" tvg-name="PT | BTV FHD" group-title="PT | DESPORTO",PT | BTV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273567
-#EXTINF:-1 tvg-id="btv.pt" tvg-name="PT | BTV HD" group-title="PT | DESPORTO",PT | BTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273566
-#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="PT | Sporting TV" tvg-logo="http://vod-logo.net/photos/c3fbdd9e99ea3d18310449c4df888f62.png" group-title="PT | DESPORTO",PT | Sporting TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273565
-#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="PT | Sporting TV FHD" tvg-logo="http://vod-logo.net/photos/c3fbdd9e99ea3d18310449c4df888f62.png" group-title="PT | DESPORTO",PT | Sporting TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273564
-#EXTINF:-1 tvg-id="portocanal.pt" tvg-name="PT | Porto Canal HD" group-title="PT | DESPORTO",PT | Porto Canal HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273563
-#EXTINF:-1 tvg-id="portocanal.pt" tvg-name="PT | Porto Canal FHD" group-title="PT | DESPORTO",PT | Porto Canal FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273562
-#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="PT | Sport TV NBA" group-title="PT | DESPORTO",PT | Sport TV NBA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273561
-#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="PT | Sport TV NBA FHD" group-title="PT | DESPORTO",PT | Sport TV NBA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273560
-#EXTINF:-1 tvg-id="kombatsport.pt" tvg-name="PT | Kombat Sport" group-title="PT | DESPORTO",PT | Kombat Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273559
-#EXTINF:-1 tvg-id="fueltv.pt" tvg-name="PT | Fuel TV" group-title="PT | DESPORTO",PT | Fuel TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273558
-#EXTINF:-1 tvg-id="fueltv.pt" tvg-name="PT | FUEL TV FHD" group-title="PT | DESPORTO",PT | FUEL TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273557
-#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="PT | EuroSport 1" tvg-logo="http://www.vod-logo.net/photos/ccf3ef964c2be9790aa396ac9c165579.jpg" group-title="PT | DESPORTO",PT | EuroSport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273556
-#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="PT | EuroSport 1 FHD" tvg-logo="http://www.vod-logo.net/photos/ccf3ef964c2be9790aa396ac9c165579.jpg" group-title="PT | DESPORTO",PT | EuroSport 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273555
-#EXTINF:-1 tvg-id="eurosport2.pt" tvg-name="PT | EuroSport 2" tvg-logo="http://www.vod-logo.net/photos/1172255e540f09f2647859b2caefa2a5.jpg" group-title="PT | DESPORTO",PT | EuroSport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273554
-#EXTINF:-1 tvg-id="eurosport2.pt" tvg-name="PT | EuroSport 2 FHD" tvg-logo="http://www.vod-logo.net/photos/1172255e540f09f2647859b2caefa2a5.jpg" group-title="PT | DESPORTO",PT | EuroSport 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273553
-#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="PT | A Bola TV" tvg-logo="http://vod-logo.net/photos/6610ab62788d48080d499b9fe5e92761.png" group-title="PT | DESPORTO",PT | A Bola TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273552
-#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="PT | A Bola FHD" tvg-logo="http://vod-logo.net/photos/6610ab62788d48080d499b9fe5e92761.png" group-title="PT | DESPORTO",PT | A Bola FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273551
-#EXTINF:-1 tvg-id="cacaepesca.pt" tvg-name="PT | CACA & PESCA HD" group-title="PT | DESPORTO",PT | CACA & PESCA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273550
-#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PT | PFC" group-title="PT | DESPORTO",PT | PFC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273549
-#EXTINF:-1 tvg-id="benficatv.pt" tvg-name="PT | Benfica HD" tvg-logo="http://vod-logo.net/photos/d1c42492575fec36a0d465b2e1e9b485.png" group-title="PT | DESPORTO",PT | Benfica HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273548
-#EXTINF:-1 tvg-id="benficatv.pt" tvg-name="PT | Benfica FHD" tvg-logo="http://vod-logo.net/photos/d1c42492575fec36a0d465b2e1e9b485.png" group-title="PT | DESPORTO",PT | Benfica FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273547
-#EXTINF:-1 tvg-id="fightbox.pt" tvg-name="PT | FightBox FHD" group-title="PT | DESPORTO",PT | FightBox FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273546
-#EXTINF:-1 tvg-id="fightnetwork.pt" tvg-name="PT | FIGHT NETWORK FHD" group-title="PT | DESPORTO",PT | FIGHT NETWORK FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273545
-#EXTINF:-1 tvg-name="PT | Combate HD" group-title="PT | DESPORTO",PT | Combate HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273544
-#EXTINF:-1 tvg-id="motorvision.pt" tvg-name="PT | Motorvision" group-title="PT | DESPORTO",PT | Motorvision
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273543
-#EXTINF:-1 tvg-name="PT | WWE" group-title="PT | DESPORTO",PT | WWE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273542
-
-
-
-
-
-#EXTINF:-1 tvg-id="investigationdiscovery.pt" tvg-name="PT | Investigation Discovery ID HD" tvg-logo="http://www.vod-logo.net/photos/4147f4662da018ccaa41e9e0827f1af0.jpg" group-title="PT | DOCUMENTÁRIO",PT | Investigation Discovery ID HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/274473
-#EXTINF:-1 tvg-id="investigationdiscovery.pt" tvg-name="PT | Investigation Discovery ID FHD" tvg-logo="http://www.vod-logo.net/photos/4147f4662da018ccaa41e9e0827f1af0.jpg" group-title="PT | DOCUMENTÁRIO",PT | Investigation Discovery ID FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/274472
-#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="PT | Discovery Channel HD" tvg-logo="http://www.vod-logo.net/photos/1893a037baccadce6d502c6d1dc1f49d.png" group-title="PT | DOCUMENTÁRIO",PT | Discovery Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/274471
-#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="PT | Discovery Channel FHD" tvg-logo="http://www.vod-logo.net/photos/1893a037baccadce6d502c6d1dc1f49d.png" group-title="PT | DOCUMENTÁRIO",PT | Discovery Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/274470
-#EXTINF:-1 tvg-id="natgeo.gr" tvg-name="PT | Nat Geo HD" tvg-logo="http://www.vod-logo.net/photos/286bcee8579c2ac48c056e811c051524.jpg" group-title="PT | DOCUMENTÁRIO",PT | Nat Geo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/274469
-#EXTINF:-1 tvg-id="natgeo.gr" tvg-name="PT | Nat Geo FHD" tvg-logo="http://www.vod-logo.net/photos/286bcee8579c2ac48c056e811c051524.jpg" group-title="PT | DOCUMENTÁRIO",PT | Nat Geo FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/274468
-#EXTINF:-1 tvg-id="natgeowild.pt" tvg-name="PT | Nat Geo Wild HD" tvg-logo="http://www.vod-logo.net/photos/699edfa82550dc3b37bc1c7db976234b.jpg" group-title="PT | DOCUMENTÁRIO",PT | Nat Geo Wild HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/274467
-#EXTINF:-1 tvg-id="natgeowild.pt" tvg-name="PT | Nat Geo Wild FHD" tvg-logo="http://www.vod-logo.net/photos/699edfa82550dc3b37bc1c7db976234b.jpg" group-title="PT | DOCUMENTÁRIO",PT | Nat Geo Wild FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/274466
-#EXTINF:-1 tvg-id="crime&investigation.uk" tvg-name="PT | Crime & Investigation HD" tvg-logo="http://www.vod-logo.net/photos/95f42baff4179badc9d62d4cffaeb8e4.png" group-title="PT | DOCUMENTÁRIO",PT | Crime & Investigation HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/274465
-#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="PT | Odisseia HD" tvg-logo="http://vod-logo.net/photos/2226bd60188179299aabfe44313191f1.png" group-title="PT | DOCUMENTÁRIO",PT | Odisseia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/274464
-#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="PT | Odisseia FHD" tvg-logo="http://vod-logo.net/photos/2226bd60188179299aabfe44313191f1.png" group-title="PT | DOCUMENTÁRIO",PT | Odisseia FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/274463
-#EXTINF:-1 tvg-id="historia.es" tvg-name="PT | Historia" tvg-logo="http://vod-logo.net/photos/d450708f5649a52ea8577af83d4de6d7.png" group-title="PT | DOCUMENTÁRIO",PT | Historia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/274462
-#EXTINF:-1 tvg-id="historia.es" tvg-name="PT | Historia HD" tvg-logo="http://vod-logo.net/photos/d450708f5649a52ea8577af83d4de6d7.png" group-title="PT | DOCUMENTÁRIO",PT | Historia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/274461
-#EXTINF:-1 tvg-id="casaecozinha.pt" tvg-name="PT | Casa E Cozinha HD" tvg-logo="http://vod-logo.net/photos/319d45b8df0f3ca765477946f4388b25.png" group-title="PT | DOCUMENTÁRIO",PT | Casa E Cozinha HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/274460
-#EXTINF:-1 tvg-id="casaecozinha.pt" tvg-name="PT | Casa E Cozinha FHD" tvg-logo="http://vod-logo.net/photos/319d45b8df0f3ca765477946f4388b25.png" group-title="PT | DOCUMENTÁRIO",PT | Casa E Cozinha FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/274459
-#EXTINF:-1 tvg-id="travelchannel.pt" tvg-name="PT | Travel Channel HD" group-title="PT | DOCUMENTÁRIO",PT | Travel Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/274458
-
-
-
-
-
-#EXTINF:-1 tvg-name="PT | Zap Viva HD" group-title="PT | BRAZIL-AFRICA",PT | Zap Viva HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/274508
-#EXTINF:-1 tvg-name="PT | ZAP Viva FHD" group-title="PT | BRAZIL-AFRICA",PT | ZAP Viva FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/274507
-#EXTINF:-1 tvg-name="PT | TPA INTERNACIONAL" group-title="PT | BRAZIL-AFRICA",PT | TPA INTERNACIONAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/274506
-#EXTINF:-1 tvg-name="PT | TCV Cabo Verde" group-title="PT | BRAZIL-AFRICA",PT | TCV Cabo Verde
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/274505
-#EXTINF:-1 tvg-name="PT | TV Record HD" group-title="PT | BRAZIL-AFRICA",PT | TV Record HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/274504
-#EXTINF:-1 tvg-name="PT | GLOBO PREMIUM" tvg-logo="http://vod-logo.net/photos/35a5a012b2915b386b45cf4545060d58.png" group-title="PT | BRAZIL-AFRICA",PT | GLOBO PREMIUM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/274503
-#EXTINF:-1 tvg-name="Br: Globo News HD" tvg-logo="http://www.vod-logo.net/photos/9b0b64972353986bb290b84f4525f1f7.png" group-title="PT | BRAZIL-AFRICA",Br: Globo News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/274502
-#EXTINF:-1 tvg-name="Br: Gloob HD" tvg-logo="http://www.vod-logo.net/photos/cde43efdcda8e00099da2230aca022c8.png" group-title="PT | BRAZIL-AFRICA",Br: Gloob HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/274501
-#EXTINF:-1 tvg-name="PT | Kuriakos Cine" group-title="PT | BRAZIL-AFRICA",PT | Kuriakos Cine
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/274500
-#EXTINF:-1 tvg-id="cancaonova.pt" tvg-name="PT | Cancao Nova" tvg-logo="http://vod-logo.net/photos/e351891903fd43c803e0855a37fffd49.png" group-title="PT | BRAZIL-AFRICA",PT | Cancao Nova
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/274499
-
-
-
-
-
-#EXTINF:-1 tvg-id="fox.es" tvg-name="PT | Fox HD" tvg-logo="http://www.vod-logo.net/photos/89fed4025d8fea3cf9fddbba3dece3fc.jpg" group-title="PT | FILMES",PT | Fox HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273536
-#EXTINF:-1 tvg-id="fox.es" tvg-name="PT | FOX FHD" tvg-logo="http://www.vod-logo.net/photos/89fed4025d8fea3cf9fddbba3dece3fc.jpg" group-title="PT | FILMES",PT | FOX FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273535
-#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="PT | Fox Comedy HD" tvg-logo="http://vod-logo.net/photos/488cfbc1c4fbc6e7479fa1f5063517cb.png" group-title="PT | FILMES",PT | Fox Comedy HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273534
-#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="PT | FOX Comedy FHD" tvg-logo="http://vod-logo.net/photos/488cfbc1c4fbc6e7479fa1f5063517cb.png" group-title="PT | FILMES",PT | FOX Comedy FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273533
-#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="PT | Fox Crime HD" tvg-logo="http://www.vod-logo.net/photos/2732c519701aba74be040ad8658bf748.jpg" group-title="PT | FILMES",PT | Fox Crime HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273532
-#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="PT | FOX Crime FHD" tvg-logo="http://www.vod-logo.net/photos/2732c519701aba74be040ad8658bf748.jpg" group-title="PT | FILMES",PT | FOX Crime FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273531
-#EXTINF:-1 tvg-id="foxlife.gr" tvg-name="PT | Fox Life HD" tvg-logo="http://www.vod-logo.net/photos/cc026f4371841cd769bd6d86b58e5c37.jpg" group-title="PT | FILMES",PT | Fox Life HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273530
-#EXTINF:-1 tvg-id="foxlife.gr" tvg-name="PT | FOX Life FHD" tvg-logo="http://www.vod-logo.net/photos/cc026f4371841cd769bd6d86b58e5c37.jpg" group-title="PT | FILMES",PT | FOX Life FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273529
-#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="PT | FOX Movies HD" tvg-logo="http://www.vod-logo.net/photos/85d8701485c12028682bb23a08b98ff3.jpg" group-title="PT | FILMES",PT | FOX Movies HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273528
-#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="PT | FOX Movies FHD" tvg-logo="http://www.vod-logo.net/photos/85d8701485c12028682bb23a08b98ff3.jpg" group-title="PT | FILMES",PT | FOX Movies FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273527
-#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT | TV Cine Action HD" tvg-logo="http://vod-logo.net/photos/7207c605b8b0cd51f9175a30093edc50.png" group-title="PT | FILMES",PT | TV Cine Action HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273526
-#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT | TV Cine Action FHD" tvg-logo="http://vod-logo.net/photos/7207c605b8b0cd51f9175a30093edc50.png" group-title="PT | FILMES",PT | TV Cine Action FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273525
-#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT | TV Cine Edition HD" tvg-logo="http://vod-logo.net/photos/a284ff817defacd364303ea8f1b7b687.png" group-title="PT | FILMES",PT | TV Cine Edition HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273524
-#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT | TV Cine Edition FHD" tvg-logo="http://vod-logo.net/photos/a284ff817defacd364303ea8f1b7b687.png" group-title="PT | FILMES",PT | TV Cine Edition FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273523
-#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="PT | TV CINE TOP HD" tvg-logo="http://vod-logo.net/photos/31e633015c88b8154edf4c97702fe3df.png" group-title="PT | FILMES",PT | TV CINE TOP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273522
-#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="PT | TV Cine Top FHD" tvg-logo="http://vod-logo.net/photos/31e633015c88b8154edf4c97702fe3df.png" group-title="PT | FILMES",PT | TV Cine Top FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273521
-#EXTINF:-1 tvg-id="axn.es" tvg-name="PT | AXN HD" tvg-logo="http://www.vod-logo.net/photos/8cbf8edfa846021f6e3191d57c867570.jpg" group-title="PT | FILMES",PT | AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273520
-#EXTINF:-1 tvg-id="axn.es" tvg-name="PT | AXN FHD" tvg-logo="http://www.vod-logo.net/photos/8cbf8edfa846021f6e3191d57c867570.jpg" group-title="PT | FILMES",PT | AXN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273519
-#EXTINF:-1 tvg-id="axnmovies.pt" tvg-name="PT | AXN Movies HD" tvg-logo="http://vod-logo.net/photos/191af01ebdd8772a61d7dfdb5e754b88.png" group-title="PT | FILMES",PT | AXN Movies HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273518
-#EXTINF:-1 tvg-id="axnmovies.pt" tvg-name="PT | AXN Movies FHD" tvg-logo="http://vod-logo.net/photos/191af01ebdd8772a61d7dfdb5e754b88.png" group-title="PT | FILMES",PT | AXN Movies FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273517
-#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="PT | AXN White" tvg-logo="http://www.vod-logo.net/photos/3ddb2283290fbe5c797a446923dd890e.jpg" group-title="PT | FILMES",PT | AXN White
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273516
-#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="PT | AXN White FHD" tvg-logo="http://www.vod-logo.net/photos/3ddb2283290fbe5c797a446923dd890e.jpg" group-title="PT | FILMES",PT | AXN White FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273515
-#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT | Cinemundo HD" tvg-logo="http://vod-logo.net/photos/6bd3a4a68439134a915541b55476390f.png" group-title="PT | FILMES",PT | Cinemundo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273514
-#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT | Cinemundo FHD" tvg-logo="http://vod-logo.net/photos/6bd3a4a68439134a915541b55476390f.png" group-title="PT | FILMES",PT | Cinemundo FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273513
-#EXTINF:-1 tvg-id="nosstudios.pt" tvg-name="PT | NOS STUDIOS HD" tvg-logo="http://vod-logo.net/photos/1aebc824fa3b91a26f89abea6ff2c28f.png" group-title="PT | FILMES",PT | NOS STUDIOS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273512
-#EXTINF:-1 tvg-id="nosstudios.pt" tvg-name="PT | NOS Studio FHD" tvg-logo="http://vod-logo.net/photos/1aebc824fa3b91a26f89abea6ff2c28f.png" group-title="PT | FILMES",PT | NOS Studio FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273511
-#EXTINF:-1 tvg-id="hollywood.pt" tvg-name="PT | Hollywood HD" tvg-logo="http://vod-logo.net/photos/acfdb60d81d5c695ce73c23f42c0bbb2.png" group-title="PT | FILMES",PT | Hollywood HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273510
-#EXTINF:-1 tvg-id="hollywood.pt" tvg-name="PT | Hollywood FHD" tvg-logo="http://vod-logo.net/photos/acfdb60d81d5c695ce73c23f42c0bbb2.png" group-title="PT | FILMES",PT | Hollywood FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/273509
-
-
-
-
-
-#EXTINF:-1 tvg-id="espn.br" tvg-name="BR| ESPN 1 FHD" tvg-logo="https://logo.iptveditor.com/espn.png" group-title="Brazil",BR| ESPN 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326955
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="BR| ESPN 2 FHD" tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="Brazil",BR| ESPN 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326954
-#EXTINF:-1 tvg-name="BR| ESPN 3 FHD" tvg-logo="https://logo.iptveditor.com/espn3.png" group-title="Brazil",BR| ESPN 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326953
-#EXTINF:-1 tvg-name="BR| ESPN 4 FHD" tvg-logo="https://logo.iptveditor.com/espn4.png" group-title="Brazil",BR| ESPN 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326952
-#EXTINF:-1 tvg-id="espnextra.br" tvg-name="BR| ESPN Extra FHD" tvg-logo="https://logo.iptveditor.com/espnextra.png" group-title="Brazil",BR| ESPN Extra FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326951
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="BR| FOX Sports 2 FHD" tvg-logo="https://logo.iptveditor.com/foxsports.png" group-title="Brazil",BR| FOX Sports 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326950
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BR| BAND Sports FHD" tvg-logo="https://logo.iptveditor.com/bandsports.png" group-title="Brazil",BR| BAND Sports FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326949
-#EXTINF:-1 tvg-id="combate.br" tvg-name="BR| Combate FHD" tvg-logo="https://logo.iptveditor.com/combate.png" group-title="Brazil",BR| Combate FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326948
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="BR| SporTV 1 FHD" tvg-logo="https://loopstatic.net/sportv1.png" group-title="Brazil",BR| SporTV 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326947
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="BR| SporTV 2 FHD" tvg-logo="https://loopstatic.net/sportv2.png" group-title="Brazil",BR| SporTV 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326946
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="BR| SporTV 3 FHD" tvg-logo="https://loopstatic.net/sportv3.png" group-title="Brazil",BR| SporTV 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326945
-#EXTINF:-1 tvg-name="BR| PREMIERE 1 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-br.png" group-title="Brazil",BR| PREMIERE 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326944
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="BR| PREMIERE 2 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-br.png" group-title="Brazil",BR| PREMIERE 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326943
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="BR| PREMIERE 3 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-br.png" group-title="Brazil",BR| PREMIERE 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326942
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="BR| PREMIERE 4 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-br.png" group-title="Brazil",BR| PREMIERE 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326941
-#EXTINF:-1 tvg-id="premiere5.br" tvg-name="BR| PREMIERE 5 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-br.png" group-title="Brazil",BR| PREMIERE 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326940
-#EXTINF:-1 tvg-id="premiere6.br" tvg-name="BR| PREMIERE 6 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-br.png" group-title="Brazil",BR| PREMIERE 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326939
-#EXTINF:-1 tvg-id="premiere7.br" tvg-name="BR| PREMIERE 7 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-br.png" group-title="Brazil",BR| PREMIERE 7 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326938
-#EXTINF:-1 tvg-id="premiere8.br" tvg-name="BR| PREMIERE 8 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-br.png" group-title="Brazil",BR| PREMIERE 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326937
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="BR| PREMIERE CLUBES HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-br.png" group-title="Brazil",BR| PREMIERE CLUBES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326936
-#EXTINF:-1 tvg-id="a&e.br" tvg-name="BR| A&E HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/a-and-e-br.png" group-title="Brazil",BR| A&E HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326935
-#EXTINF:-1 tvg-name="BR| AGROMAIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/agro-mais-br.png" group-title="Brazil",BR| AGROMAIS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326934
-#EXTINF:-1 tvg-id="amc.br" tvg-name="BR| AMC FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/amc-es.png" group-title="Brazil",BR| AMC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326933
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="BR| ANIMAL PLANET HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/animal-planet-ca.png" group-title="Brazil",BR| ANIMAL PLANET HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326932
-#EXTINF:-1 tvg-id="arte1.br" tvg-name="BR| ARTE 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/arte1-br.png" group-title="Brazil",BR| ARTE 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326931
-#EXTINF:-1 tvg-id="axn.br" tvg-name="BR| AXN HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/axn-br.png" group-title="Brazil",BR| AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326930
-#EXTINF:-1 tvg-id="babytv.br" tvg-name="BR| BABY TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/baby-tv-pl.png" group-title="Brazil",BR| BABY TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326929
-#EXTINF:-1 tvg-name="BR| BAND CAMPINAS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-br.png" group-title="Brazil",BR| BAND CAMPINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326928
-#EXTINF:-1 tvg-id="band.br" tvg-name="BR| BAND HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-br.png" group-title="Brazil",BR| BAND HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326927
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BR| BAND NEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-news-br.png" group-title="Brazil",BR| BAND NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326926
-#EXTINF:-1 tvg-name="BR| BAND NODESTE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-br.png" group-title="Brazil",BR| BAND NODESTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326925
-#EXTINF:-1 tvg-name="BR| BBC WORLD NEWS HD" tvg-logo="https://s9.gifyu.com/images/SUdtE.png" group-title="Brazil",BR| BBC WORLD NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326924
-#EXTINF:-1 tvg-name="BR| BIS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/bis-br.png" group-title="Brazil",BR| BIS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326923
-#EXTINF:-1 tvg-name="BR| BLOOMBERG TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bloomberg-television-us.png" group-title="Brazil",BR| BLOOMBERG TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326922
-#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BR| BOOMERANG HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/boomerang-ca.png" group-title="Brazil",BR| BOOMERANG HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326921
-#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="BR| CANAL BRASIL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/canal-brasil-br.png" group-title="Brazil",BR| CANAL BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326920
-#EXTINF:-1 tvg-name="BR| CANAL DO BOI HD" tvg-logo="https://s9.gifyu.com/images/SFccw.png" group-title="Brazil",BR| CANAL DO BOI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326919
-#EXTINF:-1 tvg-name="BR| CANAL RURAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/canal-rural-br.png" group-title="Brazil",BR| CANAL RURAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326918
-#EXTINF:-1 tvg-name="BR| CANAL SONY FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sony-channel-br.png" group-title="Brazil",BR| CANAL SONY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326917
-#EXTINF:-1 tvg-name="BR| CANC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/cancao-nova-tv-br.png" group-title="Brazil",BR| CANC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326916
-#EXTINF:-1 tvg-name="BR| CANÇÃO NOVA FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/cancao-nova-tv-br.png" group-title="Brazil",BR| CANÇÃO NOVA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326915
-#EXTINF:-1 tvg-name="BR| CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/cartoonito-br.png" group-title="Brazil",BR| CARTOONITO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326914
-#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="BR| CARTOON NETWORK HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/cartoon-network-uk.png" group-title="Brazil",BR| CARTOON NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326913
-#EXTINF:-1 tvg-name="BR| CAZE TV HD" tvg-logo="https://s9.gifyu.com/images/SFcQ1.png" group-title="Brazil",BR| CAZE TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326912
-#EXTINF:-1 tvg-name="BR| CBI" group-title="Brazil",BR| CBI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326911
-#EXTINF:-1 tvg-name="BR| CINECANAL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/cine-canal-br.png" group-title="Brazil",BR| CINECANAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326910
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="BR| CINEMAX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/cinemax-br.png" group-title="Brazil",BR| CINEMAX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326909
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="BR| CINE PIPOCA 1" tvg-logo="https://s9.gifyu.com/images/SFcc5.png" group-title="Brazil",BR| CINE PIPOCA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326908
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="BR| CINE PIPOCA 2" tvg-logo="https://s9.gifyu.com/images/SFcct.png" group-title="Brazil",BR| CINE PIPOCA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326907
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="BR| CINE PIPOCA 3" tvg-logo="https://s9.gifyu.com/images/SFccr.png" group-title="Brazil",BR| CINE PIPOCA 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326906
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="BR| CINE PIPOCA 4" tvg-logo="https://s9.gifyu.com/images/SFccY.png" group-title="Brazil",BR| CINE PIPOCA 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326905
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="BR| CINE PIPOCA 6" tvg-logo="https://s9.gifyu.com/images/SFccU.png" group-title="Brazil",BR| CINE PIPOCA 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326904
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="BR| CINE PIPOCA 7" tvg-logo="https://s9.gifyu.com/images/SFcca.png" group-title="Brazil",BR| CINE PIPOCA 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326903
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="BR| CINE PIPOCA 8" tvg-logo="https://s9.gifyu.com/images/SFccV.png" group-title="Brazil",BR| CINE PIPOCA 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326902
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="BR| CINE PIPOCA 9" tvg-logo="https://s9.gifyu.com/images/SFccF.png" group-title="Brazil",BR| CINE PIPOCA 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326901
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="BR| CINE PIPOCA 10" tvg-logo="https://s9.gifyu.com/images/SFccZ.png" group-title="Brazil",BR| CINE PIPOCA 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326900
-#EXTINF:-1 tvg-name="BR| CINE SKY 01 HD" tvg-logo="https://s9.gifyu.com/images/SFcgr.png" group-title="Brazil",BR| CINE SKY 01 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326899
-#EXTINF:-1 tvg-name="BR| CINE SKY 02 HD" tvg-logo="https://s9.gifyu.com/images/SFcg5.png" group-title="Brazil",BR| CINE SKY 02 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326898
-#EXTINF:-1 tvg-name="BR| CINE SKY 03 HD" tvg-logo="https://s9.gifyu.com/images/SFcgo.png" group-title="Brazil",BR| CINE SKY 03 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326897
-#EXTINF:-1 tvg-name="BR| CINE SKY 04 HD" tvg-logo="https://s9.gifyu.com/images/SFcgt.png" group-title="Brazil",BR| CINE SKY 04 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326896
-#EXTINF:-1 tvg-name="BR| CINE SKY 05 HD" tvg-logo="https://s9.gifyu.com/images/SFcgD.png" group-title="Brazil",BR| CINE SKY 05 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326895
-#EXTINF:-1 tvg-name="BR| CLARO TV+ 4K" tvg-logo="https://s9.gifyu.com/images/SFg28.png" group-title="Brazil",BR| CLARO TV+ 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326894
-#EXTINF:-1 tvg-name="BR| CLARO TV HD" tvg-logo="https://s9.gifyu.com/images/SFg20.png" group-title="Brazil",BR| CLARO TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326893
-#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="BR| CNN BRASIL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="Brazil",BR| CNN BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326892
-#EXTINF:-1 tvg-name="BR| CNN INTERNATIONAL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="Brazil",BR| CNN INTERNATIONAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326891
-#EXTINF:-1 tvg-id="combate.br" tvg-name="BR| COMBATE FHD" tvg-logo="https://s9.gifyu.com/images/SFcRb.png" group-title="Brazil",BR| COMBATE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326890
-#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="BR| COMEDY CENTRAL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/comedy-central-es.png" group-title="Brazil",BR| COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326889
-#EXTINF:-1 tvg-name="BR| CONMEBOL TV 1 HD" tvg-logo="https://s12.gifyu.com/images/SVTpx.png" group-title="Brazil",BR| CONMEBOL TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326888
-#EXTINF:-1 tvg-name="BR| COPA CATARINENSE 1" group-title="Brazil",BR| COPA CATARINENSE 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326887
-#EXTINF:-1 tvg-name="BR| COPA CATARINENSE 2" group-title="Brazil",BR| COPA CATARINENSE 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326886
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="BR| CULTURA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-cultura-br.png" group-title="Brazil",BR| CULTURA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326885
-#EXTINF:-1 tvg-name="BR| CURTA! HD" tvg-logo="https://s9.gifyu.com/images/SFcge.png" group-title="Brazil",BR| CURTA! HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326884
-#EXTINF:-1 tvg-name="BR| DISCOVERY CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/discovery-channel-es.png" group-title="Brazil",BR| DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326883
-#EXTINF:-1 tvg-id="discovery.br" tvg-name="BR| DISCOVERY H&H HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-home-and-health-ar.png" group-title="Brazil",BR| DISCOVERY H&H HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326882
-#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="BR| DISCOVERY KIDS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-kids-br.png" group-title="Brazil",BR| DISCOVERY KIDS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326881
-#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="BR| DISCOVERY SCIENCE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-science-icon-us.png" group-title="Brazil",BR| DISCOVERY SCIENCE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326880
-#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="BR| DISCOVERY THEATER HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-theater-hd-lam.png" group-title="Brazil",BR| DISCOVERY THEATER HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326879
-#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="BR| DISCOVERY TURBO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-turbo-br.png" group-title="Brazil",BR| DISCOVERY TURBO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326878
-#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="BR| DISCOVERY WORLD HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-world-hd-ar.png" group-title="Brazil",BR| DISCOVERY WORLD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326877
-#EXTINF:-1 tvg-name="BR| DISNEY CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/disney-channel-es.png" group-title="Brazil",BR| DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326876
-#EXTINF:-1 tvg-name="BR| DOG TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/dog-tv-us.png" group-title="Brazil",BR| DOG TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326875
-#EXTINF:-1 tvg-name="BR| DW TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dw-de.png" group-title="Brazil",BR| DW TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326874
-#EXTINF:-1 tvg-name="BR| E! ENTERTAINMENT HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/e-entertainment-de.png" group-title="Brazil",BR| E! ENTERTAINMENT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326873
-#EXTINF:-1 tvg-name="BR| ESTÁDIO TNT SPORTS 1 HD" tvg-logo="https://s9.gifyu.com/images/SFc89.png" group-title="Brazil",BR| ESTÁDIO TNT SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326872
-#EXTINF:-1 tvg-name="BR| ESTÁDIO TNT SPORTS 2 HD" tvg-logo="https://s9.gifyu.com/images/SFc8E.png" group-title="Brazil",BR| ESTÁDIO TNT SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326871
-#EXTINF:-1 tvg-name="BR| ESTÁDIO TNT SPORTS 3" tvg-logo="https://s9.gifyu.com/images/SFcWU.png" group-title="Brazil",BR| ESTÁDIO TNT SPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326870
-#EXTINF:-1 tvg-name="BR| ESTÁDIO TNT SPORTS 4" tvg-logo="https://s9.gifyu.com/images/SFcWC.png" group-title="Brazil",BR| ESTÁDIO TNT SPORTS 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326869
-#EXTINF:-1 tvg-name="BR| ESTÁDIO TNT SPORTS 5" tvg-logo="https://s9.gifyu.com/images/SFcWF.png" group-title="Brazil",BR| ESTÁDIO TNT SPORTS 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326868
-#EXTINF:-1 tvg-name="BR| EUROCHANNEL HD" tvg-logo="https://s9.gifyu.com/images/SUVKD.png" group-title="Brazil",BR| EUROCHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326867
-#EXTINF:-1 tvg-name="BR| FASHION TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/fashion-tv-int.png" group-title="Brazil",BR| FASHION TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326866
-#EXTINF:-1 tvg-name="BR| FILM & ARTS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/film-and-arts-ar.png" group-title="Brazil",BR| FILM & ARTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326865
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="BR| FISH TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/fish-tv-br.png" group-title="Brazil",BR| FISH TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326864
-#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="BR| FOOD NETWORK HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/food-network-pl.png" group-title="Brazil",BR| FOOD NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326863
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="BR| FOX SPORTS 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/fox-sports-2-br.png" group-title="Brazil",BR| FOX SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326862
-#EXTINF:-1 tvg-name="BR| FRANCE 24 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-24-fr.png" group-title="Brazil",BR| FRANCE 24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326861
-#EXTINF:-1 tvg-id="futura.br" tvg-name="BR| FUTURA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/futura-br.png" group-title="Brazil",BR| FUTURA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326860
-#EXTINF:-1 tvg-id="fx.br" tvg-name="BR| FX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fx-ar.png" group-title="Brazil",BR| FX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326859
-#EXTINF:-1 tvg-name="BR| GLOBO AMAZONAS HD" tvg-logo="https://s9.gifyu.com/images/SFc4W.png" group-title="Brazil",BR| GLOBO AMAZONAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326858
-#EXTINF:-1 tvg-name="BR| GLOBO ANHANGUERA GOIANIA HD" tvg-logo="https://s9.gifyu.com/images/SFc4g.png" group-title="Brazil",BR| GLOBO ANHANGUERA GOIANIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326857
-#EXTINF:-1 tvg-name="BR| GLOBO BAHIA HD" tvg-logo="https://s9.gifyu.com/images/SFc4i.webp" group-title="Brazil",BR| GLOBO BAHIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326856
-#EXTINF:-1 tvg-name="BR| GLOBO BRASILIA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO BRASILIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326855
-#EXTINF:-1 tvg-name="BR| GLOBO CUIABA HD" tvg-logo="https://s9.gifyu.com/images/SFc4V.png" group-title="Brazil",BR| GLOBO CUIABA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326854
-#EXTINF:-1 tvg-name="BR| GLOBO EPTV ARARAQUARA HD" tvg-logo="https://s9.gifyu.com/images/SFcWy.png" group-title="Brazil",BR| GLOBO EPTV ARARAQUARA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326853
-#EXTINF:-1 tvg-name="BR| GLOBO EPTV CAMPINAS HD" tvg-logo="https://s9.gifyu.com/images/SFcWy.png" group-title="Brazil",BR| GLOBO EPTV CAMPINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326852
-#EXTINF:-1 tvg-name="BR| GLOBO EPTV RIBEIRAO PRETO HD" tvg-logo="https://s9.gifyu.com/images/SFcWy.png" group-title="Brazil",BR| GLOBO EPTV RIBEIRAO PRETO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326851
-#EXTINF:-1 tvg-name="BR| GLOBO EPTV RIBEIR HD" tvg-logo="https://s9.gifyu.com/images/SFcWy.png" group-title="Brazil",BR| GLOBO EPTV RIBEIR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326850
-#EXTINF:-1 tvg-name="BR| GLOBO EPTV RIBEIRÃO PRETO HD" tvg-logo="https://s9.gifyu.com/images/SFcWy.png" group-title="Brazil",BR| GLOBO EPTV RIBEIRÃO PRETO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326849
-#EXTINF:-1 tvg-name="BR| GLOBO EPTV SAO CARLOS HD" tvg-logo="https://s9.gifyu.com/images/SFcWy.png" group-title="Brazil",BR| GLOBO EPTV SAO CARLOS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326848
-#EXTINF:-1 tvg-name="BR| GLOBO INTERNACIONAL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/globo-internacional-pt.png" group-title="Brazil",BR| GLOBO INTERNACIONAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326847
-#EXTINF:-1 tvg-name="BR| GLOBO INTERTV ALTO LITORAL HD" tvg-logo="https://s9.gifyu.com/images/SFcWD.png" group-title="Brazil",BR| GLOBO INTERTV ALTO LITORAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326846
-#EXTINF:-1 tvg-name="BR| GLOBO INTER TV CABUGI RN HD" tvg-logo="https://s9.gifyu.com/images/SFcWD.png" group-title="Brazil",BR| GLOBO INTER TV CABUGI RN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326845
-#EXTINF:-1 tvg-name="BR| GLOBO INTERTV SERRA MAR HD" tvg-logo="https://s9.gifyu.com/images/SFcWD.png" group-title="Brazil",BR| GLOBO INTERTV SERRA MAR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326844
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="BR| GLOBO NEWS FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-news-br.png" group-title="Brazil",BR| GLOBO NEWS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326843
-#EXTINF:-1 tvg-id="globonordeste.br" tvg-name="BR| GLOBO NORDESTE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO NORDESTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326842
-#EXTINF:-1 tvg-name="BR| GLOBO NSC BLUMENAU HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO NSC BLUMENAU HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326841
-#EXTINF:-1 tvg-name="BR| GLOBO NSC FLORIANÓPOLIS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO NSC FLORIANÓPOLIS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326840
-#EXTINF:-1 tvg-name="BR| GLOBO NSC JOINVILLE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO NSC JOINVILLE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326839
-#EXTINF:-1 tvg-name="BR| GLOBO PETROLINA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO PETROLINA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326838
-#EXTINF:-1 tvg-id="rbstvportoalegre.br" tvg-name="BR| GLOBO RBS PORTO ALEGRE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO RBS PORTO ALEGRE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326837
-#EXTINF:-1 tvg-name="BR| GLOBO RBS TV PELOTAS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO RBS TV PELOTAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326836
-#EXTINF:-1 tvg-name="BR| GLOBO REDE AMAZONICA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO REDE AMAZONICA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326835
-#EXTINF:-1 tvg-name="BR| GLOBO REDE AMAZÔNICA BOA VISTA HD" tvg-logo="https://s9.gifyu.com/images/SFcWf.png" group-title="Brazil",BR| GLOBO REDE AMAZÔNICA BOA VISTA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326834
-#EXTINF:-1 tvg-name="BR| GLOBO REDE AMAZÔNICA PORTO VELHO HD" tvg-logo="https://s9.gifyu.com/images/SFcWf.png" group-title="Brazil",BR| GLOBO REDE AMAZÔNICA PORTO VELHO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326833
-#EXTINF:-1 tvg-name="BR| GLOBO REDE AMAZÔNICA RIO BRANCO HD" tvg-logo="https://s9.gifyu.com/images/SFcWf.png" group-title="Brazil",BR| GLOBO REDE AMAZÔNICA RIO BRANCO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326832
-#EXTINF:-1 tvg-name="BR| GLOBO RIBEIR HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO RIBEIR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326831
-#EXTINF:-1 tvg-name="BR| GLOBO RIO GRANDE DO NORTE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO RIO GRANDE DO NORTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326830
-#EXTINF:-1 tvg-name="BR| GLOBO RPC CURITIBA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO RPC CURITIBA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326829
-#EXTINF:-1 tvg-name="BR| GLOBO RPC MARINGA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO RPC MARINGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326828
-#EXTINF:-1 tvg-name="BR| GLOBO RPC TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO RPC TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326827
-#EXTINF:-1 tvg-id="globosp.br" tvg-name="BR| GLOBO SP HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326826
-#EXTINF:-1 tvg-id="globosp.br" tvg-name="BR| GLOBO SP HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326825
-#EXTINF:-1 tvg-name="BR| GLOBO TV BAHIA HD" tvg-logo="https://s9.gifyu.com/images/SFc4i.webp" group-title="Brazil",BR| GLOBO TV BAHIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326824
-#EXTINF:-1 tvg-name="BR| GLOBO TV BELEM HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO TV BELEM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326823
-#EXTINF:-1 tvg-name="BR| GLOBO TV CABO BRANCO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO TV CABO BRANCO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326822
-#EXTINF:-1 tvg-name="BR| GLOBO TV CARUARU (ASA BRANCA) HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO TV CARUARU (ASA BRANCA) HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326821
-#EXTINF:-1 tvg-name="BR| GLOBO TV DIARIO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO TV DIARIO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326820
-#EXTINF:-1 tvg-name="BR| GLOBO TV FRONTEIRA PAULISTA HD" tvg-logo="https://s9.gifyu.com/images/SFcW1.webp" group-title="Brazil",BR| GLOBO TV FRONTEIRA PAULISTA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326819
-#EXTINF:-1 tvg-name="BR| GLOBO TV GAZETA SUL ES HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO TV GAZETA SUL ES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326818
-#EXTINF:-1 tvg-name="BR| GLOBO TV GAZETA VITÓRIA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO TV GAZETA VITÓRIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326817
-#EXTINF:-1 tvg-name="BR| GLOBO TV INTEGRAÇÃO ARAXA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO TV INTEGRAÇÃO ARAXA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326816
-#EXTINF:-1 tvg-name="BR| GLOBO TV ITAPETININGA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO TV ITAPETININGA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326815
-#EXTINF:-1 tvg-name="BR| GLOBO TV LIBERAL BELEM HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO TV LIBERAL BELEM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326814
-#EXTINF:-1 tvg-name="BR| GLOBO TV MIRANTE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO TV MIRANTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326813
-#EXTINF:-1 tvg-name="BR| GLOBO TV MORENA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO TV MORENA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326812
-#EXTINF:-1 tvg-name="BR| GLOBO TV NACIONAL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO TV NACIONAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326811
-#EXTINF:-1 tvg-name="BR| GLOBO TV SERGIPE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO TV SERGIPE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326810
-#EXTINF:-1 tvg-name="BR| GLOBO TV TEM BAURU HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO TV TEM BAURU HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326809
-#EXTINF:-1 tvg-name="BR| GLOBO TV TEM RIO PRETO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO TV TEM RIO PRETO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326808
-#EXTINF:-1 tvg-name="BR| GLOBO TV TEM SOROCABA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO TV TEM SOROCABA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326807
-#EXTINF:-1 tvg-name="BR| GLOBO TV TRIBUNA SANTOS HD" tvg-logo="https://s9.gifyu.com/images/SFcWB.png" group-title="Brazil",BR| GLOBO TV TRIBUNA SANTOS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326806
-#EXTINF:-1 tvg-name="BR| GLOBO TV VANGUARDA S.J DOS CAMPOS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO TV VANGUARDA S.J DOS CAMPOS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326805
-#EXTINF:-1 tvg-name="BR| GLOBO TV VERDES MARES FORTALEZA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO TV VERDES MARES FORTALEZA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326804
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="BR| GLOOB HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/gloob-br.png" group-title="Brazil",BR| GLOOB HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326803
-#EXTINF:-1 tvg-name="BR| GLOOBINHO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/gloobinho-br.png" group-title="Brazil",BR| GLOOBINHO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326802
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="BR| GNT FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/gnt-br.png" group-title="Brazil",BR| GNT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326801
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="BR| HBO+ HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hbo-plus-br.png" group-title="Brazil",BR| HBO+ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326800
-#EXTINF:-1 tvg-id="hbo2.br" tvg-name="BR| HBO 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hbo-2-br.png" group-title="Brazil",BR| HBO 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326799
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="BR| HBO FAMILY HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hbo-family-br.png" group-title="Brazil",BR| HBO FAMILY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326798
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="BR| HBO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hbo-br.png" group-title="Brazil",BR| HBO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326797
-#EXTINF:-1 tvg-name="BR| HBO MUNDI HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hbo-mundi-br.png" group-title="Brazil",BR| HBO MUNDI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326796
-#EXTINF:-1 tvg-name="BR| HBO POP FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hbo-pop-br.png" group-title="Brazil",BR| HBO POP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326795
-#EXTINF:-1 tvg-name="BR| HBO SIGNATURE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hbo-signature-br.png" group-title="Brazil",BR| HBO SIGNATURE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326794
-#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="BR| HBO XTREME HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hbo-xtreme-br.png" group-title="Brazil",BR| HBO XTREME HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326793
-#EXTINF:-1 tvg-id="hgtv.br" tvg-name="BR| HGTV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/hgtv-de.png" group-title="Brazil",BR| HGTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326792
-#EXTINF:-1 tvg-id="historychannel.br" tvg-name="BR| HISTORY CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/history-channel-ca.png" group-title="Brazil",BR| HISTORY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326791
-#EXTINF:-1 tvg-id="historychannel.br" tvg-name="BR| HISTORY 2 CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/history-channel-2-ca.png" group-title="Brazil",BR| HISTORY 2 CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326790
-#EXTINF:-1 tvg-id="investigaçãodiscovery.br" tvg-name="BR| INVESTIGAÇÃO DISCOVERY HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/investigation-discovery-us.png" group-title="Brazil",BR| INVESTIGAÇÃO DISCOVERY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326789
-#EXTINF:-1 tvg-name="BR| JOVEM PAN NEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/jovem-pan-news-br.png" group-title="Brazil",BR| JOVEM PAN NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326788
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="BR| LIFETIME FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png" group-title="Brazil",BR| LIFETIME FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326787
-#EXTINF:-1 tvg-name="BR| LIKE" group-title="Brazil",BR| LIKE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326786
-#EXTINF:-1 tvg-name="BR| MAIS GLOBOSAT FHD" tvg-logo="https://s9.gifyu.com/images/SFc6w.png" group-title="Brazil",BR| MAIS GLOBOSAT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326785
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="BR| MEGAPIX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/megapix-br.png" group-title="Brazil",BR| MEGAPIX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326784
-#EXTINF:-1 tvg-name="BR| MEZZO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/mezzo-es.png" group-title="Brazil",BR| MEZZO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326783
-#EXTINF:-1 tvg-name="BR| MODO VIAGEM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/modo-viagem-br.png" group-title="Brazil",BR| MODO VIAGEM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326782
-#EXTINF:-1 tvg-name="BR| MTV 00's" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/mtv-00s-es.png" group-title="Brazil",BR| MTV 00's
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326781
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="BR| MTV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/mtv-es.png" group-title="Brazil",BR| MTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326780
-#EXTINF:-1 tvg-name="BR| MTV LIVE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/mtv-live-es.png" group-title="Brazil",BR| MTV LIVE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326779
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="BR| MULTISHOW FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/multishow-br.png" group-title="Brazil",BR| MULTISHOW FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326778
-#EXTINF:-1 tvg-name="BR| MUSIC BOX BRAZIL" group-title="Brazil",BR| MUSIC BOX BRAZIL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326777
-#EXTINF:-1 tvg-name="BR| NAT GEO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/serbia/national-geographic-rs.png" group-title="Brazil",BR| NAT GEO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326776
-#EXTINF:-1 tvg-name="BR| NHK HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/nhk-world-japan-int.png" group-title="Brazil",BR| NHK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326775
-#EXTINF:-1 tvg-name="BR| NICKELODEON" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/nick-de.png" group-title="Brazil",BR| NICKELODEON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326774
-#EXTINF:-1 tvg-id="nickjr.br" tvg-name="BR| NICK JR." tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="Brazil",BR| NICK JR.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326773
-#EXTINF:-1 tvg-name="BR| NOSSO FUTEBOL EVENTUAL HD" tvg-logo="https://s9.gifyu.com/images/SFcJc.png" group-title="Brazil",BR| NOSSO FUTEBOL EVENTUAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326772
-#EXTINF:-1 tvg-name="BR| NOSSO FUTEBOL 3 HD" tvg-logo="https://s9.gifyu.com/images/SFcJ4.png" group-title="Brazil",BR| NOSSO FUTEBOL 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326771
-#EXTINF:-1 tvg-name="BR| NOSSO FUTEBOL 4 HD" tvg-logo="https://s9.gifyu.com/images/SFcJg.png" group-title="Brazil",BR| NOSSO FUTEBOL 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326770
-#EXTINF:-1 tvg-name="BR| NOVO TEMPO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/novo-tempo-br.png" group-title="Brazil",BR| NOVO TEMPO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326769
-#EXTINF:-1 tvg-id="off.br" tvg-name="BR| OFF HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/canal-off-br.png" group-title="Brazil",BR| OFF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326768
-#EXTINF:-1 tvg-name="BR| PARAMOUNT+ 1 HD" tvg-logo="https://s9.gifyu.com/images/SFcJT.png" group-title="Brazil",BR| PARAMOUNT+ 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326767
-#EXTINF:-1 tvg-name="BR| PARAMOUNT+ 2 HD" tvg-logo="https://s9.gifyu.com/images/SFcJT.png" group-title="Brazil",BR| PARAMOUNT+ 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326766
-#EXTINF:-1 tvg-name="BR| PARAMOUNT+ 3 HD" tvg-logo="https://s9.gifyu.com/images/SFcJT.png" group-title="Brazil",BR| PARAMOUNT+ 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326765
-#EXTINF:-1 tvg-name="BR| PARAMOUNT+ 4 HD" tvg-logo="https://s9.gifyu.com/images/SFcJT.png" group-title="Brazil",BR| PARAMOUNT+ 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326764
-#EXTINF:-1 tvg-name="BR| PARAMOUNT NETWORK HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/paramount-network-es.png" group-title="Brazil",BR| PARAMOUNT NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326763
-#EXTINF:-1 tvg-name="BR| PLAY TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/play-tv-br.png" group-title="Brazil",BR| PLAY TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326762
-#EXTINF:-1 tvg-name="BR| POLISHOP TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/polishop-br.png" group-title="Brazil",BR| POLISHOP TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326761
-#EXTINF:-1 tvg-name="BR| PRIME BOX BRAZIL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/prime-box-brazil-br.png" group-title="Brazil",BR| PRIME BOX BRAZIL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326760
-#EXTINF:-1 tvg-name="BR| RAI INTERNATIONAL" group-title="Brazil",BR| RAI INTERNATIONAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326759
-#EXTINF:-1 tvg-name="BR| RECORD AMAZONAS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-br.png" group-title="Brazil",BR| RECORD AMAZONAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326758
-#EXTINF:-1 tvg-name="BR| RECORD BAHIA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-br.png" group-title="Brazil",BR| RECORD BAHIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326757
-#EXTINF:-1 tvg-name="BR| RECORD CAMPINAS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-br.png" group-title="Brazil",BR| RECORD CAMPINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326756
-#EXTINF:-1 tvg-name="BR| RECORD ESP. SANTO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-br.png" group-title="Brazil",BR| RECORD ESP. SANTO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326755
-#EXTINF:-1 tvg-id="recordtv.br" tvg-name="BR| RECORD MG HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-br.png" group-title="Brazil",BR| RECORD MG HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326754
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="BR| RECORD NEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-news-br.png" group-title="Brazil",BR| RECORD NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326753
-#EXTINF:-1 tvg-name="BR| RECORD NORDESTE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-br.png" group-title="Brazil",BR| RECORD NORDESTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326752
-#EXTINF:-1 tvg-name="BR| RECORD RJ HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-br.png" group-title="Brazil",BR| RECORD RJ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326751
-#EXTINF:-1 tvg-id="recordtvrs.br" tvg-name="BR| RECORD RS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-br.png" group-title="Brazil",BR| RECORD RS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326750
-#EXTINF:-1 tvg-name="BR| RECORD SP HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-br.png" group-title="Brazil",BR| RECORD SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326749
-#EXTINF:-1 tvg-name="BR| RECORD TV BRASÍLIA FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-br.png" group-title="Brazil",BR| RECORD TV BRASÍLIA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326748
-#EXTINF:-1 tvg-name="BR| RECORD TV VITORIA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-br.png" group-title="Brazil",BR| RECORD TV VITORIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326747
-#EXTINF:-1 tvg-name="BR| REDE FAMILIA" tvg-logo="https://s9.gifyu.com/images/SFc6Z.png" group-title="Brazil",BR| REDE FAMILIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326746
-#EXTINF:-1 tvg-name="BR| REDE GOSPEL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rede-gospel-br.png" group-title="Brazil",BR| REDE GOSPEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326745
-#EXTINF:-1 tvg-name="BR| REDE RECORD HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rede-record-br.png" group-title="Brazil",BR| REDE RECORD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326744
-#EXTINF:-1 tvg-name="BR| REDE TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rede-tv-br.png" group-title="Brazil",BR| REDE TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326743
-#EXTINF:-1 tvg-id="redevida.br" tvg-name="BR| REDE VIDA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rede-vida-br.png" group-title="Brazil",BR| REDE VIDA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326742
-#EXTINF:-1 tvg-name="BR| RIT TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rit-br.png" group-title="Brazil",BR| RIT TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326741
-#EXTINF:-1 tvg-name="BR| SBT GOIAS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sbt-br.png" group-title="Brazil",BR| SBT GOIAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326740
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="BR| SBT HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sbt-br.png" group-title="Brazil",BR| SBT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326739
-#EXTINF:-1 tvg-name="BR| SBT NORDESTE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sbt-br.png" group-title="Brazil",BR| SBT NORDESTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326738
-#EXTINF:-1 tvg-name="BR| SBT RJ FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sbt-br.png" group-title="Brazil",BR| SBT RJ FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326737
-#EXTINF:-1 tvg-name="BR| SBT TV ARATU BAHIA FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sbt-br.png" group-title="Brazil",BR| SBT TV ARATU BAHIA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326736
-#EXTINF:-1 tvg-name="BR| SBT TV CIDADE VERDE PIAUI HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sbt-br.png" group-title="Brazil",BR| SBT TV CIDADE VERDE PIAUI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326735
-#EXTINF:-1 tvg-name="BR| SBT TV JORNAL PERNAMBUCO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sbt-br.png" group-title="Brazil",BR| SBT TV JORNAL PERNAMBUCO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326734
-#EXTINF:-1 tvg-name="BR| SHOPTIME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/shoptime-br.png" group-title="Brazil",BR| SHOPTIME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326733
-#EXTINF:-1 tvg-name="BR| SONY CHANNEL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sony-channel-br.png" group-title="Brazil",BR| SONY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326732
-#EXTINF:-1 tvg-id="space.br" tvg-name="BR| SPACE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/space-br.png" group-title="Brazil",BR| SPACE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326731
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="BR| SPORTV FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sportv-br.png" group-title="Brazil",BR| SPORTV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326730
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="BR| SPORTV 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sportv2-br.png" group-title="Brazil",BR| SPORTV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326729
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="BR| SPORTV 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sportv3-br.png" group-title="Brazil",BR| SPORTV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326728
-#EXTINF:-1 tvg-name="BR| STAR CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/star-channel-br.png" group-title="Brazil",BR| STAR CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326727
-#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="BR| STUDIO UNIVERSAL FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/studio-universal-br.png" group-title="Brazil",BR| STUDIO UNIVERSAL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326726
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="BR| SYFY HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/syfy-es.png" group-title="Brazil",BR| SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326725
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="BR| TBS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tbs-ar.png" group-title="Brazil",BR| TBS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326724
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="BR| TCM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tcm-ar.png" group-title="Brazil",BR| TCM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326723
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="BR| TELECINE ACTION HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-action-br.png" group-title="Brazil",BR| TELECINE ACTION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326722
-#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="BR| TELECINE CULT FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-cult-br.png" group-title="Brazil",BR| TELECINE CULT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326721
-#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="BR| TELECINE FUN FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-fun-br.png" group-title="Brazil",BR| TELECINE FUN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326720
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="BR| TELECINE PIPOCA FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-pipoca-br.png" group-title="Brazil",BR| TELECINE PIPOCA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326719
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="BR| TELECINE PREMIUM FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-premium-br.png" group-title="Brazil",BR| TELECINE PREMIUM FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326718
-#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="BR| TELECINE TOUCH FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-touch-br.png" group-title="Brazil",BR| TELECINE TOUCH FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326717
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="BR| TLC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tlc-ca.png" group-title="Brazil",BR| TLC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326716
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="BR| TNT HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tnt-br.png" group-title="Brazil",BR| TNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326715
-#EXTINF:-1 tvg-id="tntseries.br" tvg-name="BR| TNT SERIES HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tnt-series-br.png" group-title="Brazil",BR| TNT SERIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326714
-#EXTINF:-1 tvg-id="tooncast.br" tvg-name="BR| TOONCAST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tooncast-br.png" group-title="Brazil",BR| TOONCAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326713
-#EXTINF:-1 tvg-name="BR| TRACE BRAZUCA" tvg-logo="https://s9.gifyu.com/images/SFc1X.png" group-title="Brazil",BR| TRACE BRAZUCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326712
-#EXTINF:-1 tvg-name="BR| TRAVEL BOX BRASIL HD" tvg-logo="https://s9.gifyu.com/images/SFc87.webp" group-title="Brazil",BR| TRAVEL BOX BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326711
-#EXTINF:-1 tvg-name="BR| TRU TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tru-tv-ar.png" group-title="Brazil",BR| TRU TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326710
-#EXTINF:-1 tvg-name="BR| TV5 MONDE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tv5-monde-fr.png" group-title="Brazil",BR| TV5 MONDE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326709
-#EXTINF:-1 tvg-name="BR| TV APARECIDA FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-aparecida-br.png" group-title="Brazil",BR| TV APARECIDA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326708
-#EXTINF:-1 tvg-name="BR| TV BRASIL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-brasil-br.png" group-title="Brazil",BR| TV BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326707
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="BR| TVCINE ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvcine-action-pt.png" group-title="Brazil",BR| TVCINE ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326706
-#EXTINF:-1 tvg-name="BR| TVCINE EDITION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvcine-edition-pt.png" group-title="Brazil",BR| TVCINE EDITION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326705
-#EXTINF:-1 tvg-name="BR| TVCINE EMOTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvcine-emotion-pt.png" group-title="Brazil",BR| TVCINE EMOTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326704
-#EXTINF:-1 tvg-name="BR| TVCINE TOP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvcine-top-pt.png" group-title="Brazil",BR| TVCINE TOP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326703
-#EXTINF:-1 tvg-name="BR| TVE INTERNATIONAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/tve-internacional-int.png" group-title="Brazil",BR| TVE INTERNATIONAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326702
-#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="BR| TV GAZETA HD" tvg-logo="https://s9.gifyu.com/images/SFc8I.png" group-title="Brazil",BR| TV GAZETA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326701
-#EXTINF:-1 tvg-name="BR| TV RA TIM BUM HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-ra-tim-bum-br.png" group-title="Brazil",BR| TV RA TIM BUM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326700
-#EXTINF:-1 tvg-id="universal.br" tvg-name="BR| UNIVERSAL TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/universal-tv-br.png" group-title="Brazil",BR| UNIVERSAL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326699
-#EXTINF:-1 tvg-id="viva.br" tvg-name="BR| VIVA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/viva-br.png" group-title="Brazil",BR| VIVA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326698
-#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="BR| WARNER CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/warner-channel-ar.png" group-title="Brazil",BR| WARNER CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326697
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="BR| WOOHOO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/woohoo-br.png" group-title="Brazil",BR| WOOHOO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326696
-#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="BR| ZOOMOO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/zoomoo-br.png" group-title="Brazil",BR| ZOOMOO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/12345678/87654321/326695
-
-
-
-
-
-
+#EXTINF:-1,PT:) RTP 1 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35066
+#EXTINF:-1,PT:) RTP  1 ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35067
+#EXTINF:-1,PT:) RTP 2 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35068
+#EXTINF:-1,PT:) RTP 2 ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35069
+#EXTINF:-1,PT:) SIC ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35070
+#EXTINF:-1,PT:) SIC ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35071
+#EXTINF:-1,PT:) TVI ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35072
+#EXTINF:-1,PT:) TVI ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35073
+#EXTINF:-1,PT:) SIC NOTICIAS ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35074
+#EXTINF:-1,PT:) SIC NOTICIAS ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35075
+#EXTINF:-1,PT:) CNN PORTUGAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35076
+#EXTINF:-1,PT:) CMTV ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35077
+#EXTINF:-1,PT:) CMTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35078
+#EXTINF:-1,PT:) RTP 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35079
+#EXTINF:-1,PT:) PORTO CANAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35081
+#EXTINF:-1,PT:) BOLA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35082
+#EXTINF:-1,PT:) CANAL 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35083
+#EXTINF:-1,PT:)  RTP MADEIRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35084
+#EXTINF:-1,PT:) RTP AFRICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/53118
+#EXTINF:-1,PT:) RTP AÇORES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35085
+#EXTINF:-1,PT:)  RTP MEMORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35086
+#EXTINF:-1,PT:) TVI REALITy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35087
+#EXTINF:-1,PT:)  SIC RADICAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35093
+#EXTINF:-1,PT:)  SIC MULHER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35094
+#EXTINF:-1,PT:) FASHION TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35095
+#EXTINF:-1,PT:) SANTUARIO FATIMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35096
+#EXTINF:-1,PT:) CANCAO NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35097
+#EXTINF:-1,PT:) SIC CARAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35098
+#EXTINF:-1,PT:)  SIC K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35099
+#EXTINF:-1,PT:) TVI FIÇAO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35100
+#EXTINF:-1,PT:)  TV RECORD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35101
+#EXTINF:-1,PT:)  TV GLOBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35102
+#EXTINF:-1,PT:) GLOBO NOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35103
+#EXTINF:-1,PT:)  NBA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35104
+#EXTINF:-1,PT:)  PFC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35120
+#EXTINF:-1,PT:)  MOTORVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35121
+#EXTINF:-1,PT:) TOROS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35122
+#EXTINF:-1,PT:) MOTO GP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35124
+#EXTINF:-1,PT:) FIGHT NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35125
+#EXTINF:-1,PT:) TV+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/53092
+#EXTINF:-1,PT:) Ver 3 Grandes
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/52295
+#EXTINF:-1,PT:) Jogos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/53111
+#EXTINF:-1,PT:) TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/53093
+#EXTINF:-1,PT:) TV 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/53094
+#EXTINF:-1,PT:) TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/53095
+#EXTINF:-1,PT:) TV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/53096
+#EXTINF:-1,PT:) TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/53097
+#EXTINF:-1,PT:) TV 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/53098
+#EXTINF:-1,PT:) TV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/53099
+#EXTINF:-1,PT:) TV 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/53100
+#EXTINF:-1,PT:) TV 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/53101
+#EXTINF:-1,PT:) TV 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/53104
+#EXTINF:-1,PT:) DDZ 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/53105
+#EXTINF:-1,PT:) DDZ 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/53106
+#EXTINF:-1,PT:) DDZ 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/53107
+#EXTINF:-1,PT:) DDZ 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/53108
+#EXTINF:-1,PT:) DDZ 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/53109
+#EXTINF:-1,PT:) DDZ 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/53110
+#EXTINF:-1,PT:) BENF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/53102
+#EXTINF:-1,PT:) BENF SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/53103
+#EXTINF:-1,PT:)  SPORTING TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35126
+#EXTINF:-1,PT:) TENNIS CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/44383
+#EXTINF:-1,PT:)  EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35127
+#EXTINF:-1,PT:)  EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35128
+#EXTINF:-1,PT:)  CACA E PESCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35129
+#EXTINF:-1,PT:)  TVCINE TOP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35130
+#EXTINF:-1,PT:) TVCINE TOP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35131
+#EXTINF:-1,PT:) TVCINE EDITION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35132
+#EXTINF:-1,PT:) TVCINE EDITION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35133
+#EXTINF:-1,PT:) TVCINE EMOTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35134
+#EXTINF:-1,PT:) TVCINE EMOTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35135
+#EXTINF:-1,PT:) TVCINE ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35136
+#EXTINF:-1,PT:) TVCINE ACTION ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35137
+#EXTINF:-1,PT:)  NOS STUDIOS ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35138
+#EXTINF:-1,PT:)  HOLLYWOOD ᶠᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35139
+#EXTINF:-1,PT:)  CINEMUNDO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35140
+#EXTINF:-1,PT:)  AXN WHITE ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35141
+#EXTINF:-1,PT:)  AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35142
+#EXTINF:-1,PT:)  STAR MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35144
+#EXTINF:-1,PT:)  STAR LIFE ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35145
+#EXTINF:-1,PT:)  STAR ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35146
+#EXTINF:-1,PT:)  STAR CRIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35147
+#EXTINF:-1,PT:)  STAR COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35148
+#EXTINF:-1,PT:)  AMC ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35149
+#EXTINF:-1,PT:)  SYFY ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35150
+#EXTINF:-1,PT:) CRIME + INVESTIGATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35151
+#EXTINF:-1,PT:) INVESTIGATION DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35152
+#EXTINF:-1,PT:) ODISSEIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35153
+#EXTINF:-1,PT:) NAT GEO WILD ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35154
+#EXTINF:-1,PT:) DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35155
+#EXTINF:-1,PT:) NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35156
+#EXTINF:-1,PT: TPA INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/38375
+#EXTINF:-1,PT:) M6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35157
+#EXTINF:-1,PT:) TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35158
+#EXTINF:-1,PT:) KITCHEN ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35159
+#EXTINF:-1,PT:) HISTORIA ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35160
+#EXTINF:-1,PT:) EURONEWS ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35161
+#EXTINF:-1,PT:) CBS REALITY ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35162
+#EXTINF:-1,PT:) CANAL Q ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35163
+#EXTINF:-1,PT:)  E! ENTERTAINMENT ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35164
+#EXTINF:-1,PT:)  CAÇAVISION ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35165
+#EXTINF:-1,PT:) BLAZE TV ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35166
+#EXTINF:-1,PT:) BIGGS ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35167
+#EXTINF:-1,PT:) NICKELODEON ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35168
+#EXTINF:-1,PT:) JIM JAM ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35169
+#EXTINF:-1,PT:) DISNEY JUNIOR ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35170
+#EXTINF:-1,PT:) DISNEY CHANNEL ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35171
+#EXTINF:-1,PT:) CARTOON NETWORK ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35172
+#EXTINF:-1,PT:) CANAL PANDA ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35173
+#EXTINF:-1,PT:) BABY TV ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35174
+#EXTINF:-1,PT:) NICK JUNIOR ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35175
+#EXTINF:-1,PT:) VH1 ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35177
+#EXTINF:-1,PT:) MTV BIGGEST POP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35178
+#EXTINF:-1,PT:) MTV PORTUGAL ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35179
+#EXTINF:-1,PT:) MCM POP ˢᵈ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://new.shootingstar.ink:8080/jorgevicente/11102022/35180
