@@ -1,23 +1,14 @@
-#EXTM3U
+#EXTM3U                           
 
 
 
+#EXTINF:-1 tvg-logo="https://baf-qrcode.b-cdn.net/RUNTIME.jpeg" group-title="🎬Filmes e Series", RunTime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+#EXTINF:-1 tvg-logo="https://baf-qrcode.b-cdn.net/RUNTIME.jpeg" group-title="🎬Filmes e Series", RunTime Ação
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+#EXTINF:-1 tvg-logo="https://baf-qrcode.b-cdn.net/RUNTIME.jpeg" group-title="🎬Filmes e Series", RunTime Comédia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+#EXTINF:-1 tvg-logo="https://baf-qrcode.b-cdn.net/RUNTIME.jpeg" group-title="🎬Filmes e Series", RunTime Romance
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 
-#EXTINF:-1 tvg-name="RUNTIME MOTORVISION" tvg-logo="https://i.imgur.com/lSxmErj.png" group-title="RunTime",RUNTIME MOTORVISION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://brazilgroup.xyz:8880/8qpGYJm0/uHPlsDxq/200114
-#EXTINF:-1 tvg-name="RUNTIME MOVIESPHERE" tvg-logo="https://i.imgur.com/lSxmErj.png" group-title="RunTime",RUNTIME MOVIESPHERE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://brazilgroup.xyz:8880/8qpGYJm0/uHPlsDxq/200113
-#EXTINF:-1 tvg-name="RUNTIME ROMANCE" tvg-logo="https://i.imgur.com/lSxmErj.png" group-title="RunTime",RUNTIME ROMANCE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://brazilgroup.xyz:8880/8qpGYJm0/uHPlsDxq/200112
-#EXTINF:-1 tvg-name="RUNTIME COMEDIA" tvg-logo="https://i.imgur.com/lSxmErj.png" group-title="RunTime",RUNTIME COMEDIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://brazilgroup.xyz:8880/8qpGYJm0/uHPlsDxq/200111
-#EXTINF:-1 tvg-name="RUNTIME CRIME" tvg-logo="https://i.imgur.com/lSxmErj.png" group-title="RunTime",RUNTIME CRIME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://brazilgroup.xyz:8880/8qpGYJm0/uHPlsDxq/200110
-#EXTINF:-1 tvg-name="RUNTIME FILMES" tvg-logo="https://i.imgur.com/lSxmErj.png" group-title="RunTime",RUNTIME FILMES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://brazilgroup.xyz:8880/8qpGYJm0/uHPlsDxq/200109
-#EXTINF:-1 tvg-name="RUNTIME CINE ESPANTO" tvg-logo="https://i.imgur.com/lSxmErj.png" group-title="RunTime",RUNTIME CINE ESPANTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://brazilgroup.xyz:8880/8qpGYJm0/uHPlsDxq/200108
-#EXTINF:-1 tvg-name="RUNTIME FAMILIA" tvg-logo="https://i.imgur.com/lSxmErj.png" group-title="RunTime",RUNTIME FAMILIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://brazilgroup.xyz:8880/8qpGYJm0/uHPlsDxq/200107
-#EXTINF:-1 tvg-name="RUNTIME ACAO" tvg-logo="https://i.imgur.com/lSxmErj.png" group-title="RunTime",RUNTIME ACAO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://brazilgroup.xyz:8880/8qpGYJm0/uHPlsDxq/200106
+
