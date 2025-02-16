@@ -5,7 +5,7 @@
 
 
 <channel>
-<name>[B][COLOR blue] [/COLOR]  [COLOR white] TV AO VIVO LINK 1 [COLOR green] ON [/COLOR][/B]</name>
+<name>[B][COLOR blue] [/COLOR]  [COLOR white] TV AO VIVO SERV 1 [COLOR green] ON [/COLOR][/B]</name>
 <thumbnail>https://baf-qrcode.b-cdn.net/icon.jpeg</thumbnail>
 <fanart>https://baf-qrcode.b-cdn.net/fanart.jpeg</fanart>
 <info>[COLOR blue] [COLOR]  [/COLOR]</info>
@@ -15,7 +15,7 @@
 
 
 <channel>
-<name>[B][COLOR blue] [/COLOR]  [COLOR white] TV AO VIVO LINK 2 [COLOR green] ON [/COLOR][/B]</name>
+<name>[B][COLOR blue] [/COLOR]  [COLOR white] TV AO VIVO SERV 2 [COLOR green] ON [/COLOR][/B]</name>
 <thumbnail>https://baf-qrcode.b-cdn.net/icon.jpeg</thumbnail>
 <fanart>https://baf-qrcode.b-cdn.net/fanart.jpeg</fanart>
 <info>[COLOR blue] [COLOR]  [/COLOR]</info>
@@ -25,7 +25,7 @@
 
 
 <channel>
-<name>[B][COLOR blue] [/COLOR]  [COLOR white] TV AO VIVO LINK 3 [COLOR green] ON [/COLOR][/B]</name>
+<name>[B][COLOR blue] [/COLOR]  [COLOR white] TV AO VIVO SERV 3 [COLOR green] ON [/COLOR][/B]</name>
 <thumbnail>https://baf-qrcode.b-cdn.net/icon.jpeg</thumbnail>
 <fanart>https://baf-qrcode.b-cdn.net/fanart.jpeg</fanart>
 <info>[COLOR blue] [COLOR]  [/COLOR]</info>
@@ -35,7 +35,7 @@
 
 
 <channel>
-<name>[B][COLOR blue] [/COLOR]  [COLOR white] TV AO VIVO LINK 4 [COLOR green] ON [/COLOR][/B]</name>
+<name>[B][COLOR blue] [/COLOR]  [COLOR white] TV AO VIVO SERV 4 [COLOR green] ON [/COLOR][/B]</name>
 <thumbnail>https://baf-qrcode.b-cdn.net/icon.jpeg</thumbnail>
 <fanart>https://baf-qrcode.b-cdn.net/fanart.jpeg</fanart>
 <info>[COLOR blue] [COLOR]  [/COLOR]</info>
@@ -45,7 +45,7 @@
 
 
 <channel>
-<name>[B][COLOR blue] [/COLOR]  [COLOR white] TV AO VIVO LINK 5 [COLOR green] ON [/COLOR][/B]</name>
+<name>[B][COLOR blue] [/COLOR]  [COLOR white] TV AO VIVO SERV 5 [COLOR green] ON [/COLOR][/B]</name>
 <thumbnail>https://baf-qrcode.b-cdn.net/icon.jpeg</thumbnail>
 <fanart>https://baf-qrcode.b-cdn.net/fanart.jpeg</fanart>
 <info>[COLOR blue] [COLOR]  [/COLOR]</info>
@@ -55,7 +55,7 @@
 
 
 <channel>
-<name>[B][COLOR blue] [/COLOR]  [COLOR white] TV AO VIVO LINK 6 [COLOR green] ON [/COLOR][/B]</name>
+<name>[B][COLOR blue] [/COLOR]  [COLOR white] TV AO VIVO SERV 6 [COLOR green] ON [/COLOR][/B]</name>
 <thumbnail>https://baf-qrcode.b-cdn.net/icon.jpeg</thumbnail>
 <fanart>https://baf-qrcode.b-cdn.net/fanart.jpeg</fanart>
 <info>[COLOR blue] [COLOR]  [/COLOR]</info>
@@ -64,11 +64,20 @@
 
 
 <channel>
-<name>[B][COLOR blue] [/COLOR]  [COLOR white] TV AO VIVO LINK 7 [COLOR green] ON [/COLOR][/B]</name>
+<name>[B][COLOR blue] [/COLOR]  [COLOR white] TV AO VIVO SERV 7 [COLOR green] ON [/COLOR][/B]</name>
 <thumbnail>https://baf-qrcode.b-cdn.net/icon.jpeg</thumbnail>
 <fanart>https://baf-qrcode.b-cdn.net/fanart.jpeg</fanart>
 <info>[COLOR blue] [COLOR]  [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/refs/heads/main/Tv%20ao%20Vivo%20Link%207.XML</externallink>
+</channel>
+
+
+<channel>
+<name>[B][COLOR blue] [/COLOR]  [COLOR white] TV AO VIVO SERV 8 [COLOR red] OFF [/COLOR][/B]</name>
+<thumbnail>https://baf-qrcode.b-cdn.net/icon.jpeg</thumbnail>
+<fanart>https://baf-qrcode.b-cdn.net/fanart.jpeg</fanart>
+<info>[COLOR blue] [COLOR]  [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/refs/heads/main/Tv%20ao%20Vivo%20Link8.XML</externallink>
 </channel>
 
 
@@ -79,6 +88,9 @@
 <info>[COLOR blue] [COLOR]  [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/refs/heads/main/%C3%81rea%20de%20Teste.XML</externallink>
 </channel>
+
+
+
 
 
 </channels>
