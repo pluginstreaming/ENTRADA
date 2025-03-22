@@ -3,143 +3,282 @@
 
 
 
-#EXTINF:-1 tvg-name="PT1: CAÇAVISION" group-title="CANAIS | PORTUGAL",PT1: CAÇAVISION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130220
-#EXTINF:-1 tvg-name="PT1: CBS REALITY" group-title="CANAIS | PORTUGAL",PT1: CBS REALITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130222
-#EXTINF:-1 tvg-name="PT1: CINEMUNDO SD" group-title="CANAIS | PORTUGAL",PT1: CINEMUNDO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130226
-#EXTINF:-1 tvg-name="PT1: ELEVEN SPORTS 6²" group-title="CANAIS | PORTUGAL",PT1: ELEVEN SPORTS 6²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130259
-#EXTINF:-1 tvg-name="PT1: FOX CRIME HD" group-title="CANAIS | PORTUGAL",PT1: FOX CRIME HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130278
-#EXTINF:-1 tvg-name="PT1: FOX MOVIES HD" group-title="CANAIS | PORTUGAL",PT1: FOX MOVIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130288
-#EXTINF:-1 tvg-name="PT1: FOX MOVIES SD" group-title="CANAIS | PORTUGAL",PT1: FOX MOVIES SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130289
-#EXTINF:-1 tvg-name="PT1: FOX SD" group-title="CANAIS | PORTUGAL",PT1: FOX SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130290
-#EXTINF:-1 tvg-name="PT1: FUEL TV" group-title="CANAIS | PORTUGAL",PT1: FUEL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130293
-#EXTINF:-1 tvg-name="PT1: GLOBO" group-title="CANAIS | PORTUGAL",PT1: GLOBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130295
-#EXTINF:-1 tvg-name="PT1: GLOBO NOW" group-title="CANAIS | PORTUGAL",PT1: GLOBO NOW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130298
-#EXTINF:-1 tvg-name="PT1: HOLLYWOOD HD" group-title="CANAIS | PORTUGAL",PT1: HOLLYWOOD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130301
-#EXTINF:-1 tvg-name="PT1: HOLLYWOOD SD" group-title="CANAIS | PORTUGAL",PT1: HOLLYWOOD SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130302
-#EXTINF:-1 tvg-name="PT1: JIMJAM" group-title="CANAIS | PORTUGAL",PT1: JIMJAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130306
-#EXTINF:-1 tvg-name="PT1: NAT GEO WILD" group-title="CANAIS | PORTUGAL",PT1: NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130317
-#EXTINF:-1 tvg-name="PT1: NOS STUDIOS HD" group-title="CANAIS | PORTUGAL",PT1: NOS STUDIOS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130326
-#EXTINF:-1 tvg-name="PT1: ODISSEIA" group-title="CANAIS | PORTUGAL",PT1: ODISSEIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130328
-#EXTINF:-1 tvg-name="PT1: PANDA BIGS" group-title="CANAIS | PORTUGAL",PT1: PANDA BIGS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130329
-#EXTINF:-1 tvg-name="PT1: PORTO CANAL" group-title="CANAIS | PORTUGAL",PT1: PORTO CANAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130333
-#EXTINF:-1 tvg-name="PT1: RTP 1 SD" group-title="CANAIS | PORTUGAL",PT1: RTP 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130337
-#EXTINF:-1 tvg-name="PT1: RTP 2 HD" group-title="CANAIS | PORTUGAL",PT1: RTP 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130340
-#EXTINF:-1 tvg-name="PT1: RTP 2 SD" group-title="CANAIS | PORTUGAL",PT1: RTP 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130341
-#EXTINF:-1 tvg-name="PT1: RTP 3" group-title="CANAIS | PORTUGAL",PT1: RTP 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130343
-#EXTINF:-1 tvg-name="PT1: RTP AFRICA" group-title="CANAIS | PORTUGAL",PT1: RTP AFRICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130346
-#EXTINF:-1 tvg-name="PT1: RTP MADEIRA" group-title="CANAIS | PORTUGAL",PT1: RTP MADEIRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130349
-#EXTINF:-1 tvg-name="PT1: SIC K" group-title="CANAIS | PORTUGAL",PT1: SIC K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130356
-#EXTINF:-1 tvg-name="PT1: TPA INTERNACIONAL" group-title="CANAIS | PORTUGAL",PT1: TPA INTERNACIONAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130394
-#EXTINF:-1 tvg-name="PT1: TRACE TOCA" group-title="CANAIS | PORTUGAL",PT1: TRACE TOCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130396
-#EXTINF:-1 tvg-name="PT1: TRAVEL CHANNEL HD" group-title="CANAIS | PORTUGAL",PT1: TRAVEL CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130400
-#EXTINF:-1 tvg-name="PT1: TV RECORD" group-title="CANAIS | PORTUGAL",PT1: TV RECORD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130402
-#EXTINF:-1 tvg-name="PT1: TVCine EDITION HD" group-title="CANAIS | PORTUGAL",PT1: TVCine EDITION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130410
-#EXTINF:-1 tvg-name="PT1: TVCINE EDITION SD" group-title="CANAIS | PORTUGAL",PT1: TVCINE EDITION SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130411
-#EXTINF:-1 tvg-name="PT1: TVCine EMOTION HD" group-title="CANAIS | PORTUGAL",PT1: TVCine EMOTION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130414
-#EXTINF:-1 tvg-name="PT1: TVCINE EMOTION SD" group-title="CANAIS | PORTUGAL",PT1: TVCINE EMOTION SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130415
-#EXTINF:-1 tvg-name="PT1: TVCine TOP HD" group-title="CANAIS | PORTUGAL",PT1: TVCine TOP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130418
-#EXTINF:-1 tvg-name="PT1: TVCINE TOP SD" group-title="CANAIS | PORTUGAL",PT1: TVCINE TOP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130419
-#EXTINF:-1 tvg-name="PT1: TVI FICÇAO" group-title="CANAIS | PORTUGAL",PT1: TVI FICÇAO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130424
-#EXTINF:-1 tvg-name="PT1: TVI HD" group-title="CANAIS | PORTUGAL",PT1: TVI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130426
-#EXTINF:-1 tvg-name="PT1: TVI Reality Camara 1" group-title="CANAIS | PORTUGAL",PT1: TVI Reality Camara 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130428
-#EXTINF:-1 tvg-name="PT1: TVI Reality Camara 2" group-title="CANAIS | PORTUGAL",PT1: TVI Reality Camara 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130429
-#EXTINF:-1 tvg-name="PT1: TVI Reality Camara 4" group-title="CANAIS | PORTUGAL",PT1: TVI Reality Camara 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130431
-#EXTINF:-1 tvg-name="PT1: TVI REALITY HD" group-title="CANAIS | PORTUGAL",PT1: TVI REALITY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130433
-#EXTINF:-1 tvg-name="PT1: TVI REALITY SD" group-title="CANAIS | PORTUGAL",PT1: TVI REALITY SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130434
-#EXTINF:-1 tvg-name="PT1: TVI SD" group-title="CANAIS | PORTUGAL",PT1: TVI SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130435
-#EXTINF:-1 tvg-name="PT1: VH1 MUSIC" group-title="CANAIS | PORTUGAL",PT1: VH1 MUSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130438
-#EXTINF:-1 tvg-name="PT: E! ENTERTAINMENT" group-title="CANAIS | PORTUGAL",PT: E! ENTERTAINMENT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130243
-#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 5²" group-title="CANAIS | PORTUGAL",PT: ELEVEN SPORTS 5²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130256
-#EXTINF:-1 tvg-name="PT: FOX CRIME FHD" group-title="CANAIS | PORTUGAL",PT: FOX CRIME FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130277
-#EXTINF:-1 tvg-name="PT: FOX LIFE FHD" group-title="CANAIS | PORTUGAL",PT: FOX LIFE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130283
-#EXTINF:-1 tvg-name="PT: FOX MOVIES FHD" group-title="CANAIS | PORTUGAL",PT: FOX MOVIES FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130287
-#EXTINF:-1 tvg-name="PT: GLOBO" group-title="CANAIS | PORTUGAL",PT: GLOBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130294
-#EXTINF:-1 tvg-name="PT: GLOBO NOW" group-title="CANAIS | PORTUGAL",PT: GLOBO NOW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130297
-#EXTINF:-1 tvg-name="PT: HISTORIA" group-title="CANAIS | PORTUGAL",PT: HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130299
-#EXTINF:-1 tvg-name="PT: MOTORVISION" group-title="CANAIS | PORTUGAL",PT: MOTORVISION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130311
-#EXTINF:-1 tvg-name="PT: NAT GEO WILD" group-title="CANAIS | PORTUGAL",PT: NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130316
-#EXTINF:-1 tvg-name="PT: PFC" group-title="CANAIS | PORTUGAL",PT: PFC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130330
-#EXTINF:-1 tvg-name="PT: RTP 1 FHD" group-title="CANAIS | PORTUGAL",PT: RTP 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130335
-#EXTINF:-1 tvg-name="PT: RTP 2 HD" group-title="CANAIS | PORTUGAL",PT: RTP 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130339
-#EXTINF:-1 tvg-name="PT: RTP MEMORIA" group-title="CANAIS | PORTUGAL",PT: RTP MEMORIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130350
-#EXTINF:-1 tvg-name="PT: SIC NOTICIAS HD" group-title="CANAIS | PORTUGAL",PT: SIC NOTICIAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130358
-#EXTINF:-1 tvg-name="PT: SYFY FHD" group-title="CANAIS | PORTUGAL",PT: SYFY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130390
-#EXTINF:-1 tvg-name="PT: TVCINE Action" group-title="CANAIS | PORTUGAL",PT: TVCINE Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130404
-#EXTINF:-1 tvg-name="PT: TVCINE Edition" group-title="CANAIS | PORTUGAL",PT: TVCINE Edition
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130408
-#EXTINF:-1 tvg-name="PT: TVCINE Emotion" group-title="CANAIS | PORTUGAL",PT: TVCINE Emotion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130412
-#EXTINF:-1 tvg-name="PT: TVCINE Emotion FHD" group-title="CANAIS | PORTUGAL",PT: TVCINE Emotion FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130413
-#EXTINF:-1 tvg-name="PT: TVCINE Top FHD" group-title="CANAIS | PORTUGAL",PT: TVCINE Top FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130416
-#EXTINF:-1 tvg-name="PT: TVI FHD" group-title="CANAIS | PORTUGAL",PT: TVI FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130421
-#EXTINF:-1 tvg-name="PT: TVI HD" group-title="CANAIS | PORTUGAL",PT: TVI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130425
-#EXTINF:-1 tvg-name="PT: TVI REALITY" group-title="CANAIS | PORTUGAL",PT: TVI REALITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130427
-#EXTINF:-1 tvg-name="PT: TVI Reality FHD" group-title="CANAIS | PORTUGAL",PT: TVI Reality FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/elton2029/799638494/130432
+#EXTINF:-1 tvg-name="PT: TVI 24" tvg-logo="https://docdog.top/logo/countries/portugal/tvi24.png" group-title="PT | OTHERS",PT: TVI 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/101.m3u8
+#EXTINF:-1 tvg-name="PT: TVI FICCAO" tvg-logo="https://docdog.top/logo/countries/portugal/tvificcao.png" group-title="PT | OTHERS",PT: TVI FICCAO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/102.m3u8
+#EXTINF:-1 tvg-name="PT: TVI REALITY CAMARA 1" tvg-logo="https://docdog.top/logo/countries/portugal/tvi_reality.png" group-title="PT | OTHERS",PT: TVI REALITY CAMARA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/108.m3u8
+#EXTINF:-1 tvg-name="PT: TVI REALITY CAMARA 2" tvg-logo="https://docdog.top/logo/countries/portugal/tvi_reality.png" group-title="PT | OTHERS",PT: TVI REALITY CAMARA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/109.m3u8
+#EXTINF:-1 tvg-name="PT: TVI REALITY CAMARA 3" tvg-logo="https://docdog.top/logo/countries/portugal/tvi_reality.png" group-title="PT | OTHERS",PT: TVI REALITY CAMARA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/110.m3u8
+#EXTINF:-1 tvg-name="PT: TRAVEL CHANNEL" tvg-logo="https://docdog.top/logo/countries/portugal/travelchannel.png" group-title="PT | OTHERS",PT: TRAVEL CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99.m3u8
+#EXTINF:-1 tvg-name="PT: VH1" tvg-logo="https://docdog.top/logo/countries/portugal/vh1.png" group-title="PT | OTHERS",PT: VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/104.m3u8
+#EXTINF:-1 tvg-name="PT: ZAP VIVA" tvg-logo="https://docdog.top/logo/countries/portugal/zapviva.png" group-title="PT | OTHERS",PT: ZAP VIVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/105.m3u8
+#EXTINF:-1 tvg-name="PT: GLOBO NOW" group-title="PT | OTHERS",PT: GLOBO NOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/129328.m3u8
+#EXTINF:-1 tvg-name="PT: Fashion TV" group-title="PT | OTHERS",PT: Fashion TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/129329.m3u8
+#EXTINF:-1 tvg-name="PT: Nick Jr." group-title="PT | OTHERS",PT: Nick Jr.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/129330.m3u8
+#EXTINF:-1 tvg-name="PT: Mundotoro TV" group-title="PT | OTHERS",PT: Mundotoro TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/129331.m3u8
+#EXTINF:-1 tvg-name="PT: TCV Internacional" group-title="PT | OTHERS",PT: TCV Internacional
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/129332.m3u8
+#EXTINF:-1 tvg-name="PT: STAR Channel" group-title="PT | OTHERS",PT: STAR Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/129335.m3u8
+#EXTINF:-1 tvg-name="PT: Euronews" group-title="PT | OTHERS",PT: Euronews
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/129342.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-name="PT: Eleven 1" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport1.png" group-title="PT | ESPORTES VIP",PT: Eleven 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99475.m3u8
+#EXTINF:-1 tvg-name="PT: Eleven 2" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport2.png" group-title="PT | ESPORTES VIP",PT: Eleven 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99476.m3u8
+#EXTINF:-1 tvg-name="PT: Eleven 3" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport3.png" group-title="PT | ESPORTES VIP",PT: Eleven 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99477.m3u8
+#EXTINF:-1 tvg-name="PT: Eleven 4" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport4.png" group-title="PT | ESPORTES VIP",PT: Eleven 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99478.m3u8
+#EXTINF:-1 tvg-name="PT: Eleven 5" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport5.png" group-title="PT | ESPORTES VIP",PT: Eleven 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99479.m3u8
+#EXTINF:-1 tvg-name="PT: Eleven 6" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport6.png" group-title="PT | ESPORTES VIP",PT: Eleven 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99480.m3u8
+#EXTINF:-1 tvg-name="PT: Eurosport 1" tvg-logo="https://docdog.top/logo/countries/portugal/eurosport-1.png" group-title="PT | ESPORTES VIP",PT: Eurosport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99481.m3u8
+#EXTINF:-1 tvg-name="PT: Eurosport 2" tvg-logo="https://docdog.top/logo/countries/portugal/eurosport-2.png" group-title="PT | ESPORTES VIP",PT: Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99482.m3u8
+#EXTINF:-1 tvg-name="PT: SPORT TV +" tvg-logo="https://docdog.top/logo/countries/portugal/sport-tv-mais-pt.png" group-title="PT | ESPORTES VIP",PT: SPORT TV +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99483.m3u8
+#EXTINF:-1 tvg-name="PT: SPORT TV 1" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv1.png" group-title="PT | ESPORTES VIP",PT: SPORT TV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99484.m3u8
+#EXTINF:-1 tvg-name="PT: SPORT TV 2" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv2.png" group-title="PT | ESPORTES VIP",PT: SPORT TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99485.m3u8
+#EXTINF:-1 tvg-name="PT: SPORT TV 3" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv3.png" group-title="PT | ESPORTES VIP",PT: SPORT TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99486.m3u8
+#EXTINF:-1 tvg-name="PT: SPORT TV 4" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv4.png" group-title="PT | ESPORTES VIP",PT: SPORT TV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99487.m3u8
+#EXTINF:-1 tvg-name="PT: Sport TV 5" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv5.png" group-title="PT | ESPORTES VIP",PT: Sport TV 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99488.m3u8
+#EXTINF:-1 tvg-name="PT: Sport TV 6" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv6.png" group-title="PT | ESPORTES VIP",PT: Sport TV 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99489.m3u8
+#EXTINF:-1 tvg-name="PT: Sporting TV" group-title="PT | ESPORTES VIP",PT: Sporting TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99490.m3u8
+#EXTINF:-1 tvg-name="PT: A Bola TV" tvg-logo="https://docdog.top/logo/countries/portugal/abolatv.png" group-title="PT | ESPORTES VIP",PT: A Bola TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99491.m3u8
+#EXTINF:-1 tvg-name="PT: BTV" tvg-logo="https://docdog.top/logo/countries/portugal/btv.png" group-title="PT | ESPORTES VIP",PT: BTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99492.m3u8
+#EXTINF:-1 tvg-name="PT: Fuel TV" tvg-logo="https://docdog.top/logo/countries/portugal/fueltv.png" group-title="PT | ESPORTES VIP",PT: Fuel TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99493.m3u8
+#EXTINF:-1 tvg-name="PT: NBA TV" tvg-logo="https://docdog.top/logo/countries/portugal/nba.png" group-title="PT | ESPORTES VIP",PT: NBA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99494.m3u8
+#EXTINF:-1 tvg-name="PT: Sport TV 7" group-title="PT | ESPORTES VIP",PT: Sport TV 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/129327.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-name="PT: ARTV" tvg-logo="https://docdog.top/logo/countries/portugal/artv.png" group-title="PT | GERAL VIP",PT: ARTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99495.m3u8
+#EXTINF:-1 tvg-name="PT: CMTV" tvg-logo="https://docdog.top/logo/countries/portugal/cmtv.png" group-title="PT | GERAL VIP",PT: CMTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99496.m3u8
+#EXTINF:-1 tvg-name="PT: TV Record" tvg-logo="https://docdog.top/logo/countries/portugal/recordtv.png" group-title="PT | GERAL VIP",PT: TV Record
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99497.m3u8
+#EXTINF:-1 tvg-name="PT: RTP AĿores" group-title="PT | GERAL VIP",PT: RTP AĿores
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99498.m3u8
+#EXTINF:-1 tvg-name="PT: RTP Madeira" group-title="PT | GERAL VIP",PT: RTP Madeira
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99499.m3u8
+#EXTINF:-1 tvg-name="PT: RTP1" tvg-logo="https://docdog.top/logo/countries/portugal/rtp1.png" group-title="PT | GERAL VIP",PT: RTP1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99500.m3u8
+#EXTINF:-1 tvg-name="PT: RTP2" tvg-logo="https://docdog.top/logo/countries/portugal/rtp2.png" group-title="PT | GERAL VIP",PT: RTP2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99501.m3u8
+#EXTINF:-1 tvg-name="PT: RTP3" tvg-logo="https://docdog.top/logo/countries/portugal/rtp3.png" group-title="PT | GERAL VIP",PT: RTP3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99502.m3u8
+#EXTINF:-1 tvg-name="PT: TVI" tvg-logo="https://docdog.top/logo/countries/portugal/tvi.png" group-title="PT | GERAL VIP",PT: TVI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99503.m3u8
+#EXTINF:-1 tvg-name="PT: TVI Reality" tvg-logo="https://docdog.top/logo/countries/portugal/tvireality.png" group-title="PT | GERAL VIP",PT: TVI Reality
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99505.m3u8
+#EXTINF:-1 tvg-name="PT: CANAL 11" tvg-logo="https://docdog.top/logo/countries/portugal/canal11.png" group-title="PT | GERAL VIP",PT: CANAL 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99543.m3u8
+#EXTINF:-1 tvg-name="PT: TV5 Monde" group-title="PT | GERAL VIP",PT: TV5 Monde
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99576.m3u8
+#EXTINF:-1 tvg-name="PT: S+" group-title="PT | GERAL VIP",PT: S+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99577.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-name="PT: BBC Entertainment" group-title="PT | NOTÍCIAS VIP",PT: BBC Entertainment
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99506.m3u8
+#EXTINF:-1 tvg-name="PT: CNBC Europe" group-title="PT | NOTÍCIAS VIP",PT: CNBC Europe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99507.m3u8
+#EXTINF:-1 tvg-name="PT: Globo" tvg-logo="https://docdog.top/logo/countries/portugal/globo.png" group-title="PT | NOTÍCIAS VIP",PT: Globo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99508.m3u8
+#EXTINF:-1 tvg-name="PT: SKY News" tvg-logo="https://docdog.top/logo/countries/portugal/skynews.png" group-title="PT | NOTÍCIAS VIP",PT: SKY News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99509.m3u8
+#EXTINF:-1 tvg-name="PT: France 24" group-title="PT | NOTÍCIAS VIP",PT: France 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99562.m3u8
+#EXTINF:-1 tvg-name="PT: CNN" group-title="PT | NOTÍCIAS VIP",PT: CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99563.m3u8
+#EXTINF:-1 tvg-name="PT: CNN Portugal" group-title="PT | NOTÍCIAS VIP",PT: CNN Portugal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99564.m3u8
+#EXTINF:-1 tvg-name="PT: TVE 24H" group-title="PT | NOTÍCIAS VIP",PT: TVE 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99565.m3u8
+#EXTINF:-1 tvg-name="PT: TVEi" group-title="PT | NOTÍCIAS VIP",PT: TVEi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99566.m3u8
+#EXTINF:-1 tvg-name="PT: NHK World Japan" group-title="PT | NOTÍCIAS VIP",PT: NHK World Japan
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99567.m3u8
+#EXTINF:-1 tvg-name="PT: Bloomberg" group-title="PT | NOTÍCIAS VIP",PT: Bloomberg
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99569.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-name="PT: AXN" tvg-logo="https://docdog.top/logo/countries/portugal/axn.png" group-title="PT | FILME AND SERIES VIP",PT: AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99510.m3u8
+#EXTINF:-1 tvg-name="PT: AXN Movies" tvg-logo="https://docdog.top/logo/countries/portugal/axnmovies.png" group-title="PT | FILME AND SERIES VIP",PT: AXN Movies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99511.m3u8
+#EXTINF:-1 tvg-name="PT: AXN White" tvg-logo="https://docdog.top/logo/countries/portugal/axnwhite.png" group-title="PT | FILME AND SERIES VIP",PT: AXN White
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99512.m3u8
+#EXTINF:-1 tvg-name="PT: TV CINE ACTION" tvg-logo="https://docdog.top/logo/countries/portugal/TVCine-ACTION.png" group-title="PT | FILME AND SERIES VIP",PT: TV CINE ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99513.m3u8
+#EXTINF:-1 tvg-name="PT: TV CINE EDITION" tvg-logo="https://docdog.top/logo/countries/portugal/TVCine-EDITION.png" group-title="PT | FILME AND SERIES VIP",PT: TV CINE EDITION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99514.m3u8
+#EXTINF:-1 tvg-name="PT: TV CINE EMOTION" tvg-logo="https://docdog.top/logo/countries/portugal/TVCine-Emotion.png" group-title="PT | FILME AND SERIES VIP",PT: TV CINE EMOTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99515.m3u8
+#EXTINF:-1 tvg-name="PT: TV CINE TOP" tvg-logo="https://docdog.top/logo/countries/portugal/TVCine-TOP.png" group-title="PT | FILME AND SERIES VIP",PT: TV CINE TOP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99516.m3u8
+#EXTINF:-1 tvg-name="PT: FOX" tvg-logo="https://docdog.top/logo/countries/portugal/fox.png" group-title="PT | FILME AND SERIES VIP",PT: FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99517.m3u8
+#EXTINF:-1 tvg-name="PT: FOX Crime" tvg-logo="https://docdog.top/logo/countries/portugal/foxcrime.png" group-title="PT | FILME AND SERIES VIP",PT: FOX Crime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99518.m3u8
+#EXTINF:-1 tvg-name="PT: FOX Life" tvg-logo="https://docdog.top/logo/countries/portugal/foxlife.png" group-title="PT | FILME AND SERIES VIP",PT: FOX Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99519.m3u8
+#EXTINF:-1 tvg-name="PT: FOX Movies" tvg-logo="https://docdog.top/logo/countries/portugal/foxmovies.png" group-title="PT | FILME AND SERIES VIP",PT: FOX Movies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99520.m3u8
+#EXTINF:-1 tvg-name="PT: Fox Comedy" tvg-logo="https://docdog.top/logo/countries/portugal/foxcomedy.png" group-title="PT | FILME AND SERIES VIP",PT: Fox Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99521.m3u8
+#EXTINF:-1 tvg-name="PT: Hollywood" tvg-logo="https://docdog.top/logo/countries/portugal/hollywood.png" group-title="PT | FILME AND SERIES VIP",PT: Hollywood
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99522.m3u8
+#EXTINF:-1 tvg-name="PT: AMC" tvg-logo="https://docdog.top/logo/countries/portugal/amc.png" group-title="PT | FILME AND SERIES VIP",PT: AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99534.m3u8
+#EXTINF:-1 tvg-name="PT: AMC Break" tvg-logo="https://docdog.top/logo/countries/portugal/amc.png" group-title="PT | FILME AND SERIES VIP",PT: AMC Break
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99535.m3u8
+#EXTINF:-1 tvg-name="PT: AMC Crime" tvg-logo="https://docdog.top/logo/countries/portugal/amc.png" group-title="PT | FILME AND SERIES VIP",PT: AMC Crime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99536.m3u8
+#EXTINF:-1 tvg-name="PT: CINE MUNDO" tvg-logo="https://docdog.top/logo/countries/portugal/cinemundo.png" group-title="PT | FILME AND SERIES VIP",PT: CINE MUNDO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99561.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-name="PT: 24 Kitchen" tvg-logo="https://docdog.top/logo/countries/portugal/24kitchen.png" group-title="PT | ENTRETENIMENTO VIP",PT: 24 Kitchen
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99523.m3u8
+#EXTINF:-1 tvg-name="PT: Canal Q" tvg-logo="https://docdog.top/logo/countries/portugal//canalq.png" group-title="PT | ENTRETENIMENTO VIP",PT: Canal Q
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99524.m3u8
+#EXTINF:-1 tvg-name="PT: E! Entertainment" tvg-logo="https://docdog.top/logo/countries/portugal/entertainment.png" group-title="PT | ENTRETENIMENTO VIP",PT: E! Entertainment
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99525.m3u8
+#EXTINF:-1 tvg-name="PT: Kuriakos TV" tvg-logo="https://docdog.top/logo/countries/portugal/kuriakostv.png" group-title="PT | ENTRETENIMENTO VIP",PT: Kuriakos TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99526.m3u8
+#EXTINF:-1 tvg-name="PT: SIC Caras" tvg-logo="https://docdog.top/logo/countries/portugal/siccaras.png" group-title="PT | ENTRETENIMENTO VIP",PT: SIC Caras
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99527.m3u8
+#EXTINF:-1 tvg-name="PT: SIC K" tvg-logo="https://docdog.top/logo/countries/portugal/sick.png" group-title="PT | ENTRETENIMENTO VIP",PT: SIC K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99528.m3u8
+#EXTINF:-1 tvg-name="PT: SIC Mulher" tvg-logo="https://docdog.top/logo/countries/portugal/sicmulher.png" group-title="PT | ENTRETENIMENTO VIP",PT: SIC Mulher
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99529.m3u8
+#EXTINF:-1 tvg-name="PT: SIC NotŦcias" tvg-logo="https://docdog.top/logo/countries/portugal/sicnoticias.png" group-title="PT | ENTRETENIMENTO VIP",PT: SIC NotŦcias
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99530.m3u8
+#EXTINF:-1 tvg-name="PT: SIC Radical" tvg-logo="https://docdog.top/logo/countries/portugal/sicradical.png" group-title="PT | ENTRETENIMENTO VIP",PT: SIC Radical
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99531.m3u8
+#EXTINF:-1 tvg-name="PT: SyFy" tvg-logo="https://docdog.top/logo/countries/portugal/syfy.png" group-title="PT | ENTRETENIMENTO VIP",PT: SyFy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99532.m3u8
+#EXTINF:-1 tvg-name="PT: TLC" tvg-logo="https://docdog.top/logo/countries/portugal/tlc.png" group-title="PT | ENTRETENIMENTO VIP",PT: TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99533.m3u8
+#EXTINF:-1 tvg-name="PT: TV Galicia" group-title="PT | ENTRETENIMENTO VIP",PT: TV Galicia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99570.m3u8
+#EXTINF:-1 tvg-name="PT: CanĿªo Nova" group-title="PT | ENTRETENIMENTO VIP",PT: CanĿªo Nova
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99571.m3u8
+#EXTINF:-1 tvg-name="PT: Casa e Cozinha" group-title="PT | ENTRETENIMENTO VIP",PT: Casa e Cozinha
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99572.m3u8
+#EXTINF:-1 tvg-name="PT: SIC" group-title="PT | ENTRETENIMENTO VIP",PT: SIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99573.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-name="PT: ID Investigation Discovery" tvg-logo="https://docdog.top/logo/countries/portugal/ID.png" group-title="PT | DOCUMENTÁRIO VIP",PT: ID Investigation Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99537.m3u8
+#EXTINF:-1 tvg-name="PT: Discovery Channel" tvg-logo="https://docdog.top/logo/countries/portugal/discoverychannel.png" group-title="PT | DOCUMENTÁRIO VIP",PT: Discovery Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99538.m3u8
+#EXTINF:-1 tvg-name="PT: Histðria" tvg-logo="https://docdog.top/logo/countries/portugal/historia.png" group-title="PT | DOCUMENTÁRIO VIP",PT: Histðria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99539.m3u8
+#EXTINF:-1 tvg-name="PT: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/portugal/natgeowild.png" group-title="PT | DOCUMENTÁRIO VIP",PT: NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99540.m3u8
+#EXTINF:-1 tvg-name="PT: NAT GEO" tvg-logo="https://docdog.top/logo/countries/portugal/natgeo.png" group-title="PT | DOCUMENTÁRIO VIP",PT: NAT GEO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99541.m3u8
+#EXTINF:-1 tvg-name="PT: Odisseia" tvg-logo="https://docdog.top/logo/countries/portugal/odisseia.png" group-title="PT | DOCUMENTÁRIO VIP",PT: Odisseia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99542.m3u8
+#EXTINF:-1 tvg-name="PT: CaĿavision" group-title="PT | DOCUMENTÁRIO VIP",PT: CaĿavision
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99575.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-name="PT: Cartoon Network" tvg-logo="https://docdog.top/logo/countries/portugal/cartoonnetwork.png" group-title="PT | CRIANÇAS VIP",PT: Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99544.m3u8
+#EXTINF:-1 tvg-name="PT: Cartoonito" group-title="PT | CRIANÇAS VIP",PT: Cartoonito
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99545.m3u8
+#EXTINF:-1 tvg-name="PT: Baby TV" tvg-logo="https://docdog.top/logo/countries/portugal/babytv.png" group-title="PT | CRIANÇAS VIP",PT: Baby TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99546.m3u8
+#EXTINF:-1 tvg-name="PT: Biggs" tvg-logo="https://docdog.top/logo/countries/portugal/biggs.png" group-title="PT | CRIANÇAS VIP",PT: Biggs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99547.m3u8
+#EXTINF:-1 tvg-name="PT: Disney Channel" tvg-logo="https://docdog.top/logo/countries/portugal/disneychannel.png" group-title="PT | CRIANÇAS VIP",PT: Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99548.m3u8
+#EXTINF:-1 tvg-name="PT: Disney Jœnior" tvg-logo="https://docdog.top/logo/countries/portugal/disneyjunior.png" group-title="PT | CRIANÇAS VIP",PT: Disney Jœnior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99549.m3u8
+#EXTINF:-1 tvg-name="PT: Nickelodeon" tvg-logo="https://docdog.top/logo/countries/portugal/nickelodeon.png" group-title="PT | CRIANÇAS VIP",PT: Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99550.m3u8
+#EXTINF:-1 tvg-name="PT: Panda Kids" group-title="PT | CRIANÇAS VIP",PT: Panda Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99551.m3u8
+#EXTINF:-1 tvg-name="PT: Lolly Kids" group-title="PT | CRIANÇAS VIP",PT: Lolly Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99552.m3u8
+#EXTINF:-1 tvg-name="PT: Canal Panda" group-title="PT | CRIANÇAS VIP",PT: Canal Panda
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99553.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-name="PT: MCM POP" tvg-logo="https://docdog.top/logo/countries/portugal/mcmpop.png" group-title="PT | MÚSICA VIP",PT: MCM POP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99554.m3u8
+#EXTINF:-1 tvg-name="PT: MCM TOP" tvg-logo="https://docdog.top/logo/countries/portugal/mcmtop.png" group-title="PT | MÚSICA VIP",PT: MCM TOP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99555.m3u8
+#EXTINF:-1 tvg-name="PT: MTV 00s" group-title="PT | MÚSICA VIP",PT: MTV 00s
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99556.m3u8
+#EXTINF:-1 tvg-name="PT: MTV Portugal" tvg-logo="https://docdog.top/logo/countries/portugal//mtvportugal.jpg" group-title="PT | MÚSICA VIP",PT: MTV Portugal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99557.m3u8
+#EXTINF:-1 tvg-name="PT: Trace Toca" group-title="PT | MÚSICA VIP",PT: Trace Toca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99558.m3u8
+#EXTINF:-1 tvg-name="PT: Trace Urban" tvg-logo="https://docdog.top/logo/countries/portugal/traceurban.png" group-title="PT | MÚSICA VIP",PT: Trace Urban
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99559.m3u8
+#EXTINF:-1 tvg-name="PT: Afro Music" group-title="PT | MÚSICA VIP",PT: Afro Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99560.m3u8
+#EXTINF:-1 tvg-name="PT: Mezzo" group-title="PT | MÚSICA VIP",PT: Mezzo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vipyxyzapi.xyz:8080/live/VIP0135169358970012/01693589700/99574.m3u8
+
+
+
+
+
