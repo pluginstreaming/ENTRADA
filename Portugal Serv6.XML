@@ -3,143 +3,285 @@
 
 
 
-#EXTINF:-1 tvg-name="PT1: CAÇAVISION" group-title="CANAIS | PORTUGAL",PT1: CAÇAVISION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130220
-#EXTINF:-1 tvg-name="PT1: CBS REALITY" group-title="CANAIS | PORTUGAL",PT1: CBS REALITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130222
-#EXTINF:-1 tvg-name="PT1: CINEMUNDO SD" group-title="CANAIS | PORTUGAL",PT1: CINEMUNDO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130226
-#EXTINF:-1 tvg-name="PT1: ELEVEN SPORTS 6²" group-title="CANAIS | PORTUGAL",PT1: ELEVEN SPORTS 6²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130259
-#EXTINF:-1 tvg-name="PT1: FOX CRIME HD" group-title="CANAIS | PORTUGAL",PT1: FOX CRIME HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130278
-#EXTINF:-1 tvg-name="PT1: FOX MOVIES HD" group-title="CANAIS | PORTUGAL",PT1: FOX MOVIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130288
-#EXTINF:-1 tvg-name="PT1: FOX MOVIES SD" group-title="CANAIS | PORTUGAL",PT1: FOX MOVIES SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130289
-#EXTINF:-1 tvg-name="PT1: FOX SD" group-title="CANAIS | PORTUGAL",PT1: FOX SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130290
-#EXTINF:-1 tvg-name="PT1: FUEL TV" group-title="CANAIS | PORTUGAL",PT1: FUEL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130293
-#EXTINF:-1 tvg-name="PT1: GLOBO" group-title="CANAIS | PORTUGAL",PT1: GLOBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130295
-#EXTINF:-1 tvg-name="PT1: GLOBO NOW" group-title="CANAIS | PORTUGAL",PT1: GLOBO NOW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130298
-#EXTINF:-1 tvg-name="PT1: HOLLYWOOD HD" group-title="CANAIS | PORTUGAL",PT1: HOLLYWOOD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130301
-#EXTINF:-1 tvg-name="PT1: HOLLYWOOD SD" group-title="CANAIS | PORTUGAL",PT1: HOLLYWOOD SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130302
-#EXTINF:-1 tvg-name="PT1: JIMJAM" group-title="CANAIS | PORTUGAL",PT1: JIMJAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130306
-#EXTINF:-1 tvg-name="PT1: NAT GEO WILD" group-title="CANAIS | PORTUGAL",PT1: NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130317
-#EXTINF:-1 tvg-name="PT1: NOS STUDIOS HD" group-title="CANAIS | PORTUGAL",PT1: NOS STUDIOS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130326
-#EXTINF:-1 tvg-name="PT1: ODISSEIA" group-title="CANAIS | PORTUGAL",PT1: ODISSEIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130328
-#EXTINF:-1 tvg-name="PT1: PANDA BIGS" group-title="CANAIS | PORTUGAL",PT1: PANDA BIGS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130329
-#EXTINF:-1 tvg-name="PT1: PORTO CANAL" group-title="CANAIS | PORTUGAL",PT1: PORTO CANAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130333
-#EXTINF:-1 tvg-name="PT1: RTP 1 SD" group-title="CANAIS | PORTUGAL",PT1: RTP 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130337
-#EXTINF:-1 tvg-name="PT1: RTP 2 HD" group-title="CANAIS | PORTUGAL",PT1: RTP 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130340
-#EXTINF:-1 tvg-name="PT1: RTP 2 SD" group-title="CANAIS | PORTUGAL",PT1: RTP 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130341
-#EXTINF:-1 tvg-name="PT1: RTP 3" group-title="CANAIS | PORTUGAL",PT1: RTP 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130343
-#EXTINF:-1 tvg-name="PT1: RTP AFRICA" group-title="CANAIS | PORTUGAL",PT1: RTP AFRICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130346
-#EXTINF:-1 tvg-name="PT1: RTP MADEIRA" group-title="CANAIS | PORTUGAL",PT1: RTP MADEIRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130349
-#EXTINF:-1 tvg-name="PT1: SIC K" group-title="CANAIS | PORTUGAL",PT1: SIC K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130356
-#EXTINF:-1 tvg-name="PT1: TPA INTERNACIONAL" group-title="CANAIS | PORTUGAL",PT1: TPA INTERNACIONAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130394
-#EXTINF:-1 tvg-name="PT1: TRACE TOCA" group-title="CANAIS | PORTUGAL",PT1: TRACE TOCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130396
-#EXTINF:-1 tvg-name="PT1: TRAVEL CHANNEL HD" group-title="CANAIS | PORTUGAL",PT1: TRAVEL CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130400
-#EXTINF:-1 tvg-name="PT1: TV RECORD" group-title="CANAIS | PORTUGAL",PT1: TV RECORD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130402
-#EXTINF:-1 tvg-name="PT1: TVCine EDITION HD" group-title="CANAIS | PORTUGAL",PT1: TVCine EDITION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130410
-#EXTINF:-1 tvg-name="PT1: TVCINE EDITION SD" group-title="CANAIS | PORTUGAL",PT1: TVCINE EDITION SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130411
-#EXTINF:-1 tvg-name="PT1: TVCine EMOTION HD" group-title="CANAIS | PORTUGAL",PT1: TVCine EMOTION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130414
-#EXTINF:-1 tvg-name="PT1: TVCINE EMOTION SD" group-title="CANAIS | PORTUGAL",PT1: TVCINE EMOTION SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130415
-#EXTINF:-1 tvg-name="PT1: TVCine TOP HD" group-title="CANAIS | PORTUGAL",PT1: TVCine TOP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130418
-#EXTINF:-1 tvg-name="PT1: TVCINE TOP SD" group-title="CANAIS | PORTUGAL",PT1: TVCINE TOP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130419
-#EXTINF:-1 tvg-name="PT1: TVI FICÇAO" group-title="CANAIS | PORTUGAL",PT1: TVI FICÇAO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130424
-#EXTINF:-1 tvg-name="PT1: TVI HD" group-title="CANAIS | PORTUGAL",PT1: TVI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130426
-#EXTINF:-1 tvg-name="PT1: TVI Reality Camara 1" group-title="CANAIS | PORTUGAL",PT1: TVI Reality Camara 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130428
-#EXTINF:-1 tvg-name="PT1: TVI Reality Camara 2" group-title="CANAIS | PORTUGAL",PT1: TVI Reality Camara 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130429
-#EXTINF:-1 tvg-name="PT1: TVI Reality Camara 4" group-title="CANAIS | PORTUGAL",PT1: TVI Reality Camara 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130431
-#EXTINF:-1 tvg-name="PT1: TVI REALITY HD" group-title="CANAIS | PORTUGAL",PT1: TVI REALITY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130433
-#EXTINF:-1 tvg-name="PT1: TVI REALITY SD" group-title="CANAIS | PORTUGAL",PT1: TVI REALITY SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130434
-#EXTINF:-1 tvg-name="PT1: TVI SD" group-title="CANAIS | PORTUGAL",PT1: TVI SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130435
-#EXTINF:-1 tvg-name="PT1: VH1 MUSIC" group-title="CANAIS | PORTUGAL",PT1: VH1 MUSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130438
-#EXTINF:-1 tvg-name="PT: E! ENTERTAINMENT" group-title="CANAIS | PORTUGAL",PT: E! ENTERTAINMENT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130243
-#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 5²" group-title="CANAIS | PORTUGAL",PT: ELEVEN SPORTS 5²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130256
-#EXTINF:-1 tvg-name="PT: FOX CRIME FHD" group-title="CANAIS | PORTUGAL",PT: FOX CRIME FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130277
-#EXTINF:-1 tvg-name="PT: FOX LIFE FHD" group-title="CANAIS | PORTUGAL",PT: FOX LIFE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130283
-#EXTINF:-1 tvg-name="PT: FOX MOVIES FHD" group-title="CANAIS | PORTUGAL",PT: FOX MOVIES FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130287
-#EXTINF:-1 tvg-name="PT: GLOBO" group-title="CANAIS | PORTUGAL",PT: GLOBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130294
-#EXTINF:-1 tvg-name="PT: GLOBO NOW" group-title="CANAIS | PORTUGAL",PT: GLOBO NOW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130297
-#EXTINF:-1 tvg-name="PT: HISTORIA" group-title="CANAIS | PORTUGAL",PT: HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130299
-#EXTINF:-1 tvg-name="PT: MOTORVISION" group-title="CANAIS | PORTUGAL",PT: MOTORVISION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130311
-#EXTINF:-1 tvg-name="PT: NAT GEO WILD" group-title="CANAIS | PORTUGAL",PT: NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130316
-#EXTINF:-1 tvg-name="PT: PFC" group-title="CANAIS | PORTUGAL",PT: PFC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130330
-#EXTINF:-1 tvg-name="PT: RTP 1 FHD" group-title="CANAIS | PORTUGAL",PT: RTP 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130335
-#EXTINF:-1 tvg-name="PT: RTP 2 HD" group-title="CANAIS | PORTUGAL",PT: RTP 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130339
-#EXTINF:-1 tvg-name="PT: RTP MEMORIA" group-title="CANAIS | PORTUGAL",PT: RTP MEMORIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130350
-#EXTINF:-1 tvg-name="PT: SIC NOTICIAS HD" group-title="CANAIS | PORTUGAL",PT: SIC NOTICIAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130358
-#EXTINF:-1 tvg-name="PT: SYFY FHD" group-title="CANAIS | PORTUGAL",PT: SYFY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130390
-#EXTINF:-1 tvg-name="PT: TVCINE Action" group-title="CANAIS | PORTUGAL",PT: TVCINE Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130404
-#EXTINF:-1 tvg-name="PT: TVCINE Edition" group-title="CANAIS | PORTUGAL",PT: TVCINE Edition
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130408
-#EXTINF:-1 tvg-name="PT: TVCINE Emotion" group-title="CANAIS | PORTUGAL",PT: TVCINE Emotion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130412
-#EXTINF:-1 tvg-name="PT: TVCINE Emotion FHD" group-title="CANAIS | PORTUGAL",PT: TVCINE Emotion FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130413
-#EXTINF:-1 tvg-name="PT: TVCINE Top FHD" group-title="CANAIS | PORTUGAL",PT: TVCINE Top FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130416
-#EXTINF:-1 tvg-name="PT: TVI FHD" group-title="CANAIS | PORTUGAL",PT: TVI FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130421
-#EXTINF:-1 tvg-name="PT: TVI HD" group-title="CANAIS | PORTUGAL",PT: TVI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130425
-#EXTINF:-1 tvg-name="PT: TVI REALITY" group-title="CANAIS | PORTUGAL",PT: TVI REALITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130427
-#EXTINF:-1 tvg-name="PT: TVI Reality FHD" group-title="CANAIS | PORTUGAL",PT: TVI Reality FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mainprostore.com:80/sergio9983/Upsw1294/130432
+#EXTINF:-1 tvg-name="==== PORTUGAL ====" group-title="PORTUGAL | PT",==== PORTUGAL ====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/112989
+#EXTINF:-1 tvg-name="RTP 1 LOW | PT" group-title="PORTUGAL | PT",RTP 1 LOW | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/112990
+#EXTINF:-1 tvg-name="RTP 1 | PT" group-title="PORTUGAL | PT",RTP 1 | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/112991
+#EXTINF:-1 tvg-name="RTP 1 HD | PT" group-title="PORTUGAL | PT",RTP 1 HD | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/112992
+#EXTINF:-1 tvg-name="RTP 2 LOW | PT" group-title="PORTUGAL | PT",RTP 2 LOW | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/112993
+#EXTINF:-1 tvg-name="RTP 2 | PT" group-title="PORTUGAL | PT",RTP 2 | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/112994
+#EXTINF:-1 tvg-name="RTP 2 HD | PT" group-title="PORTUGAL | PT",RTP 2 HD | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/112995
+#EXTINF:-1 tvg-name="RTP Memoria | PT" group-title="PORTUGAL | PT",RTP Memoria | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/112996
+#EXTINF:-1 tvg-name="RTP Madeira | PT" group-title="PORTUGAL | PT",RTP Madeira | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/112997
+#EXTINF:-1 tvg-name="RTP Africa | PT" group-title="PORTUGAL | PT",RTP Africa | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/112998
+#EXTINF:-1 tvg-name="RTP Acores | PT" group-title="PORTUGAL | PT",RTP Acores | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/112999
+#EXTINF:-1 tvg-name="TVI LOW | PT" group-title="PORTUGAL | PT",TVI LOW | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113000
+#EXTINF:-1 tvg-name="TVI | PT" group-title="PORTUGAL | PT",TVI | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113001
+#EXTINF:-1 tvg-name="TVI REALITY LOW | PT" group-title="PORTUGAL | PT",TVI REALITY LOW | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113002
+#EXTINF:-1 tvg-name="TVI Reality | PT" group-title="PORTUGAL | PT",TVI Reality | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113003
+#EXTINF:-1 tvg-name="TVI REALITY MOSAICO | PT" group-title="PORTUGAL | PT",TVI REALITY MOSAICO | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113004
+#EXTINF:-1 tvg-name="TVI REALITY CAMARA 4 | PT" group-title="PORTUGAL | PT",TVI REALITY CAMARA 4 | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113005
+#EXTINF:-1 tvg-name="TVI REALITY CAMARA 3 | PT" group-title="PORTUGAL | PT",TVI REALITY CAMARA 3 | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113006
+#EXTINF:-1 tvg-name="TVI REALITY CAMARA 2 | PT" group-title="PORTUGAL | PT",TVI REALITY CAMARA 2 | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113007
+#EXTINF:-1 tvg-name="TVI REALITY CAMARA 1 | PT" group-title="PORTUGAL | PT",TVI REALITY CAMARA 1 | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113008
+#EXTINF:-1 tvg-name="TVI FICCAO LOW | PT" group-title="PORTUGAL | PT",TVI FICCAO LOW | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113009
+#EXTINF:-1 tvg-name="TVI Ficcao | PT" group-title="PORTUGAL | PT",TVI Ficcao | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113010
+#EXTINF:-1 tvg-name="TVI Ficção HD | PT" group-title="PORTUGAL | PT",TVI Ficção HD | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113011
+#EXTINF:-1 tvg-name="SIC LOW | PT" group-title="PORTUGAL | PT",SIC LOW | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113012
+#EXTINF:-1 tvg-name="SIC | PT" group-title="PORTUGAL | PT",SIC | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113013
+#EXTINF:-1 tvg-name="SIC HD | PT" group-title="PORTUGAL | PT",SIC HD | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113014
+#EXTINF:-1 tvg-name="SIC Radical | PT" group-title="PORTUGAL | PT",SIC Radical | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113015
+#EXTINF:-1 tvg-name="SIC Mulher | PT" group-title="PORTUGAL | PT",SIC Mulher | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113016
+#EXTINF:-1 tvg-name="SIC Caras | PT" group-title="PORTUGAL | PT",SIC Caras | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113017
+#EXTINF:-1 tvg-name="Porto Canal | PT" group-title="PORTUGAL | PT",Porto Canal | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113018
+#EXTINF:-1 tvg-name="Canal Q | PT" group-title="PORTUGAL | PT",Canal Q | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113019
+#EXTINF:-1 tvg-name="GLOBO LOW | PT" group-title="PORTUGAL | PT",GLOBO LOW | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113020
+#EXTINF:-1 tvg-name="Globo | PT" group-title="PORTUGAL | PT",Globo | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113021
+#EXTINF:-1 tvg-name="Globo HD | PT" group-title="PORTUGAL | PT",Globo HD | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113022
+#EXTINF:-1 tvg-name="Globo News | PT" group-title="PORTUGAL | PT",Globo News | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113023
+#EXTINF:-1 tvg-name="Fatima TV | PT" group-title="PORTUGAL | PT",Fatima TV | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113024
+#EXTINF:-1 tvg-name="TV Record | PT" group-title="PORTUGAL | PT",TV Record | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113025
+#EXTINF:-1 tvg-name="TPA | PT" group-title="PORTUGAL | PT",TPA | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113026
+#EXTINF:-1 tvg-name="ZAP Viva HD | PT" group-title="PORTUGAL | PT",ZAP Viva HD | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113027
+#EXTINF:-1 tvg-name="CNN LOW | PT" group-title="PORTUGAL | PT",CNN LOW | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113028
+#EXTINF:-1 tvg-name="CNN | PT" group-title="PORTUGAL | PT",CNN | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113029
+#EXTINF:-1 tvg-name="CMTV  LOW | PT" group-title="PORTUGAL | PT",CMTV  LOW | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113030
+#EXTINF:-1 tvg-name="CMTV | PT" group-title="PORTUGAL | PT",CMTV | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113031
+#EXTINF:-1 tvg-name="CMTV HD | PT" group-title="PORTUGAL | PT",CMTV HD | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113032
+#EXTINF:-1 tvg-name="SIC NOTICIAS  LOW | PT" group-title="PORTUGAL | PT",SIC NOTICIAS  LOW | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113033
+#EXTINF:-1 tvg-name="SIC Noticias | PT" group-title="PORTUGAL | PT",SIC Noticias | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113034
+#EXTINF:-1 tvg-name="SIC Noticias HD | PT" group-title="PORTUGAL | PT",SIC Noticias HD | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113035
+#EXTINF:-1 tvg-name="RTP 3 LOW | PT" group-title="PORTUGAL | PT",RTP 3 LOW | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113036
+#EXTINF:-1 tvg-name="RTP 3 | PT" group-title="PORTUGAL | PT",RTP 3 | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113037
+#EXTINF:-1 tvg-name="RTP 3 HD | PT" group-title="PORTUGAL | PT",RTP 3 HD | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113038
+#EXTINF:-1 tvg-name="Euronews | PT" group-title="PORTUGAL | PT",Euronews | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113039
+#EXTINF:-1 tvg-name="Canal 11 HD | PT" group-title="PORTUGAL | PT",Canal 11 HD | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113040
+#EXTINF:-1 tvg-name="MotorVision | PT" group-title="PORTUGAL | PT",MotorVision | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113041
+#EXTINF:-1 tvg-name="HOLLYWOOD LOW | PT" group-title="PORTUGAL | PT",HOLLYWOOD LOW | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113042
+#EXTINF:-1 tvg-name="Hollywood | PT" group-title="PORTUGAL | PT",Hollywood | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113043
+#EXTINF:-1 tvg-name="NOS Studios | PT" group-title="PORTUGAL | PT",NOS Studios | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113044
+#EXTINF:-1 tvg-name="TVCINE TOP LOW | PT" group-title="PORTUGAL | PT",TVCINE TOP LOW | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113045
+#EXTINF:-1 tvg-name="TvCine TOP | PT" group-title="PORTUGAL | PT",TvCine TOP | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113046
+#EXTINF:-1 tvg-name="TvCine TOP HD | PT" group-title="PORTUGAL | PT",TvCine TOP HD | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113047
+#EXTINF:-1 tvg-name="TVCINE EDITION LOW | PT" group-title="PORTUGAL | PT",TVCINE EDITION LOW | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113048
+#EXTINF:-1 tvg-name="TvCine EDITION | PT" group-title="PORTUGAL | PT",TvCine EDITION | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113049
+#EXTINF:-1 tvg-name="TvCine EDITION  HD | PT" group-title="PORTUGAL | PT",TvCine EDITION  HD | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113050
+#EXTINF:-1 tvg-name="TVCINE EMOTION LOW | PT" group-title="PORTUGAL | PT",TVCINE EMOTION LOW | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113051
+#EXTINF:-1 tvg-name="TvCine EMOTION | PT" group-title="PORTUGAL | PT",TvCine EMOTION | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113052
+#EXTINF:-1 tvg-name="TvCine EMOTION HD | PT" group-title="PORTUGAL | PT",TvCine EMOTION HD | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113053
+#EXTINF:-1 tvg-name="TVCINE ACTION LOW | PT" group-title="PORTUGAL | PT",TVCINE ACTION LOW | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113054
+#EXTINF:-1 tvg-name="TvCine ACTION | PT" group-title="PORTUGAL | PT",TvCine ACTION | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113055
+#EXTINF:-1 tvg-name="TvCine ACTION HD | PT" group-title="PORTUGAL | PT",TvCine ACTION HD | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113056
+#EXTINF:-1 tvg-name="Fuel TV | PT" group-title="PORTUGAL | PT",Fuel TV | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113057
+#EXTINF:-1 tvg-name="SYFY LOW | PT" group-title="PORTUGAL | PT",SYFY LOW | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113058
+#EXTINF:-1 tvg-name="SyFy | PT" group-title="PORTUGAL | PT",SyFy | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113059
+#EXTINF:-1 tvg-name="FOX MOVIES LOW | PT" group-title="PORTUGAL | PT",FOX MOVIES LOW | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113060
+#EXTINF:-1 tvg-name="Fox Movies | PT" group-title="PORTUGAL | PT",Fox Movies | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113061
+#EXTINF:-1 tvg-name="FOX LIFE LOW | PT" group-title="PORTUGAL | PT",FOX LIFE LOW | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113062
+#EXTINF:-1 tvg-name="Fox Life HD | PT" group-title="PORTUGAL | PT",Fox Life HD | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113063
+#EXTINF:-1 tvg-name="STAR Channel LOW | PT" group-title="PORTUGAL | PT",STAR Channel LOW | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113064
+#EXTINF:-1 tvg-name="Star Channel HD | PT" group-title="PORTUGAL | PT",Star Channel HD | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113065
+#EXTINF:-1 tvg-name="FOX CRIME LOW | PT" group-title="PORTUGAL | PT",FOX CRIME LOW | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113066
+#EXTINF:-1 tvg-name="Fox Crime HD | PT" group-title="PORTUGAL | PT",Fox Crime HD | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113067
+#EXTINF:-1 tvg-name="FOX COMEDY LOW | PT" group-title="PORTUGAL | PT",FOX COMEDY LOW | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113068
+#EXTINF:-1 tvg-name="Fox Comedy | PT" group-title="PORTUGAL | PT",Fox Comedy | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113069
+#EXTINF:-1 tvg-name="CINEMUNDO LOW | PT" group-title="PORTUGAL | PT",CINEMUNDO LOW | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113070
+#EXTINF:-1 tvg-name="CineMundo | PT" group-title="PORTUGAL | PT",CineMundo | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113071
+#EXTINF:-1 tvg-name="AXN Movies HD | PT" group-title="PORTUGAL | PT",AXN Movies HD | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113072
+#EXTINF:-1 tvg-name="AXN Movies  LOW | PT" group-title="PORTUGAL | PT",AXN Movies  LOW | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113073
+#EXTINF:-1 tvg-name="AXN WHITE LOW | PT" group-title="PORTUGAL | PT",AXN WHITE LOW | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113074
+#EXTINF:-1 tvg-name="AXN White | PT" group-title="PORTUGAL | PT",AXN White | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113075
+#EXTINF:-1 tvg-name="AXN LOW | PT" group-title="PORTUGAL | PT",AXN LOW | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113076
+#EXTINF:-1 tvg-name="AXN HD | PT" group-title="PORTUGAL | PT",AXN HD | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113077
+#EXTINF:-1 tvg-name="AMC LOW | PT" group-title="PORTUGAL | PT",AMC LOW | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113078
+#EXTINF:-1 tvg-name="AMC | PT" group-title="PORTUGAL | PT",AMC | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113079
+#EXTINF:-1 tvg-name="Blaze | PT" group-title="PORTUGAL | PT",Blaze | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113080
+#EXTINF:-1 tvg-name="Odisseia | PT" group-title="PORTUGAL | PT",Odisseia | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113081
+#EXTINF:-1 tvg-name="Travel Channel | PT" group-title="PORTUGAL | PT",Travel Channel | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113082
+#EXTINF:-1 tvg-name="ID Investigation Discovery HD | PT" group-title="PORTUGAL | PT",ID Investigation Discovery HD | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113083
+#EXTINF:-1 tvg-name="National Geographic Channel | PT" group-title="PORTUGAL | PT",National Geographic Channel | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113084
+#EXTINF:-1 tvg-name="Nat Geo Wild | PT" group-title="PORTUGAL | PT",Nat Geo Wild | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113085
+#EXTINF:-1 tvg-name="TLC | PT" group-title="PORTUGAL | PT",TLC | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113086
+#EXTINF:-1 tvg-name="E! Entertainment | PT" group-title="PORTUGAL | PT",E! Entertainment | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113087
+#EXTINF:-1 tvg-name="CBS Reality | PT" group-title="PORTUGAL | PT",CBS Reality | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113088
+#EXTINF:-1 tvg-name="24 Kitchen | PT" group-title="PORTUGAL | PT",24 Kitchen | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113089
+#EXTINF:-1 tvg-name="Canal Historia | PT" group-title="PORTUGAL | PT",Canal Historia | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113090
+#EXTINF:-1 tvg-name="Discovery Channel | PT" group-title="PORTUGAL | PT",Discovery Channel | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113091
+#EXTINF:-1 tvg-name="Discovery Channel HD | PT" group-title="PORTUGAL | PT",Discovery Channel HD | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113092
+#EXTINF:-1 tvg-name="Crime Investigation | PT" group-title="PORTUGAL | PT",Crime Investigation | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113093
+#EXTINF:-1 tvg-name="Cacavision | PT" group-title="PORTUGAL | PT",Cacavision | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113094
+#EXTINF:-1 tvg-name="Caca e Pesca | PT" group-title="PORTUGAL | PT",Caca e Pesca | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113095
+#EXTINF:-1 tvg-name="Nick Jr | PT" group-title="PORTUGAL | PT",Nick Jr | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113096
+#EXTINF:-1 tvg-name="Nickelodeon | PT" group-title="PORTUGAL | PT",Nickelodeon | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113097
+#EXTINF:-1 tvg-name="CANAL PANDA LOW | PT" group-title="PORTUGAL | PT",CANAL PANDA LOW | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113098
+#EXTINF:-1 tvg-name="Canal Panda | PT" group-title="PORTUGAL | PT",Canal Panda | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113099
+#EXTINF:-1 tvg-name="Panda Biggs | PT" group-title="PORTUGAL | PT",Panda Biggs | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113100
+#EXTINF:-1 tvg-name="Baby TV | PT" group-title="PORTUGAL | PT",Baby TV | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113101
+#EXTINF:-1 tvg-name="Cartoon Network | PT" group-title="PORTUGAL | PT",Cartoon Network | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113102
+#EXTINF:-1 tvg-name="SIC K | PT" group-title="PORTUGAL | PT",SIC K | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113103
+#EXTINF:-1 tvg-name="DISNEY JUNIOR LOW | PT" group-title="PORTUGAL | PT",DISNEY JUNIOR LOW | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113104
+#EXTINF:-1 tvg-name="Disney Junior | PT" group-title="PORTUGAL | PT",Disney Junior | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113105
+#EXTINF:-1 tvg-name="DISNEY CHANEL LOW | PT" group-title="PORTUGAL | PT",DISNEY CHANEL LOW | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113106
+#EXTINF:-1 tvg-name="Disney Channel | PT" group-title="PORTUGAL | PT",Disney Channel | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113107
+#EXTINF:-1 tvg-name="MTV Portugal | PT" group-title="PORTUGAL | PT",MTV Portugal | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113108
+#EXTINF:-1 tvg-name="MCM Top | PT" group-title="PORTUGAL | PT",MCM Top | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113109
+#EXTINF:-1 tvg-name="MCM Pop | PT" group-title="PORTUGAL | PT",MCM Pop | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113110
+#EXTINF:-1 tvg-name="VH1 | PT" group-title="PORTUGAL | PT",VH1 | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113111
+#EXTINF:-1 tvg-name="Trace Urban | PT" group-title="PORTUGAL | PT",Trace Urban | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113112
+#EXTINF:-1 tvg-name="Afro Music | PT" group-title="PORTUGAL | PT",Afro Music | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113113
+#EXTINF:-1 tvg-name="Casa e Cozinha | PT" group-title="PORTUGAL | PT",Casa e Cozinha | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113114
+#EXTINF:-1 tvg-name="MEZZO LIVE | PT" group-title="PORTUGAL | PT",MEZZO LIVE | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113115
+#EXTINF:-1 tvg-name="Hollywood HD | PT" group-title="PORTUGAL | PT",Hollywood HD | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113116
+#EXTINF:-1 tvg-name="SIC NOVELAS | PT" group-title="PORTUGAL | PT",SIC NOVELAS | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113117
+#EXTINF:-1 tvg-name="W SPORT HD | PT" group-title="PORTUGAL | PT",W SPORT HD | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113118
+#EXTINF:-1 tvg-name="W SPORT FHD | PT" group-title="PORTUGAL | PT",W SPORT FHD | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113119
+#EXTINF:-1 tvg-name="TVI HD | PT" group-title="PORTUGAL | PT",TVI HD | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113120
+#EXTINF:-1 tvg-name="TVI REALITY HD | PT" group-title="PORTUGAL | PT",TVI REALITY HD | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113121
+#EXTINF:-1 tvg-name="Toros TV | PT" group-title="PORTUGAL | PT",Toros TV | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113122
+#EXTINF:-1 tvg-name="CNN HD | PT" group-title="PORTUGAL | PT",CNN HD | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113123
+#EXTINF:-1 tvg-name="PT: NEWS NOW | PT" group-title="PORTUGAL | PT",PT: NEWS NOW | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113124
+#EXTINF:-1 tvg-name="SPORT TV 7 | PT" group-title="PORTUGAL | PT",SPORT TV 7 | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113125
+#EXTINF:-1 tvg-name="BTV MULTICAMERAS | PT" group-title="PORTUGAL | PT",BTV MULTICAMERAS | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113126
+#EXTINF:-1 tvg-name="PT: Eurosport 2 FHD | PT" group-title="PORTUGAL | PT",PT: Eurosport 2 FHD | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113127
+#EXTINF:-1 tvg-name="PT: EUROSPORT 2 | PT" group-title="PORTUGAL | PT",PT: EUROSPORT 2 | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113128
+#EXTINF:-1 tvg-name="Sport TV 6 | PT" group-title="PORTUGAL | PT",Sport TV 6 | PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://drimosa.com:80/Aron.Rudi/fjknAWhKQTbkyGmC8haK/113129
