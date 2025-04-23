@@ -3,36 +3,6 @@
 
 
 
-#EXTINF:-1 tvg-name="ACADEMIA" tvg-logo="https://s04.video.glbimg.com/x720/244881.jpg" group-title="⭐ BBB 2025",ACADEMIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aasd.fun:80/1234567/1234567/4038154
-#EXTINF:-1 tvg-name="ACOMPANHE A CASA" tvg-logo="https://s04.video.glbimg.com/x720/244881.jpg" group-title="⭐ BBB 2025",ACOMPANHE A CASA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aasd.fun:80/1234567/1234567/4038155
-#EXTINF:-1 tvg-name="ACOMPANHE A CASA 2" tvg-logo="https://s04.video.glbimg.com/x720/772202.jpg" group-title="⭐ BBB 2025",ACOMPANHE A CASA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aasd.fun:80/1234567/1234567/4038156
-#EXTINF:-1 tvg-name="CAMERA PANTENE" tvg-logo="https://s04.video.glbimg.com/x720/2254996.jpg" group-title="⭐ BBB 2025",CAMERA PANTENE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aasd.fun:80/1234567/1234567/4038163
-#EXTINF:-1 tvg-name="COZINHA" tvg-logo="https://s04.video.glbimg.com/x720/244887.jpg" group-title="⭐ BBB 2025",COZINHA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aasd.fun:80/1234567/1234567/4038166
-#EXTINF:-1 tvg-name="COZINHA DELICIA" tvg-logo="https://s04.video.glbimg.com/x720/244889.jpg" group-title="⭐ BBB 2025",COZINHA DELICIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aasd.fun:80/1234567/1234567/4038162
-#EXTINF:-1 tvg-name="JARDIM" tvg-logo="https://s04.video.glbimg.com/x720/2254993.jpg" group-title="⭐ BBB 2025",JARDIM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aasd.fun:80/1234567/1234567/4038164
-#EXTINF:-1 tvg-name="MOSAICO BBB" tvg-logo="https://s04.video.glbimg.com/x720/10101606.jpg" group-title="⭐ BBB 2025",MOSAICO BBB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aasd.fun:80/1234567/1234567/4038157
-#EXTINF:-1 tvg-name="PISCINA" tvg-logo="https://s04.video.glbimg.com/x720/244890.jpg" group-title="⭐ BBB 2025",PISCINA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aasd.fun:80/1234567/1234567/4038165
-#EXTINF:-1 tvg-name="QUARTO ANOS 50" tvg-logo="https://s04.video.glbimg.com/x720/772205.jpg" group-title="⭐ BBB 2025",QUARTO ANOS 50
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aasd.fun:80/1234567/1234567/4038160
-#EXTINF:-1 tvg-name="QUARTO FANTASTICO" tvg-logo="https://s04.video.glbimg.com/x720/2254997.jpg" group-title="⭐ BBB 2025",QUARTO FANTASTICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aasd.fun:80/1234567/1234567/4038158
-#EXTINF:-1 tvg-name="QUARTO NORDESTE" tvg-logo="https://s04.video.glbimg.com/x720/6349747.jpg" group-title="⭐ BBB 2025",QUARTO NORDESTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aasd.fun:80/1234567/1234567/4038159
-#EXTINF:-1 tvg-name="SALA" tvg-logo="https://s04.video.glbimg.com/x720/2255000.jpg" group-title="⭐ BBB 2025",SALA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aasd.fun:80/1234567/1234567/4038161
-
-
-
-
 
 #EXTINF:-1 tvg-name="Globo ES - TV Gazeta Noroeste" tvg-logo="https://img.inboxbr.pro/icones_channels/tv-gazeta-noroeste.png" group-title="⭐ GLOBO SUDESTE",Globo ES - TV Gazeta Noroeste
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aasd.fun:80/1234567/1234567/3953568
