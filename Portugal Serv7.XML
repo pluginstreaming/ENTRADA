@@ -33,16 +33,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://fontep1tech.space:80/090720634/959666174/4866074.ts
 #EXTINF:-1 tvg-name="PT | RTP 2" tvg-logo="https://www.fpo.pt/www/images/fpo/comunicados/gerais/2013/16579_443615305705283_333251319_n.png" group-title="CANAIS | PORTUGAL",PT | RTP 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://fontep1tech.space:80/090720634/959666174/4866075.ts
-#EXTINF:-1 tvg-name="PT | RTP 3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP3.png" group-title="CANAIS | PORTUGAL",PT | RTP 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://fontep1tech.space:80/090720634/959666174/4866076.ts
-#EXTINF:-1 tvg-name="PT | SIC NOTICIAS" tvg-logo="http://cintesis.eu/wp-content/uploads/2017/10/sic_n_peq.png" group-title="CANAIS | PORTUGAL",PT | SIC NOTICIAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://fontep1tech.space:80/090720634/959666174/4866077.ts
-#EXTINF:-1 tvg-name="PT | SIC NOTICIAS(OPCAO 2)" tvg-logo="http://cintesis.eu/wp-content/uploads/2017/10/sic_n_peq.png" group-title="CANAIS | PORTUGAL",PT | SIC NOTICIAS(OPCAO 2)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://fontep1tech.space:80/090720634/959666174/4866078.ts
 #EXTINF:-1 tvg-name="PT | SIC RADICAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png" group-title="CANAIS | PORTUGAL",PT | SIC RADICAL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://fontep1tech.space:80/090720634/959666174/4866079.ts
-#EXTINF:-1 tvg-name="PT | SIC(OPCAO 2)" tvg-logo="https://4.bp.blogspot.com/-DtY41i7UI5s/W7dU1andqXI/AAAAAAAAVOA/y7hit8JMqgc0Y9UFETekeTuuc7YipuTiACLcBGAs/s1600/Novo+Logotipo+SIC.png" group-title="CANAIS | PORTUGAL",PT | SIC(OPCAO 2)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://fontep1tech.space:80/090720634/959666174/4866080.ts
 #EXTINF:-1 tvg-name="PT | SPORT TV 1" tvg-logo="https://gulf365.co/content/uploads/2019/09/20/0b06788710.jpg" group-title="CANAIS | PORTUGAL",PT | SPORT TV 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://fontep1tech.space:80/090720634/959666174/4866081.ts
 #EXTINF:-1 tvg-name="PT | SPORT TV 1" tvg-logo="http://dl.dropboxusercontent.com/s/x2gd6cvkrdf1f0j/sporttv-1.png" group-title="CANAIS | PORTUGAL",PT | SPORT TV 1
@@ -53,7 +45,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://fontep1tech.space:80/090720634/959666174/4866084.ts
 #EXTINF:-1 tvg-name="PT | SPORT TV 4" tvg-logo="https://2.bp.blogspot.com/-8iCvE3hryzY/WcfzD3DmjqI/AAAAAAAAEmA/nH61kBu8QS0adinlN8lPIDPjvacCuW8kACLcBGAs/s392/Sport-Tv-4.png" group-title="CANAIS | PORTUGAL",PT | SPORT TV 4
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://fontep1tech.space:80/090720634/959666174/4866085.ts
-#EXTINF:-1 tvg-name="PT | SPORT TV 5(OPCAO 2)" tvg-logo="https://sport-tv-guide.live/images/stations/a454.png" group-title="CANAIS | PORTUGAL",PT | SPORT TV 5(OPCAO 2)
+#EXTINF:-1 tvg-name="PT | SPORT TV 5" tvg-logo="https://sport-tv-guide.live/images/stations/a454.png" group-title="CANAIS | PORTUGAL",PT | SPORT TV 5
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://fontep1tech.space:80/090720634/959666174/4866086.ts
 #EXTINF:-1 tvg-name="PT | SPORT TV 6" group-title="CANAIS | PORTUGAL",PT | SPORT TV 6
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://fontep1tech.space:80/090720634/959666174/4866087.ts
