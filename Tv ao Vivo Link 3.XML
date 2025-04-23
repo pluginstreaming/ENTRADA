@@ -3,61 +3,6 @@
 
 
 
-#EXTINF:-1 tvg-name="BBB Academia FHD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB Academia FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/Nivailton/981506600/191635
-#EXTINF:-1 tvg-name="BBB Academia HD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB Academia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/Nivailton/981506600/179436
-#EXTINF:-1 tvg-name="BBB Banheiro Pantene FHD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB Banheiro Pantene FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/Nivailton/981506600/147549
-#EXTINF:-1 tvg-name="BBB Banheiro Pantene HD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB Banheiro Pantene HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/Nivailton/981506600/164574
-#EXTINF:-1 tvg-name="BBB CAM 12 FHD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB CAM 12 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/Nivailton/981506600/162909
-#EXTINF:-1 tvg-name="BBB CAM 12 HD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB CAM 12 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/Nivailton/981506600/155342
-#EXTINF:-1 tvg-name="BBB Cozinha 01 FHD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB Cozinha 01 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/Nivailton/981506600/83799
-#EXTINF:-1 tvg-name="BBB Cozinha 01 HD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB Cozinha 01 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/Nivailton/981506600/83792
-#EXTINF:-1 tvg-name="BBB Cozinha 02 FHD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB Cozinha 02 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/Nivailton/981506600/83437
-#EXTINF:-1 tvg-name="BBB Cozinha 02 HD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB Cozinha 02 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/Nivailton/981506600/83802
-#EXTINF:-1 tvg-name="BBB Mosaico FHD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB Mosaico FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/Nivailton/981506600/179435
-#EXTINF:-1 tvg-name="BBB Mosaico HD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB Mosaico HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/Nivailton/981506600/179434
-#EXTINF:-1 tvg-name="BBB Piscina FHD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB Piscina FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/Nivailton/981506600/150203
-#EXTINF:-1 tvg-name="BBB Piscina HD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB Piscina HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/Nivailton/981506600/147671
-#EXTINF:-1 tvg-name="BBB Quarto Anos 50 FHD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB Quarto Anos 50 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/Nivailton/981506600/179437
-#EXTINF:-1 tvg-name="BBB Quarto Anos 50 HD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB Quarto Anos 50 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/Nivailton/981506600/179429
-#EXTINF:-1 tvg-name="BBB Quarto Fantastico FHD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB Quarto Fantastico FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/Nivailton/981506600/179428
-#EXTINF:-1 tvg-name="BBB Quarto Fantastico HD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB Quarto Fantastico HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/Nivailton/981506600/164580
-#EXTINF:-1 tvg-name="BBB Quarto Nordeste FHD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB Quarto Nordeste FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/Nivailton/981506600/164579
-#EXTINF:-1 tvg-name="BBB Quarto Nordeste HD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB Quarto Nordeste HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/Nivailton/981506600/163607
-#EXTINF:-1 tvg-name="BBB Sala FHD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB Sala FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/Nivailton/981506600/176733
-#EXTINF:-1 tvg-name="BBB Sala HD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB Sala HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/Nivailton/981506600/147537
-#EXTINF:-1 tvg-name="BBB1 Acompanhe a Casa FHD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB1 Acompanhe a Casa FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/Nivailton/981506600/179431
-#EXTINF:-1 tvg-name="BBB1 Acompanhe a Casa HD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB1 Acompanhe a Casa HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/Nivailton/981506600/147453
-#EXTINF:-1 tvg-name="BBB2 Acompanhe a Casa FHD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB2 Acompanhe a Casa FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/Nivailton/981506600/179433
-#EXTINF:-1 tvg-name="BBB2 Acompanhe a Casa HD" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="Reality: BBB 25",BBB2 Acompanhe a Casa HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://srv.cldplay.in:80/Nivailton/981506600/179432
-
-
-
 
 
 #EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Araxá MG FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Araxá MG FHD
