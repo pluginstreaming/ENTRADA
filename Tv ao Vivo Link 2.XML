@@ -3,33 +3,6 @@
 
 
 
-#EXTINF:-1 tvg-name="ACOMPANHE A CASA 2" tvg-logo="https://i.imgur.com/hLComUE.jpeg" group-title="⭐ REALITY BBB 2025",ACOMPANHE A CASA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.pthdtv.top:80/6464779/0577073/4466847
-#EXTINF:-1 tvg-name="MOSAICO BBB" tvg-logo="https://i.imgur.com/hLComUE.jpeg" group-title="⭐ REALITY BBB 2025",MOSAICO BBB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.pthdtv.top:80/6464779/0577073/4466848
-#EXTINF:-1 tvg-name="QUARTO FANTÁSTICO" tvg-logo="https://i.imgur.com/hLComUE.jpeg" group-title="⭐ REALITY BBB 2025",QUARTO FANTÁSTICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.pthdtv.top:80/6464779/0577073/4466849
-#EXTINF:-1 tvg-name="QUARTO GNOMO" tvg-logo="https://i.imgur.com/hLComUE.jpeg" group-title="⭐ REALITY BBB 2025",QUARTO GNOMO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.pthdtv.top:80/6464779/0577073/4466850
-#EXTINF:-1 tvg-name="ACOMPANHE A CASA" tvg-logo="https://i.imgur.com/hLComUE.jpeg" group-title="⭐ REALITY BBB 2025",ACOMPANHE A CASA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.pthdtv.top:80/6464779/0577073/4466851
-#EXTINF:-1 tvg-id="bbb" tvg-name="SALA" tvg-logo="https://i.imgur.com/hLComUE.jpeg" group-title="⭐ REALITY BBB 2025",SALA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.pthdtv.top:80/6464779/0577073/4467776
-#EXTINF:-1 tvg-id="bbb" tvg-name="COZINHA" tvg-logo="https://i.imgur.com/hLComUE.jpeg" group-title="⭐ REALITY BBB 2025",COZINHA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.pthdtv.top:80/6464779/0577073/4467777
-#EXTINF:-1 tvg-id="bbb" tvg-name="CÂMERA PANTENE" tvg-logo="https://i.imgur.com/hLComUE.jpeg" group-title="⭐ REALITY BBB 2025",CÂMERA PANTENE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.pthdtv.top:80/6464779/0577073/4467778
-#EXTINF:-1 tvg-id="bbb" tvg-name="ACADEMIA" tvg-logo="https://i.imgur.com/hLComUE.jpeg" group-title="⭐ REALITY BBB 2025",ACADEMIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.pthdtv.top:80/6464779/0577073/4467779
-#EXTINF:-1 tvg-id="bbb" tvg-name="PISCINA" tvg-logo="https://i.imgur.com/hLComUE.jpeg" group-title="⭐ REALITY BBB 2025",PISCINA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.pthdtv.top:80/6464779/0577073/4467780
-#EXTINF:-1 tvg-id="bbb" tvg-name="QUARTO NORDESTE" tvg-logo="https://i.imgur.com/hLComUE.jpeg" group-title="⭐ REALITY BBB 2025",QUARTO NORDESTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.pthdtv.top:80/6464779/0577073/4467781
-#EXTINF:-1 tvg-id="bbb" tvg-name="COZINHA DELICIA" tvg-logo="https://i.imgur.com/hLComUE.jpeg" group-title="⭐ REALITY BBB 2025",COZINHA DELICIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.pthdtv.top:80/6464779/0577073/4467782
-
-
-
 
 
 #EXTINF:-1 tvg-id="Globo Brasilia HD" tvg-name="GLOBO BRASILIA FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS CAPITAIS",GLOBO BRASILIA FHD
