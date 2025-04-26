@@ -3,133 +3,60 @@
 
 
 
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV FHD" tvg-logo="http://prinplay.com.br/server/SporTV.png" group-title="ESPORTES",SporTV FHD
-http://bananadoce.online:8080/070320/WerWcMP939/2035
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD" tvg-logo="http://prinplay.com.br/server/SporTV.png" group-title="ESPORTES",SporTV HD
-http://bananadoce.online:8080/070320/WerWcMP939/2038
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV" tvg-logo="http://prinplay.com.br/server/SporTV.png" group-title="ESPORTES",SporTV
-http://bananadoce.online:8080/070320/WerWcMP939/2218
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV FHD²" tvg-logo="http://prinplay.com.br/server/SporTV.png" group-title="ESPORTES",SporTV FHD²
-http://bananadoce.online:8080/070320/WerWcMP939/13069
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV Alternativo HD" tvg-logo="http://prinplay.com.br/server/SporTV.png" group-title="ESPORTES",SporTV Alternativo HD
-http://bananadoce.online:8080/070320/WerWcMP939/1303
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV Alternativo" tvg-logo="http://prinplay.com.br/server/SporTV.png" group-title="ESPORTES",SporTV Alternativo
-http://bananadoce.online:8080/070320/WerWcMP939/1221
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 FHD" tvg-logo="http://prinplay.com.br/server/SporTV%202.png" group-title="ESPORTES",SporTV 2 FHD
-http://bananadoce.online:8080/070320/WerWcMP939/1917
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="http://prinplay.com.br/server/SporTV%202.png" group-title="ESPORTES",SporTV 2 HD
-http://bananadoce.online:8080/070320/WerWcMP939/2036
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2" tvg-logo="http://prinplay.com.br/server/SporTV%202.png" group-title="ESPORTES",SporTV 2
-http://bananadoce.online:8080/070320/WerWcMP939/2219
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 FHD²" tvg-logo="http://prinplay.com.br/server/SporTV%202.png" group-title="ESPORTES",SporTV 2 FHD²
-http://bananadoce.online:8080/070320/WerWcMP939/13072
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 Alternativo HD" tvg-logo="http://prinplay.com.br/server/SporTV%202.png" group-title="ESPORTES",SporTV 2 Alternativo HD
-http://bananadoce.online:8080/070320/WerWcMP939/1301
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 Alternativo" tvg-logo="http://prinplay.com.br/server/SporTV%202.png" group-title="ESPORTES",SporTV 2 Alternativo
-http://bananadoce.online:8080/070320/WerWcMP939/1173
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 FHD" tvg-logo="http://prinplay.com.br/server/SporTV%203.png" group-title="ESPORTES",SporTV 3 FHD
-http://bananadoce.online:8080/070320/WerWcMP939/1918
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="http://prinplay.com.br/server/SporTV%203.png" group-title="ESPORTES",SporTV 3 HD
-http://bananadoce.online:8080/070320/WerWcMP939/2037
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3" tvg-logo="http://prinplay.com.br/server/SporTV%203.png" group-title="ESPORTES",SporTV 3
-http://bananadoce.online:8080/070320/WerWcMP939/2220
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 FHD²" tvg-logo="http://prinplay.com.br/server/SporTV%203.png" group-title="ESPORTES",SporTV 3 FHD²
-http://bananadoce.online:8080/070320/WerWcMP939/13075
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 Alternativo  HD" tvg-logo="http://prinplay.com.br/server/SporTV%203.png" group-title="ESPORTES",SporTV 3 Alternativo  HD
-http://bananadoce.online:8080/070320/WerWcMP939/1302
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 Alternativo" tvg-logo="http://prinplay.com.br/server/SporTV%203.png" group-title="ESPORTES",SporTV 3 Alternativo
-http://bananadoce.online:8080/070320/WerWcMP939/1174
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports FHD" tvg-logo="http://prinplay.com.br/server/Band%20Sports%20HD.png" group-title="ESPORTES",Band Sports FHD
-http://bananadoce.online:8080/070320/WerWcMP939/1812
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports HD" tvg-logo="http://prinplay.com.br/server/Band%20Sports%20HD.png" group-title="ESPORTES",Band Sports HD
-http://bananadoce.online:8080/070320/WerWcMP939/2060
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports" tvg-logo="http://prinplay.com.br/server/Band%20Sports.png" group-title="ESPORTES",Band Sports
-http://bananadoce.online:8080/070320/WerWcMP939/2059
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports FHD²" tvg-logo="http://prinplay.com.br/server/Band%20Sports%20HD.png" group-title="ESPORTES",Band Sports FHD²
-http://bananadoce.online:8080/070320/WerWcMP939/13099
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports Alternativo HD" tvg-logo="http://prinplay.com.br/server/Band%20Sports%20HD.png" group-title="ESPORTES",Band Sports Alternativo HD
-http://bananadoce.online:8080/070320/WerWcMP939/1289
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports Alternativo" tvg-logo="http://prinplay.com.br/server/Band%20Sports.png" group-title="ESPORTES",Band Sports Alternativo
-http://bananadoce.online:8080/070320/WerWcMP939/1180
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate FHD" tvg-logo="http://prinplay.com.br/server/Combate.png" group-title="ESPORTES",Combate FHD
-http://bananadoce.online:8080/070320/WerWcMP939/1880
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD" tvg-logo="http://prinplay.com.br/server/Combate.png" group-title="ESPORTES",Combate HD
-http://bananadoce.online:8080/070320/WerWcMP939/2076
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate" tvg-logo="http://prinplay.com.br/server/Combate.png" group-title="ESPORTES",Combate
-http://bananadoce.online:8080/070320/WerWcMP939/2075
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate FHD²" tvg-logo="http://prinplay.com.br/server/Combate.png" group-title="ESPORTES",Combate FHD²
-http://bananadoce.online:8080/070320/WerWcMP939/13095
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate Alternativo HD" tvg-logo="http://prinplay.com.br/server/Combate.png" group-title="ESPORTES",Combate Alternativo HD
-http://bananadoce.online:8080/070320/WerWcMP939/1291
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate Alternativo" tvg-logo="http://prinplay.com.br/server/Combate.png" group-title="ESPORTES",Combate Alternativo
-http://bananadoce.online:8080/070320/WerWcMP939/1186
+#EXTINF:-1 tvg-name="BAND NEWS FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/TofYoFGWT5ao4jj/download/bandnews.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS FHD
+http://135.148.144.79:80/josimar123/josimar123/404644.ts
+#EXTINF:-1 tvg-name="BAND NEWS FHD*" tvg-logo="https://files.jpnetwork.com.br/index.php/s/TofYoFGWT5ao4jj/download/bandnews.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS FHD*
+http://135.148.144.79:80/josimar123/josimar123/685180.ts
+#EXTINF:-1 tvg-name="BAND NEWS HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/TofYoFGWT5ao4jj/download/bandnews.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS HD
+http://135.148.144.79:80/josimar123/josimar123/404645.ts
+#EXTINF:-1 tvg-name="CNN BRASIL FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/8Q49r3RNnp4ziW2/download/CNN.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL FHD
+http://135.148.144.79:80/josimar123/josimar123/404649.ts
+#EXTINF:-1 tvg-name="CNN BRASIL FHD*" tvg-logo="https://files.jpnetwork.com.br/index.php/s/8Q49r3RNnp4ziW2/download/CNN.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL FHD*
+http://135.148.144.79:80/josimar123/josimar123/685178.ts
+#EXTINF:-1 tvg-name="CNN BRASIL HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/8Q49r3RNnp4ziW2/download/CNN.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD
+http://135.148.144.79:80/josimar123/josimar123/404650.ts
+#EXTINF:-1 tvg-id="CNN Brasil HD" tvg-name="CNN BRASIL HD*" tvg-logo="https://seeklogo.com/images/C/cnn-brasil-logo-029B34D6AD-seeklogo.com.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD*
+http://135.148.144.79:80/josimar123/josimar123/686956.ts
+#EXTINF:-1 tvg-id="CNN Brasil HD" tvg-name="CNN BRASIL HD¹" tvg-logo="https://files.jpnetwork.com.br/index.php/s/8Q49r3RNnp4ziW2/download/CNN.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD¹
+http://135.148.144.79:80/josimar123/josimar123/404648.ts
+#EXTINF:-1 tvg-name="GLOBO NEWS FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/RoWKDDLfpLTcDs3/download/globonews.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS FHD
+http://135.148.144.79:80/josimar123/josimar123/404641.ts
+#EXTINF:-1 tvg-name="GLOBO NEWS HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/RoWKDDLfpLTcDs3/download/globonews.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS HD
+http://135.148.144.79:80/josimar123/josimar123/404642.ts
+#EXTINF:-1 tvg-name="JOVEM PAN FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/KCmLH3FkYtLRBLz/download/jpnews.png" group-title="CANAIS | NOTÍCIAS",JOVEM PAN FHD
+http://135.148.144.79:80/josimar123/josimar123/404652.ts
+#EXTINF:-1 tvg-name="JOVEM PAN FHD*" tvg-logo="https://files.jpnetwork.com.br/index.php/s/KCmLH3FkYtLRBLz/download/jpnews.png" group-title="CANAIS | NOTÍCIAS",JOVEM PAN FHD*
+http://135.148.144.79:80/josimar123/josimar123/686955.ts
+#EXTINF:-1 tvg-name="JOVEM PAN HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/KCmLH3FkYtLRBLz/download/jpnews.png" group-title="CANAIS | NOTÍCIAS",JOVEM PAN HD
+http://135.148.144.79:80/josimar123/josimar123/404653.ts
+#EXTINF:-1 tvg-name="JOVEN PAN HD¹" tvg-logo="https://files.jpnetwork.com.br/index.php/s/KCmLH3FkYtLRBLz/download/jpnews.png" group-title="CANAIS | NOTÍCIAS",JOVEN PAN HD¹
+http://135.148.144.79:80/josimar123/josimar123/686957.ts
+#EXTINF:-1 tvg-name="JOVEN PAN SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/KCmLH3FkYtLRBLz/download/jpnews.png" group-title="CANAIS | NOTÍCIAS",JOVEN PAN SD
+http://135.148.144.79:80/josimar123/josimar123/686958.ts
+#EXTINF:-1 tvg-name="RECORD NEWS FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/bEA3n3ZMTHrXBfx/download/recnews.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS FHD
+http://135.148.144.79:80/josimar123/josimar123/404638.ts
+#EXTINF:-1 tvg-name="RECORD NEWS HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/bEA3n3ZMTHrXBfx/download/recnews.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS HD
+http://135.148.144.79:80/josimar123/josimar123/404639.ts
 
 
 
 
 
-#EXTINF:-1 tvg-name="Paramount+ 1 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="PARAMOUNT+",Paramount+ 1 FHD
-http://bananadoce.online:8080/070320/WerWcMP939/901876
-#EXTINF:-1 tvg-name="Paramount+ 1 HD " tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="PARAMOUNT+",Paramount+ 1 HD 
-http://bananadoce.online:8080/070320/WerWcMP939/898826
-#EXTINF:-1 tvg-name="Paramount+ 1" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="PARAMOUNT+",Paramount+ 1
-http://bananadoce.online:8080/070320/WerWcMP939/898822
-#EXTINF:-1 tvg-name="Paramount+ 2 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="PARAMOUNT+",Paramount+ 2 FHD
-http://bananadoce.online:8080/070320/WerWcMP939/901877
-#EXTINF:-1 tvg-name="Paramount+ 2 HD " tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="PARAMOUNT+",Paramount+ 2 HD 
-http://bananadoce.online:8080/070320/WerWcMP939/898827
-#EXTINF:-1 tvg-name="Paramount+ 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="PARAMOUNT+",Paramount+ 2
-http://bananadoce.online:8080/070320/WerWcMP939/898823
-#EXTINF:-1 tvg-name="Paramount+ 3 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="PARAMOUNT+",Paramount+ 3 FHD
-http://bananadoce.online:8080/070320/WerWcMP939/901878
-#EXTINF:-1 tvg-name="Paramount+ 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="PARAMOUNT+",Paramount+ 3 HD
-http://bananadoce.online:8080/070320/WerWcMP939/898828
-#EXTINF:-1 tvg-name="Paramount+ 3" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="PARAMOUNT+",Paramount+ 3
-http://bananadoce.online:8080/070320/WerWcMP939/898824
-#EXTINF:-1 tvg-name="Paramount+ 4 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="PARAMOUNT+",Paramount+ 4 FHD
-http://bananadoce.online:8080/070320/WerWcMP939/901880
-#EXTINF:-1 tvg-name="Paramount+ 4 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="PARAMOUNT+",Paramount+ 4 HD
-http://bananadoce.online:8080/070320/WerWcMP939/901879
-#EXTINF:-1 tvg-name="Paramount+ 4 " tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-1.png" group-title="PARAMOUNT+",Paramount+ 4 
-http://bananadoce.online:8080/070320/WerWcMP939/898825
-
-
-
-
-
-#EXTINF:-1 tvg-id="globo.news.br" tvg-name="Globo News FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/GloboNews_logo.svg/512px-GloboNews_logo.svg.png" group-title="NOTÍCIAS",Globo News FHD
-http://bananadoce.online:8080/070320/WerWcMP939/1888
-#EXTINF:-1 tvg-id="globo.news.br" tvg-name="Globo News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/GloboNews_logo.svg/512px-GloboNews_logo.svg.png" group-title="NOTÍCIAS",Globo News HD
-http://bananadoce.online:8080/070320/WerWcMP939/2130
-#EXTINF:-1 tvg-id="globo.news.br" tvg-name="Globo News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/GloboNews_logo.svg/512px-GloboNews_logo.svg.png" group-title="NOTÍCIAS",Globo News
-http://bananadoce.online:8080/070320/WerWcMP939/2129
-#EXTINF:-1 tvg-id="band.news.br" tvg-name="Band News FHD" tvg-logo="http://prinplay.com.br/server/Band%20News%20HD.png" group-title="NOTÍCIAS",Band News FHD
-http://bananadoce.online:8080/070320/WerWcMP939/1811
-#EXTINF:-1 tvg-id="band.news.br" tvg-name="Band News HD" tvg-logo="http://prinplay.com.br/server/Band%20News%20HD.png" group-title="NOTÍCIAS",Band News HD
-http://bananadoce.online:8080/070320/WerWcMP939/2058
-#EXTINF:-1 tvg-id="band.news.br" tvg-name="Band News" tvg-logo="http://prinplay.com.br/server/Band%20News.png" group-title="NOTÍCIAS",Band News
-http://bananadoce.online:8080/070320/WerWcMP939/2057
-#EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN Brasil FHD " tvg-logo="http://prinplay.com.br/server/CNN%20Brasil.png" group-title="NOTÍCIAS",CNN Brasil FHD 
-http://bananadoce.online:8080/070320/WerWcMP939/22224
-#EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN Brasil HD" tvg-logo="http://prinplay.com.br/server/CNN%20Brasil.png" group-title="NOTÍCIAS",CNN Brasil HD
-http://bananadoce.online:8080/070320/WerWcMP939/22225
-#EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN Brasil " tvg-logo="http://prinplay.com.br/server/CNN%20Brasil.png" group-title="NOTÍCIAS",CNN Brasil 
-http://bananadoce.online:8080/070320/WerWcMP939/22226
-#EXTINF:-1 tvg-name="CNN Money " tvg-logo="http://prinplay.com.br/server/CNN.png" group-title="NOTÍCIAS",CNN Money 
-http://bananadoce.online:8080/070320/WerWcMP939/963936
-#EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN Internacional " tvg-logo="http://prinplay.com.br/server/CNN.png" group-title="NOTÍCIAS",CNN Internacional 
-http://bananadoce.online:8080/070320/WerWcMP939/62368
-#EXTINF:-1 tvg-name="Jovem Pan News FHD " tvg-logo="https://s.jpimg.com.br/wp-content/themes/jovempan/assets/build/images/logo-jovempan-white.png?v2" group-title="NOTÍCIAS",Jovem Pan News FHD 
-http://bananadoce.online:8080/070320/WerWcMP939/66549
-#EXTINF:-1 tvg-name="Jovem Pan News HD" tvg-logo="https://s.jpimg.com.br/wp-content/themes/jovempan/assets/build/images/logo-jovempan-white.png?v2" group-title="NOTÍCIAS",Jovem Pan News HD
-http://bananadoce.online:8080/070320/WerWcMP939/66550
-#EXTINF:-1 tvg-name="Jovem Pan News " tvg-logo="https://s.jpimg.com.br/wp-content/themes/jovempan/assets/build/images/logo-jovempan-white.png?v2" group-title="NOTÍCIAS",Jovem Pan News 
-http://bananadoce.online:8080/070320/WerWcMP939/66548
-#EXTINF:-1 tvg-id="record.news.br" tvg-name="Record News FHD" tvg-logo="http://prinplay.com.br/server/Record%20News.png" group-title="NOTÍCIAS",Record News FHD
-http://bananadoce.online:8080/070320/WerWcMP939/1861
-#EXTINF:-1 tvg-id="record.news.br" tvg-name="Record News HD" tvg-logo="http://prinplay.com.br/server/Record%20News.png" group-title="NOTÍCIAS",Record News HD
-http://bananadoce.online:8080/070320/WerWcMP939/2205
-#EXTINF:-1 tvg-id="record.news.br" tvg-name="Record News" tvg-logo="http://prinplay.com.br/server/Record%20News.png" group-title="NOTÍCIAS",Record News
-http://bananadoce.online:8080/070320/WerWcMP939/2204
-#EXTINF:-1 tvg-name="CNBC Times Brasil" tvg-logo="https://prinplay.com.br/server/CNBC.png" group-title="NOTÍCIAS",CNBC Times Brasil
-http://bananadoce.online:8080/070320/WerWcMP939/965112
+#EXTINF:-1 tvg-id="SporTV 2 FHD" tvg-name="SPORTV 2 FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/pycgLGHfjMfeqd3/download/sportv2.png" group-title="CANAIS | SPORTV",SPORTV 2 FHD
+http://135.148.144.79:80/josimar123/josimar123/685171.ts
+#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="SPORTV 2 HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/pycgLGHfjMfeqd3/download/sportv2.png" group-title="CANAIS | SPORTV",SPORTV 2 HD
+http://135.148.144.79:80/josimar123/josimar123/141545.ts
+#EXTINF:-1 tvg-id="SporTV 2 SD" tvg-name="SPORTV 2 SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/pycgLGHfjMfeqd3/download/sportv2.png" group-title="CANAIS | SPORTV",SPORTV 2 SD
+http://135.148.144.79:80/josimar123/josimar123/141546.ts
+#EXTINF:-1 tvg-id="SporTV 3 FHD" tvg-name="SPORTV 3 FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/bgod9YdaanJi5wD/download/sportv3.png" group-title="CANAIS | SPORTV",SPORTV 3 FHD
+http://135.148.144.79:80/josimar123/josimar123/141561.ts
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SPORTV 3 HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/bgod9YdaanJi5wD/download/sportv3.png" group-title="CANAIS | SPORTV",SPORTV 3 HD
+http://135.148.144.79:80/josimar123/josimar123/338416.ts
+#EXTINF:-1 tvg-id="SporTV 3 SD" tvg-name="SPORTV 3 SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/bgod9YdaanJi5wD/download/sportv3.png" group-title="CANAIS | SPORTV",SPORTV 3 SD
+http://135.148.144.79:80/josimar123/josimar123/141548.ts
+#EXTINF:-1 tvg-id="SporTV FHD" tvg-name="SPORTV FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/KSGDasiNbf94Sij/download/sportv.png" group-title="CANAIS | SPORTV",SPORTV FHD
+http://135.148.144.79:80/josimar123/josimar123/685172.ts
+#EXTINF:-1 tvg-id="BR - SporTV" tvg-name="SPORTV HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/KSGDasiNbf94Sij/download/sportv.png" group-title="CANAIS | SPORTV",SPORTV HD
+http://135.148.144.79:80/josimar123/josimar123/141549.ts
+#EXTINF:-1 tvg-id="SporTV SD" tvg-name="SPORTV SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/KSGDasiNbf94Sij/download/sportv.png" group-title="CANAIS | SPORTV",SPORTV SD
+http://135.148.144.79:80/josimar123/josimar123/141550.ts
