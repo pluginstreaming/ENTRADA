@@ -1,54 +1,108 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="AgroMais FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/AGROMAIS.png" group-title="Canais | Noticias",AgroMais FHD
+http://nunoborn.net:80/live/117318431/N414v6186V/464.m3u8
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="AgroMais HD" tvg-logo="http://beststorage4you.com:80/logoscanais/AGROMAIS.png" group-title="Canais | Noticias",AgroMais HD
+http://nunoborn.net:80/live/117318431/N414v6186V/462.m3u8
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="AgroMais SD" tvg-logo="http://beststorage4you.com:80/logoscanais/AGROMAIS.png" group-title="Canais | Noticias",AgroMais SD
+http://nunoborn.net:80/live/117318431/N414v6186V/461.m3u8
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/BANDNEWS.png" group-title="Canais | Noticias",Band News FHD
+http://nunoborn.net:80/live/117318431/N414v6186V/469.m3u8
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News H265" tvg-logo="http://beststorage4you.com:80/logoscanais/BANDNEWS.png" group-title="Canais | Noticias",Band News H265
+http://nunoborn.net:80/live/117318431/N414v6186V/118883.m3u8
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News HD" tvg-logo="http://beststorage4you.com:80/logoscanais/BANDNEWS.png" group-title="Canais | Noticias",Band News HD
+http://nunoborn.net:80/live/117318431/N414v6186V/467.m3u8
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News HD²" tvg-logo="http://beststorage4you.com:80/logoscanais/BANDNEWS.png" group-title="Canais | Noticias",Band News HD²
+http://nunoborn.net:80/live/117318431/N414v6186V/468.m3u8
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News SD" tvg-logo="http://beststorage4you.com:80/logoscanais/BANDNEWS.png" group-title="Canais | Noticias",Band News SD
+http://nunoborn.net:80/live/117318431/N414v6186V/466.m3u8
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Brasil FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Brasil FHD
+http://nunoborn.net:80/live/117318431/N414v6186V/474.m3u8
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Brasil H265" tvg-logo="http://beststorage4you.com:80/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Brasil H265
+http://nunoborn.net:80/live/117318431/N414v6186V/118884.m3u8
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Brasil UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Brasil UHD
+http://nunoborn.net:80/live/117318431/N414v6186V/21353.m3u8
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Brasil H265" tvg-logo="http://beststorage4you.com:80/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Brasil H265
+http://nunoborn.net:80/live/117318431/N414v6186V/380909.m3u8
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Brasil HD" tvg-logo="http://beststorage4you.com:80/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Brasil HD
+http://nunoborn.net:80/live/117318431/N414v6186V/472.m3u8
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Brasil SD" tvg-logo="http://beststorage4you.com:80/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Brasil SD
+http://nunoborn.net:80/live/117318431/N414v6186V/471.m3u8
+#EXTINF:-1 tvg-id="Cnnint.br" tvg-name="CNN Internacional  HD" tvg-logo="http://beststorage4you.com:80/logoscanais/CNNINTERNATIONAL.png" group-title="Canais | Noticias",CNN Internacional  HD
+http://nunoborn.net:80/live/117318431/N414v6186V/118886.m3u8
+#EXTINF:-1 tvg-id="Cnnint.br" tvg-name="CNN Internacional SD" tvg-logo="http://beststorage4you.com:80/logoscanais/CNNINTERNATIONAL.png" group-title="Canais | Noticias",CNN Internacional SD
+http://nunoborn.net:80/live/117318431/N414v6186V/118887.m3u8
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Money Brasil FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Money Brasil FHD
+http://nunoborn.net:80/live/117318431/N414v6186V/527505.m3u8
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Money Brasil HD" tvg-logo="http://beststorage4you.com:80/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Money Brasil HD
+http://nunoborn.net:80/live/117318431/N414v6186V/527506.m3u8
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Money Brasil SD" tvg-logo="http://beststorage4you.com:80/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNN Money Brasil SD
+http://nunoborn.net:80/live/117318431/N414v6186V/527507.m3u8
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNBC Brasil HD" tvg-logo="http://beststorage4you.com:80/logoscanais/CNNBRASIL.png" group-title="Canais | Noticias",CNBC Brasil HD
+http://nunoborn.net:80/live/117318431/N414v6186V/527504.m3u8
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GloboNews FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBONEWS.png" group-title="Canais | Noticias",GloboNews FHD
+http://nunoborn.net:80/live/117318431/N414v6186V/479.m3u8
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GloboNews UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBONEWS.png" group-title="Canais | Noticias",GloboNews UHD
+http://nunoborn.net:80/live/117318431/N414v6186V/21244.m3u8
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GloboNews HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBONEWS.png" group-title="Canais | Noticias",GloboNews HD
+http://nunoborn.net:80/live/117318431/N414v6186V/478.m3u8
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GloboNews H265" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBONEWS.png" group-title="Canais | Noticias",GloboNews H265
+http://nunoborn.net:80/live/117318431/N414v6186V/380908.m3u8
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GloboNews SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBONEWS.png" group-title="Canais | Noticias",GloboNews SD
+http://nunoborn.net:80/live/117318431/N414v6186V/477.m3u8
+#EXTINF:-1 tvg-id="Jpnews.br" tvg-name="Jovem Pan News FHD" tvg-logo="http://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png" group-title="Canais | Noticias",Jovem Pan News FHD
+http://nunoborn.net:80/live/117318431/N414v6186V/483.m3u8
+#EXTINF:-1 tvg-id="Jpnews.br" tvg-name="Jovem Pan News UHD" tvg-logo="http://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png" group-title="Canais | Noticias",Jovem Pan News UHD
+http://nunoborn.net:80/live/117318431/N414v6186V/21221.m3u8
+#EXTINF:-1 tvg-id="Jpnews.br" tvg-name="Jovem Pan News HD" tvg-logo="http://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png" group-title="Canais | Noticias",Jovem Pan News HD
+http://nunoborn.net:80/live/117318431/N414v6186V/482.m3u8
+#EXTINF:-1 tvg-id="Jpnews.br" tvg-name="Jovem Pan News H265" tvg-logo="http://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png" group-title="Canais | Noticias",Jovem Pan News H265
+http://nunoborn.net:80/live/117318431/N414v6186V/118890.m3u8
+#EXTINF:-1 tvg-id="Jpnews.br" tvg-name="Jovem Pan News SD" tvg-logo="http://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png" group-title="Canais | Noticias",Jovem Pan News SD
+http://nunoborn.net:80/live/117318431/N414v6186V/481.m3u8
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDNEWS.png" group-title="Canais | Noticias",Record News FHD
+http://nunoborn.net:80/live/117318431/N414v6186V/488.m3u8
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News HD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDNEWS.png" group-title="Canais | Noticias",Record News HD
+http://nunoborn.net:80/live/117318431/N414v6186V/486.m3u8
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News HD²" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDNEWS.png" group-title="Canais | Noticias",Record News HD²
+http://nunoborn.net:80/live/117318431/N414v6186V/487.m3u8
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News SD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDNEWS.png" group-title="Canais | Noticias",Record News SD
+http://nunoborn.net:80/live/117318431/N414v6186V/485.m3u8
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="NHK HD" tvg-logo="http://beststorage4you.com:80/logoscanais/NHKWORLDJAPAN.png" group-title="Canais | Noticias",NHK HD
+http://nunoborn.net:80/live/117318431/N414v6186V/234279.m3u8
+#EXTINF:-1 tvg-name="TV SENADO" tvg-logo="http://beststorage4you.com:80/logoscanais/TVSENADO.png" group-title="Canais | Noticias",TV SENADO
+http://nunoborn.net:80/live/117318431/N414v6186V/368850.m3u8
+#EXTINF:-1 tvg-name="TV CÂMARA FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/TVCAMARA.png" group-title="Canais | Noticias",TV CÂMARA FHD
+http://nunoborn.net:80/live/117318431/N414v6186V/368851.m3u8
+#EXTINF:-1 tvg-name="Jornal da Paraiba" tvg-logo="http://beststorage4you.com:80/logoscanais/parnaiba.png" group-title="Canais | Noticias",Jornal da Paraiba
+http://nunoborn.net:80/live/117318431/N414v6186V/537631.m3u8
 
 
-#EXTINF:-1 tvg-id="FOX" tvg-name="Band News FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/y8ucbm.png" group-title="CANAIS JORNALISMO",Band News FHD
-http://berinjelafrita.agency:80/live/052401/fu@sionp2@/1263120.m3u8
-#EXTINF:-1 tvg-id="BandNews.br" tvg-name="Band News HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/y8ucbm.png" group-title="CANAIS JORNALISMO",Band News HD
-http://berinjelafrita.agency:80/live/052401/fu@sionp2@/1263119.m3u8
-#EXTINF:-1 tvg-id="BandNews.br" tvg-name="Band News SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/y8ucbm.png" group-title="CANAIS JORNALISMO",Band News SD
-http://berinjelafrita.agency:80/live/052401/fu@sionp2@/1263118.m3u8
-#EXTINF:-1 tvg-id="FOX" tvg-name="CNN - Brasil FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/TplZPj.png" group-title="CANAIS JORNALISMO",CNN - Brasil FHD
-http://berinjelafrita.agency:80/live/052401/fu@sionp2@/1263123.m3u8
-#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN - Brasil HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/TplZPj.png" group-title="CANAIS JORNALISMO",CNN - Brasil HD
-http://berinjelafrita.agency:80/live/052401/fu@sionp2@/1263122.m3u8
-#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN - Brasil SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/TplZPj.png" group-title="CANAIS JORNALISMO",CNN - Brasil SD
-http://berinjelafrita.agency:80/live/052401/fu@sionp2@/1263121.m3u8
-#EXTINF:-1 tvg-id="FOX" tvg-name="Globo News FHD" tvg-logo="https://imagizer.imageshack.com/v2/1280x1024q90/921/gIgONl.png" group-title="CANAIS JORNALISMO",Globo News FHD
-http://berinjelafrita.agency:80/live/052401/fu@sionp2@/1263126.m3u8
-#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News HD" tvg-logo="https://imagizer.imageshack.com/v2/1280x1024q90/921/gIgONl.png" group-title="CANAIS JORNALISMO",Globo News HD
-http://berinjelafrita.agency:80/live/052401/fu@sionp2@/1263125.m3u8
-#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News SD" tvg-logo="https://imagizer.imageshack.com/v2/1280x1024q90/921/gIgONl.png" group-title="CANAIS JORNALISMO",Globo News SD
-http://berinjelafrita.agency:80/live/052401/fu@sionp2@/1263124.m3u8
-#EXTINF:-1 tvg-name="Jovem Pan News FHD" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/HYYaNf.png" group-title="CANAIS JORNALISMO",Jovem Pan News FHD
-http://berinjelafrita.agency:80/live/052401/fu@sionp2@/1263129.m3u8
-#EXTINF:-1 tvg-name="Jovem Pan NEWS HD" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/HYYaNf.png" group-title="CANAIS JORNALISMO",Jovem Pan NEWS HD
-http://berinjelafrita.agency:80/live/052401/fu@sionp2@/1263128.m3u8
-#EXTINF:-1 tvg-name="Jovem Pan News SD" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/HYYaNf.png" group-title="CANAIS JORNALISMO",Jovem Pan News SD
-http://berinjelafrita.agency:80/live/052401/fu@sionp2@/1263127.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-name="ANTENA 1" tvg-logo="https://uploaddeimagens.com.br/images/003/434/770/full/radios.png" group-title="RADIOS PELO MUNDO",ANTENA 1
-http://berinjelafrita.agency:80/live/052401/fu@sionp2@/147084.m3u8
-#EXTINF:-1 tvg-name="BAND FIM 96,1" tvg-logo="https://uploaddeimagens.com.br/images/003/434/770/full/radios.png" group-title="RADIOS PELO MUNDO",1
-http://berinjelafrita.agency:80/live/052401/fu@sionp2@/147090.m3u8
-#EXTINF:-1 tvg-name="FM O DIA - 100,5 RJ" tvg-logo="http://voxp2p.xyz:80/images/09b25342cd6c6394a4cbec68ac461df2.png" group-title="RADIOS PELO MUNDO",5 RJ
-http://berinjelafrita.agency:80/live/052401/fu@sionp2@/147085.m3u8
-#EXTINF:-1 tvg-name="GAZETA FM 88,1" tvg-logo="https://uploaddeimagens.com.br/images/003/434/770/full/radios.png" group-title="RADIOS PELO MUNDO",1
-http://berinjelafrita.agency:80/live/052401/fu@sionp2@/147093.m3u8
-#EXTINF:-1 tvg-name="JOVEM PAN" tvg-logo="https://uploaddeimagens.com.br/images/003/434/770/full/radios.png" group-title="RADIOS PELO MUNDO",JOVEM PAN
-http://berinjelafrita.agency:80/live/052401/fu@sionp2@/147070.m3u8
-#EXTINF:-1 tvg-name="RADIO DISNEY FM" tvg-logo="https://uploaddeimagens.com.br/images/003/434/770/full/radios.png" group-title="RADIOS PELO MUNDO",RADIO DISNEY FM
-http://berinjelafrita.agency:80/live/052401/fu@sionp2@/147088.m3u8
-#EXTINF:-1 tvg-name="RADIO GLOBO FM 94,1" tvg-logo="https://uploaddeimagens.com.br/images/003/434/770/full/radios.png" group-title="RADIOS PELO MUNDO",1
-http://berinjelafrita.agency:80/live/052401/fu@sionp2@/147095.m3u8
-#EXTINF:-1 tvg-name="RADIO MIX FM SP" tvg-logo="https://uploaddeimagens.com.br/images/003/434/770/full/radios.png" group-title="RADIOS PELO MUNDO",RADIO MIX FM SP
-http://berinjelafrita.agency:80/live/052401/fu@sionp2@/147087.m3u8
-#EXTINF:-1 tvg-name="TOP FM 104,1" tvg-logo="https://uploaddeimagens.com.br/images/003/434/770/full/radios.png" group-title="RADIOS PELO MUNDO",1
-http://berinjelafrita.agency:80/live/052401/fu@sionp2@/147091.m3u8
-#EXTINF:-1 tvg-name="TROPICAL FM 107,9" tvg-logo="https://uploaddeimagens.com.br/images/003/434/770/full/radios.png" group-title="RADIOS PELO MUNDO",9
-http://berinjelafrita.agency:80/live/052401/fu@sionp2@/147086.m3u8
+#EXTINF:-1 tvg-name="IT- SKY SPORTS MOTO GP" tvg-logo="https://img.sport-tv-guide.live/images/stations/a360.png" group-title="Canais | Italia",IT- SKY SPORTS MOTO GP
+http://nunoborn.net:80/live/117318431/N414v6186V/121581.m3u8
+#EXTINF:-1 tvg-name="DEPORTE | BEIN SPORTS ING HD" tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="Canais | Italia",DEPORTE | BEIN SPORTS ING HD
+http://nunoborn.net:80/live/117318431/N414v6186V/234250.m3u8
+#EXTINF:-1 tvg-name="DEPORTE | LA LIGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaLiga_Santander.svg/1200px-LaLiga_Santander.svg.png" group-title="Canais | Italia",DEPORTE | LA LIGA HD
+http://nunoborn.net:80/live/117318431/N414v6186V/234253.m3u8
+#EXTINF:-1 tvg-name="DEPORTE | MLB HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="Canais | Italia",DEPORTE | MLB HD
+http://nunoborn.net:80/live/117318431/N414v6186V/234254.m3u8
+#EXTINF:-1 tvg-name="DEPORTE | FOX SPORTS 1 HD sur" tvg-logo="http://beststorage4you.com:80/logoscanais/FOXSPORTS.png" group-title="Canais | Italia",DEPORTE | FOX SPORTS 1 HD sur
+http://nunoborn.net:80/live/117318431/N414v6186V/234259.m3u8
+#EXTINF:-1 tvg-name="DEPORTE | FOX SPORTS 2 HD sur" tvg-logo="http://beststorage4you.com:80/logoscanais/FOXSPORTS.png" group-title="Canais | Italia",DEPORTE | FOX SPORTS 2 HD sur
+http://nunoborn.net:80/live/117318431/N414v6186V/234261.m3u8
+#EXTINF:-1 tvg-name="DEPORTE | FOX SPORTS 3 HD sur" tvg-logo="http://beststorage4you.com:80/logoscanais/FOXSPORTS.png" group-title="Canais | Italia",DEPORTE | FOX SPORTS 3 HD sur
+http://nunoborn.net:80/live/117318431/N414v6186V/234264.m3u8
+#EXTINF:-1 tvg-name="DEPORTE | FOX SPORTS 1 HD mx" tvg-logo="http://beststorage4you.com:80/logoscanais/FOXSPORTS.png" group-title="Canais | Italia",DEPORTE | FOX SPORTS 1 HD mx
+http://nunoborn.net:80/live/117318431/N414v6186V/234266.m3u8
+#EXTINF:-1 tvg-name="DEPORTE | CDF HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/CDF-Turner_LOGO_2019.jpg" group-title="Canais | Italia",DEPORTE | CDF HD
+http://nunoborn.net:80/live/117318431/N414v6186V/234277.m3u8
+#EXTINF:-1 tvg-name="DEPORTE | FUTV TV HD" tvg-logo="https://www.larepublica.net/storage/images/2020/07/20/20200720191227.20200709160812futv.jpg" group-title="Canais | Italia",DEPORTE | FUTV TV HD
+http://nunoborn.net:80/live/117318431/N414v6186V/234284.m3u8
+#EXTINF:-1 tvg-name="DEPORTE | TYC SPORTS FHD" tvg-logo="https://bc.marfeel.com/statics/www.tycsports.com/index/logo.png" group-title="Canais | Italia",DEPORTE | TYC SPORTS FHD
+http://nunoborn.net:80/live/117318431/N414v6186V/234286.m3u8
+#EXTINF:-1 tvg-name="DEPORTE | TENNIS CHANNEL" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tennischannel.png" group-title="Canais | Italia",DEPORTE | TENNIS CHANNEL
+http://nunoborn.net:80/live/117318431/N414v6186V/234288.m3u8
