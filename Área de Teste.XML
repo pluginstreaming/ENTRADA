@@ -1,32 +1,54 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FOX NEWS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Fox_News_Channel_II_%28Print%29.svg/revision/latest/smart/width/371/height/332?cb=20180503044955" group-title="NOTICIAS",FOX NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aasd.fun:80/1234567/1234567/3682362
-#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BAND NEWS FHD" tvg-logo="https://img.inboxbr.pro/icones_channels/band-news.png" group-title="NOTICIAS",BAND NEWS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aasd.fun:80/1234567/1234567/3953377
-#EXTINF:-1 tvg-name="BAND NEWS HD" tvg-logo="https://img.inboxbr.pro/icones_channels/band-news.png" group-title="NOTICIAS",BAND NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aasd.fun:80/1234567/1234567/3953378
-#EXTINF:-1 tvg-name="BAND NEWS SD" tvg-logo="https://img.inboxbr.pro/icones_channels/band-news.png" group-title="NOTICIAS",BAND NEWS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aasd.fun:80/1234567/1234567/3953379
-#EXTINF:-1 tvg-id="br#globo-news-hd" tvg-name="GLOBO NEWS FHD" tvg-logo="https://img.inboxbr.pro/icones_channels/globonews.png" group-title="NOTICIAS",GLOBO NEWS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aasd.fun:80/1234567/1234567/3953641
-#EXTINF:-1 tvg-id="br#globo-news-hd" tvg-name="GLOBO NEWS HD" tvg-logo="https://img.inboxbr.pro/icones_channels/globonews.png" group-title="NOTICIAS",GLOBO NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aasd.fun:80/1234567/1234567/3953642
-#EXTINF:-1 tvg-id="br#globo-news-hd" tvg-name="GLOBO NEWS SD" tvg-logo="https://img.inboxbr.pro/icones_channels/globonews.png" group-title="NOTICIAS",GLOBO NEWS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aasd.fun:80/1234567/1234567/3953643
-#EXTINF:-1 tvg-name="JOVEM PAN NEWS FHD" tvg-logo="https://img.inboxbr.pro/icones_channels/jp-news-horizontal.png" group-title="NOTICIAS",JOVEM PAN NEWS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aasd.fun:80/1234567/1234567/3953860
-#EXTINF:-1 tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://img.inboxbr.pro/icones_channels/jp-news-horizontal.png" group-title="NOTICIAS",JOVEM PAN NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aasd.fun:80/1234567/1234567/3953861
-#EXTINF:-1 tvg-name="JOVEM PAN NEWS SD" tvg-logo="https://img.inboxbr.pro/icones_channels/jp-news-horizontal.png" group-title="NOTICIAS",JOVEM PAN NEWS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aasd.fun:80/1234567/1234567/3953862
-#EXTINF:-1 tvg-id="br#cnn-brasil-1" tvg-name="CNN BRASIL FHD" tvg-logo="https://img.inboxbr.pro/icones_channels/cnn-brasil.png" group-title="NOTICIAS",CNN BRASIL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aasd.fun:80/1234567/1234567/3953428
-#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL HD" tvg-logo="https://img.inboxbr.pro/icones_channels/cnn-brasil.png" group-title="NOTICIAS",CNN BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aasd.fun:80/1234567/1234567/3953429
-#EXTINF:-1 tvg-id="br#cnn-brasil-1" tvg-name="CNN BRASIL SD" tvg-logo="https://img.inboxbr.pro/icones_channels/cnn-brasil.png" group-title="NOTICIAS",CNN BRASIL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aasd.fun:80/1234567/1234567/3953430
+
+
+#EXTINF:-1 tvg-id="FOX" tvg-name="Band News FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/y8ucbm.png" group-title="CANAIS JORNALISMO",Band News FHD
+http://berinjelafrita.agency:80/live/052401/fu@sionp2@/1263120.m3u8
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="Band News HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/y8ucbm.png" group-title="CANAIS JORNALISMO",Band News HD
+http://berinjelafrita.agency:80/live/052401/fu@sionp2@/1263119.m3u8
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="Band News SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/y8ucbm.png" group-title="CANAIS JORNALISMO",Band News SD
+http://berinjelafrita.agency:80/live/052401/fu@sionp2@/1263118.m3u8
+#EXTINF:-1 tvg-id="FOX" tvg-name="CNN - Brasil FHD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/TplZPj.png" group-title="CANAIS JORNALISMO",CNN - Brasil FHD
+http://berinjelafrita.agency:80/live/052401/fu@sionp2@/1263123.m3u8
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN - Brasil HD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/TplZPj.png" group-title="CANAIS JORNALISMO",CNN - Brasil HD
+http://berinjelafrita.agency:80/live/052401/fu@sionp2@/1263122.m3u8
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN - Brasil SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/TplZPj.png" group-title="CANAIS JORNALISMO",CNN - Brasil SD
+http://berinjelafrita.agency:80/live/052401/fu@sionp2@/1263121.m3u8
+#EXTINF:-1 tvg-id="FOX" tvg-name="Globo News FHD" tvg-logo="https://imagizer.imageshack.com/v2/1280x1024q90/921/gIgONl.png" group-title="CANAIS JORNALISMO",Globo News FHD
+http://berinjelafrita.agency:80/live/052401/fu@sionp2@/1263126.m3u8
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News HD" tvg-logo="https://imagizer.imageshack.com/v2/1280x1024q90/921/gIgONl.png" group-title="CANAIS JORNALISMO",Globo News HD
+http://berinjelafrita.agency:80/live/052401/fu@sionp2@/1263125.m3u8
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News SD" tvg-logo="https://imagizer.imageshack.com/v2/1280x1024q90/921/gIgONl.png" group-title="CANAIS JORNALISMO",Globo News SD
+http://berinjelafrita.agency:80/live/052401/fu@sionp2@/1263124.m3u8
+#EXTINF:-1 tvg-name="Jovem Pan News FHD" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/HYYaNf.png" group-title="CANAIS JORNALISMO",Jovem Pan News FHD
+http://berinjelafrita.agency:80/live/052401/fu@sionp2@/1263129.m3u8
+#EXTINF:-1 tvg-name="Jovem Pan NEWS HD" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/HYYaNf.png" group-title="CANAIS JORNALISMO",Jovem Pan NEWS HD
+http://berinjelafrita.agency:80/live/052401/fu@sionp2@/1263128.m3u8
+#EXTINF:-1 tvg-name="Jovem Pan News SD" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/HYYaNf.png" group-title="CANAIS JORNALISMO",Jovem Pan News SD
+http://berinjelafrita.agency:80/live/052401/fu@sionp2@/1263127.m3u8
 
 
 
+
+
+#EXTINF:-1 tvg-name="ANTENA 1" tvg-logo="https://uploaddeimagens.com.br/images/003/434/770/full/radios.png" group-title="RADIOS PELO MUNDO",ANTENA 1
+http://berinjelafrita.agency:80/live/052401/fu@sionp2@/147084.m3u8
+#EXTINF:-1 tvg-name="BAND FIM 96,1" tvg-logo="https://uploaddeimagens.com.br/images/003/434/770/full/radios.png" group-title="RADIOS PELO MUNDO",1
+http://berinjelafrita.agency:80/live/052401/fu@sionp2@/147090.m3u8
+#EXTINF:-1 tvg-name="FM O DIA - 100,5 RJ" tvg-logo="http://voxp2p.xyz:80/images/09b25342cd6c6394a4cbec68ac461df2.png" group-title="RADIOS PELO MUNDO",5 RJ
+http://berinjelafrita.agency:80/live/052401/fu@sionp2@/147085.m3u8
+#EXTINF:-1 tvg-name="GAZETA FM 88,1" tvg-logo="https://uploaddeimagens.com.br/images/003/434/770/full/radios.png" group-title="RADIOS PELO MUNDO",1
+http://berinjelafrita.agency:80/live/052401/fu@sionp2@/147093.m3u8
+#EXTINF:-1 tvg-name="JOVEM PAN" tvg-logo="https://uploaddeimagens.com.br/images/003/434/770/full/radios.png" group-title="RADIOS PELO MUNDO",JOVEM PAN
+http://berinjelafrita.agency:80/live/052401/fu@sionp2@/147070.m3u8
+#EXTINF:-1 tvg-name="RADIO DISNEY FM" tvg-logo="https://uploaddeimagens.com.br/images/003/434/770/full/radios.png" group-title="RADIOS PELO MUNDO",RADIO DISNEY FM
+http://berinjelafrita.agency:80/live/052401/fu@sionp2@/147088.m3u8
+#EXTINF:-1 tvg-name="RADIO GLOBO FM 94,1" tvg-logo="https://uploaddeimagens.com.br/images/003/434/770/full/radios.png" group-title="RADIOS PELO MUNDO",1
+http://berinjelafrita.agency:80/live/052401/fu@sionp2@/147095.m3u8
+#EXTINF:-1 tvg-name="RADIO MIX FM SP" tvg-logo="https://uploaddeimagens.com.br/images/003/434/770/full/radios.png" group-title="RADIOS PELO MUNDO",RADIO MIX FM SP
+http://berinjelafrita.agency:80/live/052401/fu@sionp2@/147087.m3u8
+#EXTINF:-1 tvg-name="TOP FM 104,1" tvg-logo="https://uploaddeimagens.com.br/images/003/434/770/full/radios.png" group-title="RADIOS PELO MUNDO",1
+http://berinjelafrita.agency:80/live/052401/fu@sionp2@/147091.m3u8
+#EXTINF:-1 tvg-name="TROPICAL FM 107,9" tvg-logo="https://uploaddeimagens.com.br/images/003/434/770/full/radios.png" group-title="RADIOS PELO MUNDO",9
+http://berinjelafrita.agency:80/live/052401/fu@sionp2@/147086.m3u8
