@@ -1,3 +1,32 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://images2.imgbox.com/a8/9a/vK6Bkhet_o.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
-http://mainddnsplaytk.space:80/xnpq83rg/e8k9ddpw/715|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/113.0.0.0%20Safari/537.36
+
+
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FOX NEWS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Fox_News_Channel_II_%28Print%29.svg/revision/latest/smart/width/371/height/332?cb=20180503044955" group-title="NOTICIAS",FOX NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aasd.fun:80/1234567/1234567/3682362
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BAND NEWS FHD" tvg-logo="https://img.inboxbr.pro/icones_channels/band-news.png" group-title="NOTICIAS",BAND NEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aasd.fun:80/1234567/1234567/3953377
+#EXTINF:-1 tvg-name="BAND NEWS HD" tvg-logo="https://img.inboxbr.pro/icones_channels/band-news.png" group-title="NOTICIAS",BAND NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aasd.fun:80/1234567/1234567/3953378
+#EXTINF:-1 tvg-name="BAND NEWS SD" tvg-logo="https://img.inboxbr.pro/icones_channels/band-news.png" group-title="NOTICIAS",BAND NEWS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aasd.fun:80/1234567/1234567/3953379
+#EXTINF:-1 tvg-id="br#globo-news-hd" tvg-name="GLOBO NEWS FHD" tvg-logo="https://img.inboxbr.pro/icones_channels/globonews.png" group-title="NOTICIAS",GLOBO NEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aasd.fun:80/1234567/1234567/3953641
+#EXTINF:-1 tvg-id="br#globo-news-hd" tvg-name="GLOBO NEWS HD" tvg-logo="https://img.inboxbr.pro/icones_channels/globonews.png" group-title="NOTICIAS",GLOBO NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aasd.fun:80/1234567/1234567/3953642
+#EXTINF:-1 tvg-id="br#globo-news-hd" tvg-name="GLOBO NEWS SD" tvg-logo="https://img.inboxbr.pro/icones_channels/globonews.png" group-title="NOTICIAS",GLOBO NEWS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aasd.fun:80/1234567/1234567/3953643
+#EXTINF:-1 tvg-name="JOVEM PAN NEWS FHD" tvg-logo="https://img.inboxbr.pro/icones_channels/jp-news-horizontal.png" group-title="NOTICIAS",JOVEM PAN NEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aasd.fun:80/1234567/1234567/3953860
+#EXTINF:-1 tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://img.inboxbr.pro/icones_channels/jp-news-horizontal.png" group-title="NOTICIAS",JOVEM PAN NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aasd.fun:80/1234567/1234567/3953861
+#EXTINF:-1 tvg-name="JOVEM PAN NEWS SD" tvg-logo="https://img.inboxbr.pro/icones_channels/jp-news-horizontal.png" group-title="NOTICIAS",JOVEM PAN NEWS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aasd.fun:80/1234567/1234567/3953862
+#EXTINF:-1 tvg-id="br#cnn-brasil-1" tvg-name="CNN BRASIL FHD" tvg-logo="https://img.inboxbr.pro/icones_channels/cnn-brasil.png" group-title="NOTICIAS",CNN BRASIL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aasd.fun:80/1234567/1234567/3953428
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL HD" tvg-logo="https://img.inboxbr.pro/icones_channels/cnn-brasil.png" group-title="NOTICIAS",CNN BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aasd.fun:80/1234567/1234567/3953429
+#EXTINF:-1 tvg-id="br#cnn-brasil-1" tvg-name="CNN BRASIL SD" tvg-logo="https://img.inboxbr.pro/icones_channels/cnn-brasil.png" group-title="NOTICIAS",CNN BRASIL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aasd.fun:80/1234567/1234567/3953430
+
+
+
