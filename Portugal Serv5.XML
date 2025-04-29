@@ -1,249 +1,315 @@
-#EXTM3U
+EXTM3U
 
 
 
 
-#EXTINF:-1 tvg-name="PT: A BOLA TV ( 4K )" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: A BOLA TV ( 4K )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307471
-#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="PT: A Bola TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: A Bola TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307927
-#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="PT: A BOLA TV*" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: A BOLA TV*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/297187
-#EXTINF:-1 tvg-id="benficatv.pt" tvg-name="PT: BTV 4K" tvg-logo="https://curl.pk/img/u/223787d64eb754b15c80b04558a11332452.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: BTV 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307464
-#EXTINF:-1 tvg-id="1plus1.pt" tvg-name="PT: BTV 1 FHD*" tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: BTV 1 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/297190
-#EXTINF:-1 tvg-id="1plus1.pt" tvg-name="PT: BTV 1 HD" tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: BTV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/297189
-#EXTINF:-1 tvg-id="1plus1.pt" tvg-name="PT: BTV 1 SD*" tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: BTV 1 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/297188
-#EXTINF:-1 tvg-name="PT: BTV HD*" tvg-logo="https://curl.pk/img/u/223787d64eb754b15c80b04558a11332452.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: BTV HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307953
-#EXTINF:-1 tvg-name="PT: BTV SD" tvg-logo="https://curl.pk/img/u/223787d64eb754b15c80b04558a11332452.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: BTV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307952
-#EXTINF:-1 tvg-name="PT: Canal 11 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/11509750541.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Canal 11 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307925
-#EXTINF:-1 tvg-id="canal11.pt" tvg-name="PT | Canal 11 FHD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/11509750541.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT | Canal 11 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/306948
-#EXTINF:-1 tvg-id="canal11.pt" tvg-name="PT: CANAL 11" tvg-logo="https://img-cdn.curl.pk/channels_icon/11509750541.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: CANAL 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307409
-#EXTINF:-1 tvg-name="PT: Combat FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/67073602011.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Combat FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307976
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1 4K" tvg-logo="https://img-cdn.curl.pk/channels_icon/35068844511.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 1 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307438
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/35068844511.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/116716
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: Eleven Sports 1 FHD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/90929690281.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports 1 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307954
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/35068844511.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/53994
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: Eleven Sports 1 HD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/90921186001.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports 1 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307955
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1 SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/35068844511.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/53993
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: Eleven Sports SD 1*" tvg-logo="https://img-cdn.curl.pk/channels_icon/35068844511.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports SD 1*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307956
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 2 4K" tvg-logo="https://img-cdn.curl.pk/channels_icon/26437584021.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 2 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307115
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/26437584021.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/53996
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: Eleven Sports 2 FHD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/26437584021.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports 2 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307959
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS  2 FHD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/26437584021.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS  2 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/297178
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: Eleven Sports 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/66406572981.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307957
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: Eleven Sports 2 HD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/59228469501.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports 2 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307958
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2 SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/26437584021.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/53995
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORTS 3 SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/80528221451.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/53998
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORTS 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/53999
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORTS 3 FHD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/92758271991.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 3 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307962
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/54000
-#EXTINF:-1 tvg-name="PT: Eleven Sports 3 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/21480419701.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307961
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORTS 3 SD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/80528221451.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 3 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307960
-#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/54002
-#EXTINF:-1 tvg-name="Pt: Eleven Sports 4 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/55288435571.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",Pt: Eleven Sports 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307964
-#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/54003
-#EXTINF:-1 tvg-name="PT: Eleven Sports 4 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/33447846561.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307965
-#EXTINF:-1 tvg-name="Pt: Eleven Sports 4" tvg-logo="https://img-cdn.curl.pk/channels_icon/55246952831.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",Pt: Eleven Sports 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307963
-#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/54001
-#EXTINF:-1 tvg-name="PT: Eleven Sports 6 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/56263321141.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307971
-#EXTINF:-1 tvg-name="Pt: Eleven Sports 6" tvg-logo="https://img-cdn.curl.pk/channels_icon/75473299161.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",Pt: Eleven Sports 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307969
-#EXTINF:-1 tvg-name="PT: Eleven Sports 6 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/36475233501.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307970
-#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/54005
-#EXTINF:-1 tvg-name="PT: Eleven Sports 5 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/13816943561.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307968
-#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/54006
-#EXTINF:-1 tvg-name="PT: Eleven Sports 5 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/47038704951.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307967
-#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/54004
-#EXTINF:-1 tvg-name="PT : Eleven Sports 5" tvg-logo="https://img-cdn.curl.pk/channels_icon/80858478501.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT : Eleven Sports 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307966
-#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 6 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/54008
-#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/54009
-#EXTINF:-1 tvg-name="PT: ELEVEN SPORTS 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/54007
-#EXTINF:-1 tvg-name="PT: EUROSPORT 1 HD*" tvg-logo="http://i.imgur.com/x4ZTqDJ.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: EUROSPORT 1 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/297193
-#EXTINF:-1 tvg-name="PT: EUROSPORT 1 SD*" tvg-logo="http://i.imgur.com/x4ZTqDJ.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: EUROSPORT 1 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/297192
-#EXTINF:-1 tvg-name="PT: EUROSPORT 2 SD*" tvg-logo="http://i.imgur.com/x4ZTqDJ.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: EUROSPORT 2 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/297191
-#EXTINF:-1 tvg-name="PT: Eurosports 1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/84682087451.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eurosports 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307973
-#EXTINF:-1 tvg-name="PT: Eurosports 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/29719204421.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eurosports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307974
-#EXTINF:-1 tvg-name="PT: FIGHT NETWORK FHD*" tvg-logo="http://i.imgur.com/jH4yzdq.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: FIGHT NETWORK FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/297179
-#EXTINF:-1 tvg-name="PT: Motorvision FHD" tvg-logo="https://curl.pk/img/u/1e770b9d24c77bdf5f69209093b609888701.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Motorvision FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307978
-#EXTINF:-1 tvg-name="PT: MOTORVISION HD*" tvg-logo="http://i.imgur.com/3eBdDsv.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: MOTORVISION HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/297185
-#EXTINF:-1 tvg-name="PT: PFC HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/71471791891.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: PFC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307975
-#EXTINF:-1 tvg-name="PT: PFC SD*" tvg-logo="http://i.imgur.com/UlwiI1v.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: PFC SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/297186
-#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="PT: SPORTING TV FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/96737784111.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORTING TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307462
-#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="PT | Sporting TV FHD" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT | Sporting TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/306991
-#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="PT: SPORTING TV SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/96737784111.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORTING TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307463
-#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="PT: SPORTING TV" tvg-logo="https://img-cdn.curl.pk/channels_icon/96737784111.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORTING TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307972
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: SPORT TV 1 4K" tvg-logo="https://img-cdn.curl.pk/channels_icon/42194239471.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 1 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307416
-#EXTINF:-1 tvg-name="PT: Sport TV 1 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/42194239471.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307936
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 FHD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/42194239471.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 1 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307413
-#EXTINF:-1 tvg-name="PT: Sport TV + HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/37029653971.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV + HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307933
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 HD**" tvg-logo="https://img-cdn.curl.pk/channels_icon/42194239471.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 1 HD**
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307414
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: Sport TV 1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/99548243601.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307935
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 SD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/63958668851.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 1 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307934
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/42194239471.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307415
-#EXTINF:-1 tvg-name="PT: SPORT TV*" tvg-logo="http://i.imgur.com/FknzN2L.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/297174
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2 4K" tvg-logo="https://img-cdn.curl.pk/channels_icon/58849997341.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 2 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307098
-#EXTINF:-1 tvg-name="PT: Sport TV 2 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/73219314261.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307939
-#EXTINF:-1 tvg-name="PT: Sport TV 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/60781612131.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307938
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2 HD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/58849997341.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 2 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307418
-#EXTINF:-1 tvg-name="Pt: Sport TV 2 SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/58849997341.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",Pt: Sport TV 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307937
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: Sport TV 3 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/94780071621.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/306962
-#EXTINF:-1 tvg-name="PT: Sport TV 3 FHD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/94780071621.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 3 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307942
-#EXTINF:-1 tvg-name="PT: Sport TV 3 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/71272654001.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307941
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 HD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/71272654001.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 3 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307423
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 LOW*" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 3 LOW*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/293485
-#EXTINF:-1 tvg-name="PT: SPORT TV+ LOW*" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV+ LOW*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/293482
-#EXTINF:-1 tvg-name="Pt: Sport TV 3 SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/30700435421.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",Pt: Sport TV 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307940
-#EXTINF:-1 tvg-id="sporttv4k.pt" tvg-name="PT: SPORT TV 4 4K" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 4 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307426
-#EXTINF:-1 tvg-name="PT: Sport TV 4 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/92632581301.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307945
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT: SPORT TV 4 FHD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/92632581301.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 4 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/297176
-#EXTINF:-1 tvg-name="PT: Sport TV 4 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/93955074211.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307944
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: SPORT TV 4 HD*" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 4 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/297181
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT: SPORT TV 4 LOW*" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 4 LOW*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/293484
-#EXTINF:-1 tvg-name="PT: Sport TV 4 SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/98962157641.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 4 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307943
-#EXTINF:-1 tvg-name="PT: Sport TV 5 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/32589196211.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307948
-#EXTINF:-1 tvg-name="PT: SPORT TV  5 FHD*" tvg-logo="http://i.imgur.com/FknzN2L.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV  5 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/297175
-#EXTINF:-1 tvg-name="PT: Sport TV 5 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/28051143461.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307947
-#EXTINF:-1 tvg-name="PT: SPORT TV 5 HD *" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 5 HD *
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/297180
-#EXTINF:-1 tvg-name="PT: SPORT TV 5 LOW*" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 5 LOW*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/293483
-#EXTINF:-1 tvg-name="Pt: Sport TV 5 SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/13350691591.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",Pt: Sport TV 5 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307946
-#EXTINF:-1 tvg-name="PT: Sport TV 6 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/41422634401.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307950
-#EXTINF:-1 tvg-name="PT: Sport TV 6 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/62783331421.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307949
-#EXTINF:-1 tvg-name="PT: SPORT TV NBA FHD*" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV NBA FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/297194
-#EXTINF:-1 tvg-name="PT: Sport TV Nba HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/15105191281.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV Nba HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307951
-#EXTINF:-1 tvg-name="IT: Eurosport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Eurosport_1_Logo.jpg" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",IT: Eurosport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/281368
-#EXTINF:-1 tvg-name="IT: Eurosport 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",IT: Eurosport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/281367
-#EXTINF:-1 tvg-name="IT: FOX Sport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",IT: FOX Sport HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/281317
-#EXTINF:-1 tvg-name="IT: Juventus TV" tvg-logo="https://cdn.images.express.co.uk/img/dynamic/67/750x445/1369322.jpg" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",IT: Juventus TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/281328
-#EXTINF:-1 tvg-name="IT: Premium Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Tv-2-sport-premium.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",IT: Premium Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/281308
-#EXTINF:-1 tvg-name="IT: Premium Sport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Tv-2-sport-premium.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",IT: Premium Sport HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/281330
-#EXTINF:-1 tvg-name="IT: Rai Sport 1" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/Rai_Sport_1_2010.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",IT: Rai Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/281351
-#EXTINF:-1 tvg-name="IT: Rai Sport2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Rai_Sport_2_Logo_2010.svg/1200px-Rai_Sport_2_Logo_2010.svg.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",IT: Rai Sport2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/281350
-#EXTINF:-1 tvg-name="IT: SKY F1 HD" tvg-logo="https://e3.365dm.com/tvlogos/channels/1306-Logo.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",IT: SKY F1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/281337
-#EXTINF:-1 tvg-name="IT: Sky Moto GP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/1200px-Sky_Group_logo_2020.svg.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",IT: Sky Moto GP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/281335
-#EXTINF:-1 tvg-name="IT: Sky Sport 2 HD" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/bltfa4a7a1ade21b554/5f6078716f40ab4648b5c543/Sky_Sports_PRIMARY_RGB.jpg" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",IT: Sky Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/281332
-#EXTINF:-1 tvg-name="IT: SKY SPORT 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Sky_Sport_24_-_Logo_2018.svg/1200px-Sky_Sport_24_-_Logo_2018.svg.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",IT: SKY SPORT 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/281303
-#EXTINF:-1 tvg-name="IT: Sky Sport 24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_24_-_Logo_2020.svg/1280px-Sky_Sport_24_-_Logo_2020.svg.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",IT: Sky Sport 24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/281334
-#EXTINF:-1 tvg-name="IT: Sky Sport 3 HD" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/d/d3/Sky_Sports3.png.png/revision/latest/scale-to-width-down/800?cb=20201225191804" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",IT: Sky Sport 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/281331
-#EXTINF:-1 tvg-name="IT: Sky Sport F1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1200px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",IT: Sky Sport F1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/281333
-#EXTINF:-1 tvg-name="IT: SKY TG 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Sky_TG24_-_Logo_2018.svg/1280px-Sky_TG24_-_Logo_2018.svg.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",IT: SKY TG 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/281304
-#EXTINF:-1 tvg-name="IT: SUPER TENNIS (Backup)" tvg-logo="http://en.mediasat.info/wp-content/uploads/2015/11/logo-supertennis.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",IT: SUPER TENNIS (Backup)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/281614
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2 SD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/26437584021.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 2 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307120
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2 SD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/58849997341.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 2 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7semfronteiras.cc:8080/918689439651/929220313704/307420
+#EXTINF:-1 tvg-name="PT: 24 Kitchen [FHD]" group-title="Canais | Portugal",PT: 24 Kitchen [FHD]
+http://detran.sbs:80/edufelix/glorinha/294036.ts
+#EXTINF:-1 tvg-name="PT: A Bola TV [FHD]" group-title="Canais | Portugal",PT: A Bola TV [FHD]
+http://detran.sbs:80/edufelix/glorinha/294079.ts
+#EXTINF:-1 tvg-name="PT: Afro Music Channel [SD]" group-title="Canais | Portugal",PT: Afro Music Channel [SD]
+http://detran.sbs:80/edufelix/glorinha/293997.ts
+#EXTINF:-1 tvg-name="PT: Alma Lusa [FHD]" group-title="Canais | Portugal",PT: Alma Lusa [FHD]
+http://detran.sbs:80/edufelix/glorinha/294037.ts
+#EXTINF:-1 tvg-name="PT: AMC Break [SD]" group-title="Canais | Portugal",PT: AMC Break [SD]
+http://detran.sbs:80/edufelix/glorinha/294072.ts
+#EXTINF:-1 tvg-name="PT: AMC Crime [HD]" group-title="Canais | Portugal",PT: AMC Crime [HD]
+http://detran.sbs:80/edufelix/glorinha/294073.ts
+#EXTINF:-1 tvg-name="PT: AMC [HD]" group-title="Canais | Portugal",PT: AMC [HD]
+http://detran.sbs:80/edufelix/glorinha/294015.ts
+#EXTINF:-1 tvg-name="PT: AR TV Canal Parlamento [SD]" group-title="Canais | Portugal",PT: AR TV Canal Parlamento [SD]
+http://detran.sbs:80/edufelix/glorinha/294008.ts
+#EXTINF:-1 tvg-name="PT: AXN Movies [FHD]" group-title="Canais | Portugal",PT: AXN Movies [FHD]
+http://detran.sbs:80/edufelix/glorinha/294017.ts
+#EXTINF:-1 tvg-name="PT: AXN White [FHD]" group-title="Canais | Portugal",PT: AXN White [FHD]
+http://detran.sbs:80/edufelix/glorinha/294018.ts
+#EXTINF:-1 tvg-name="PT: AXN [FHD]" group-title="Canais | Portugal",PT: AXN [FHD]
+http://detran.sbs:80/edufelix/glorinha/294016.ts
+#EXTINF:-1 tvg-name="PT: Baby TV [SD]" group-title="Canais | Portugal",PT: Baby TV [SD]
+http://detran.sbs:80/edufelix/glorinha/293975.ts
+#EXTINF:-1 tvg-name="PT: Benfica TV [FHD]" group-title="Canais | Portugal",PT: Benfica TV [FHD]
+http://detran.sbs:80/edufelix/glorinha/293989.ts
+#EXTINF:-1 tvg-name="PT: Biggs [FHD]" group-title="Canais | Portugal",PT: Biggs [FHD]
+http://detran.sbs:80/edufelix/glorinha/294038.ts
+#EXTINF:-1 tvg-name="PT: Blaze [HD]" group-title="Canais | Portugal",PT: Blaze [HD]
+http://detran.sbs:80/edufelix/glorinha/294039.ts
+#EXTINF:-1 tvg-name="PT: Bloomberg [SD]" group-title="Canais | Portugal",PT: Bloomberg [SD]
+http://detran.sbs:80/edufelix/glorinha/294009.ts
+#EXTINF:-1 tvg-name="PT: Bom Som Channel [FHD]" group-title="Canais | Portugal",PT: Bom Som Channel [FHD]
+http://detran.sbs:80/edufelix/glorinha/294080.ts
+#EXTINF:-1 tvg-name="PT: Boomerang [SD]" group-title="Canais | Portugal",PT: Boomerang [SD]
+http://detran.sbs:80/edufelix/glorinha/293976.ts
+#EXTINF:-1 tvg-name="PT: Campo Pequeno [HD]" group-title="Canais | Portugal",PT: Campo Pequeno [HD]
+http://detran.sbs:80/edufelix/glorinha/294081.ts
+#EXTINF:-1 tvg-name="PT: Canal 11 [FHD]" group-title="Canais | Portugal",PT: Canal 11 [FHD]
+http://detran.sbs:80/edufelix/glorinha/293990.ts
+#EXTINF:-1 tvg-name="PT: Canal 11 [FHD]" group-title="Canais | Portugal",PT: Canal 11 [FHD]
+http://detran.sbs:80/edufelix/glorinha/295725.ts
+#EXTINF:-1 tvg-name="PT: CANAL 180 [SD]" group-title="Canais | Portugal",PT: CANAL 180 [SD]
+http://detran.sbs:80/edufelix/glorinha/293998.ts
+#EXTINF:-1 tvg-name="PT: Canal Nos [FHD]" group-title="Canais | Portugal",PT: Canal Nos [FHD]
+http://detran.sbs:80/edufelix/glorinha/294019.ts
+#EXTINF:-1 tvg-name="PT: Canal Panda [HD]" group-title="Canais | Portugal",PT: Canal Panda [HD]
+http://detran.sbs:80/edufelix/glorinha/293977.ts
+#EXTINF:-1 tvg-name="PT: Canal Q [SD]" group-title="Canais | Portugal",PT: Canal Q [SD]
+http://detran.sbs:80/edufelix/glorinha/294040.ts
+#EXTINF:-1 tvg-name="PT: Cancao Nova [SD]" group-title="Canais | Portugal",PT: Cancao Nova [SD]
+http://detran.sbs:80/edufelix/glorinha/294041.ts
+#EXTINF:-1 tvg-name="PT: Cartoon Network [SD]" group-title="Canais | Portugal",PT: Cartoon Network [SD]
+http://detran.sbs:80/edufelix/glorinha/293978.ts
+#EXTINF:-1 tvg-name="PT: Cartoonito [SD]" group-title="Canais | Portugal",PT: Cartoonito [SD]
+http://detran.sbs:80/edufelix/glorinha/293979.ts
+#EXTINF:-1 tvg-name="PT: Casa e Cozinha [HD]" group-title="Canais | Portugal",PT: Casa e Cozinha [HD]
+http://detran.sbs:80/edufelix/glorinha/294042.ts
+#EXTINF:-1 tvg-name="PT: Caza y Pesca [HD]" group-title="Canais | Portugal",PT: Caza y Pesca [HD]
+http://detran.sbs:80/edufelix/glorinha/294069.ts
+#EXTINF:-1 tvg-name="PT: Caçavision [FHD]" group-title="Canais | Portugal",PT: Caçavision [FHD]
+http://detran.sbs:80/edufelix/glorinha/294068.ts
+#EXTINF:-1 tvg-name="PT: CBS Reality [HD]" group-title="Canais | Portugal",PT: CBS Reality [HD]
+http://detran.sbs:80/edufelix/glorinha/294043.ts
+#EXTINF:-1 tvg-name="PT: Cine Mundo [FHD]" group-title="Canais | Portugal",PT: Cine Mundo [FHD]
+http://detran.sbs:80/edufelix/glorinha/294020.ts
+#EXTINF:-1 tvg-name="PT: CM TV [FHD]" group-title="Canais | Portugal",PT: CM TV [FHD]
+http://detran.sbs:80/edufelix/glorinha/294010.ts
+#EXTINF:-1 tvg-name="PT: CNBC [SD]" group-title="Canais | Portugal",PT: CNBC [SD]
+http://detran.sbs:80/edufelix/glorinha/294082.ts
+#EXTINF:-1 tvg-name="PT: CNN Portugal [HD]" group-title="Canais | Portugal",PT: CNN Portugal [HD]
+http://detran.sbs:80/edufelix/glorinha/294011.ts
+#EXTINF:-1 tvg-name="PT: Combate [HD]" group-title="Canais | Portugal",PT: Combate [HD]
+http://detran.sbs:80/edufelix/glorinha/293991.ts
+#EXTINF:-1 tvg-name="PT: Combate [HD]" group-title="Canais | Portugal",PT: Combate [HD]
+http://detran.sbs:80/edufelix/glorinha/295726.ts
+#EXTINF:-1 tvg-name="PT: Crime District [SD]" group-title="Canais | Portugal",PT: Crime District [SD]
+http://detran.sbs:80/edufelix/glorinha/294074.ts
+#EXTINF:-1 tvg-name="PT: Crime+ Investigation [SD]" group-title="Canais | Portugal",PT: Crime+ Investigation [SD]
+http://detran.sbs:80/edufelix/glorinha/294075.ts
+#EXTINF:-1 tvg-name="PT: DAZN 1 [HD]" group-title="Canais | Portugal",PT: DAZN 1 [HD]
+http://detran.sbs:80/edufelix/glorinha/295719.ts
+#EXTINF:-1 tvg-name="PT: DAZN 2 [FHD]" group-title="Canais | Portugal",PT: DAZN 2 [FHD]
+http://detran.sbs:80/edufelix/glorinha/295720.ts
+#EXTINF:-1 tvg-name="PT: DAZN 3 [HD]" group-title="Canais | Portugal",PT: DAZN 3 [HD]
+http://detran.sbs:80/edufelix/glorinha/295721.ts
+#EXTINF:-1 tvg-name="PT: DAZN 4 [HD]" group-title="Canais | Portugal",PT: DAZN 4 [HD]
+http://detran.sbs:80/edufelix/glorinha/295722.ts
+#EXTINF:-1 tvg-name="PT: DAZN 5 [FHD]" group-title="Canais | Portugal",PT: DAZN 5 [FHD]
+http://detran.sbs:80/edufelix/glorinha/295723.ts
+#EXTINF:-1 tvg-name="PT: DAZN 6 [FHD]" group-title="Canais | Portugal",PT: DAZN 6 [FHD]
+http://detran.sbs:80/edufelix/glorinha/295724.ts
+#EXTINF:-1 tvg-name="PT: Discovery World [FHD]" group-title="Canais | Portugal",PT: Discovery World [FHD]
+http://detran.sbs:80/edufelix/glorinha/294076.ts
+#EXTINF:-1 tvg-name="PT: Disney Channel [SD]" group-title="Canais | Portugal",PT: Disney Channel [SD]
+http://detran.sbs:80/edufelix/glorinha/293980.ts
+#EXTINF:-1 tvg-name="PT: Disney Junior [FHD]" group-title="Canais | Portugal",PT: Disney Junior [FHD]
+http://detran.sbs:80/edufelix/glorinha/293981.ts
+#EXTINF:-1 tvg-name="PT: DISNEY MARVEL [FHD]" group-title="Canais | Portugal",PT: DISNEY MARVEL [FHD]
+http://detran.sbs:80/edufelix/glorinha/294083.ts
+#EXTINF:-1 tvg-name="PT: DISNEY PIXAR [CANAL OFF]" group-title="Canais | Portugal",PT: DISNEY PIXAR [CANAL OFF]
+http://detran.sbs:80/edufelix/glorinha/294084.ts
+#EXTINF:-1 tvg-name="PT: Disney+ Pixar [HD]" group-title="Canais | Portugal",PT: Disney+ Pixar [HD]
+http://detran.sbs:80/edufelix/glorinha/293982.ts
+#EXTINF:-1 tvg-name="PT: Dizi Channel [FHD]" group-title="Canais | Portugal",PT: Dizi Channel [FHD]
+http://detran.sbs:80/edufelix/glorinha/294021.ts
+#EXTINF:-1 tvg-name="PT: DOG TV [HD]" group-title="Canais | Portugal",PT: DOG TV [HD]
+http://detran.sbs:80/edufelix/glorinha/294085.ts
+#EXTINF:-1 tvg-name="PT: E! [HD]" group-title="Canais | Portugal",PT: E! [HD]
+http://detran.sbs:80/edufelix/glorinha/294044.ts
+#EXTINF:-1 tvg-name="PT: euronews [SD]" group-title="Canais | Portugal",PT: euronews [SD]
+http://detran.sbs:80/edufelix/glorinha/294012.ts
+#EXTINF:-1 tvg-name="PT: Eurosport 1 [FHD]" group-title="Canais | Portugal",PT: Eurosport 1 [FHD]
+http://detran.sbs:80/edufelix/glorinha/295727.ts
+#EXTINF:-1 tvg-name="PT: Eurosport 2 [FHD]" group-title="Canais | Portugal",PT: Eurosport 2 [FHD]
+http://detran.sbs:80/edufelix/glorinha/295728.ts
+#EXTINF:-1 tvg-name="PT: FASHIONTV [FHD]" group-title="Canais | Portugal",PT: FASHIONTV [FHD]
+http://detran.sbs:80/edufelix/glorinha/294086.ts
+#EXTINF:-1 tvg-name="PT: FIREMAN SAM [HD]" group-title="Canais | Portugal",PT: FIREMAN SAM [HD]
+http://detran.sbs:80/edufelix/glorinha/294087.ts
+#EXTINF:-1 tvg-name="PT: Food Network [SD]" group-title="Canais | Portugal",PT: Food Network [SD]
+http://detran.sbs:80/edufelix/glorinha/294045.ts
+#EXTINF:-1 tvg-name="PT: Fuel TV [FHD]" group-title="Canais | Portugal",PT: Fuel TV [FHD]
+http://detran.sbs:80/edufelix/glorinha/293992.ts
+#EXTINF:-1 tvg-name="PT: Fuel TV [FHD]" group-title="Canais | Portugal",PT: Fuel TV [FHD]
+http://detran.sbs:80/edufelix/glorinha/295729.ts
+#EXTINF:-1 tvg-name="PT: HGTV [FHD]" group-title="Canais | Portugal",PT: HGTV [FHD]
+http://detran.sbs:80/edufelix/glorinha/294046.ts
+#EXTINF:-1 tvg-name="PT: Historia [FHD]" group-title="Canais | Portugal",PT: Historia [FHD]
+http://detran.sbs:80/edufelix/glorinha/294077.ts
+#EXTINF:-1 tvg-name="PT: Hollywood [FHD]" group-title="Canais | Portugal",PT: Hollywood [FHD]
+http://detran.sbs:80/edufelix/glorinha/294022.ts
+#EXTINF:-1 tvg-name="PT: Investigation Discovery [FHD]" group-title="Canais | Portugal",PT: Investigation Discovery [FHD]
+http://detran.sbs:80/edufelix/glorinha/294078.ts
+#EXTINF:-1 tvg-name="PT: Kanuca TV [FHD]" group-title="Canais | Portugal",PT: Kanuca TV [FHD]
+http://detran.sbs:80/edufelix/glorinha/293983.ts
+#EXTINF:-1 tvg-name="PT: Kombat Sport [FHD]" group-title="Canais | Portugal",PT: Kombat Sport [FHD]
+http://detran.sbs:80/edufelix/glorinha/294088.ts
+#EXTINF:-1 tvg-name="PT: Kuriakos Kids [FHD]" group-title="Canais | Portugal",PT: Kuriakos Kids [FHD]
+http://detran.sbs:80/edufelix/glorinha/293984.ts
+#EXTINF:-1 tvg-name="PT: Kuriakos TV [FHD]" group-title="Canais | Portugal",PT: Kuriakos TV [FHD]
+http://detran.sbs:80/edufelix/glorinha/293985.ts
+#EXTINF:-1 tvg-name="PT: Local visão [FHD]" group-title="Canais | Portugal",PT: Local visão [FHD]
+http://detran.sbs:80/edufelix/glorinha/294089.ts
+#EXTINF:-1 tvg-name="PT: MCM POP [SD]" group-title="Canais | Portugal",PT: MCM POP [SD]
+http://detran.sbs:80/edufelix/glorinha/293999.ts
+#EXTINF:-1 tvg-name="PT: MCM TOP [HD]" group-title="Canais | Portugal",PT: MCM TOP [HD]
+http://detran.sbs:80/edufelix/glorinha/294000.ts
+#EXTINF:-1 tvg-name="PT: MEO Videoclube [SD]" group-title="Canais | Portugal",PT: MEO Videoclube [SD]
+http://detran.sbs:80/edufelix/glorinha/294023.ts
+#EXTINF:-1 tvg-name="PT: Mezzo Live [HD]" group-title="Canais | Portugal",PT: Mezzo Live [HD]
+http://detran.sbs:80/edufelix/glorinha/294091.ts
+#EXTINF:-1 tvg-name="PT: Mezzo [SD]" group-title="Canais | Portugal",PT: Mezzo [SD]
+http://detran.sbs:80/edufelix/glorinha/294090.ts
+#EXTINF:-1 tvg-name="PT: Motorvision TV [SD]" group-title="Canais | Portugal",PT: Motorvision TV [SD]
+http://detran.sbs:80/edufelix/glorinha/293996.ts
+#EXTINF:-1 tvg-name="PT: Motorvision TV [SD]" group-title="Canais | Portugal",PT: Motorvision TV [SD]
+http://detran.sbs:80/edufelix/glorinha/295742.ts
+#EXTINF:-1 tvg-name="PT: MTV 00s [SD]" group-title="Canais | Portugal",PT: MTV 00s [SD]
+http://detran.sbs:80/edufelix/glorinha/294001.ts
+#EXTINF:-1 tvg-name="PT: MTV Classic [SD]" group-title="Canais | Portugal",PT: MTV Classic [SD]
+http://detran.sbs:80/edufelix/glorinha/294002.ts
+#EXTINF:-1 tvg-name="PT: MTV Live [FHD]" group-title="Canais | Portugal",PT: MTV Live [FHD]
+http://detran.sbs:80/edufelix/glorinha/294092.ts
+#EXTINF:-1 tvg-name="PT: MTV Portugal [FHD]" group-title="Canais | Portugal",PT: MTV Portugal [FHD]
+http://detran.sbs:80/edufelix/glorinha/294003.ts
+#EXTINF:-1 tvg-name="PT: NAT GEO Wild [FHD]" group-title="Canais | Portugal",PT: NAT GEO Wild [FHD]
+http://detran.sbs:80/edufelix/glorinha/294071.ts
+#EXTINF:-1 tvg-name="PT: NAT GEO [FHD]" group-title="Canais | Portugal",PT: NAT GEO [FHD]
+http://detran.sbs:80/edufelix/glorinha/294070.ts
+#EXTINF:-1 tvg-name="PT: NBA TV [HD]" group-title="Canais | Portugal",PT: NBA TV [HD]
+http://detran.sbs:80/edufelix/glorinha/295743.ts
+#EXTINF:-1 tvg-name="PT: News Now [SD]" group-title="Canais | Portugal",PT: News Now [SD]
+http://detran.sbs:80/edufelix/glorinha/294093.ts
+#EXTINF:-1 tvg-name="PT: Nick Junior [SD]" group-title="Canais | Portugal",PT: Nick Junior [SD]
+http://detran.sbs:80/edufelix/glorinha/293986.ts
+#EXTINF:-1 tvg-name="PT: nickelodeon [SD]" group-title="Canais | Portugal",PT: nickelodeon [SD]
+http://detran.sbs:80/edufelix/glorinha/293987.ts
+#EXTINF:-1 tvg-name="PT: Nos Studios [FHD]" group-title="Canais | Portugal",PT: Nos Studios [FHD]
+http://detran.sbs:80/edufelix/glorinha/294024.ts
+#EXTINF:-1 tvg-name="PT: Odisseia [HD]" group-title="Canais | Portugal",PT: Odisseia [HD]
+http://detran.sbs:80/edufelix/glorinha/294047.ts
+#EXTINF:-1 tvg-name="PT: OPTO [FHD]" group-title="Canais | Portugal",PT: OPTO [FHD]
+http://detran.sbs:80/edufelix/glorinha/294094.ts
+#EXTINF:-1 tvg-name="PT: PANDA Kids [HD]" group-title="Canais | Portugal",PT: PANDA Kids [HD]
+http://detran.sbs:80/edufelix/glorinha/293988.ts
+#EXTINF:-1 tvg-name="PT: Porto Canal [FHD]" group-title="Canais | Portugal",PT: Porto Canal [FHD]
+http://detran.sbs:80/edufelix/glorinha/294048.ts
+#EXTINF:-1 tvg-name="PT: Record TV [SD]" group-title="Canais | Portugal",PT: Record TV [SD]
+http://detran.sbs:80/edufelix/glorinha/294095.ts
+#EXTINF:-1 tvg-name="PT: RTP 1 [FHD]" group-title="Canais | Portugal",PT: RTP 1 [FHD]
+http://detran.sbs:80/edufelix/glorinha/294049.ts
+#EXTINF:-1 tvg-name="PT: RTP 2 [HD]" group-title="Canais | Portugal",PT: RTP 2 [HD]
+http://detran.sbs:80/edufelix/glorinha/294050.ts
+#EXTINF:-1 tvg-name="PT: RTP 3 [HD]" group-title="Canais | Portugal",PT: RTP 3 [HD]
+http://detran.sbs:80/edufelix/glorinha/294051.ts
+#EXTINF:-1 tvg-name="PT: RTP Açores [SD]" group-title="Canais | Portugal",PT: RTP Açores [SD]
+http://detran.sbs:80/edufelix/glorinha/294052.ts
+#EXTINF:-1 tvg-name="PT: RTP Internacional [SD]" group-title="Canais | Portugal",PT: RTP Internacional [SD]
+http://detran.sbs:80/edufelix/glorinha/294096.ts
+#EXTINF:-1 tvg-name="PT: RTP Madeira [SD]" group-title="Canais | Portugal",PT: RTP Madeira [SD]
+http://detran.sbs:80/edufelix/glorinha/294054.ts
+#EXTINF:-1 tvg-name="PT: RTP Memória [SD]" group-title="Canais | Portugal",PT: RTP Memória [SD]
+http://detran.sbs:80/edufelix/glorinha/294055.ts
+#EXTINF:-1 tvg-name="PT: RTP África [SD]" group-title="Canais | Portugal",PT: RTP África [SD]
+http://detran.sbs:80/edufelix/glorinha/294053.ts
+#EXTINF:-1 tvg-name="PT: SAUDE+ [HD]" group-title="Canais | Portugal",PT: SAUDE+ [HD]
+http://detran.sbs:80/edufelix/glorinha/294056.ts
+#EXTINF:-1 tvg-name="PT: SIC Caras [FHD]" group-title="Canais | Portugal",PT: SIC Caras [FHD]
+http://detran.sbs:80/edufelix/glorinha/294058.ts
+#EXTINF:-1 tvg-name="PT: SIC Internacional [HD]" group-title="Canais | Portugal",PT: SIC Internacional [HD]
+http://detran.sbs:80/edufelix/glorinha/294097.ts
+#EXTINF:-1 tvg-name="PT: SIC K [FHD]" group-title="Canais | Portugal",PT: SIC K [FHD]
+http://detran.sbs:80/edufelix/glorinha/294059.ts
+#EXTINF:-1 tvg-name="PT: SIC Kids [FHD]" group-title="Canais | Portugal",PT: SIC Kids [FHD]
+http://detran.sbs:80/edufelix/glorinha/294098.ts
+#EXTINF:-1 tvg-name="PT: SIC Mulher [FHD]" group-title="Canais | Portugal",PT: SIC Mulher [FHD]
+http://detran.sbs:80/edufelix/glorinha/294025.ts
+#EXTINF:-1 tvg-name="PT: SIC Noticias [FHD]" group-title="Canais | Portugal",PT: SIC Noticias [FHD]
+http://detran.sbs:80/edufelix/glorinha/294013.ts
+#EXTINF:-1 tvg-name="PT: SIC Novelas [FHD]" group-title="Canais | Portugal",PT: SIC Novelas [FHD]
+http://detran.sbs:80/edufelix/glorinha/294099.ts
+#EXTINF:-1 tvg-name="PT: SIC Radical [FHD]" group-title="Canais | Portugal",PT: SIC Radical [FHD]
+http://detran.sbs:80/edufelix/glorinha/294060.ts
+#EXTINF:-1 tvg-name="PT: SIC [FHD]" group-title="Canais | Portugal",PT: SIC [FHD]
+http://detran.sbs:80/edufelix/glorinha/294057.ts
+#EXTINF:-1 tvg-name="PT: SPORT TV + [FHD]" group-title="Canais | Portugal",PT: SPORT TV + [FHD]
+http://detran.sbs:80/edufelix/glorinha/295730.ts
+#EXTINF:-1 tvg-name="PT: SPORT TV 1 [HD]" group-title="Canais | Portugal",PT: SPORT TV 1 [HD]
+http://detran.sbs:80/edufelix/glorinha/295731.ts
+#EXTINF:-1 tvg-name="PT: SPORT TV 2 [FHD]" group-title="Canais | Portugal",PT: SPORT TV 2 [FHD]
+http://detran.sbs:80/edufelix/glorinha/295732.ts
+#EXTINF:-1 tvg-name="PT: SPORT TV 3 [FHD]" group-title="Canais | Portugal",PT: SPORT TV 3 [FHD]
+http://detran.sbs:80/edufelix/glorinha/295733.ts
+#EXTINF:-1 tvg-name="PT: SPORT TV 4 [FHD]" group-title="Canais | Portugal",PT: SPORT TV 4 [FHD]
+http://detran.sbs:80/edufelix/glorinha/295734.ts
+#EXTINF:-1 tvg-name="PT: SPORT TV 5 [FHD]" group-title="Canais | Portugal",PT: SPORT TV 5 [FHD]
+http://detran.sbs:80/edufelix/glorinha/295735.ts
+#EXTINF:-1 tvg-name="PT: SPORT TV 6 [FHD]" group-title="Canais | Portugal",PT: SPORT TV 6 [FHD]
+http://detran.sbs:80/edufelix/glorinha/295736.ts
+#EXTINF:-1 tvg-name="PT: SPORT TV 7 [HD]" group-title="Canais | Portugal",PT: SPORT TV 7 [HD]
+http://detran.sbs:80/edufelix/glorinha/295737.ts
+#EXTINF:-1 tvg-name="PT: SPORT TV NBA [FHD]" group-title="Canais | Portugal",PT: SPORT TV NBA [FHD]
+http://detran.sbs:80/edufelix/glorinha/295738.ts
+#EXTINF:-1 tvg-name="PT: SPORT.TV [FHD]" group-title="Canais | Portugal",PT: SPORT.TV [FHD]
+http://detran.sbs:80/edufelix/glorinha/293993.ts
+#EXTINF:-1 tvg-name="PT: SPORT.TV [FHD]" group-title="Canais | Portugal",PT: SPORT.TV [FHD]
+http://detran.sbs:80/edufelix/glorinha/295739.ts
+#EXTINF:-1 tvg-name="PT: Sporting TV [FHD]" group-title="Canais | Portugal",PT: Sporting TV [FHD]
+http://detran.sbs:80/edufelix/glorinha/293994.ts
+#EXTINF:-1 tvg-name="PT: Sporting TV [FHD]" group-title="Canais | Portugal",PT: Sporting TV [FHD]
+http://detran.sbs:80/edufelix/glorinha/295740.ts
+#EXTINF:-1 tvg-name="PT: STAR Channel [FHD]" group-title="Canais | Portugal",PT: STAR Channel [FHD]
+http://detran.sbs:80/edufelix/glorinha/294026.ts
+#EXTINF:-1 tvg-name="PT: STAR Comedy [HD]" group-title="Canais | Portugal",PT: STAR Comedy [HD]
+http://detran.sbs:80/edufelix/glorinha/294027.ts
+#EXTINF:-1 tvg-name="PT: STAR Crime [FHD]" group-title="Canais | Portugal",PT: STAR Crime [FHD]
+http://detran.sbs:80/edufelix/glorinha/294028.ts
+#EXTINF:-1 tvg-name="PT: STAR Life [FHD]" group-title="Canais | Portugal",PT: STAR Life [FHD]
+http://detran.sbs:80/edufelix/glorinha/294029.ts
+#EXTINF:-1 tvg-name="PT: STAR Movies [FHD]" group-title="Canais | Portugal",PT: STAR Movies [FHD]
+http://detran.sbs:80/edufelix/glorinha/294030.ts
+#EXTINF:-1 tvg-name="PT: Stingray CMusic [SD]" group-title="Canais | Portugal",PT: Stingray CMusic [SD]
+http://detran.sbs:80/edufelix/glorinha/294100.ts
+#EXTINF:-1 tvg-name="PT: Stingray Retro [SD]" group-title="Canais | Portugal",PT: Stingray Retro [SD]
+http://detran.sbs:80/edufelix/glorinha/294101.ts
+#EXTINF:-1 tvg-name="PT: SYFY Portugal [FHD]" group-title="Canais | Portugal",PT: SYFY Portugal [FHD]
+http://detran.sbs:80/edufelix/glorinha/294031.ts
+#EXTINF:-1 tvg-name="PT: TCV Internacional [SD]" group-title="Canais | Portugal",PT: TCV Internacional [SD]
+http://detran.sbs:80/edufelix/glorinha/294102.ts
+#EXTINF:-1 tvg-name="PT: TLC [SD]" group-title="Canais | Portugal",PT: TLC [SD]
+http://detran.sbs:80/edufelix/glorinha/294061.ts
+#EXTINF:-1 tvg-name="PT: TOROS [HD]" group-title="Canais | Portugal",PT: TOROS [HD]
+http://detran.sbs:80/edufelix/glorinha/294103.ts
+#EXTINF:-1 tvg-name="PT: TPA Notícias [SD]" group-title="Canais | Portugal",PT: TPA Notícias [SD]
+http://detran.sbs:80/edufelix/glorinha/294104.ts
+#EXTINF:-1 tvg-name="PT: Trace Brasil [HD]" group-title="Canais | Portugal",PT: Trace Brasil [HD]
+http://detran.sbs:80/edufelix/glorinha/294004.ts
+#EXTINF:-1 tvg-name="PT: Trace Latina [HD]" group-title="Canais | Portugal",PT: Trace Latina [HD]
+http://detran.sbs:80/edufelix/glorinha/294005.ts
+#EXTINF:-1 tvg-name="PT: Trace Toca [SD]" group-title="Canais | Portugal",PT: Trace Toca [SD]
+http://detran.sbs:80/edufelix/glorinha/294006.ts
+#EXTINF:-1 tvg-name="PT: Trace Urban [SD]" group-title="Canais | Portugal",PT: Trace Urban [SD]
+http://detran.sbs:80/edufelix/glorinha/294007.ts
+#EXTINF:-1 tvg-name="PT: Travel Channel [HD]" group-title="Canais | Portugal",PT: Travel Channel [HD]
+http://detran.sbs:80/edufelix/glorinha/294062.ts
+#EXTINF:-1 tvg-name="PT: Travelxp [FHD]" group-title="Canais | Portugal",PT: Travelxp [FHD]
+http://detran.sbs:80/edufelix/glorinha/294063.ts
+#EXTINF:-1 tvg-name="PT: TV Mana 1 [HD]" group-title="Canais | Portugal",PT: TV Mana 1 [HD]
+http://detran.sbs:80/edufelix/glorinha/294064.ts
+#EXTINF:-1 tvg-name="PT: TVCine Action [HD]" group-title="Canais | Portugal",PT: TVCine Action [HD]
+http://detran.sbs:80/edufelix/glorinha/294032.ts
+#EXTINF:-1 tvg-name="PT: TVCine Edition [FHD]" group-title="Canais | Portugal",PT: TVCine Edition [FHD]
+http://detran.sbs:80/edufelix/glorinha/294033.ts
+#EXTINF:-1 tvg-name="PT: TVCine Emotion [FHD]" group-title="Canais | Portugal",PT: TVCine Emotion [FHD]
+http://detran.sbs:80/edufelix/glorinha/294034.ts
+#EXTINF:-1 tvg-name="PT: TVCine Top [FHD]" group-title="Canais | Portugal",PT: TVCine Top [FHD]
+http://detran.sbs:80/edufelix/glorinha/294035.ts
+#EXTINF:-1 tvg-name="PT: TVI Ficção [FHD]" group-title="Canais | Portugal",PT: TVI Ficção [FHD]
+http://detran.sbs:80/edufelix/glorinha/294065.ts
+#EXTINF:-1 tvg-name="PT: TVI Reality [FHD]" group-title="Canais | Portugal",PT: TVI Reality [FHD]
+http://detran.sbs:80/edufelix/glorinha/294066.ts
+#EXTINF:-1 tvg-name="PT: TVI [FHD]" group-title="Canais | Portugal",PT: TVI [FHD]
+http://detran.sbs:80/edufelix/glorinha/294014.ts
+#EXTINF:-1 tvg-name="PT: V+ TVI [FHD]" group-title="Canais | Portugal",PT: V+ TVI [FHD]
+http://detran.sbs:80/edufelix/glorinha/294067.ts
+#EXTINF:-1 tvg-name="PT: W-Sport [FHD]" group-title="Canais | Portugal",PT: W-Sport [FHD]
+http://detran.sbs:80/edufelix/glorinha/293995.ts
+#EXTINF:-1 tvg-name="PT: W-Sport [FHD]" group-title="Canais | Portugal",PT: W-Sport [FHD]
+http://detran.sbs:80/edufelix/glorinha/295741.ts
