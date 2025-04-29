@@ -3,60 +3,114 @@
 
 
 
-#EXTINF:-1 tvg-name="BAND NEWS FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/TofYoFGWT5ao4jj/download/bandnews.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS FHD
-http://135.148.144.79:80/josimar123/josimar123/404644.ts
-#EXTINF:-1 tvg-name="BAND NEWS FHD*" tvg-logo="https://files.jpnetwork.com.br/index.php/s/TofYoFGWT5ao4jj/download/bandnews.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS FHD*
-http://135.148.144.79:80/josimar123/josimar123/685180.ts
-#EXTINF:-1 tvg-name="BAND NEWS HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/TofYoFGWT5ao4jj/download/bandnews.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS HD
-http://135.148.144.79:80/josimar123/josimar123/404645.ts
-#EXTINF:-1 tvg-name="CNN BRASIL FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/8Q49r3RNnp4ziW2/download/CNN.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL FHD
-http://135.148.144.79:80/josimar123/josimar123/404649.ts
-#EXTINF:-1 tvg-name="CNN BRASIL FHD*" tvg-logo="https://files.jpnetwork.com.br/index.php/s/8Q49r3RNnp4ziW2/download/CNN.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL FHD*
-http://135.148.144.79:80/josimar123/josimar123/685178.ts
-#EXTINF:-1 tvg-name="CNN BRASIL HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/8Q49r3RNnp4ziW2/download/CNN.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD
-http://135.148.144.79:80/josimar123/josimar123/404650.ts
-#EXTINF:-1 tvg-id="CNN Brasil HD" tvg-name="CNN BRASIL HD*" tvg-logo="https://seeklogo.com/images/C/cnn-brasil-logo-029B34D6AD-seeklogo.com.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD*
-http://135.148.144.79:80/josimar123/josimar123/686956.ts
-#EXTINF:-1 tvg-id="CNN Brasil HD" tvg-name="CNN BRASIL HD¹" tvg-logo="https://files.jpnetwork.com.br/index.php/s/8Q49r3RNnp4ziW2/download/CNN.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD¹
-http://135.148.144.79:80/josimar123/josimar123/404648.ts
-#EXTINF:-1 tvg-name="GLOBO NEWS FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/RoWKDDLfpLTcDs3/download/globonews.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS FHD
-http://135.148.144.79:80/josimar123/josimar123/404641.ts
-#EXTINF:-1 tvg-name="GLOBO NEWS HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/RoWKDDLfpLTcDs3/download/globonews.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS HD
-http://135.148.144.79:80/josimar123/josimar123/404642.ts
-#EXTINF:-1 tvg-name="JOVEM PAN FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/KCmLH3FkYtLRBLz/download/jpnews.png" group-title="CANAIS | NOTÍCIAS",JOVEM PAN FHD
-http://135.148.144.79:80/josimar123/josimar123/404652.ts
-#EXTINF:-1 tvg-name="JOVEM PAN FHD*" tvg-logo="https://files.jpnetwork.com.br/index.php/s/KCmLH3FkYtLRBLz/download/jpnews.png" group-title="CANAIS | NOTÍCIAS",JOVEM PAN FHD*
-http://135.148.144.79:80/josimar123/josimar123/686955.ts
-#EXTINF:-1 tvg-name="JOVEM PAN HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/KCmLH3FkYtLRBLz/download/jpnews.png" group-title="CANAIS | NOTÍCIAS",JOVEM PAN HD
-http://135.148.144.79:80/josimar123/josimar123/404653.ts
-#EXTINF:-1 tvg-name="JOVEN PAN HD¹" tvg-logo="https://files.jpnetwork.com.br/index.php/s/KCmLH3FkYtLRBLz/download/jpnews.png" group-title="CANAIS | NOTÍCIAS",JOVEN PAN HD¹
-http://135.148.144.79:80/josimar123/josimar123/686957.ts
-#EXTINF:-1 tvg-name="JOVEN PAN SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/KCmLH3FkYtLRBLz/download/jpnews.png" group-title="CANAIS | NOTÍCIAS",JOVEN PAN SD
-http://135.148.144.79:80/josimar123/josimar123/686958.ts
-#EXTINF:-1 tvg-name="RECORD NEWS FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/bEA3n3ZMTHrXBfx/download/recnews.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS FHD
-http://135.148.144.79:80/josimar123/josimar123/404638.ts
-#EXTINF:-1 tvg-name="RECORD NEWS HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/bEA3n3ZMTHrXBfx/download/recnews.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS HD
-http://135.148.144.79:80/josimar123/josimar123/404639.ts
+#EXTINF:-1 tvg-name="POWER COUPLE 1" group-title="PLUGINSTREAMING",POWER COUPLE 1
+http://tvhdbalck.pro:80/090720634/959666174/4922496.ts
+#EXTINF:-1 tvg-name="POWER COUPLE 2" group-title="PLUGINSTREAMING",POWER COUPLE 2
+http://tvhdbalck.pro:80/090720634/959666174/4922497.ts
 
 
 
 
 
-#EXTINF:-1 tvg-id="SporTV 2 FHD" tvg-name="SPORTV 2 FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/pycgLGHfjMfeqd3/download/sportv2.png" group-title="CANAIS | SPORTV",SPORTV 2 FHD
-http://135.148.144.79:80/josimar123/josimar123/685171.ts
-#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="SPORTV 2 HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/pycgLGHfjMfeqd3/download/sportv2.png" group-title="CANAIS | SPORTV",SPORTV 2 HD
-http://135.148.144.79:80/josimar123/josimar123/141545.ts
-#EXTINF:-1 tvg-id="SporTV 2 SD" tvg-name="SPORTV 2 SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/pycgLGHfjMfeqd3/download/sportv2.png" group-title="CANAIS | SPORTV",SPORTV 2 SD
-http://135.148.144.79:80/josimar123/josimar123/141546.ts
-#EXTINF:-1 tvg-id="SporTV 3 FHD" tvg-name="SPORTV 3 FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/bgod9YdaanJi5wD/download/sportv3.png" group-title="CANAIS | SPORTV",SPORTV 3 FHD
-http://135.148.144.79:80/josimar123/josimar123/141561.ts
-#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SPORTV 3 HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/bgod9YdaanJi5wD/download/sportv3.png" group-title="CANAIS | SPORTV",SPORTV 3 HD
-http://135.148.144.79:80/josimar123/josimar123/338416.ts
-#EXTINF:-1 tvg-id="SporTV 3 SD" tvg-name="SPORTV 3 SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/bgod9YdaanJi5wD/download/sportv3.png" group-title="CANAIS | SPORTV",SPORTV 3 SD
-http://135.148.144.79:80/josimar123/josimar123/141548.ts
-#EXTINF:-1 tvg-id="SporTV FHD" tvg-name="SPORTV FHD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/KSGDasiNbf94Sij/download/sportv.png" group-title="CANAIS | SPORTV",SPORTV FHD
-http://135.148.144.79:80/josimar123/josimar123/685172.ts
-#EXTINF:-1 tvg-id="BR - SporTV" tvg-name="SPORTV HD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/KSGDasiNbf94Sij/download/sportv.png" group-title="CANAIS | SPORTV",SPORTV HD
-http://135.148.144.79:80/josimar123/josimar123/141549.ts
-#EXTINF:-1 tvg-id="SporTV SD" tvg-name="SPORTV SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/KSGDasiNbf94Sij/download/sportv.png" group-title="CANAIS | SPORTV",SPORTV SD
-http://135.148.144.79:80/josimar123/josimar123/141550.ts
+#EXTINF:-1 tvg-id="ADSM" tvg-name="AGRO+ FHD" group-title="✨ABERTOS",AGRO+ FHD
+http://tvhdbalck.pro:80/090720634/959666174/6.ts
+#EXTINF:-1 tvg-id="Canal Brasil SD" tvg-name="CANAL BRASIL FHD" tvg-logo="https://acstatic.co/logos/canais/canalbrasil.png" group-title="✨ABERTOS",CANAL BRASIL FHD
+http://tvhdbalck.pro:80/090720634/959666174/469.ts
+#EXTINF:-1 tvg-name="CANAL BRASIL HD" tvg-logo="https://acstatic.co/logos/canais/canalbrasil.png" group-title="✨ABERTOS",CANAL BRASIL HD
+http://tvhdbalck.pro:80/090720634/959666174/4774475.ts
+#EXTINF:-1 tvg-name="CANAL BRASIL SD" tvg-logo="https://acstatic.co/logos/canais/canalbrasil.png" group-title="✨ABERTOS",CANAL BRASIL SD
+http://tvhdbalck.pro:80/090720634/959666174/4774476.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="CANAL DO BOI FHD" tvg-logo="http://static.clubsrv.me/logos/canais/canaldoboi.png" group-title="✨ABERTOS",CANAL DO BOI FHD
+http://tvhdbalck.pro:80/090720634/959666174/369617.ts
+#EXTINF:-1 tvg-id="RURALA" tvg-name="Canal Rural HD" tvg-logo="http://acsa.ws:80/images/fd9212142eedf1910dcba86a14dfdd81.png" group-title="✨ABERTOS",Canal Rural HD
+http://tvhdbalck.pro:80/090720634/959666174/470.ts
+#EXTINF:-1 tvg-id="RURALA" tvg-name="Canal Rural SD" tvg-logo="http://acsa.ws:80/images/fd9212142eedf1910dcba86a14dfdd81.png" group-title="✨ABERTOS",Canal Rural SD
+http://tvhdbalck.pro:80/090720634/959666174/471.ts
+#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA 4K" tvg-logo="https://i.imgur.com/NBu5IuI.png" group-title="✨ABERTOS",FUTURA 4K
+http://tvhdbalck.pro:80/090720634/959666174/369649.ts
+#EXTINF:-1 tvg-id="FUTRA" tvg-name="FUTURA FHD" tvg-logo="https://i.imgur.com/NBu5IuI.png" group-title="✨ABERTOS",FUTURA FHD
+http://tvhdbalck.pro:80/090720634/959666174/171844.ts
+#EXTINF:-1 tvg-id="FUTRA" tvg-name="FUTURA HD" tvg-logo="https://i.imgur.com/NBu5IuI.png" group-title="✨ABERTOS",FUTURA HD
+http://tvhdbalck.pro:80/090720634/959666174/472.ts
+#EXTINF:-1 tvg-id="FUTRA" tvg-name="FUTURA SD" tvg-logo="https://i.imgur.com/NBu5IuI.png" group-title="✨ABERTOS",FUTURA SD
+http://tvhdbalck.pro:80/090720634/959666174/473.ts
+#EXTINF:-1 tvg-name="MTV LIVE 4K" tvg-logo="https://acstatic.co/logos/canais/mtv.png" group-title="✨ABERTOS",MTV LIVE 4K
+http://tvhdbalck.pro:80/090720634/959666174/369677.ts
+#EXTINF:-1 tvg-id="REDEBR" tvg-name="REDE BRASIL" tvg-logo="https://i.imgur.com/tVMEQmb.png" group-title="✨ABERTOS",REDE BRASIL
+http://tvhdbalck.pro:80/090720634/959666174/474.ts
+#EXTINF:-1 tvg-name="REDE TV 4K" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="✨ABERTOS",REDE TV 4K
+http://tvhdbalck.pro:80/090720634/959666174/369702.ts
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV FHD" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="✨ABERTOS",REDE TV FHD
+http://tvhdbalck.pro:80/090720634/959666174/476.ts
+#EXTINF:-1 tvg-id="REDETV" tvg-name="REDE TV HD" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="✨ABERTOS",REDE TV HD
+http://tvhdbalck.pro:80/090720634/959666174/171878.ts
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV SD" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="✨ABERTOS",REDE TV SD
+http://tvhdbalck.pro:80/090720634/959666174/477.ts
+#EXTINF:-1 tvg-id="Tvcamara.br" tvg-name="TV CAMARA" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="✨ABERTOS",TV CAMARA
+http://tvhdbalck.pro:80/090720634/959666174/479.ts
+#EXTINF:-1 tvg-name="TV CULTURA 4K" tvg-logo="https://i.imgur.com/HGmh8Tu.png" group-title="✨ABERTOS",TV CULTURA 4K
+http://tvhdbalck.pro:80/090720634/959666174/369627.ts
+#EXTINF:-1 tvg-id="ZYB851" tvg-name="TV CULTURA FHD" tvg-logo="https://i.imgur.com/HGmh8Tu.png" group-title="✨ABERTOS",TV CULTURA FHD
+http://tvhdbalck.pro:80/090720634/959666174/480.ts
+#EXTINF:-1 tvg-id="ZYB851" tvg-name="TV CULTURA HD" tvg-logo="https://i.imgur.com/HGmh8Tu.png" group-title="✨ABERTOS",TV CULTURA HD
+http://tvhdbalck.pro:80/090720634/959666174/481.ts
+#EXTINF:-1 tvg-id="ZYB851" tvg-name="TV CULTURA SD" tvg-logo="https://i.imgur.com/HGmh8Tu.png" group-title="✨ABERTOS",TV CULTURA SD
+http://tvhdbalck.pro:80/090720634/959666174/482.ts
+#EXTINF:-1 tvg-name="TV GAZETA 4K" tvg-logo="https://i.imgur.com/2th79Ey.png" group-title="✨ABERTOS",TV GAZETA 4K
+http://tvhdbalck.pro:80/090720634/959666174/369727.ts
+#EXTINF:-1 tvg-id="ZYA221" tvg-name="TV GAZETA FHD" tvg-logo="https://i.imgur.com/2th79Ey.png" group-title="✨ABERTOS",TV GAZETA FHD
+http://tvhdbalck.pro:80/090720634/959666174/483.ts
+#EXTINF:-1 tvg-name="TV GAZETA HD" tvg-logo="https://i.imgur.com/2th79Ey.png" group-title="✨ABERTOS",TV GAZETA HD
+http://tvhdbalck.pro:80/090720634/959666174/171896.ts
+
+
+
+
+
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET 4K" tvg-logo="https://seeklogo.com/images/A/animal-planet-new-logo-82F51876A3-seeklogo.com.png" group-title="⚡DOCUMENTÁRIOS",ANIMAL PLANET 4K
+http://tvhdbalck.pro:80/090720634/959666174/369609.ts
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://seeklogo.com/images/A/animal-planet-new-logo-82F51876A3-seeklogo.com.png" group-title="⚡DOCUMENTÁRIOS",ANIMAL PLANET FHD
+http://tvhdbalck.pro:80/090720634/959666174/322.ts
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://seeklogo.com/images/A/animal-planet-new-logo-82F51876A3-seeklogo.com.png" group-title="⚡DOCUMENTÁRIOS",ANIMAL PLANET HD
+http://tvhdbalck.pro:80/090720634/959666174/323.ts
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://seeklogo.com/images/A/animal-planet-new-logo-82F51876A3-seeklogo.com.png" group-title="⚡DOCUMENTÁRIOS",ANIMAL PLANET SD
+http://tvhdbalck.pro:80/090720634/959666174/324.ts
+#EXTINF:-1 tvg-id="Curta HD [Alter]" tvg-name="CURTA! FHD" tvg-logo="https://i.imgur.com/Sd5bTsl.png" group-title="⚡DOCUMENTÁRIOS",CURTA! FHD
+http://tvhdbalck.pro:80/090720634/959666174/171817.ts
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="CURTA! HD" tvg-logo="https://i.imgur.com/Sd5bTsl.png" group-title="⚡DOCUMENTÁRIOS",CURTA! HD
+http://tvhdbalck.pro:80/090720634/959666174/325.ts
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="CURTA! SD" tvg-logo="https://i.imgur.com/Sd5bTsl.png" group-title="⚡DOCUMENTÁRIOS",CURTA! SD
+http://tvhdbalck.pro:80/090720634/959666174/326.ts
+#EXTINF:-1 tvg-id="E! Entertainment Television FHD" tvg-name="E! 4K" tvg-logo="https://i.imgur.com/YH1s0x1.jpeg" group-title="⚡DOCUMENTÁRIOS",E! 4K
+http://tvhdbalck.pro:80/090720634/959666174/369637.ts
+#EXTINF:-1 tvg-id="E! Entertainment Television FHD" tvg-name="E! FHD" tvg-logo="https://i.imgur.com/YH1s0x1.jpeg" group-title="⚡DOCUMENTÁRIOS",E! FHD
+http://tvhdbalck.pro:80/090720634/959666174/171829.ts
+#EXTINF:-1 tvg-id="E! Entertainment Television FHD" tvg-name="E! HD" tvg-logo="https://i.imgur.com/YH1s0x1.jpeg" group-title="⚡DOCUMENTÁRIOS",E! HD
+http://tvhdbalck.pro:80/090720634/959666174/346.ts
+#EXTINF:-1 tvg-id="E! Entertainment Television FHD" tvg-name="E! SD" tvg-logo="https://i.imgur.com/YH1s0x1.jpeg" group-title="⚡DOCUMENTÁRIOS",E! SD
+http://tvhdbalck.pro:80/090720634/959666174/347.ts
+#EXTINF:-1 tvg-id="h2.br" tvg-name="H2 4K" tvg-logo="https://i.imgur.com/hMH0oWa.png" group-title="⚡DOCUMENTÁRIOS",H2 4K
+http://tvhdbalck.pro:80/090720634/959666174/369657.ts
+#EXTINF:-1 tvg-id="H2 HD" tvg-name="H2 FHD" tvg-logo="https://i.imgur.com/hMH0oWa.png" group-title="⚡DOCUMENTÁRIOS",H2 FHD
+http://tvhdbalck.pro:80/090720634/959666174/348.ts
+#EXTINF:-1 tvg-id="H2 HD" tvg-name="H2 HD" tvg-logo="https://i.imgur.com/hMH0oWa.png" group-title="⚡DOCUMENTÁRIOS",H2 HD
+http://tvhdbalck.pro:80/090720634/959666174/349.ts
+#EXTINF:-1 tvg-id="H2 HD" tvg-name="H2 SD" tvg-logo="https://i.imgur.com/hMH0oWa.png" group-title="⚡DOCUMENTÁRIOS",H2 SD
+http://tvhdbalck.pro:80/090720634/959666174/350.ts
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV 4K" tvg-logo="https://i.imgur.com/4rZi0wH.png" group-title="⚡DOCUMENTÁRIOS",HGTV 4K
+http://tvhdbalck.pro:80/090720634/959666174/369666.ts
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV FHD" tvg-logo="https://i.imgur.com/4rZi0wH.png" group-title="⚡DOCUMENTÁRIOS",HGTV FHD
+http://tvhdbalck.pro:80/090720634/959666174/351.ts
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD" tvg-logo="https://i.imgur.com/4rZi0wH.png" group-title="⚡DOCUMENTÁRIOS",HGTV HD
+http://tvhdbalck.pro:80/090720634/959666174/352.ts
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV SD" tvg-logo="https://i.imgur.com/4rZi0wH.png" group-title="⚡DOCUMENTÁRIOS",HGTV SD
+http://tvhdbalck.pro:80/090720634/959666174/353.ts
+#EXTINF:-1 tvg-id="axn.br" tvg-name="HISTORY CHANNEL 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="⚡DOCUMENTÁRIOS",HISTORY CHANNEL 4K
+http://tvhdbalck.pro:80/090720634/959666174/4137756.ts
+#EXTINF:-1 tvg-id="History HD" tvg-name="HISTORY CHANNEL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="⚡DOCUMENTÁRIOS",HISTORY CHANNEL FHD
+http://tvhdbalck.pro:80/090720634/959666174/355.ts
+#EXTINF:-1 tvg-id="History HD" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="⚡DOCUMENTÁRIOS",HISTORY CHANNEL HD
+http://tvhdbalck.pro:80/090720634/959666174/356.ts
+#EXTINF:-1 tvg-id="axn.br" tvg-name="HISTORY CHANNEL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="⚡DOCUMENTÁRIOS",HISTORY CHANNEL SD
+http://tvhdbalck.pro:80/090720634/959666174/354.ts
+
