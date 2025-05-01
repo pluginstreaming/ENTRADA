@@ -3,6 +3,18 @@
 
 
 
+#EXTINF:-1 tvg-name="Power Couple CAM 1" tvg-logo="https://i.postimg.cc/zB4Cd4mK/images-3-2.png" group-title="POWER COUPLE",Power Couple CAM 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/070320/WerWcMP939/981957
+#EXTINF:-1 tvg-name="Power Couple CAM 2" tvg-logo="https://i.postimg.cc/zB4Cd4mK/images-3-2.png" group-title="POWER COUPLE",Power Couple CAM 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/070320/WerWcMP939/981971
+#EXTINF:-1 tvg-name="Power Couple CAM 3" tvg-logo="https://i.postimg.cc/zB4Cd4mK/images-3-2.png" group-title="POWER COUPLE",Power Couple CAM 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/070320/WerWcMP939/981972
+#EXTINF:-1 tvg-name="Power Couple CAM 4" tvg-logo="https://i.postimg.cc/zB4Cd4mK/images-3-2.png" group-title="POWER COUPLE",Power Couple CAM 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/070320/WerWcMP939/981984
+#EXTINF:-1 tvg-name="Power Couple CAM 5" tvg-logo="https://i.postimg.cc/zB4Cd4mK/images-3-2.png" group-title="POWER COUPLE",Power Couple CAM 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/070320/WerWcMP939/981985
+
+
 
 
 #EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Globo SP FHD" tvg-logo="http://prinplay.com.br/server/Globo%20S%C3%A3o%20Paulo.png" group-title="Globo ",Globo SP FHD
