@@ -3,25 +3,313 @@
 
 
 
-#EXTINF:-1 tvg-name="PT | CACA E PESCA" tvg-logo="https://portalnacional.com.pt/images/icons/tv/CACAP.png" group-title="CANAIS | PORTUGAL",PT | CACA E PESCA
-http://tvhdbalck.pro:80/090720634/959666174/4866062.ts
-#EXTINF:-1 tvg-id="ELEVSP" tvg-name="PT | ELEVEN SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ElevenSports_2.png" group-title="CANAIS | PORTUGAL",PT | ELEVEN SPORTS 2
-http://tvhdbalck.pro:80/090720634/959666174/4866068.ts
-#EXTINF:-1 tvg-id="ELEVEN" tvg-name="PT | ELEVEN SPORTS 3" tvg-logo="http://www.tmsimg.com/assets/s103926_ll_h3_aa.png" group-title="CANAIS | PORTUGAL",PT | ELEVEN SPORTS 3
-http://tvhdbalck.pro:80/090720634/959666174/4866069.ts
-#EXTINF:-1 tvg-name="PT | SPORT TV 1" tvg-logo="https://gulf365.co/content/uploads/2019/09/20/0b06788710.jpg" group-title="CANAIS | PORTUGAL",PT | SPORT TV 1
-http://tvhdbalck.pro:80/090720634/959666174/4866081.ts
-#EXTINF:-1 tvg-name="PT | SPORT TV 1" tvg-logo="http://dl.dropboxusercontent.com/s/x2gd6cvkrdf1f0j/sporttv-1.png" group-title="CANAIS | PORTUGAL",PT | SPORT TV 1
-http://tvhdbalck.pro:80/090720634/959666174/4866082.ts
-#EXTINF:-1 tvg-name="PT | SPORT TV 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZAJXM-VWcZB2Xo5QO1vKhFMABazcmx9PsC0BisQsu9iG3iW-d" group-title="CANAIS | PORTUGAL",PT | SPORT TV 2
-http://tvhdbalck.pro:80/090720634/959666174/4866083.ts
-#EXTINF:-1 tvg-name="PT | SPORT TV 3" tvg-logo="https://sport-tv-guide.live/images/stations/a452.png" group-title="CANAIS | PORTUGAL",PT | SPORT TV 3
-http://tvhdbalck.pro:80/090720634/959666174/4866084.ts
-#EXTINF:-1 tvg-name="PT | SPORT TV 4" tvg-logo="https://2.bp.blogspot.com/-8iCvE3hryzY/WcfzD3DmjqI/AAAAAAAAEmA/nH61kBu8QS0adinlN8lPIDPjvacCuW8kACLcBGAs/s392/Sport-Tv-4.png" group-title="CANAIS | PORTUGAL",PT | SPORT TV 4
-http://tvhdbalck.pro:80/090720634/959666174/4866085.ts
-#EXTINF:-1 tvg-name="PT | SPORT TV 5" tvg-logo="https://sport-tv-guide.live/images/stations/a454.png" group-title="CANAIS | PORTUGAL",PT | SPORT TV 5
-http://tvhdbalck.pro:80/090720634/959666174/4866086.ts
-#EXTINF:-1 tvg-name="PT | SPORT TV 6" group-title="CANAIS | PORTUGAL",PT | SPORT TV 6
-http://tvhdbalck.pro:80/090720634/959666174/4866087.ts
-#EXTINF:-1 tvg-id="8SPORT" tvg-name="PT | SPORT TV+" tvg-logo="http://www.nos.pt/particulares/televisao/canais/PublishingImages/destaques-hp/sporttv+/medium_sporttv+.jpg" group-title="CANAIS | PORTUGAL",PT | SPORT TV+
-http://tvhdbalck.pro:80/090720634/959666174/4866088.ts
+#EXTINF:-1 tvg-name="PT: 24 Kitchen [FHD]" group-title="Canais | Portugal",PT: 24 Kitchen [FHD]
+http://pfsv.io:80/epg/epg/294036.ts
+#EXTINF:-1 tvg-name="PT: A Bola TV [FHD]" group-title="Canais | Portugal",PT: A Bola TV [FHD]
+http://pfsv.io:80/epg/epg/294079.ts
+#EXTINF:-1 tvg-name="PT: Afro Music Channel [SD]" group-title="Canais | Portugal",PT: Afro Music Channel [SD]
+http://pfsv.io:80/epg/epg/293997.ts
+#EXTINF:-1 tvg-name="PT: Alma Lusa [FHD]" group-title="Canais | Portugal",PT: Alma Lusa [FHD]
+http://pfsv.io:80/epg/epg/294037.ts
+#EXTINF:-1 tvg-name="PT: AMC Break [SD]" group-title="Canais | Portugal",PT: AMC Break [SD]
+http://pfsv.io:80/epg/epg/294072.ts
+#EXTINF:-1 tvg-name="PT: AMC Crime [HD]" group-title="Canais | Portugal",PT: AMC Crime [HD]
+http://pfsv.io:80/epg/epg/294073.ts
+#EXTINF:-1 tvg-name="PT: AMC [HD]" group-title="Canais | Portugal",PT: AMC [HD]
+http://pfsv.io:80/epg/epg/294015.ts
+#EXTINF:-1 tvg-name="PT: AR TV Canal Parlamento [SD]" group-title="Canais | Portugal",PT: AR TV Canal Parlamento [SD]
+http://pfsv.io:80/epg/epg/294008.ts
+#EXTINF:-1 tvg-name="PT: AXN Movies [FHD]" group-title="Canais | Portugal",PT: AXN Movies [FHD]
+http://pfsv.io:80/epg/epg/294017.ts
+#EXTINF:-1 tvg-name="PT: AXN White [FHD]" group-title="Canais | Portugal",PT: AXN White [FHD]
+http://pfsv.io:80/epg/epg/294018.ts
+#EXTINF:-1 tvg-name="PT: AXN [FHD]" group-title="Canais | Portugal",PT: AXN [FHD]
+http://pfsv.io:80/epg/epg/294016.ts
+#EXTINF:-1 tvg-name="PT: Baby TV [SD]" group-title="Canais | Portugal",PT: Baby TV [SD]
+http://pfsv.io:80/epg/epg/293975.ts
+#EXTINF:-1 tvg-name="PT: Benfica TV [FHD]" group-title="Canais | Portugal",PT: Benfica TV [FHD]
+http://pfsv.io:80/epg/epg/293989.ts
+#EXTINF:-1 tvg-name="PT: Biggs [FHD]" group-title="Canais | Portugal",PT: Biggs [FHD]
+http://pfsv.io:80/epg/epg/294038.ts
+#EXTINF:-1 tvg-name="PT: Blaze [HD]" group-title="Canais | Portugal",PT: Blaze [HD]
+http://pfsv.io:80/epg/epg/294039.ts
+#EXTINF:-1 tvg-name="PT: Bloomberg [SD]" group-title="Canais | Portugal",PT: Bloomberg [SD]
+http://pfsv.io:80/epg/epg/294009.ts
+#EXTINF:-1 tvg-name="PT: Bom Som Channel [FHD]" group-title="Canais | Portugal",PT: Bom Som Channel [FHD]
+http://pfsv.io:80/epg/epg/294080.ts
+#EXTINF:-1 tvg-name="PT: Boomerang [SD]" group-title="Canais | Portugal",PT: Boomerang [SD]
+http://pfsv.io:80/epg/epg/293976.ts
+#EXTINF:-1 tvg-name="PT: Campo Pequeno [HD]" group-title="Canais | Portugal",PT: Campo Pequeno [HD]
+http://pfsv.io:80/epg/epg/294081.ts
+#EXTINF:-1 tvg-name="PT: Canal 11 [FHD]" group-title="Canais | Portugal",PT: Canal 11 [FHD]
+http://pfsv.io:80/epg/epg/293990.ts
+#EXTINF:-1 tvg-name="PT: Canal 11 [FHD]" group-title="Canais | Portugal",PT: Canal 11 [FHD]
+http://pfsv.io:80/epg/epg/295725.ts
+#EXTINF:-1 tvg-name="PT: CANAL 180 [SD]" group-title="Canais | Portugal",PT: CANAL 180 [SD]
+http://pfsv.io:80/epg/epg/293998.ts
+#EXTINF:-1 tvg-name="PT: Canal Nos [FHD]" group-title="Canais | Portugal",PT: Canal Nos [FHD]
+http://pfsv.io:80/epg/epg/294019.ts
+#EXTINF:-1 tvg-name="PT: Canal Panda [HD]" group-title="Canais | Portugal",PT: Canal Panda [HD]
+http://pfsv.io:80/epg/epg/293977.ts
+#EXTINF:-1 tvg-name="PT: Canal Q [SD]" group-title="Canais | Portugal",PT: Canal Q [SD]
+http://pfsv.io:80/epg/epg/294040.ts
+#EXTINF:-1 tvg-name="PT: Cancao Nova [SD]" group-title="Canais | Portugal",PT: Cancao Nova [SD]
+http://pfsv.io:80/epg/epg/294041.ts
+#EXTINF:-1 tvg-name="PT: Cartoon Network [SD]" group-title="Canais | Portugal",PT: Cartoon Network [SD]
+http://pfsv.io:80/epg/epg/293978.ts
+#EXTINF:-1 tvg-name="PT: Cartoonito [SD]" group-title="Canais | Portugal",PT: Cartoonito [SD]
+http://pfsv.io:80/epg/epg/293979.ts
+#EXTINF:-1 tvg-name="PT: Casa e Cozinha [HD]" group-title="Canais | Portugal",PT: Casa e Cozinha [HD]
+http://pfsv.io:80/epg/epg/294042.ts
+#EXTINF:-1 tvg-name="PT: Caza y Pesca [HD]" group-title="Canais | Portugal",PT: Caza y Pesca [HD]
+http://pfsv.io:80/epg/epg/294069.ts
+#EXTINF:-1 tvg-name="PT: Caçavision [FHD]" group-title="Canais | Portugal",PT: Caçavision [FHD]
+http://pfsv.io:80/epg/epg/294068.ts
+#EXTINF:-1 tvg-name="PT: CBS Reality [HD]" group-title="Canais | Portugal",PT: CBS Reality [HD]
+http://pfsv.io:80/epg/epg/294043.ts
+#EXTINF:-1 tvg-name="PT: Cine Mundo [FHD]" group-title="Canais | Portugal",PT: Cine Mundo [FHD]
+http://pfsv.io:80/epg/epg/294020.ts
+#EXTINF:-1 tvg-name="PT: CM TV [FHD]" group-title="Canais | Portugal",PT: CM TV [FHD]
+http://pfsv.io:80/epg/epg/294010.ts
+#EXTINF:-1 tvg-name="PT: CNBC [SD]" group-title="Canais | Portugal",PT: CNBC [SD]
+http://pfsv.io:80/epg/epg/294082.ts
+#EXTINF:-1 tvg-name="PT: CNN Portugal [HD]" group-title="Canais | Portugal",PT: CNN Portugal [HD]
+http://pfsv.io:80/epg/epg/294011.ts
+#EXTINF:-1 tvg-name="PT: Combate [HD]" group-title="Canais | Portugal",PT: Combate [HD]
+http://pfsv.io:80/epg/epg/293991.ts
+#EXTINF:-1 tvg-name="PT: Combate [HD]" group-title="Canais | Portugal",PT: Combate [HD]
+http://pfsv.io:80/epg/epg/295726.ts
+#EXTINF:-1 tvg-name="PT: Crime District [SD]" group-title="Canais | Portugal",PT: Crime District [SD]
+http://pfsv.io:80/epg/epg/294074.ts
+#EXTINF:-1 tvg-name="PT: Crime+ Investigation [SD]" group-title="Canais | Portugal",PT: Crime+ Investigation [SD]
+http://pfsv.io:80/epg/epg/294075.ts
+#EXTINF:-1 tvg-name="PT: DAZN 1 [HD]" group-title="Canais | Portugal",PT: DAZN 1 [HD]
+http://pfsv.io:80/epg/epg/295719.ts
+#EXTINF:-1 tvg-name="PT: DAZN 2 [FHD]" group-title="Canais | Portugal",PT: DAZN 2 [FHD]
+http://pfsv.io:80/epg/epg/295720.ts
+#EXTINF:-1 tvg-name="PT: DAZN 3 [HD]" group-title="Canais | Portugal",PT: DAZN 3 [HD]
+http://pfsv.io:80/epg/epg/295721.ts
+#EXTINF:-1 tvg-name="PT: DAZN 4 [HD]" group-title="Canais | Portugal",PT: DAZN 4 [HD]
+http://pfsv.io:80/epg/epg/295722.ts
+#EXTINF:-1 tvg-name="PT: DAZN 5 [FHD]" group-title="Canais | Portugal",PT: DAZN 5 [FHD]
+http://pfsv.io:80/epg/epg/295723.ts
+#EXTINF:-1 tvg-name="PT: DAZN 6 [FHD]" group-title="Canais | Portugal",PT: DAZN 6 [FHD]
+http://pfsv.io:80/epg/epg/295724.ts
+#EXTINF:-1 tvg-name="PT: Discovery World [FHD]" group-title="Canais | Portugal",PT: Discovery World [FHD]
+http://pfsv.io:80/epg/epg/294076.ts
+#EXTINF:-1 tvg-name="PT: Disney Channel [SD]" group-title="Canais | Portugal",PT: Disney Channel [SD]
+http://pfsv.io:80/epg/epg/293980.ts
+#EXTINF:-1 tvg-name="PT: Disney Junior [FHD]" group-title="Canais | Portugal",PT: Disney Junior [FHD]
+http://pfsv.io:80/epg/epg/293981.ts
+#EXTINF:-1 tvg-name="PT: DISNEY MARVEL [FHD]" group-title="Canais | Portugal",PT: DISNEY MARVEL [FHD]
+http://pfsv.io:80/epg/epg/294083.ts
+#EXTINF:-1 tvg-name="PT: DISNEY PIXAR [CANAL OFF]" group-title="Canais | Portugal",PT: DISNEY PIXAR [CANAL OFF]
+http://pfsv.io:80/epg/epg/294084.ts
+#EXTINF:-1 tvg-name="PT: Disney+ Pixar [HD]" group-title="Canais | Portugal",PT: Disney+ Pixar [HD]
+http://pfsv.io:80/epg/epg/293982.ts
+#EXTINF:-1 tvg-name="PT: Dizi Channel [FHD]" group-title="Canais | Portugal",PT: Dizi Channel [FHD]
+http://pfsv.io:80/epg/epg/294021.ts
+#EXTINF:-1 tvg-name="PT: DOG TV [HD]" group-title="Canais | Portugal",PT: DOG TV [HD]
+http://pfsv.io:80/epg/epg/294085.ts
+#EXTINF:-1 tvg-name="PT: E! [HD]" group-title="Canais | Portugal",PT: E! [HD]
+http://pfsv.io:80/epg/epg/294044.ts
+#EXTINF:-1 tvg-name="PT: euronews [SD]" group-title="Canais | Portugal",PT: euronews [SD]
+http://pfsv.io:80/epg/epg/294012.ts
+#EXTINF:-1 tvg-name="PT: Eurosport 1 [FHD]" group-title="Canais | Portugal",PT: Eurosport 1 [FHD]
+http://pfsv.io:80/epg/epg/295727.ts
+#EXTINF:-1 tvg-name="PT: Eurosport 2 [FHD]" group-title="Canais | Portugal",PT: Eurosport 2 [FHD]
+http://pfsv.io:80/epg/epg/295728.ts
+#EXTINF:-1 tvg-name="PT: FASHIONTV [FHD]" group-title="Canais | Portugal",PT: FASHIONTV [FHD]
+http://pfsv.io:80/epg/epg/294086.ts
+#EXTINF:-1 tvg-name="PT: FIREMAN SAM [HD]" group-title="Canais | Portugal",PT: FIREMAN SAM [HD]
+http://pfsv.io:80/epg/epg/294087.ts
+#EXTINF:-1 tvg-name="PT: Food Network [SD]" group-title="Canais | Portugal",PT: Food Network [SD]
+http://pfsv.io:80/epg/epg/294045.ts
+#EXTINF:-1 tvg-name="PT: Fuel TV [FHD]" group-title="Canais | Portugal",PT: Fuel TV [FHD]
+http://pfsv.io:80/epg/epg/293992.ts
+#EXTINF:-1 tvg-name="PT: Fuel TV [FHD]" group-title="Canais | Portugal",PT: Fuel TV [FHD]
+http://pfsv.io:80/epg/epg/295729.ts
+#EXTINF:-1 tvg-name="PT: HGTV [FHD]" group-title="Canais | Portugal",PT: HGTV [FHD]
+http://pfsv.io:80/epg/epg/294046.ts
+#EXTINF:-1 tvg-name="PT: Historia [FHD]" group-title="Canais | Portugal",PT: Historia [FHD]
+http://pfsv.io:80/epg/epg/294077.ts
+#EXTINF:-1 tvg-name="PT: Hollywood [FHD]" group-title="Canais | Portugal",PT: Hollywood [FHD]
+http://pfsv.io:80/epg/epg/294022.ts
+#EXTINF:-1 tvg-name="PT: Investigation Discovery [FHD]" group-title="Canais | Portugal",PT: Investigation Discovery [FHD]
+http://pfsv.io:80/epg/epg/294078.ts
+#EXTINF:-1 tvg-name="PT: Kanuca TV [FHD]" group-title="Canais | Portugal",PT: Kanuca TV [FHD]
+http://pfsv.io:80/epg/epg/293983.ts
+#EXTINF:-1 tvg-name="PT: Kombat Sport [FHD]" group-title="Canais | Portugal",PT: Kombat Sport [FHD]
+http://pfsv.io:80/epg/epg/294088.ts
+#EXTINF:-1 tvg-name="PT: Kuriakos Kids [FHD]" group-title="Canais | Portugal",PT: Kuriakos Kids [FHD]
+http://pfsv.io:80/epg/epg/293984.ts
+#EXTINF:-1 tvg-name="PT: Kuriakos TV [FHD]" group-title="Canais | Portugal",PT: Kuriakos TV [FHD]
+http://pfsv.io:80/epg/epg/293985.ts
+#EXTINF:-1 tvg-name="PT: Local visão [FHD]" group-title="Canais | Portugal",PT: Local visão [FHD]
+http://pfsv.io:80/epg/epg/294089.ts
+#EXTINF:-1 tvg-name="PT: MCM POP [SD]" group-title="Canais | Portugal",PT: MCM POP [SD]
+http://pfsv.io:80/epg/epg/293999.ts
+#EXTINF:-1 tvg-name="PT: MCM TOP [HD]" group-title="Canais | Portugal",PT: MCM TOP [HD]
+http://pfsv.io:80/epg/epg/294000.ts
+#EXTINF:-1 tvg-name="PT: MEO Videoclube [SD]" group-title="Canais | Portugal",PT: MEO Videoclube [SD]
+http://pfsv.io:80/epg/epg/294023.ts
+#EXTINF:-1 tvg-name="PT: Mezzo Live [HD]" group-title="Canais | Portugal",PT: Mezzo Live [HD]
+http://pfsv.io:80/epg/epg/294091.ts
+#EXTINF:-1 tvg-name="PT: Mezzo [SD]" group-title="Canais | Portugal",PT: Mezzo [SD]
+http://pfsv.io:80/epg/epg/294090.ts
+#EXTINF:-1 tvg-name="PT: Motorvision TV [SD]" group-title="Canais | Portugal",PT: Motorvision TV [SD]
+http://pfsv.io:80/epg/epg/293996.ts
+#EXTINF:-1 tvg-name="PT: Motorvision TV [SD]" group-title="Canais | Portugal",PT: Motorvision TV [SD]
+http://pfsv.io:80/epg/epg/295742.ts
+#EXTINF:-1 tvg-name="PT: MTV 00s [SD]" group-title="Canais | Portugal",PT: MTV 00s [SD]
+http://pfsv.io:80/epg/epg/294001.ts
+#EXTINF:-1 tvg-name="PT: MTV Classic [SD]" group-title="Canais | Portugal",PT: MTV Classic [SD]
+http://pfsv.io:80/epg/epg/294002.ts
+#EXTINF:-1 tvg-name="PT: MTV Live [FHD]" group-title="Canais | Portugal",PT: MTV Live [FHD]
+http://pfsv.io:80/epg/epg/294092.ts
+#EXTINF:-1 tvg-name="PT: MTV Portugal [FHD]" group-title="Canais | Portugal",PT: MTV Portugal [FHD]
+http://pfsv.io:80/epg/epg/294003.ts
+#EXTINF:-1 tvg-name="PT: NAT GEO Wild [FHD]" group-title="Canais | Portugal",PT: NAT GEO Wild [FHD]
+http://pfsv.io:80/epg/epg/294071.ts
+#EXTINF:-1 tvg-name="PT: NAT GEO [FHD]" group-title="Canais | Portugal",PT: NAT GEO [FHD]
+http://pfsv.io:80/epg/epg/294070.ts
+#EXTINF:-1 tvg-name="PT: NBA TV [HD]" group-title="Canais | Portugal",PT: NBA TV [HD]
+http://pfsv.io:80/epg/epg/295743.ts
+#EXTINF:-1 tvg-name="PT: News Now [SD]" group-title="Canais | Portugal",PT: News Now [SD]
+http://pfsv.io:80/epg/epg/294093.ts
+#EXTINF:-1 tvg-name="PT: Nick Junior [SD]" group-title="Canais | Portugal",PT: Nick Junior [SD]
+http://pfsv.io:80/epg/epg/293986.ts
+#EXTINF:-1 tvg-name="PT: nickelodeon [SD]" group-title="Canais | Portugal",PT: nickelodeon [SD]
+http://pfsv.io:80/epg/epg/293987.ts
+#EXTINF:-1 tvg-name="PT: Nos Studios [FHD]" group-title="Canais | Portugal",PT: Nos Studios [FHD]
+http://pfsv.io:80/epg/epg/294024.ts
+#EXTINF:-1 tvg-name="PT: Odisseia [HD]" group-title="Canais | Portugal",PT: Odisseia [HD]
+http://pfsv.io:80/epg/epg/294047.ts
+#EXTINF:-1 tvg-name="PT: OPTO [FHD]" group-title="Canais | Portugal",PT: OPTO [FHD]
+http://pfsv.io:80/epg/epg/294094.ts
+#EXTINF:-1 tvg-name="PT: PANDA Kids [HD]" group-title="Canais | Portugal",PT: PANDA Kids [HD]
+http://pfsv.io:80/epg/epg/293988.ts
+#EXTINF:-1 tvg-name="PT: Porto Canal [FHD]" group-title="Canais | Portugal",PT: Porto Canal [FHD]
+http://pfsv.io:80/epg/epg/294048.ts
+#EXTINF:-1 tvg-name="PT: Record TV [SD]" group-title="Canais | Portugal",PT: Record TV [SD]
+http://pfsv.io:80/epg/epg/294095.ts
+#EXTINF:-1 tvg-name="PT: RTP 1 [FHD]" group-title="Canais | Portugal",PT: RTP 1 [FHD]
+http://pfsv.io:80/epg/epg/294049.ts
+#EXTINF:-1 tvg-name="PT: RTP 2 [HD]" group-title="Canais | Portugal",PT: RTP 2 [HD]
+http://pfsv.io:80/epg/epg/294050.ts
+#EXTINF:-1 tvg-name="PT: RTP 3 [HD]" group-title="Canais | Portugal",PT: RTP 3 [HD]
+http://pfsv.io:80/epg/epg/294051.ts
+#EXTINF:-1 tvg-name="PT: RTP Açores [SD]" group-title="Canais | Portugal",PT: RTP Açores [SD]
+http://pfsv.io:80/epg/epg/294052.ts
+#EXTINF:-1 tvg-name="PT: RTP Internacional [SD]" group-title="Canais | Portugal",PT: RTP Internacional [SD]
+http://pfsv.io:80/epg/epg/294096.ts
+#EXTINF:-1 tvg-name="PT: RTP Madeira [SD]" group-title="Canais | Portugal",PT: RTP Madeira [SD]
+http://pfsv.io:80/epg/epg/294054.ts
+#EXTINF:-1 tvg-name="PT: RTP Memória [SD]" group-title="Canais | Portugal",PT: RTP Memória [SD]
+http://pfsv.io:80/epg/epg/294055.ts
+#EXTINF:-1 tvg-name="PT: RTP África [SD]" group-title="Canais | Portugal",PT: RTP África [SD]
+http://pfsv.io:80/epg/epg/294053.ts
+#EXTINF:-1 tvg-name="PT: SAUDE+ [HD]" group-title="Canais | Portugal",PT: SAUDE+ [HD]
+http://pfsv.io:80/epg/epg/294056.ts
+#EXTINF:-1 tvg-name="PT: SIC Caras [FHD]" group-title="Canais | Portugal",PT: SIC Caras [FHD]
+http://pfsv.io:80/epg/epg/294058.ts
+#EXTINF:-1 tvg-name="PT: SIC Internacional [HD]" group-title="Canais | Portugal",PT: SIC Internacional [HD]
+http://pfsv.io:80/epg/epg/294097.ts
+#EXTINF:-1 tvg-name="PT: SIC K [FHD]" group-title="Canais | Portugal",PT: SIC K [FHD]
+http://pfsv.io:80/epg/epg/294059.ts
+#EXTINF:-1 tvg-name="PT: SIC Kids [FHD]" group-title="Canais | Portugal",PT: SIC Kids [FHD]
+http://pfsv.io:80/epg/epg/294098.ts
+#EXTINF:-1 tvg-name="PT: SIC Mulher [FHD]" group-title="Canais | Portugal",PT: SIC Mulher [FHD]
+http://pfsv.io:80/epg/epg/294025.ts
+#EXTINF:-1 tvg-name="PT: SIC Noticias [FHD]" group-title="Canais | Portugal",PT: SIC Noticias [FHD]
+http://pfsv.io:80/epg/epg/294013.ts
+#EXTINF:-1 tvg-name="PT: SIC Novelas [FHD]" group-title="Canais | Portugal",PT: SIC Novelas [FHD]
+http://pfsv.io:80/epg/epg/294099.ts
+#EXTINF:-1 tvg-name="PT: SIC Radical [FHD]" group-title="Canais | Portugal",PT: SIC Radical [FHD]
+http://pfsv.io:80/epg/epg/294060.ts
+#EXTINF:-1 tvg-name="PT: SIC [FHD]" group-title="Canais | Portugal",PT: SIC [FHD]
+http://pfsv.io:80/epg/epg/294057.ts
+#EXTINF:-1 tvg-name="PT: SPORT TV + [FHD]" group-title="Canais | Portugal",PT: SPORT TV + [FHD]
+http://pfsv.io:80/epg/epg/295730.ts
+#EXTINF:-1 tvg-name="PT: SPORT TV 1 [HD]" group-title="Canais | Portugal",PT: SPORT TV 1 [HD]
+http://pfsv.io:80/epg/epg/295731.ts
+#EXTINF:-1 tvg-name="PT: SPORT TV 2 [FHD]" group-title="Canais | Portugal",PT: SPORT TV 2 [FHD]
+http://pfsv.io:80/epg/epg/295732.ts
+#EXTINF:-1 tvg-name="PT: SPORT TV 3 [FHD]" group-title="Canais | Portugal",PT: SPORT TV 3 [FHD]
+http://pfsv.io:80/epg/epg/295733.ts
+#EXTINF:-1 tvg-name="PT: SPORT TV 4 [FHD]" group-title="Canais | Portugal",PT: SPORT TV 4 [FHD]
+http://pfsv.io:80/epg/epg/295734.ts
+#EXTINF:-1 tvg-name="PT: SPORT TV 5 [FHD]" group-title="Canais | Portugal",PT: SPORT TV 5 [FHD]
+http://pfsv.io:80/epg/epg/295735.ts
+#EXTINF:-1 tvg-name="PT: SPORT TV 6 [FHD]" group-title="Canais | Portugal",PT: SPORT TV 6 [FHD]
+http://pfsv.io:80/epg/epg/295736.ts
+#EXTINF:-1 tvg-name="PT: SPORT TV 7 [HD]" group-title="Canais | Portugal",PT: SPORT TV 7 [HD]
+http://pfsv.io:80/epg/epg/295737.ts
+#EXTINF:-1 tvg-name="PT: SPORT TV NBA [FHD]" group-title="Canais | Portugal",PT: SPORT TV NBA [FHD]
+http://pfsv.io:80/epg/epg/295738.ts
+#EXTINF:-1 tvg-name="PT: SPORT.TV [FHD]" group-title="Canais | Portugal",PT: SPORT.TV [FHD]
+http://pfsv.io:80/epg/epg/293993.ts
+#EXTINF:-1 tvg-name="PT: SPORT.TV [FHD]" group-title="Canais | Portugal",PT: SPORT.TV [FHD]
+http://pfsv.io:80/epg/epg/295739.ts
+#EXTINF:-1 tvg-name="PT: Sporting TV [FHD]" group-title="Canais | Portugal",PT: Sporting TV [FHD]
+http://pfsv.io:80/epg/epg/293994.ts
+#EXTINF:-1 tvg-name="PT: Sporting TV [FHD]" group-title="Canais | Portugal",PT: Sporting TV [FHD]
+http://pfsv.io:80/epg/epg/295740.ts
+#EXTINF:-1 tvg-name="PT: STAR Channel [FHD]" group-title="Canais | Portugal",PT: STAR Channel [FHD]
+http://pfsv.io:80/epg/epg/294026.ts
+#EXTINF:-1 tvg-name="PT: STAR Comedy [HD]" group-title="Canais | Portugal",PT: STAR Comedy [HD]
+http://pfsv.io:80/epg/epg/294027.ts
+#EXTINF:-1 tvg-name="PT: STAR Crime [FHD]" group-title="Canais | Portugal",PT: STAR Crime [FHD]
+http://pfsv.io:80/epg/epg/294028.ts
+#EXTINF:-1 tvg-name="PT: STAR Life [FHD]" group-title="Canais | Portugal",PT: STAR Life [FHD]
+http://pfsv.io:80/epg/epg/294029.ts
+#EXTINF:-1 tvg-name="PT: STAR Movies [FHD]" group-title="Canais | Portugal",PT: STAR Movies [FHD]
+http://pfsv.io:80/epg/epg/294030.ts
+#EXTINF:-1 tvg-name="PT: Stingray CMusic [SD]" group-title="Canais | Portugal",PT: Stingray CMusic [SD]
+http://pfsv.io:80/epg/epg/294100.ts
+#EXTINF:-1 tvg-name="PT: Stingray Retro [SD]" group-title="Canais | Portugal",PT: Stingray Retro [SD]
+http://pfsv.io:80/epg/epg/294101.ts
+#EXTINF:-1 tvg-name="PT: SYFY Portugal [FHD]" group-title="Canais | Portugal",PT: SYFY Portugal [FHD]
+http://pfsv.io:80/epg/epg/294031.ts
+#EXTINF:-1 tvg-name="PT: TCV Internacional [SD]" group-title="Canais | Portugal",PT: TCV Internacional [SD]
+http://pfsv.io:80/epg/epg/294102.ts
+#EXTINF:-1 tvg-name="PT: TLC [SD]" group-title="Canais | Portugal",PT: TLC [SD]
+http://pfsv.io:80/epg/epg/294061.ts
+#EXTINF:-1 tvg-name="PT: TOROS [HD]" group-title="Canais | Portugal",PT: TOROS [HD]
+http://pfsv.io:80/epg/epg/294103.ts
+#EXTINF:-1 tvg-name="PT: TPA Notícias [SD]" group-title="Canais | Portugal",PT: TPA Notícias [SD]
+http://pfsv.io:80/epg/epg/294104.ts
+#EXTINF:-1 tvg-name="PT: Trace Brasil [HD]" group-title="Canais | Portugal",PT: Trace Brasil [HD]
+http://pfsv.io:80/epg/epg/294004.ts
+#EXTINF:-1 tvg-name="PT: Trace Latina [HD]" group-title="Canais | Portugal",PT: Trace Latina [HD]
+http://pfsv.io:80/epg/epg/294005.ts
+#EXTINF:-1 tvg-name="PT: Trace Toca [SD]" group-title="Canais | Portugal",PT: Trace Toca [SD]
+http://pfsv.io:80/epg/epg/294006.ts
+#EXTINF:-1 tvg-name="PT: Trace Urban [SD]" group-title="Canais | Portugal",PT: Trace Urban [SD]
+http://pfsv.io:80/epg/epg/294007.ts
+#EXTINF:-1 tvg-name="PT: Travel Channel [HD]" group-title="Canais | Portugal",PT: Travel Channel [HD]
+http://pfsv.io:80/epg/epg/294062.ts
+#EXTINF:-1 tvg-name="PT: Travelxp [FHD]" group-title="Canais | Portugal",PT: Travelxp [FHD]
+http://pfsv.io:80/epg/epg/294063.ts
+#EXTINF:-1 tvg-name="PT: TV Mana 1 [HD]" group-title="Canais | Portugal",PT: TV Mana 1 [HD]
+http://pfsv.io:80/epg/epg/294064.ts
+#EXTINF:-1 tvg-name="PT: TVCine Action [HD]" group-title="Canais | Portugal",PT: TVCine Action [HD]
+http://pfsv.io:80/epg/epg/294032.ts
+#EXTINF:-1 tvg-name="PT: TVCine Edition [FHD]" group-title="Canais | Portugal",PT: TVCine Edition [FHD]
+http://pfsv.io:80/epg/epg/294033.ts
+#EXTINF:-1 tvg-name="PT: TVCine Emotion [FHD]" group-title="Canais | Portugal",PT: TVCine Emotion [FHD]
+http://pfsv.io:80/epg/epg/294034.ts
+#EXTINF:-1 tvg-name="PT: TVCine Top [FHD]" group-title="Canais | Portugal",PT: TVCine Top [FHD]
+http://pfsv.io:80/epg/epg/294035.ts
+#EXTINF:-1 tvg-name="PT: TVI Ficção [FHD]" group-title="Canais | Portugal",PT: TVI Ficção [FHD]
+http://pfsv.io:80/epg/epg/294065.ts
+#EXTINF:-1 tvg-name="PT: TVI Reality [FHD]" group-title="Canais | Portugal",PT: TVI Reality [FHD]
+http://pfsv.io:80/epg/epg/294066.ts
+#EXTINF:-1 tvg-name="PT: TVI [FHD]" group-title="Canais | Portugal",PT: TVI [FHD]
+http://pfsv.io:80/epg/epg/294014.ts
+#EXTINF:-1 tvg-name="PT: V+ TVI [FHD]" group-title="Canais | Portugal",PT: V+ TVI [FHD]
+http://pfsv.io:80/epg/epg/294067.ts
+#EXTINF:-1 tvg-name="PT: W-Sport [FHD]" group-title="Canais | Portugal",PT: W-Sport [FHD]
+http://pfsv.io:80/epg/epg/293995.ts
+#EXTINF:-1 tvg-name="PT: W-Sport [FHD]" group-title="Canais | Portugal",PT: W-Sport [FHD]
+http://pfsv.io:80/epg/epg/295741.ts
