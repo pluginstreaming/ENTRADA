@@ -4,405 +4,485 @@
 
 
 
-
-#EXTINF:-1,RETRO TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/RETRO_TV.png" group-title="CANAIS ABERTOS",RETRO TV
 https://ncplay.fun:443/1712382516/5246361986/3448111.m3u8
-#EXTINF:-1,TV APARECIDA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/TV_APARECIDA.png" group-title="CANAIS ABERTOS",TV APARECIDA
 https://ncplay.fun:443/1712382516/5246361986/4719645.m3u8
-#EXTINF:-1,REDE TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/REDE_TV_HD.png" group-title="CANAIS ABERTOS",REDE TV HD
 https://ncplay.fun:443/1712382516/5246361986/4719067.m3u8
-#EXTINF:-1,REDE TV ! PARANÁ  HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/REDE_TV__PARANÁ__HD.png" group-title="CANAIS ABERTOS",REDE TV ! PARANÁ  HD
 https://ncplay.fun:443/1712382516/5246361986/4719367.m3u8
-#EXTINF:-1,REDE TV FHD H265
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/REDE_TV_FHD_H265.png" group-title="CANAIS ABERTOS",REDE TV FHD H265
 https://ncplay.fun:443/1712382516/5246361986/4719447.m3u8
-#EXTINF:-1,REDE TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/REDE_TV.png" group-title="CANAIS ABERTOS",REDE TV
 https://ncplay.fun:443/1712382516/5246361986/4719618.m3u8
-#EXTINF:-1,REDE TV FHD H264
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/REDE_TV_FHD_H264.png" group-title="CANAIS ABERTOS",REDE TV FHD H264
 https://ncplay.fun:443/1712382516/5246361986/4720149.m3u8
-#EXTINF:-1,NOVO TEMPO HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/NOVO_TEMPO_HD.png" group-title="RELIGIOSOS",NOVO TEMPO HD
 https://ncplay.fun:443/1712382516/5246361986/4719094.m3u8
-#EXTINF:-1,MUNDIAL IDEAL HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/MUNDIAL_IDEAL_HD.png" group-title="RELIGIOSOS",MUNDIAL IDEAL HD
 https://ncplay.fun:443/1712382516/5246361986/4719110.m3u8
-#EXTINF:-1,REDE GOSPEL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/REDE_GOSPEL.png" group-title="CANAIS ABERTOS",REDE GOSPEL
 https://ncplay.fun:443/1712382516/5246361986/4719123.m3u8
-#EXTINF:-1,GOSPEL CARTOON ²
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/GOSPEL_CARTOON_².png" group-title="RELIGIOSOS",GOSPEL CARTOON ²
 https://ncplay.fun:443/1712382516/5246361986/4719124.m3u8
-#EXTINF:-1,GOSPEL CARTOON
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/GOSPEL_CARTOON.png" group-title="RELIGIOSOS",GOSPEL CARTOON
 https://ncplay.fun:443/1712382516/5246361986/4719125.m3u8
-#EXTINF:-1,REDE PLENITUDE TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/REDE_PLENITUDE_TV_HD.png" group-title="CANAIS ABERTOS",REDE PLENITUDE TV HD
 https://ncplay.fun:443/1712382516/5246361986/4719127.m3u8
-#EXTINF:-1,TV PAI ETERNO HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/TV_PAI_ETERNO_HD.png" group-title="CANAIS ABERTOS",TV PAI ETERNO HD
 https://ncplay.fun:443/1712382516/5246361986/4719129.m3u8
-#EXTINF:-1,RIT TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/RIT_TV_HD.png" group-title="CANAIS ABERTOS",RIT TV HD
 https://ncplay.fun:443/1712382516/5246361986/4719133.m3u8
-#EXTINF:-1,CANÇÃO NOVA HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/CANÇÃO_NOVA_HD.png" group-title="RELIGIOSOS",CANÇÃO NOVA HD
 https://ncplay.fun:443/1712382516/5246361986/4719166.m3u8
-#EXTINF:-1,IGREJA CRISTA MARANATA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/IGREJA_CRISTA_MARANATA.png" group-title="RELIGIOSOS",IGREJA CRISTA MARANATA
 https://ncplay.fun:443/1712382516/5246361986/4719306.m3u8
-#EXTINF:-1,CANÇÃO NOVA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/CANÇÃO_NOVA.png" group-title="RELIGIOSOS",CANÇÃO NOVA
 https://ncplay.fun:443/1712382516/5246361986/4719569.m3u8
-#EXTINF:-1,NOVO TEMPO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/NOVO_TEMPO.png" group-title="RELIGIOSOS",NOVO TEMPO
 https://ncplay.fun:443/1712382516/5246361986/4719667.m3u8
-#EXTINF:-1,MUNDIAL IDEAL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/MUNDIAL_IDEAL.png" group-title="RELIGIOSOS",MUNDIAL IDEAL
 https://ncplay.fun:443/1712382516/5246361986/4719668.m3u8
-#EXTINF:-1,TV EVANGELIZAR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/TV_EVANGELIZAR.png" group-title="CANAIS ABERTOS",TV EVANGELIZAR
 https://ncplay.fun:443/1712382516/5246361986/4719671.m3u8
-#EXTINF:-1,RIT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/RIT.png" group-title="RELIGIOSOS",RIT
 https://ncplay.fun:443/1712382516/5246361986/4719716.m3u8
-#EXTINF:-1,HISTORIA BIBLICA PARA CRIANCA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/HISTORIA_BIBLICA_PARA_CRIANCA.png" group-title="INFANTIS",HISTORIA BIBLICA PARA CRIANCA
 https://ncplay.fun:443/1712382516/5246361986/4719819.m3u8
-#EXTINF:-1,IDEAL TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/IDEAL_TV.png" group-title="CANAIS ABERTOS",IDEAL TV
 https://ncplay.fun:443/1712382516/5246361986/4720159.m3u8
-#EXTINF:-1,GOLF CHANNEL HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/GOLF_CHANNEL_HD.png" group-title="ESPORTES",GOLF CHANNEL HD
 https://ncplay.fun:443/1712382516/5246361986/4720066.m3u8
-#EXTINF:-1,GOLF CHANNEL FHD H264
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/GOLF_CHANNEL_FHD_H264.png" group-title="ESPORTES",GOLF CHANNEL FHD H264
 https://ncplay.fun:443/1712382516/5246361986/4720065.m3u8
-#EXTINF:-1,01 • ZAPPING SPORTS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/01.png" group-title="ESPORTES",01 • ZAPPING SPORTS
 https://ncplay.fun:443/1712382516/5246361986/4719331.m3u8
-#EXTINF:-1,TVE ES (JOGO 1)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/TVE_ES_(JOGO_1).png" group-title="CANAIS ABERTOS",TVE ES (JOGO 1)
 https://ncplay.fun:443/1712382516/5246361986/4719315.m3u8
-#EXTINF:-1,TVE BAHIA HD (JOGO 3 )
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/TVE_BAHIA_HD_(JOGO_3_).png" group-title="CANAIS ABERTOS",TVE BAHIA HD (JOGO 3 )
 https://ncplay.fun:443/1712382516/5246361986/4719313.m3u8
-#EXTINF:-1,TVE BAHIA HD (JOGO 2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/TVE_BAHIA_HD_(JOGO_2).png" group-title="CANAIS ABERTOS",TVE BAHIA HD (JOGO 2)
 https://ncplay.fun:443/1712382516/5246361986/4719312.m3u8
-#EXTINF:-1,MLS SOCCER LIGA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/MLS_SOCCER_LIGA.png" group-title="ESPORTES",MLS SOCCER LIGA
 https://ncplay.fun:443/1712382516/5246361986/4719291.m3u8
-#EXTINF:-1,ONE FOOTBALL 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/ONE_FOOTBALL_2.png" group-title="ESPORTES",ONE FOOTBALL 2
 https://ncplay.fun:443/1712382516/5246361986/4719263.m3u8
-#EXTINF:-1,ONE FOOTBALL 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/ONE_FOOTBALL_3.png" group-title="ESPORTES",ONE FOOTBALL 3
 https://ncplay.fun:443/1712382516/5246361986/4719262.m3u8
-#EXTINF:-1,ONE FOOTBALL 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/ONE_FOOTBALL_4.png" group-title="ESPORTES",ONE FOOTBALL 4
 https://ncplay.fun:443/1712382516/5246361986/4719261.m3u8
-#EXTINF:-1,TVE (JOGO 1)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/TVE_(JOGO_1).png" group-title="CANAIS ABERTOS",TVE (JOGO 1)
 https://ncplay.fun:443/1712382516/5246361986/4719245.m3u8
-#EXTINF:-1,ONE FOOTBALL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/ONE_FOOTBALL.png" group-title="ESPORTES",ONE FOOTBALL
 https://ncplay.fun:443/1712382516/5246361986/4719237.m3u8
-#EXTINF:-1,ELEVEN SPORTS CHANNEL (JOGO 6)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/ELEVEN_SPORTS_CHANNEL_(JOGO_6).png" group-title="ESPORTES",ELEVEN SPORTS CHANNEL (JOGO 6)
 https://ncplay.fun:443/1712382516/5246361986/4719142.m3u8
-#EXTINF:-1,ELEVEN SPORTS CHANNEL (JOGO 5)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/ELEVEN_SPORTS_CHANNEL_(JOGO_5).png" group-title="ESPORTES",ELEVEN SPORTS CHANNEL (JOGO 5)
 https://ncplay.fun:443/1712382516/5246361986/4719141.m3u8
-#EXTINF:-1,ELEVEN SPORTS CHANNEL (JOGO 4)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/ELEVEN_SPORTS_CHANNEL_(JOGO_4).png" group-title="ESPORTES",ELEVEN SPORTS CHANNEL (JOGO 4)
 https://ncplay.fun:443/1712382516/5246361986/4719140.m3u8
-#EXTINF:-1,ELEVEN SPORTS CHANNEL (JOGO 3)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/ELEVEN_SPORTS_CHANNEL_(JOGO_3).png" group-title="ESPORTES",ELEVEN SPORTS CHANNEL (JOGO 3)
 https://ncplay.fun:443/1712382516/5246361986/4719139.m3u8
-#EXTINF:-1,ELEVEN SPORTS CHANNEL (JOGO 2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/ELEVEN_SPORTS_CHANNEL_(JOGO_2).png" group-title="ESPORTES",ELEVEN SPORTS CHANNEL (JOGO 2)
 https://ncplay.fun:443/1712382516/5246361986/4719138.m3u8
-#EXTINF:-1,ELEVEN SPORTS CHANNEL (JOGO 1)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/ELEVEN_SPORTS_CHANNEL_(JOGO_1).png" group-title="ESPORTES",ELEVEN SPORTS CHANNEL (JOGO 1)
 https://ncplay.fun:443/1712382516/5246361986/4719137.m3u8
-#EXTINF:-1,TV NSPORTS HD (JOGO 3)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/TV_NSPORTS_HD_(JOGO_3).png" group-title="CANAIS ABERTOS",TV NSPORTS HD (JOGO 3)
 https://ncplay.fun:443/1712382516/5246361986/4719136.m3u8
-#EXTINF:-1,TV NSPORTS HD (JOGO 2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/TV_NSPORTS_HD_(JOGO_2).png" group-title="CANAIS ABERTOS",TV NSPORTS HD (JOGO 2)
 https://ncplay.fun:443/1712382516/5246361986/4719135.m3u8
-#EXTINF:-1,TV NSPORTS HD (JOGO 1)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/TV_NSPORTS_HD_(JOGO_1).png" group-title="CANAIS ABERTOS",TV NSPORTS HD (JOGO 1)
 https://ncplay.fun:443/1712382516/5246361986/4719134.m3u8
-#EXTINF:-1,WOOHOO ESPORTES HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/WOOHOO_ESPORTES_HD.png" group-title="ESPORTES",WOOHOO ESPORTES HD
 https://ncplay.fun:443/1712382516/5246361986/4719348.m3u8
-#EXTINF:-1,WOOHOO ESPORTES FHD H264
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/WOOHOO_ESPORTES_FHD_H264.png" group-title="ESPORTES",WOOHOO ESPORTES FHD H264
 https://ncplay.fun:443/1712382516/5246361986/4719347.m3u8
-#EXTINF:-1,RÁDIO  GAÚCHA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/RÁDIO__GAÚCHA.png" group-title="OUTROS",RÁDIO  GAÚCHA
 https://ncplay.fun:443/1712382516/5246361986/4719546.m3u8
-#EXTINF:-1,GOSPEL (RADIOS)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/GOSPEL_(RADIOS).png" group-title="RELIGIOSOS",GOSPEL (RADIOS)
 https://ncplay.fun:443/1712382516/5246361986/4719316.m3u8
-#EXTINF:-1,POP FM (RADIOS)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/POP_FM_(RADIOS).png" group-title="FILMES & SÉRIES",POP FM (RADIOS)
 https://ncplay.fun:443/1712382516/5246361986/4719163.m3u8
-#EXTINF:-1,CLUBE FM (RADIOS)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/CLUBE_FM_(RADIOS).png" group-title="RÁDIOS",CLUBE FM (RADIOS)
 https://ncplay.fun:443/1712382516/5246361986/4719162.m3u8
-#EXTINF:-1,TOP FM (RADIOS)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/TOP_FM_(RADIOS).png" group-title="RÁDIOS",TOP FM (RADIOS)
 https://ncplay.fun:443/1712382516/5246361986/4719161.m3u8
-#EXTINF:-1,SAMBA E PAGODE FM (RADIOS)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/SAMBA_E_PAGODE_FM_(RADIOS).png" group-title="RÁDIOS",SAMBA E PAGODE FM (RADIOS)
 https://ncplay.fun:443/1712382516/5246361986/4719160.m3u8
-#EXTINF:-1,BH FM (RADIOS)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/BH_FM_(RADIOS).png" group-title="RÁDIOS",BH FM (RADIOS)
 https://ncplay.fun:443/1712382516/5246361986/4719159.m3u8
-#EXTINF:-1,GERAÇÃO FUNK FM (RADIOS)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/GERAÇÃO_FUNK_FM_(RADIOS).png" group-title="FILMES & SÉRIES",GERAÇÃO FUNK FM (RADIOS)
 https://ncplay.fun:443/1712382516/5246361986/4719158.m3u8
-#EXTINF:-1,CIDADE FM (RADIOS)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/CIDADE_FM_(RADIOS).png" group-title="RÁDIOS",CIDADE FM (RADIOS)
 https://ncplay.fun:443/1712382516/5246361986/4719157.m3u8
-#EXTINF:-1,TRANSCONTINENTAL FM (RADIOS)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/TRANSCONTINENTAL_FM_(RADIOS).png" group-title="RÁDIOS",TRANSCONTINENTAL FM (RADIOS)
 https://ncplay.fun:443/1712382516/5246361986/4719156.m3u8
-#EXTINF:-1,GAZETA FM (RADIOS)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/GAZETA_FM_(RADIOS).png" group-title="CANAIS ABERTOS",GAZETA FM (RADIOS)
 https://ncplay.fun:443/1712382516/5246361986/4719155.m3u8
-#EXTINF:-1,JB FM (RADIOS)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/JB_FM_(RADIOS).png" group-title="RÁDIOS",JB FM (RADIOS)
 https://ncplay.fun:443/1712382516/5246361986/4719153.m3u8
-#EXTINF:-1,89 FM ROCK (RADIOS)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/89_FM_ROCK_(RADIOS).png" group-title="RÁDIOS",89 FM ROCK (RADIOS)
 https://ncplay.fun:443/1712382516/5246361986/4719152.m3u8
-#EXTINF:-1,METROPOLITANA SERTANEJA (RADIOS)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/METROPOLITANA_SERTANEJA_(RADIOS).png" group-title="RÁDIOS",METROPOLITANA SERTANEJA (RADIOS)
 https://ncplay.fun:443/1712382516/5246361986/4719151.m3u8
-#EXTINF:-1,MIX FM SP (RADIOS)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/MIX_FM_SP_(RADIOS).png" group-title="RÁDIOS",MIX FM SP (RADIOS)
 https://ncplay.fun:443/1712382516/5246361986/4719150.m3u8
-#EXTINF:-1,ALPHA FM (RADIOS)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/ALPHA_FM_(RADIOS).png" group-title="RÁDIOS",ALPHA FM (RADIOS)
 https://ncplay.fun:443/1712382516/5246361986/4719149.m3u8
-#EXTINF:-1,COCA COLA FM (RADIOS)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/COCA_COLA_FM_(RADIOS).png" group-title="RÁDIOS",COCA COLA FM (RADIOS)
 https://ncplay.fun:443/1712382516/5246361986/4719148.m3u8
-#EXTINF:-1,GAUCHA ZH (Radios)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/GAUCHA_ZH_(RADIOS).png" group-title="RÁDIOS",GAUCHA ZH (Radios)
 https://ncplay.fun:443/1712382516/5246361986/4719147.m3u8
-#EXTINF:-1,METROPOLITANA FM (RADIOS)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/METROPOLITANA_FM_(RADIOS).png" group-title="RÁDIOS",METROPOLITANA FM (RADIOS)
 https://ncplay.fun:443/1712382516/5246361986/4719146.m3u8
-#EXTINF:-1,CBN (RADIOS)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/CBN_(RADIOS).png" group-title="RÁDIOS",CBN (RADIOS)
 https://ncplay.fun:443/1712382516/5246361986/4719145.m3u8
-#EXTINF:-1,ANTENA 1 FM ( RADIOS)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/ANTENA_1_FM_(_RADIOS).png" group-title="RÁDIOS",ANTENA 1 FM ( RADIOS)
 https://ncplay.fun:443/1712382516/5246361986/4719144.m3u8
-#EXTINF:-1,JOVEM PAM SP (RADIOS)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/JOVEM_PAM_SP_(RADIOS).png" group-title="RÁDIOS",JOVEM PAM SP (RADIOS)
 https://ncplay.fun:443/1712382516/5246361986/4719143.m3u8
-#EXTINF:-1,NFL GAMEDAY • 01
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/NFL_GAMEDAY.png" group-title="OUTROS",NFL GAMEDAY • 01
 https://ncplay.fun:443/1712382516/5246361986/4719199.m3u8
-#EXTINF:-1,NFL GAMEDAY • 02
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/NFL_GAMEDAY.png" group-title="OUTROS",NFL GAMEDAY • 02
 https://ncplay.fun:443/1712382516/5246361986/4904106.m3u8
-#EXTINF:-1,REDE SUPER
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/REDE_SUPER.png" group-title="CANAIS ABERTOS",REDE SUPER
 https://ncplay.fun:443/1712382516/5246361986/4719673.m3u8
-#EXTINF:-1,REDE VIDA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/REDE_VIDA.png" group-title="CANAIS ABERTOS",REDE VIDA
 https://ncplay.fun:443/1712382516/5246361986/4719619.m3u8
-#EXTINF:-1,TV APARECIDA HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/TV_APARECIDA_HD.png" group-title="CANAIS ABERTOS",TV APARECIDA HD
 https://ncplay.fun:443/1712382516/5246361986/4719203.m3u8
-#EXTINF:-1,GNT • FHD [D]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/GNT.png" group-title="OUTROS",GNT • FHD [D]
 https://ncplay.fun:443/1712382516/5246361986/4719417.m3u8
-#EXTINF:-1,GNT • FHD H264
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/GNT.png" group-title="OUTROS",GNT • FHD H264
 https://ncplay.fun:443/1712382516/5246361986/4720142.m3u8
-#EXTINF:-1,GNT • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/GNT.png" group-title="OUTROS",GNT • HD
 https://ncplay.fun:443/1712382516/5246361986/4719037.m3u8
-#EXTINF:-1,GNT • SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/GNT.png" group-title="OUTROS",GNT • SD
 https://ncplay.fun:443/1712382516/5246361986/4719711.m3u8
-#EXTINF:-1,OFF • FHD H265
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/OFF.png" group-title="ENTRETENIMENTO",OFF • FHD H265
 https://ncplay.fun:443/1712382516/5246361986/4719437.m3u8
-#EXTINF:-1,OFF • FHD H264
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/OFF.png" group-title="ENTRETENIMENTO",OFF • FHD H264
 https://ncplay.fun:443/1712382516/5246361986/4720139.m3u8
-#EXTINF:-1,OFF • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/OFF.png" group-title="ENTRETENIMENTO",OFF • HD
 https://ncplay.fun:443/1712382516/5246361986/4719057.m3u8
-#EXTINF:-1,OFF • SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/OFF.png" group-title="ENTRETENIMENTO",OFF • SD
 https://ncplay.fun:443/1712382516/5246361986/4719600.m3u8
-#EXTINF:-1,VIVA • FHD H264
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/VIVA.png" group-title="ENTRETENIMENTO",VIVA • FHD H264
 https://ncplay.fun:443/1712382516/5246361986/4720145.m3u8
-#EXTINF:-1,VIVA • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/VIVA.png" group-title="ENTRETENIMENTO",VIVA • HD
 https://ncplay.fun:443/1712382516/5246361986/4719089.m3u8
-#EXTINF:-1,VIVA • SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/VIVA.png" group-title="ENTRETENIMENTO",VIVA • SD
 https://ncplay.fun:443/1712382516/5246361986/4719661.m3u8
-#EXTINF:-1,ADULT SWIM • FHD H264
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/ADULT_SWIM.png" group-title="ENTRETENIMENTO",ADULT SWIM • FHD H264
 https://ncplay.fun:443/1712382516/5246361986/4720158.m3u8
-#EXTINF:-1,ADULT SWIM • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/ADULT_SWIM.png" group-title="ENTRETENIMENTO",ADULT SWIM • HD
 https://ncplay.fun:443/1712382516/5246361986/4719109.m3u8
-#EXTINF:-1,ADULT SWIM • SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/ADULT_SWIM.png" group-title="ENTRETENIMENTO",ADULT SWIM • SD
 https://ncplay.fun:443/1712382516/5246361986/4719643.m3u8
-#EXTINF:-1,COMEDY CENTRAL • FHD [D]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/COMEDY_CENTRAL.png" group-title="ENTRETENIMENTO",COMEDY CENTRAL • FHD [D]
 https://ncplay.fun:443/1712382516/5246361986/4719394.m3u8
-#EXTINF:-1,COMEDY CENTRAL • FHD H264
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/COMEDY_CENTRAL.png" group-title="ENTRETENIMENTO",COMEDY CENTRAL • FHD H264
 https://ncplay.fun:443/1712382516/5246361986/4720138.m3u8
-#EXTINF:-1,COMEDY CENTRAL • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/COMEDY_CENTRAL.png" group-title="ENTRETENIMENTO",COMEDY CENTRAL • HD
 https://ncplay.fun:443/1712382516/5246361986/4719013.m3u8
-#EXTINF:-1,COMEDY CENTRAL • SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/COMEDY_CENTRAL.png" group-title="ENTRETENIMENTO",COMEDY CENTRAL • SD
 https://ncplay.fun:443/1712382516/5246361986/4719573.m3u8
-#EXTINF:-1,CURTA! • FHD H264
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/CURTA.png" group-title="OUTROS",CURTA! • FHD H264
 https://ncplay.fun:443/1712382516/5246361986/326908.m3u8
-#EXTINF:-1,CURTA! • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/CURTA.png" group-title="OUTROS",CURTA! • HD
 https://ncplay.fun:443/1712382516/5246361986/326909.m3u8
-#EXTINF:-1,CURTA! • FHD H265
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/CURTA.png" group-title="OUTROS",CURTA! • FHD H265
 https://ncplay.fun:443/1712382516/5246361986/4719574.m3u8
-#EXTINF:-1,CURTA! • SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/CURTA.png" group-title="OUTROS",CURTA! • SD
 https://ncplay.fun:443/1712382516/5246361986/326910.m3u8
-#EXTINF:-1,FOOD NETWORK • FHD H265
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/FOOD_NETWORK.png" group-title="ENTRETENIMENTO",FOOD NETWORK • FHD H265
 https://ncplay.fun:443/1712382516/5246361986/4719410.m3u8
-#EXTINF:-1,FOOD  NETWORK • FHD H264
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/FOOD__NETWORK.png" group-title="OUTROS",FOOD  NETWORK • FHD H264
 https://ncplay.fun:443/1712382516/5246361986/4720143.m3u8
-#EXTINF:-1,FOOD NETWORK • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/FOOD_NETWORK.png" group-title="ENTRETENIMENTO",FOOD NETWORK • HD
 https://ncplay.fun:443/1712382516/5246361986/4719028.m3u8
-#EXTINF:-1,FOOD  NETWORK • SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/FOOD__NETWORK.png" group-title="OUTROS",FOOD  NETWORK • SD
 https://ncplay.fun:443/1712382516/5246361986/4719707.m3u8
-#EXTINF:-1,TLC • FHD H265
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/TLC.png" group-title="ENTRETENIMENTO",TLC • FHD H265
 https://ncplay.fun:443/1712382516/5246361986/4719461.m3u8
-#EXTINF:-1,TLC • FHD H264
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/TLC.png" group-title="ENTRETENIMENTO",TLC • FHD H264
 https://ncplay.fun:443/1712382516/5246361986/4720091.m3u8
-#EXTINF:-1,TLC • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/TLC.png" group-title="ENTRETENIMENTO",TLC • HD
 https://ncplay.fun:443/1712382516/5246361986/4719081.m3u8
-#EXTINF:-1,TLC • SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/TLC.png" group-title="ENTRETENIMENTO",TLC • SD
 https://ncplay.fun:443/1712382516/5246361986/4719639.m3u8
-#EXTINF:-1,DOG TV • FHD H264
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/DOG_TV.png" group-title="CANAIS ABERTOS",DOG TV • FHD H264
 https://ncplay.fun:443/1712382516/5246361986/4720063.m3u8
-#EXTINF:-1,DOG TV • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/DOG_TV.png" group-title="CANAIS ABERTOS",DOG TV • HD
 https://ncplay.fun:443/1712382516/5246361986/4719114.m3u8
-#EXTINF:-1,FISH TV • FHD H265
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/FISH_TV.png" group-title="CANAIS ABERTOS",FISH TV • FHD H265
 https://ncplay.fun:443/1712382516/5246361986/4719409.m3u8
-#EXTINF:-1,FISH TV • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/FISH_TV.png" group-title="CANAIS ABERTOS",FISH TV • HD
 https://ncplay.fun:443/1712382516/5246361986/4719193.m3u8
-#EXTINF:-1,FISH TV • SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/FISH_TV.png" group-title="CANAIS ABERTOS",FISH TV • SD
 https://ncplay.fun:443/1712382516/5246361986/4719696.m3u8
-#EXTINF:-1,MTV • FHD [D]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/MTV.png" group-title="CANAIS ABERTOS",MTV • FHD [D]
 https://ncplay.fun:443/1712382516/5246361986/4719432.m3u8
-#EXTINF:-1,MTV • FHD H264
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/MTV.png" group-title="CANAIS ABERTOS",MTV • FHD H264
 https://ncplay.fun:443/1712382516/5246361986/4720134.m3u8
-#EXTINF:-1,MTV • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/MTV.png" group-title="CANAIS ABERTOS",MTV • HD
 https://ncplay.fun:443/1712382516/5246361986/4719051.m3u8
-#EXTINF:-1,MTV • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/MTV.png" group-title="CANAIS ABERTOS",MTV • HD
 https://ncplay.fun:443/1712382516/5246361986/4719164.m3u8
-#EXTINF:-1,MTV • SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/MTV.png" group-title="CANAIS ABERTOS",MTV • SD
 https://ncplay.fun:443/1712382516/5246361986/4719592.m3u8
-#EXTINF:-1,MTV • SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/MTV.png" group-title="CANAIS ABERTOS",MTV • SD
 https://ncplay.fun:443/1712382516/5246361986/4719277.m3u8
-#EXTINF:-1,MULTISHOW • FHD [D]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/MULTISHOW.png" group-title="ENTRETENIMENTO",MULTISHOW • FHD [D]
 https://ncplay.fun:443/1712382516/5246361986/4719433.m3u8
-#EXTINF:-1,MULTISHOW • FHD H264
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/MULTISHOW.png" group-title="ENTRETENIMENTO",MULTISHOW • FHD H264
 https://ncplay.fun:443/1712382516/5246361986/4720140.m3u8
-#EXTINF:-1,MULTISHOW • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/MULTISHOW.png" group-title="ENTRETENIMENTO",MULTISHOW • HD
 https://ncplay.fun:443/1712382516/5246361986/4719052.m3u8
-#EXTINF:-1,MULTISHOW • SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/MULTISHOW.png" group-title="ENTRETENIMENTO",MULTISHOW • SD
 https://ncplay.fun:443/1712382516/5246361986/4719593.m3u8
-#EXTINF:-1,HBO FAMILY • FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/HBO_FAMILY.png" group-title="FILMES & SÉRIES",HBO FAMILY • FHD
 https://ncplay.fun:443/1712382516/5246361986/4719876.m3u8
-#EXTINF:-1,HBO FAMILY • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/HBO_FAMILY.png" group-title="FILMES & SÉRIES",HBO FAMILY • HD
 https://ncplay.fun:443/1712382516/5246361986/4719875.m3u8
-#EXTINF:-1,HBO • FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/HBO.png" group-title="FILMES & SÉRIES",HBO • FHD
 https://ncplay.fun:443/1712382516/5246361986/4719857.m3u8
-#EXTINF:-1,HBO • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/HBO.png" group-title="FILMES & SÉRIES",HBO • HD
 https://ncplay.fun:443/1712382516/5246361986/4719858.m3u8
-#EXTINF:-1,HBO MUNDI • FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/HBO_MUNDI.png" group-title="FILMES & SÉRIES",HBO MUNDI • FHD
 https://ncplay.fun:443/1712382516/5246361986/4719863.m3u8
-#EXTINF:-1,HBO MUNDI • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/HBO_MUNDI.png" group-title="FILMES & SÉRIES",HBO MUNDI • HD
 https://ncplay.fun:443/1712382516/5246361986/4719864.m3u8
-#EXTINF:-1,HBO PLUS • FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/HBO_PLUS.png" group-title="FILMES & SÉRIES",HBO PLUS • FHD
 https://ncplay.fun:443/1712382516/5246361986/4719859.m3u8
-#EXTINF:-1,HBO PLUS • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/HBO_PLUS.png" group-title="FILMES & SÉRIES",HBO PLUS • HD
 https://ncplay.fun:443/1712382516/5246361986/4719860.m3u8
-#EXTINF:-1,HBO POP • FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/HBO_POP.png" group-title="FILMES & SÉRIES",HBO POP • FHD
 https://ncplay.fun:443/1712382516/5246361986/4719865.m3u8
-#EXTINF:-1,HBO POP •  HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/HBO_POP.png" group-title="FILMES & SÉRIES",HBO POP •  HD
 https://ncplay.fun:443/1712382516/5246361986/4719866.m3u8
-#EXTINF:-1,HBO SIGNATURE • FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/HBO_SIGNATURE.png" group-title="FILMES & SÉRIES",HBO SIGNATURE • FHD
 https://ncplay.fun:443/1712382516/5246361986/4719861.m3u8
-#EXTINF:-1,HBO SIGNATURE • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/HBO_SIGNATURE.png" group-title="FILMES & SÉRIES",HBO SIGNATURE • HD
 https://ncplay.fun:443/1712382516/5246361986/4719862.m3u8
-#EXTINF:-1,HBO XTREAM • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/HBO_XTREAM.png" group-title="FILMES & SÉRIES",HBO XTREAM • HD
 https://ncplay.fun:443/1712382516/5246361986/4719868.m3u8
-#EXTINF:-1,HBO XTREME • FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/HBO_XTREME.png" group-title="FILMES & SÉRIES",HBO XTREME • FHD
 https://ncplay.fun:443/1712382516/5246361986/4719867.m3u8
-#EXTINF:-1,MEGAPIX • FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/MEGAPIX.png" group-title="FILMES & SÉRIES",MEGAPIX • FHD
 https://ncplay.fun:443/1712382516/5246361986/4719871.m3u8
-#EXTINF:-1,MEGAPIX • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/MEGAPIX.png" group-title="FILMES & SÉRIES",MEGAPIX • HD
 https://ncplay.fun:443/1712382516/5246361986/4719872.m3u8
-#EXTINF:-1,SPACE • FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/SPACE.png" group-title="FILMES & SÉRIES",SPACE • FHD
 https://ncplay.fun:443/1712382516/5246361986/4719882.m3u8
-#EXTINF:-1,SPACE • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/SPACE.png" group-title="FILMES & SÉRIES",SPACE • HD
 https://ncplay.fun:443/1712382516/5246361986/4719881.m3u8
-#EXTINF:-1,TELECINE ACTION • FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/TELECINE_ACTION.png" group-title="FILMES & SÉRIES",TELECINE ACTION • FHD
 https://ncplay.fun:443/1712382516/5246361986/4719849.m3u8
-#EXTINF:-1,TELECINE ACTION • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/TELECINE_ACTION.png" group-title="FILMES & SÉRIES",TELECINE ACTION • HD
 https://ncplay.fun:443/1712382516/5246361986/4719850.m3u8
-#EXTINF:-1,TELECINE CULT • FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/TELECINE_CULT.png" group-title="FILMES & SÉRIES",TELECINE CULT • FHD
 https://ncplay.fun:443/1712382516/5246361986/4719855.m3u8
-#EXTINF:-1,TELECINE CULT • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/TELECINE_CULT.png" group-title="FILMES & SÉRIES",TELECINE CULT • HD
 https://ncplay.fun:443/1712382516/5246361986/4719856.m3u8
-#EXTINF:-1,TELECINE FUN • FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/TELECINE_FUN.png" group-title="FILMES & SÉRIES",TELECINE FUN • FHD
 https://ncplay.fun:443/1712382516/5246361986/4719853.m3u8
-#EXTINF:-1,TELECINE FUN • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/TELECINE_FUN.png" group-title="FILMES & SÉRIES",TELECINE FUN • HD
 https://ncplay.fun:443/1712382516/5246361986/4719854.m3u8
-#EXTINF:-1,TELECINE PIPOCA • FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/TELECINE_PIPOCA.png" group-title="FILMES & SÉRIES",TELECINE PIPOCA • FHD
 https://ncplay.fun:443/1712382516/5246361986/4719845.m3u8
-#EXTINF:-1,TELECINE PIPOCA • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/TELECINE_PIPOCA.png" group-title="FILMES & SÉRIES",TELECINE PIPOCA • HD
 https://ncplay.fun:443/1712382516/5246361986/4719846.m3u8
-#EXTINF:-1,TELECINE PREMIUM • FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/TELECINE_PREMIUM.png" group-title="FILMES & SÉRIES",TELECINE PREMIUM • FHD
 https://ncplay.fun:443/1712382516/5246361986/4719847.m3u8
-#EXTINF:-1,TELECINE PREMIUM • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/TELECINE_PREMIUM.png" group-title="FILMES & SÉRIES",TELECINE PREMIUM • HD
 https://ncplay.fun:443/1712382516/5246361986/4719848.m3u8
-#EXTINF:-1,TELECINE TOUCH • FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/TELECINE_TOUCH.png" group-title="FILMES & SÉRIES",TELECINE TOUCH • FHD
 https://ncplay.fun:443/1712382516/5246361986/4719851.m3u8
-#EXTINF:-1,TELECINE TOUCH • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/TELECINE_TOUCH.png" group-title="FILMES & SÉRIES",TELECINE TOUCH • HD
 https://ncplay.fun:443/1712382516/5246361986/4719852.m3u8
-#EXTINF:-1,TNT • FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/TNT.png" group-title="ESPORTES",TNT • FHD
 https://ncplay.fun:443/1712382516/5246361986/4719880.m3u8
-#EXTINF:-1,TNT • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/TNT.png" group-title="ESPORTES",TNT • HD
 https://ncplay.fun:443/1712382516/5246361986/4719879.m3u8
-#EXTINF:-1,TNT SÉRIES • FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/TNT_SÉRIES.png" group-title="ESPORTES",TNT SÉRIES • FHD
 https://ncplay.fun:443/1712382516/5246361986/4719878.m3u8
-#EXTINF:-1,TNT SERIES • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/TNT_SERIES.png" group-title="ESPORTES",TNT SERIES • HD
 https://ncplay.fun:443/1712382516/5246361986/4719877.m3u8
-#EXTINF:-1,WARNER CHANNEL • FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/WARNER_CHANNEL.png" group-title="FILMES & SÉRIES",WARNER CHANNEL • FHD
 https://ncplay.fun:443/1712382516/5246361986/4719884.m3u8
-#EXTINF:-1,WARNER CHANNEL • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/WARNER_CHANNEL.png" group-title="FILMES & SÉRIES",WARNER CHANNEL • HD
 https://ncplay.fun:443/1712382516/5246361986/4719883.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL • FHD [D]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/DISCOVERY_CHANNEL.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL • FHD [D]
 https://ncplay.fun:443/1712382516/5246361986/4719395.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL • FHD H264
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/DISCOVERY_CHANNEL.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL • FHD H264
 https://ncplay.fun:443/1712382516/5246361986/4720090.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/DISCOVERY_CHANNEL.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL • HD
 https://ncplay.fun:443/1712382516/5246361986/4719014.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL • SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/DISCOVERY_CHANNEL.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL • SD
 https://ncplay.fun:443/1712382516/5246361986/4719575.m3u8
-#EXTINF:-1,DISCOVERY H&H • FHD [D]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/DISCOVERY_H&H.png" group-title="DOCUMENTÁRIOS",DISCOVERY H&H • FHD [D]
 https://ncplay.fun:443/1712382516/5246361986/4719397.m3u8
-#EXTINF:-1,DISCOVERY H&H • FHD H264
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/DISCOVERY_H&H.png" group-title="DOCUMENTÁRIOS",DISCOVERY H&H • FHD H264
 https://ncplay.fun:443/1712382516/5246361986/4720089.m3u8
-#EXTINF:-1,DISCOVERY H&H • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/DISCOVERY_H&H.png" group-title="DOCUMENTÁRIOS",DISCOVERY H&H • HD
 https://ncplay.fun:443/1712382516/5246361986/4719016.m3u8
-#EXTINF:-1,DISCOVERY H&H • SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/DISCOVERY_H&H.png" group-title="DOCUMENTÁRIOS",DISCOVERY H&H • SD
 https://ncplay.fun:443/1712382516/5246361986/4719576.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE • FHD H265
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/DISCOVERY_SCIENCE.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE • FHD H265
 https://ncplay.fun:443/1712382516/5246361986/4719399.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE • FHD H264
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/DISCOVERY_SCIENCE.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE • FHD H264
 https://ncplay.fun:443/1712382516/5246361986/4720102.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/DISCOVERY_SCIENCE.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE • HD
 https://ncplay.fun:443/1712382516/5246361986/4719018.m3u8
-#EXTINF:-1,DISCOVERY THEATER • FHD [D]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/DISCOVERY_THEATER.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER • FHD [D]
 https://ncplay.fun:443/1712382516/5246361986/4719400.m3u8
-#EXTINF:-1,DISCOVERY THEATER • FHD H264
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/DISCOVERY_THEATER.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER • FHD H264
 https://ncplay.fun:443/1712382516/5246361986/4720103.m3u8
-#EXTINF:-1,DISCOVERY THEATER • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/DISCOVERY_THEATER.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER • HD
 https://ncplay.fun:443/1712382516/5246361986/4719019.m3u8
-#EXTINF:-1,DISCOVERY TURBO • FHD [D]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/DISCOVERY_TURBO.png" group-title="DOCUMENTÁRIOS",DISCOVERY TURBO • FHD [D]
 https://ncplay.fun:443/1712382516/5246361986/4719401.m3u8
-#EXTINF:-1,DISCOVERY TURBO • FHD H264
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/DISCOVERY_TURBO.png" group-title="DOCUMENTÁRIOS",DISCOVERY TURBO • FHD H264
 https://ncplay.fun:443/1712382516/5246361986/4720100.m3u8
-#EXTINF:-1,DISCOVERY TURBO • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/DISCOVERY_TURBO.png" group-title="DOCUMENTÁRIOS",DISCOVERY TURBO • HD
 https://ncplay.fun:443/1712382516/5246361986/4719020.m3u8
-#EXTINF:-1,DISCOVERY TURBO • SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/DISCOVERY_TURBO.png" group-title="DOCUMENTÁRIOS",DISCOVERY TURBO • SD
 https://ncplay.fun:443/1712382516/5246361986/4719578.m3u8
-#EXTINF:-1,DISCOVERY WORLD • FHD [D]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/DISCOVERY_WORLD.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD • FHD [D]
 https://ncplay.fun:443/1712382516/5246361986/4719402.m3u8
-#EXTINF:-1,DISCOVERY WORD • FHD H264
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/DISCOVERY_WORD.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORD • FHD H264
 https://ncplay.fun:443/1712382516/5246361986/4720084.m3u8
-#EXTINF:-1,DISCOVERY WORLD • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/DISCOVERY_WORLD.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD • HD
 https://ncplay.fun:443/1712382516/5246361986/4719021.m3u8
-#EXTINF:-1,DISCOVERY WORLD • SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/DISCOVERY_WORLD.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD • SD
 https://ncplay.fun:443/1712382516/5246361986/4719683.m3u8
-#EXTINF:-1,INVESTIGATION DISCOVERY • FHD [D]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/INVESTIGATION_DISCOVERY.png" group-title="DOCUMENTÁRIOS",INVESTIGATION DISCOVERY • FHD [D]
 https://ncplay.fun:443/1712382516/5246361986/4719425.m3u8
-#EXTINF:-1,INVESTIGATION DISCOVERY • FHD H264
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/INVESTIGATION_DISCOVERY.png" group-title="DOCUMENTÁRIOS",INVESTIGATION DISCOVERY • FHD H264
 https://ncplay.fun:443/1712382516/5246361986/4720101.m3u8
-#EXTINF:-1,INVESTIGATION DISCOVERY • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/INVESTIGATION_DISCOVERY.png" group-title="DOCUMENTÁRIOS",INVESTIGATION DISCOVERY • HD
 https://ncplay.fun:443/1712382516/5246361986/4719045.m3u8
-#EXTINF:-1,INVESTIGATION DISCOVERY • SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/INVESTIGATION_DISCOVERY.png" group-title="DOCUMENTÁRIOS",INVESTIGATION DISCOVERY • SD
 https://ncplay.fun:443/1712382516/5246361986/4719704.m3u8
-#EXTINF:-1,HISTORY 1 • FHD H265
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/HISTORY_1.png" group-title="DOCUMENTÁRIOS",HISTORY 1 • FHD H265
 https://ncplay.fun:443/1712382516/5246361986/4719423.m3u8
-#EXTINF:-1,HISTORY 1 • FHD H264
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/HISTORY_1.png" group-title="DOCUMENTÁRIOS",HISTORY 1 • FHD H264
 https://ncplay.fun:443/1712382516/5246361986/4720064.m3u8
-#EXTINF:-1,HISTORY 1 • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/HISTORY_1.png" group-title="DOCUMENTÁRIOS",HISTORY 1 • HD
 https://ncplay.fun:443/1712382516/5246361986/4719044.m3u8
-#EXTINF:-1,HISTORY 1 • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/HISTORY_1.png" group-title="DOCUMENTÁRIOS",HISTORY 1 • HD
 https://ncplay.fun:443/1712382516/5246361986/763088.m3u8
-#EXTINF:-1,HISTORY 1 • SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/HISTORY_1.png" group-title="DOCUMENTÁRIOS",HISTORY 1 • SD
 https://ncplay.fun:443/1712382516/5246361986/4719665.m3u8
-#EXTINF:-1,HISTORY 1 • SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/HISTORY_1.png" group-title="DOCUMENTÁRIOS",HISTORY 1 • SD
 https://ncplay.fun:443/1712382516/5246361986/763087.m3u8
-#EXTINF:-1,HISTORY 2 • FHD H265
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/HISTORY_2.png" group-title="DOCUMENTÁRIOS",HISTORY 2 • FHD H265
 https://ncplay.fun:443/1712382516/5246361986/4719424.m3u8
-#EXTINF:-1,HISTORY 2 • FHD H264
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/HISTORY_2.png" group-title="DOCUMENTÁRIOS",HISTORY 2 • FHD H264
 https://ncplay.fun:443/1712382516/5246361986/4720088.m3u8
-#EXTINF:-1,HISTORY 2 • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/HISTORY_2.png" group-title="DOCUMENTÁRIOS",HISTORY 2 • HD
 https://ncplay.fun:443/1712382516/5246361986/4719043.m3u8
-#EXTINF:-1,HISTORY 2 • SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/HISTORY_2.png" group-title="DOCUMENTÁRIOS",HISTORY 2 • SD
 https://ncplay.fun:443/1712382516/5246361986/4719705.m3u8
-#EXTINF:-1,ANIMAL PLANET •  FHD H265
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/ANIMAL_PLANET.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET •  FHD H265
 https://ncplay.fun:443/1712382516/5246361986/4719383.m3u8
-#EXTINF:-1,ANIMAL PLANET • FHD H264
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/ANIMAL_PLANET.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET • FHD H264
 https://ncplay.fun:443/1712382516/5246361986/4720086.m3u8
-#EXTINF:-1,ANIMAL PLANET • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/ANIMAL_PLANET.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET • HD
 https://ncplay.fun:443/1712382516/5246361986/4719005.m3u8
-#EXTINF:-1,ANIMAL PLANET • SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/ANIMAL_PLANET.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET • SD
 https://ncplay.fun:443/1712382516/5246361986/4719557.m3u8
-#EXTINF:-1,A&E • FHD [D]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/A&E.png" group-title="DOCUMENTÁRIOS",A&E • FHD [D]
 https://ncplay.fun:443/1712382516/5246361986/4719381.m3u8
-#EXTINF:-1,A&E • FHD H264
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/A&E.png" group-title="DOCUMENTÁRIOS",A&E • FHD H264
 https://ncplay.fun:443/1712382516/5246361986/4720131.m3u8
-#EXTINF:-1,A&E • HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/A&E.png" group-title="DOCUMENTÁRIOS",A&E • HD
 https://ncplay.fun:443/1712382516/5246361986/4719003.m3u8
-#EXTINF:-1,A&E • SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/A&E.png" group-title="DOCUMENTÁRIOS",A&E • SD
 https://ncplay.fun:443/1712382516/5246361986/4719555.m3u8
-#EXTINF:-1,AMC • FHD [D]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/AMC.png" group-title="DOCUMENTÁRIOS",AMC • FHD [D]
 https://ncplay.fun:443/1712382516/5246361986/4719382.m3u8
-#EXTINF:-1,AMC • FHD H265
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/AMC.png" group-title="DOCUMENTÁRIOS",AMC • FHD H265
+https://ncplay.fun:443/1712382516/5246361986/326809.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/AMC.png" group-title="DOCUMENTÁRIOS",AMC • FHD H264
+https://ncplay.fun:443/1712382516/5246361986/4720120.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/AMC.png" group-title="DOCUMENTÁRIOS",AMC • HD
+https://ncplay.fun:443/1712382516/5246361986/326810.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/AMC.png" group-title="DOCUMENTÁRIOS",AMC • HD
+https://ncplay.fun:443/1712382516/5246361986/4719004.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/AMC.png" group-title="DOCUMENTÁRIOS",AMC • SD
+https://ncplay.fun:443/1712382516/5246361986/4719556.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/AMC.png" group-title="DOCUMENTÁRIOS",AMC • SD
+https://ncplay.fun:443/1712382516/5246361986/326811.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/ARTE_1.png" group-title="OUTROS",ARTE 1 • FHD H264
+https://ncplay.fun:443/1712382516/5246361986/4720156.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/ARTE_1.png" group-title="OUTROS",ARTE 1 • HD
+https://ncplay.fun:443/1712382516/5246361986/4719107.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/ARTE_1.png" group-title="OUTROS",ARTE 1 • SD
+https://ncplay.fun:443/1712382516/5246361986/4719680.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/AXN.png" group-title="OUTROS",AXN • FHD H265
+https://ncplay.fun:443/1712382516/5246361986/4719384.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/AXN.png" group-title="OUTROS",AXN • FHD H264
+https://ncplay.fun:443/1712382516/5246361986/4720117.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/AXN.png" group-title="OUTROS",AXN • HD
+https://ncplay.fun:443/1712382516/5246361986/4719251.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/AXN.png" group-title="OUTROS",AXN • HD
+https://ncplay.fun:443/1712382516/5246361986/4719006.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/AXN.png" group-title="OUTROS",AXN • SD
+https://ncplay.fun:443/1712382516/5246361986/4719558.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/BIS.png" group-title="OUTROS",BIS • FHD [D]
+https://ncplay.fun:443/1712382516/5246361986/4719387.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/BIS.png" group-title="OUTROS",BIS • FHD H264
+https://ncplay.fun:443/1712382516/5246361986/4720161.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/BIS.png" group-title="OUTROS",BIS • HD
+https://ncplay.fun:443/1712382516/5246361986/4719008.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/BIS.png" group-title="OUTROS",BIS • SD
+https://ncplay.fun:443/1712382516/5246361986/4719564.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/CINEMAX.png" group-title="OUTROS",CINEMAX • FHD [D]
+https://ncplay.fun:443/1712382516/5246361986/4719392.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/CINEMAX.png" group-title="OUTROS",CINEMAX • H264
+https://ncplay.fun:443/1712382516/5246361986/4720121.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/CINEMAX.png" group-title="OUTROS",CINEMAX • HD
+https://ncplay.fun:443/1712382516/5246361986/4719011.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/CINEMAX.png" group-title="OUTROS",CINEMAX • SD
+https://ncplay.fun:443/1712382516/5246361986/4719571.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/FILM_&_ARTS.png" group-title="OUTROS",FILM & ARTS • FHD H264
+https://ncplay.fun:443/1712382516/5246361986/4720135.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/FILM_&_ARTS.png" group-title="OUTROS",FILM & ARTS • HD
+https://ncplay.fun:443/1712382516/5246361986/4719102.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/FILM_&_ARTS.png" group-title="OUTROS",FILM & ARTS • SD
+https://ncplay.fun:443/1712382516/5246361986/4719695.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/LIFETIME.png" group-title="OUTROS",LIFETIME • H265
+https://ncplay.fun:443/1712382516/5246361986/4719426.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/LIFETIME.png" group-title="OUTROS",LIFETIME • H264
+https://ncplay.fun:443/1712382516/5246361986/4720083.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/LIFETIME.png" group-title="OUTROS",LIFETIME • HD
+https://ncplay.fun:443/1712382516/5246361986/4719046.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/LIFETIME.png" group-title="OUTROS",LIFETIME • SD
+https://ncplay.fun:443/1712382516/5246361986/4719703.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/MEGAPIX.png" group-title="FILMES & SÉRIES",MEGAPIX • H265
+https://ncplay.fun:443/1712382516/5246361986/4719431.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/MEGAPIX.png" group-title="FILMES & SÉRIES",MEGAPIX • H264
+https://ncplay.fun:443/1712382516/5246361986/4720123.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/MEGAPIX.png" group-title="FILMES & SÉRIES",MEGAPIX • HD
+https://ncplay.fun:443/1712382516/5246361986/4719050.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/MEGAPIX.png" group-title="FILMES & SÉRIES",MEGAPIX • SD
+https://ncplay.fun:443/1712382516/5246361986/4719591.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/PARAMOUNT.png" group-title="OUTROS",PARAMOUNT • FHD [D]
+https://ncplay.fun:443/1712382516/5246361986/4719438.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/PARAMOUNT.png" group-title="OUTROS",PARAMOUNT • H264
+https://ncplay.fun:443/1712382516/5246361986/4720125.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/PARAMOUNT.png" group-title="OUTROS",PARAMOUNT • HD
+https://ncplay.fun:443/1712382516/5246361986/4719058.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/SONY_CHANNEL.png" group-title="OUTROS",SONY CHANNEL • H265
+https://ncplay.fun:443/1712382516/5246361986/4719390.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/SONY_CHANNEL.png" group-title="OUTROS",SONY CHANNEL • FHD H264
+https://ncplay.fun:443/1712382516/5246361986/4720124.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/SONY_CHANNEL.png" group-title="OUTROS",SONY CHANNEL • HD
+https://ncplay.fun:443/1712382516/5246361986/4719009.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/SONY_CHANNEL.png" group-title="OUTROS",SONY CHANNEL • HD
+https://ncplay.fun:443/1712382516/5246361986/4719292.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/tv/SONY_CHANNEL.png" group-title="OUTROS",SONY CHANNEL • SD
+https://ncplay.fun:443/1712382516/5246361986/4719568.m3u8
