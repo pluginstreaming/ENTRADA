@@ -2,6 +2,6 @@
 
 
 
-#EXTINF:-1 tvg-name="Jogos do Dia" tvg-logo="https://i.imgur.com/J4Anx99.png" group-title="JOGOS DO DIA",Jogos do Dia
-http://cdnrez.xyz:80/680778354/737420532/2152194.m3u8
+#EXTINF:-1 tvg-id="jogosdodia" tvg-name="Jogos do Dia" tvg-logo="https://i.imgur.com/J4Anx99.png" group-title="JOGOS DO DIA",Jogos do Dia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/680778354/737420532/2152194.m3u8
 
