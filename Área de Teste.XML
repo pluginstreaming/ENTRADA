@@ -1,140 +1,41 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-<items>
-
-
-
-  <item>
-    <title>[COLOR silver][B] BandSports FHD [/COLOR][/B]</title>
-    <link>http://cdnrez.xyz:80/344025966/301134450/17604.ts</link>
-    <thumbnail>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.https://lh3.googleusercontent.com/-gqDze8PuJKg/YB6mLwcfGXI/AAAAAAAAJ-k/zd0ejHsLVJwb8hlsmfkbvx-Id7XsYWHFACLcBGAsYHQ/Band%2BSports.png</thumbnail>
-    <fanart>https://baf-qrcode.b-cdn.net/FANART%20PLUGIN_STREAMING_1920x1080.jpeg</fanart>
-    <info>BandSports em Full HD</info>
-  </item>
-  <item>
-    <title>[COLOR silver][B] BandSports FHD [H265] [/COLOR][/B]</title>
-    <link>http://cdnrez.xyz:80/344025966/301134450/113136.ts</link>
-    <thumbnail>https://lh3.googleusercontent.com/-gqDze8PuJKg/YB6mLwcfGXI/AAAAAAAAJ-k/zd0ejHsLVJwb8hlsmfkbvx-Id7XsYWHFACLcBGAsYHQ/Band%2BSports.png</thumbnail>
-    <fanart>https://baf-qrcode.b-cdn.net/FANART%20PLUGIN_STREAMING_1920x1080.jpeg</fanart>
-    <info>BandSports com codec H265</info>
-  </item>
-  <item>
-    <title>[COLOR silver][B] BandSports HD [/COLOR][/B]</title>
-    <link>http://cdnrez.xyz:80/344025966/301134450/17606.ts</link>
-    <thumbnail>https://lh3.googleusercontent.com/-gqDze8PuJKg/YB6mLwcfGXI/AAAAAAAAJ-k/zd0ejHsLVJwb8hlsmfkbvx-Id7XsYWHFACLcBGAsYHQ/Band%2BSports.png</thumbnail>
-    <fanart>https://baf-qrcode.b-cdn.net/FANART%20PLUGIN_STREAMING_1920x1080.jpeg</fanart>
-    <info>BandSports em HD</info>
-  </item>
-  <item>
-    <title>[COLOR silver][B] BandSports SD [/COLOR][/B]</title>
-    <link>http://cdnrez.xyz:80/344025966/301134450/113118.ts</link>
-    <thumbnail>https://lh3.googleusercontent.com/-gqDze8PuJKg/YB6mLwcfGXI/AAAAAAAAJ-k/zd0ejHsLVJwb8hlsmfkbvx-Id7XsYWHFACLcBGAsYHQ/Band%2BSports.png</thumbnail>
-    <fanart>https://baf-qrcode.b-cdn.net/FANART%20PLUGIN_STREAMING_1920x1080.jpeg</fanart>
-    <info>BandSports em SD</info>
-  </item>
-  <item>
-    <title>[COLOR silver][B] Combate FHD [/COLOR][/B]</title>
-    <link>http://cdnrez.xyz:80/344025966/301134450/38277.ts</link>
-    <thumbnail>https://lh3.googleusercontent.com/-Wqldbg8C3yg/YB6ay96RJOI/AAAAAAAAJ9U/JxFPpldygRoaA-2OwJN9jymXAveltatmgCLcBGAsYHQ/COMBATE.png</thumbnail>
-    <fanart>https://baf-qrcode.b-cdn.net/FANART%20PLUGIN_STREAMING_1920x1080.jpeg</fanart>
-    <info>Combate em Full HD</info>
-  </item>
-  <item>
-    <title>[COLOR silver][B] Combate FHD [H265] [/COLOR][/B]</title>
-    <link>http://cdnrez.xyz:80/344025966/301134450/113145.ts</link>
-    <thumbnail>https://lh3.googleusercontent.com/-Wqldbg8C3yg/YB6ay96RJOI/AAAAAAAAJ9U/JxFPpldygRoaA-2OwJN9jymXAveltatmgCLcBGAsYHQ/COMBATE.png</thumbnail>
-    <fanart>https://baf-qrcode.b-cdn.net/FANART%20PLUGIN_STREAMING_1920x1080.jpeg</fanart>
-    <info>Combate com codec H265</info>
-  </item>
-  <item>
-    <title>[COLOR silver][B] Combate HD [/COLOR][/B]</title>
-    <link>http://cdnrez.xyz:80/344025966/301134450/38276.ts</link>
-    <thumbnail>https://lh3.googleusercontent.com/-Wqldbg8C3yg/YB6ay96RJOI/AAAAAAAAJ9U/JxFPpldygRoaA-2OwJN9jymXAveltatmgCLcBGAsYHQ/COMBATE.png</thumbnail>
-    <fanart>https://baf-qrcode.b-cdn.net/FANART%20PLUGIN_STREAMING_1920x1080.jpeg</fanart>
-    <info>Combate em HD</info>
-  </item>
-  <item>
-    <title>[COLOR silver][B] Combate SD [/COLOR][/B]</title>
-    <link>http://cdnrez.xyz:80/344025966/301134450/113109.ts</link>
-    <thumbnail>https://lh3.googleusercontent.com/-Wqldbg8C3yg/YB6ay96RJOI/AAAAAAAAJ9U/JxFPpldygRoaA-2OwJN9jymXAveltatmgCLcBGAsYHQ/COMBATE.png</thumbnail>
-    <fanart>https://baf-qrcode.b-cdn.net/FANART%20PLUGIN_STREAMING_1920x1080.jpeg</fanart>
-    <info>Combate em SD</info>
-  </item>
-  <item>
-    <title>[COLOR silver][B] Conmebol TV 1 FHD [/COLOR][/B]</title>
-    <link>http://cdnrez.xyz:80/344025966/301134450/18198.ts</link>
-    <thumbnail>https://1.bp.blogspot.com/-uaVZMS5rFCE/YBxY0wiB3aI/AAAAAAAAJxk/bSIQHCt71P0NbHEWtSbd27y5qKvk4p7mgCLcBGAsYHQ/s0/Conmebol%2Btv.png</thumbnail>
-    <fanart>https://baf-qrcode.b-cdn.net/FANART%20PLUGIN_STREAMING_1920x1080.jpeg</fanart>
-    <info>Conmebol TV 1 em Full HD</info>
-  </item>
-  <item>
-    <title>[COLOR silver][B] Conmebol TV 1 HD [/COLOR][/B]</title>
-    <link>http://cdnrez.xyz:80/344025966/301134450/113233.ts</link>
-    <thumbnail>https://1.bp.blogspot.com/-uaVZMS5rFCE/YBxY0wiB3aI/AAAAAAAAJxk/bSIQHCt71P0NbHEWtSbd27y5qKvk4p7mgCLcBGAsYHQ/s0/Conmebol%2Btv.png</thumbnail>
-    <fanart>https://baf-qrcode.b-cdn.net/FANART%20PLUGIN_STREAMING_1920x1080.jpeg</fanart>
-    <info>Conmebol TV 1 em HD</info>
-  </item>
-  <item>
-    <title>[COLOR silver][B] Conmebol TV 2 FHD [/COLOR][/B]</title>
-    <link>http://cdnrez.xyz:80/344025966/301134450/18201.ts</link>
-    <thumbnail>https://1.bp.blogspot.com/-uaVZMS5rFCE/YBxY0wiB3aI/AAAAAAAAJxk/bSIQHCt71P0NbHEWtSbd27y5qKvk4p7mgCLcBGAsYHQ/s0/Conmebol%2Btv.png</thumbnail>
-    <fanart>https://baf-qrcode.b-cdn.net/FANART%20PLUGIN_STREAMING_1920x1080.jpeg</fanart>
-    <info>Conmebol TV 2 em Full HD</info>
-  </item>
-  <item>
-    <title>[COLOR silver][B] Conmebol TV 2 HD [/COLOR][/B]</title>
-    <link>http://cdnrez.xyz:80/344025966/301134450/113234.ts</link>
-    <thumbnail>https://1.bp.blogspot.com/-uaVZMS5rFCE/YBxY0wiB3aI/AAAAAAAAJxk/bSIQHCt71P0NbHEWtSbd27y5qKvk4p7mgCLcBGAsYHQ/s0/Conmebol%2Btv.png</thumbnail>
-    <fanart>https://baf-qrcode.b-cdn.net/FANART%20PLUGIN_STREAMING_1920x1080.jpeg</fanart>
-    <info>Conmebol TV 2 em HD</info>
-  </item>
-  <item>
-    <title>[COLOR silver][B] Conmebol TV 3 FHD [/COLOR][/B]</title>
-    <link>http://cdnrez.xyz:80/344025966/301134450/18204.ts</link>
-    <thumbnail>https://1.bp.blogspot.com/-uaVZMS5rFCE/YBxY0wiB3aI/AAAAAAAAJxk/bSIQHCt71P0NbHEWtSbd27y5qKvk4p7mgCLcBGAsYHQ/s0/Conmebol%2Btv.png</thumbnail>
-    <fanart>https://baf-qrcode.b-cdn.net/FANART%20PLUGIN_STREAMING_1920x1080.jpeg</fanart>
-    <info>Conmebol TV 3 em Full HD</info>
-  </item>
-  <item>
-    <title>[COLOR silver][B] Conmebol TV 4 FHD [/COLOR][/B]</title>
-    <link>http://cdnrez.xyz:80/344025966/301134450/113232.ts</link>
-    <thumbnail>https://1.bp.blogspot.com/-uaVZMS5rFCE/YBxY0wiB3aI/AAAAAAAAJxk/bSIQHCt71P0NbHEWtSbd27y5qKvk4p7mgCLcBGAsYHQ/s0/Conmebol%2Btv.png</thumbnail>
-    <fanart>https://baf-qrcode.b-cdn.net/FANART%20PLUGIN_STREAMING_1920x1080.jpeg</fanart>
-    <info>Conmebol TV 4 em Full HD</info>
-  </item>
-  <item>
-    <title>[COLOR silver][B] FISH TV FHD [H265] [/COLOR][/B]</title>
-    <link>http://cdnrez.xyz:80/344025966/301134450/1828818.ts</link>
-    <thumbnail>https://yt3.googleusercontent.com/uf66e7PphvLGH2Ek0PHZGiHE6vFsX0Oi4e8IVAsS-BpYmehbuf5NagOTNufen73gVdrj3Su8AzI=s176-c-k-c0x00ffffff-no-rj</thumbnail>
-    <fanart>https://baf-qrcode.b-cdn.net/FANART%20PLUGIN_STREAMING_1920x1080.jpeg</fanart>
-    <info>Fish TV em Full HD com H265</info>
-  </item>
-  <item>
-    <title>[COLOR silver][B] FISH TV FHD [/COLOR][/B]</title>
-    <link>http://cdnrez.xyz:80/344025966/301134450/1828819.ts</link>
-    <thumbnail>https://yt3.googleusercontent.com/uf66e7PphvLGH2Ek0PHZGiHE6vFsX0Oi4e8IVAsS-BpYmehbuf5NagOTNufen73gVdrj3Su8AzI=s176-c-k-c0x00ffffff-no-rj</thumbnail>
-    <fanart>https://baf-qrcode.b-cdn.net/FANART%20PLUGIN_STREAMING_1920x1080.jpeg</fanart>
-    <info>Fish TV em Full HD</info>
-  </item>
-  <item>
-    <title>[COLOR silver][B] FISH TV HD [/COLOR][/B]</title>
-    <link>http://cdnrez.xyz:80/344025966/301134450/1828820.ts</link>
-    <thumbnail>https://yt3.googleusercontent.com/uf66e7PphvLGH2Ek0PHZGiHE6vFsX0Oi4e8IVAsS-BpYmehbuf5NagOTNufen73gVdrj3Su8AzI=s176-c-k-c0x00ffffff-no-rj</thumbnail>
-    <fanart>https://baf-qrcode.b-cdn.net/FANART%20PLUGIN_STREAMING_1920x1080.jpeg</fanart>
-    <info>Fish TV em HD</info>
-  </item>
-  <item>
-    <title>[COLOR silver][B] FISH TV SD [/COLOR][/B]</title>
-    <link>http://cdnrez.xyz:80/344025966/301134450/1828821.ts</link>
-    <thumbnail>https://yt3.googleusercontent.com/uf66e7PphvLGH2Ek0PHZGiHE6vFsX0Oi4e8IVAsS-BpYmehbuf5NagOTNufen73gVdrj3Su8AzI=s176-c-k-c0x00ffffff-no-rj</thumbnail>
-    <fanart>https://baf-qrcode.b-cdn.net/FANART%20PLUGIN_STREAMING_1920x1080.jpeg</fanart>
-    <info>Fish TV em SD</info>
-  </item>
+#EXTM3U
 
 
 
 
-
-
-
-</items>
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BandSports FHD" tvg-logo="https://lh3.googleusercontent.com/-gqDze8PuJKg/YB6mLwcfGXI/AAAAAAAAJ-k/zd0ejHsLVJwb8hlsmfkbvx-Id7XsYWHFACLcBGAsYHQ/Band%2BSports.png" group-title="Canais | Esportes⚽",BandSports FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/344025966/301134450/17604.ts
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BandSports FHD [H265]" tvg-logo="https://lh3.googleusercontent.com/-gqDze8PuJKg/YB6mLwcfGXI/AAAAAAAAJ-k/zd0ejHsLVJwb8hlsmfkbvx-Id7XsYWHFACLcBGAsYHQ/Band%2BSports.png" group-title="Canais | Esportes⚽",BandSports FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/344025966/301134450/113136.ts
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BandSports HD" tvg-logo="https://lh3.googleusercontent.com/-gqDze8PuJKg/YB6mLwcfGXI/AAAAAAAAJ-k/zd0ejHsLVJwb8hlsmfkbvx-Id7XsYWHFACLcBGAsYHQ/Band%2BSports.png" group-title="Canais | Esportes⚽",BandSports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/344025966/301134450/17606.ts
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BandSports SD" tvg-logo="https://lh3.googleusercontent.com/-gqDze8PuJKg/YB6mLwcfGXI/AAAAAAAAJ-k/zd0ejHsLVJwb8hlsmfkbvx-Id7XsYWHFACLcBGAsYHQ/Band%2BSports.png" group-title="Canais | Esportes⚽",BandSports SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/344025966/301134450/113118.ts
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate FHD" tvg-logo="https://lh3.googleusercontent.com/-Wqldbg8C3yg/YB6ay96RJOI/AAAAAAAAJ9U/JxFPpldygRoaA-2OwJN9jymXAveltatmgCLcBGAsYHQ/COMBATE.png" group-title="Canais | Esportes⚽",Combate FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/344025966/301134450/38277.ts
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate FHD [H265]" tvg-logo="https://lh3.googleusercontent.com/-Wqldbg8C3yg/YB6ay96RJOI/AAAAAAAAJ9U/JxFPpldygRoaA-2OwJN9jymXAveltatmgCLcBGAsYHQ/COMBATE.png" group-title="Canais | Esportes⚽",Combate FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/344025966/301134450/113145.ts
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD" tvg-logo="https://lh3.googleusercontent.com/-Wqldbg8C3yg/YB6ay96RJOI/AAAAAAAAJ9U/JxFPpldygRoaA-2OwJN9jymXAveltatmgCLcBGAsYHQ/COMBATE.png" group-title="Canais | Esportes⚽",Combate HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/344025966/301134450/38276.ts
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate SD" tvg-logo="https://lh3.googleusercontent.com/-Wqldbg8C3yg/YB6ay96RJOI/AAAAAAAAJ9U/JxFPpldygRoaA-2OwJN9jymXAveltatmgCLcBGAsYHQ/COMBATE.png" group-title="Canais | Esportes⚽",Combate SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/344025966/301134450/113109.ts
+#EXTINF:-1 tvg-name="Conmebol TV 1 FHD" tvg-logo="https://1.bp.blogspot.com/-uaVZMS5rFCE/YBxY0wiB3aI/AAAAAAAAJxk/bSIQHCt71P0NbHEWtSbd27y5qKvk4p7mgCLcBGAsYHQ/s0/Conmebol%2Btv.png" group-title="Canais | Esportes⚽",Conmebol TV 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/344025966/301134450/18198.ts
+#EXTINF:-1 tvg-name="Conmebol TV 1 HD" tvg-logo="https://1.bp.blogspot.com/-uaVZMS5rFCE/YBxY0wiB3aI/AAAAAAAAJxk/bSIQHCt71P0NbHEWtSbd27y5qKvk4p7mgCLcBGAsYHQ/s0/Conmebol%2Btv.png" group-title="Canais | Esportes⚽",Conmebol TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/344025966/301134450/113233.ts
+#EXTINF:-1 tvg-name="Conmebol TV 2 FHD" tvg-logo="https://1.bp.blogspot.com/-uaVZMS5rFCE/YBxY0wiB3aI/AAAAAAAAJxk/bSIQHCt71P0NbHEWtSbd27y5qKvk4p7mgCLcBGAsYHQ/s0/Conmebol%2Btv.png" group-title="Canais | Esportes⚽",Conmebol TV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/344025966/301134450/18201.ts
+#EXTINF:-1 tvg-name="Conmebol TV 2 HD" tvg-logo="https://1.bp.blogspot.com/-uaVZMS5rFCE/YBxY0wiB3aI/AAAAAAAAJxk/bSIQHCt71P0NbHEWtSbd27y5qKvk4p7mgCLcBGAsYHQ/s0/Conmebol%2Btv.png" group-title="Canais | Esportes⚽",Conmebol TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/344025966/301134450/113234.ts
+#EXTINF:-1 tvg-name="Conmebol TV 3 FHD" tvg-logo="https://1.bp.blogspot.com/-uaVZMS5rFCE/YBxY0wiB3aI/AAAAAAAAJxk/bSIQHCt71P0NbHEWtSbd27y5qKvk4p7mgCLcBGAsYHQ/s0/Conmebol%2Btv.png" group-title="Canais | Esportes⚽",Conmebol TV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/344025966/301134450/18204.ts
+#EXTINF:-1 tvg-name="Conmebol TV 4 FHD" tvg-logo="https://1.bp.blogspot.com/-uaVZMS5rFCE/YBxY0wiB3aI/AAAAAAAAJxk/bSIQHCt71P0NbHEWtSbd27y5qKvk4p7mgCLcBGAsYHQ/s0/Conmebol%2Btv.png" group-title="Canais | Esportes⚽",Conmebol TV 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/344025966/301134450/113232.ts
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV FHD [H265]" tvg-logo="https://yt3.googleusercontent.com/uf66e7PphvLGH2Ek0PHZGiHE6vFsX0Oi4e8IVAsS-BpYmehbuf5NagOTNufen73gVdrj3Su8AzI=s176-c-k-c0x00ffffff-no-rj" group-title="Canais | Esportes⚽",FISH TV FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/344025966/301134450/1828818.ts
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV FHD" tvg-logo="https://yt3.googleusercontent.com/uf66e7PphvLGH2Ek0PHZGiHE6vFsX0Oi4e8IVAsS-BpYmehbuf5NagOTNufen73gVdrj3Su8AzI=s176-c-k-c0x00ffffff-no-rj" group-title="Canais | Esportes⚽",FISH TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/344025966/301134450/1828819.ts
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV HD" tvg-logo="https://yt3.googleusercontent.com/uf66e7PphvLGH2Ek0PHZGiHE6vFsX0Oi4e8IVAsS-BpYmehbuf5NagOTNufen73gVdrj3Su8AzI=s176-c-k-c0x00ffffff-no-rj" group-title="Canais | Esportes⚽",FISH TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/344025966/301134450/1828820.ts
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV SD" tvg-logo="https://yt3.googleusercontent.com/uf66e7PphvLGH2Ek0PHZGiHE6vFsX0Oi4e8IVAsS-BpYmehbuf5NagOTNufen73gVdrj3Su8AzI=s176-c-k-c0x00ffffff-no-rj" group-title="Canais | Esportes⚽",FISH TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/344025966/301134450/1828821.ts
