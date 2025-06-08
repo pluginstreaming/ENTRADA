@@ -3,125 +3,125 @@
 
 
 
-#EXTINF:-1 tvg-id="canal11.pt" tvg-name="PT | Canal 11 HD" tvg-logo="http://vod-logo.net/photos/34930a82a4c031443aa3f84ca5c3ac03.png" group-title="PT | DESPORTO",PT | Canal 11 HD
+#EXTINF:-1 tvg-id="canal11.pt" tvg-name="PT | Canal 11 HD" tvg-logo="http://vod-logo.net/photos/34930a82a4c031443aa3f84ca5c3ac03.png" ,PT | Canal 11 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273600
-#EXTINF:-1 tvg-id="canal11.pt" tvg-name="PT | Canal 11 FHD" tvg-logo="http://vod-logo.net/photos/34930a82a4c031443aa3f84ca5c3ac03.png" group-title="PT | DESPORTO",PT | Canal 11 FHD
+#EXTINF:-1 tvg-id="canal11.pt" tvg-name="PT | Canal 11 FHD" tvg-logo="http://vod-logo.net/photos/34930a82a4c031443aa3f84ca5c3ac03.png" ,PT | Canal 11 FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273599
-#EXTINF:-1 tvg-id="sporttv+.pt" tvg-name="PT | Sport TV +" tvg-logo="http://vod-logo.net/photos/4ad414d19593ba23f33d8e87d1254811.png" group-title="PT | DESPORTO",PT | Sport TV +
+#EXTINF:-1 tvg-id="sporttv+.pt" tvg-name="PT | Sport TV +" tvg-logo="http://vod-logo.net/photos/4ad414d19593ba23f33d8e87d1254811.png" ,PT | Sport TV +
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273598
-#EXTINF:-1 tvg-id="sporttv+.pt" tvg-name="PT | Sport TV + HD" tvg-logo="http://vod-logo.net/photos/4ad414d19593ba23f33d8e87d1254811.png" group-title="PT | DESPORTO",PT | Sport TV + HD
+#EXTINF:-1 tvg-id="sporttv+.pt" tvg-name="PT | Sport TV + HD" tvg-logo="http://vod-logo.net/photos/4ad414d19593ba23f33d8e87d1254811.png" ,PT | Sport TV + HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273597
-#EXTINF:-1 tvg-id="sporttv+.pt" tvg-name="PT | Sport TV + FHD" tvg-logo="http://vod-logo.net/photos/4ad414d19593ba23f33d8e87d1254811.png" group-title="PT | DESPORTO",PT | Sport TV + FHD
+#EXTINF:-1 tvg-id="sporttv+.pt" tvg-name="PT | Sport TV + FHD" tvg-logo="http://vod-logo.net/photos/4ad414d19593ba23f33d8e87d1254811.png" ,PT | Sport TV + FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273596
-#EXTINF:-1 tvg-id="sporttv.pt" tvg-name="PT | Sport TV FHD" group-title="PT | DESPORTO",PT | Sport TV FHD
+#EXTINF:-1 tvg-id="sporttv.pt" tvg-name="PT | Sport TV FHD" ,PT | Sport TV FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273595
-#EXTINF:-1 tvg-id="sporttv.pt" tvg-name="PT | Sport TV 1 HD" tvg-logo="http://vod-logo.net/photos/b2190652b2027dd2d2511adee1f9066a.png" group-title="PT | DESPORTO",PT | Sport TV 1 HD
+#EXTINF:-1 tvg-id="sporttv.pt" tvg-name="PT | Sport TV 1 HD" tvg-logo="http://vod-logo.net/photos/b2190652b2027dd2d2511adee1f9066a.png" ,PT | Sport TV 1 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273594
-#EXTINF:-1 tvg-id="sporttv.pt" tvg-name="PT | Sport TV 1 SD" tvg-logo="http://vod-logo.net/photos/b2190652b2027dd2d2511adee1f9066a.png" group-title="PT | DESPORTO",PT | Sport TV 1 SD
+#EXTINF:-1 tvg-id="sporttv.pt" tvg-name="PT | Sport TV 1 SD" tvg-logo="http://vod-logo.net/photos/b2190652b2027dd2d2511adee1f9066a.png" ,PT | Sport TV 1 SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273593
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT | Sport TV 1 FHD" tvg-logo="http://vod-logo.net/photos/b2190652b2027dd2d2511adee1f9066a.png" group-title="PT | DESPORTO",PT | Sport TV 1 FHD
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT | Sport TV 1 FHD" tvg-logo="http://vod-logo.net/photos/b2190652b2027dd2d2511adee1f9066a.png" ,PT | Sport TV 1 FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273592
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT | Sport TV 1 4K" tvg-logo="http://vod-logo.net/photos/b2190652b2027dd2d2511adee1f9066a.png" group-title="PT | DESPORTO",PT | Sport TV 1 4K
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT | Sport TV 1 4K" tvg-logo="http://vod-logo.net/photos/b2190652b2027dd2d2511adee1f9066a.png" ,PT | Sport TV 1 4K
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273591
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT | Sport TV 2 HD" tvg-logo="http://vod-logo.net/photos/325b19251188b38a8f0109be641af706.png" group-title="PT | DESPORTO",PT | Sport TV 2 HD
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT | Sport TV 2 HD" tvg-logo="http://vod-logo.net/photos/325b19251188b38a8f0109be641af706.png" ,PT | Sport TV 2 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273590
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT | Sport  TV 2 SD" tvg-logo="http://vod-logo.net/photos/325b19251188b38a8f0109be641af706.png" group-title="PT | DESPORTO",PT | Sport  TV 2 SD
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT | Sport  TV 2 SD" tvg-logo="http://vod-logo.net/photos/325b19251188b38a8f0109be641af706.png" ,PT | Sport  TV 2 SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273589
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT | Sport TV 2 FHD" tvg-logo="http://vod-logo.net/photos/325b19251188b38a8f0109be641af706.png" group-title="PT | DESPORTO",PT | Sport TV 2 FHD
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT | Sport TV 2 FHD" tvg-logo="http://vod-logo.net/photos/325b19251188b38a8f0109be641af706.png" ,PT | Sport TV 2 FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273588
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT | Sport TV 3 HD" tvg-logo="http://vod-logo.net/photos/b0c43dcbf8d18f54a9de056c4d8c1515.png" group-title="PT | DESPORTO",PT | Sport TV 3 HD
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT | Sport TV 3 HD" tvg-logo="http://vod-logo.net/photos/b0c43dcbf8d18f54a9de056c4d8c1515.png" ,PT | Sport TV 3 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273587
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT | Sport TV 3 SD" tvg-logo="http://vod-logo.net/photos/b0c43dcbf8d18f54a9de056c4d8c1515.png" group-title="PT | DESPORTO",PT | Sport TV 3 SD
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT | Sport TV 3 SD" tvg-logo="http://vod-logo.net/photos/b0c43dcbf8d18f54a9de056c4d8c1515.png" ,PT | Sport TV 3 SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273586
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT | Sport TV 3 FHD" tvg-logo="http://vod-logo.net/photos/b0c43dcbf8d18f54a9de056c4d8c1515.png" group-title="PT | DESPORTO",PT | Sport TV 3 FHD
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT | Sport TV 3 FHD" tvg-logo="http://vod-logo.net/photos/b0c43dcbf8d18f54a9de056c4d8c1515.png" ,PT | Sport TV 3 FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273585
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT | Sport TV 4 HD" tvg-logo="http://vod-logo.net/photos/271f5410b895bc09d25919af45f236fd.png" group-title="PT | DESPORTO",PT | Sport TV 4 HD
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT | Sport TV 4 HD" tvg-logo="http://vod-logo.net/photos/271f5410b895bc09d25919af45f236fd.png" ,PT | Sport TV 4 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273584
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT | Sport TV 4 FHD" tvg-logo="http://vod-logo.net/photos/271f5410b895bc09d25919af45f236fd.png" group-title="PT | DESPORTO",PT | Sport TV 4 FHD
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT | Sport TV 4 FHD" tvg-logo="http://vod-logo.net/photos/271f5410b895bc09d25919af45f236fd.png" ,PT | Sport TV 4 FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273583
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT | Sport TV 5 HD" group-title="PT | DESPORTO",PT | Sport TV 5 HD
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT | Sport TV 5 HD" ,PT | Sport TV 5 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273582
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT | Sport TV 5 FHD" tvg-logo="https://s9.gifyu.com/images/SULa4.png" group-title="PT | DESPORTO",PT | Sport TV 5 FHD
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT | Sport TV 5 FHD" tvg-logo="https://s9.gifyu.com/images/SULa4.png" ,PT | Sport TV 5 FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273581
-#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="PT | SPORT TV 6 FHD" tvg-logo="https://s9.gifyu.com/images/SULa6.png" group-title="PT | DESPORTO",PT | SPORT TV 6 FHD
+#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="PT | SPORT TV 6 FHD" tvg-logo="https://s9.gifyu.com/images/SULa6.png" ,PT | SPORT TV 6 FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/638007
-#EXTINF:-1 tvg-id="sporttv7.pt" tvg-name="PT | SPORT TV 7 FHD" tvg-logo="https://www.meo.pt/PublishingImages/canais/sport-tv-7-meo-logo.webp" group-title="PT | DESPORTO",PT | SPORT TV 7 FHD
+#EXTINF:-1 tvg-id="sporttv7.pt" tvg-name="PT | SPORT TV 7 FHD" tvg-logo="https://www.meo.pt/PublishingImages/canais/sport-tv-7-meo-logo.webp" ,PT | SPORT TV 7 FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/631220
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT | Eleven Sport 1 HD" tvg-logo="http://vod-logo.net/photos/9a72ecc66d8220deb0587d3273d0248d.png" group-title="PT | DESPORTO",PT | Eleven Sport 1 HD
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT | Eleven Sport 1 HD" tvg-logo="http://vod-logo.net/photos/9a72ecc66d8220deb0587d3273d0248d.png" ,PT | Eleven Sport 1 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273580
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT | Eleven Sports 1 FHD" tvg-logo="http://vod-logo.net/photos/9a72ecc66d8220deb0587d3273d0248d.png" group-title="PT | DESPORTO",PT | Eleven Sports 1 FHD
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT | Eleven Sports 1 FHD" tvg-logo="http://vod-logo.net/photos/9a72ecc66d8220deb0587d3273d0248d.png" ,PT | Eleven Sports 1 FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273579
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT | Eleven Sport 2 HD" tvg-logo="http://vod-logo.net/photos/6c3d72dad461d373e5c6fec0ff2bde2a.png" group-title="PT | DESPORTO",PT | Eleven Sport 2 HD
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT | Eleven Sport 2 HD" tvg-logo="http://vod-logo.net/photos/6c3d72dad461d373e5c6fec0ff2bde2a.png" ,PT | Eleven Sport 2 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273578
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT | Eleven Sports 2 FHD" tvg-logo="http://vod-logo.net/photos/6c3d72dad461d373e5c6fec0ff2bde2a.png" group-title="PT | DESPORTO",PT | Eleven Sports 2 FHD
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT | Eleven Sports 2 FHD" tvg-logo="http://vod-logo.net/photos/6c3d72dad461d373e5c6fec0ff2bde2a.png" ,PT | Eleven Sports 2 FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273577
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT | Eleven Sport 3 HD" tvg-logo="http://vod-logo.net/photos/3b94182a3106fe5d3f1de1263c609ea8.png" group-title="PT | DESPORTO",PT | Eleven Sport 3 HD
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT | Eleven Sport 3 HD" tvg-logo="http://vod-logo.net/photos/3b94182a3106fe5d3f1de1263c609ea8.png" ,PT | Eleven Sport 3 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273576
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT | Eleven Sports 3 FHD" tvg-logo="http://vod-logo.net/photos/3b94182a3106fe5d3f1de1263c609ea8.png" group-title="PT | DESPORTO",PT | Eleven Sports 3 FHD
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT | Eleven Sports 3 FHD" tvg-logo="http://vod-logo.net/photos/3b94182a3106fe5d3f1de1263c609ea8.png" ,PT | Eleven Sports 3 FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273575
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT | Eleven Sport 4 HD" tvg-logo="http://vod-logo.net/photos/f9cfd61484f039b87dd9070ecb6ec0b9.png" group-title="PT | DESPORTO",PT | Eleven Sport 4 HD
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT | Eleven Sport 4 HD" tvg-logo="http://vod-logo.net/photos/f9cfd61484f039b87dd9070ecb6ec0b9.png" ,PT | Eleven Sport 4 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273574
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT | Eleven Sports 4 FHD" tvg-logo="http://vod-logo.net/photos/f9cfd61484f039b87dd9070ecb6ec0b9.png" group-title="PT | DESPORTO",PT | Eleven Sports 4 FHD
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT | Eleven Sports 4 FHD" tvg-logo="http://vod-logo.net/photos/f9cfd61484f039b87dd9070ecb6ec0b9.png" ,PT | Eleven Sports 4 FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273573
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT | Eleven Sport 5 HD" group-title="PT | DESPORTO",PT | Eleven Sport 5 HD
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT | Eleven Sport 5 HD" ,PT | Eleven Sport 5 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273572
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT | Eleven Sports 5 FHD" group-title="PT | DESPORTO",PT | Eleven Sports 5 FHD
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT | Eleven Sports 5 FHD" ,PT | Eleven Sports 5 FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273571
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT | Eleven Sport 6 HD" group-title="PT | DESPORTO",PT | Eleven Sport 6 HD
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT | Eleven Sport 6 HD" ,PT | Eleven Sport 6 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273570
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT | Eleven Sports 6 HD" group-title="PT | DESPORTO",PT | Eleven Sports 6 HD
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT | Eleven Sports 6 HD" ,PT | Eleven Sports 6 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273569
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT | Eleven Sports 6 FHD" group-title="PT | DESPORTO",PT | Eleven Sports 6 FHD
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT | Eleven Sports 6 FHD" ,PT | Eleven Sports 6 FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273568
-#EXTINF:-1 tvg-id="btv.pt" tvg-name="PT | BTV FHD" group-title="PT | DESPORTO",PT | BTV FHD
+#EXTINF:-1 tvg-id="btv.pt" tvg-name="PT | BTV FHD" ,PT | BTV FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273567
-#EXTINF:-1 tvg-id="btv.pt" tvg-name="PT | BTV HD" group-title="PT | DESPORTO",PT | BTV HD
+#EXTINF:-1 tvg-id="btv.pt" tvg-name="PT | BTV HD" ,PT | BTV HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273566
-#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="PT | Sporting TV" tvg-logo="http://vod-logo.net/photos/c3fbdd9e99ea3d18310449c4df888f62.png" group-title="PT | DESPORTO",PT | Sporting TV
+#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="PT | Sporting TV" tvg-logo="http://vod-logo.net/photos/c3fbdd9e99ea3d18310449c4df888f62.png" ,PT | Sporting TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273565
-#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="PT | Sporting TV FHD" tvg-logo="http://vod-logo.net/photos/c3fbdd9e99ea3d18310449c4df888f62.png" group-title="PT | DESPORTO",PT | Sporting TV FHD
+#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="PT | Sporting TV FHD" tvg-logo="http://vod-logo.net/photos/c3fbdd9e99ea3d18310449c4df888f62.png" ,PT | Sporting TV FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273564
-#EXTINF:-1 tvg-id="portocanal.pt" tvg-name="PT | Porto Canal HD" group-title="PT | DESPORTO",PT | Porto Canal HD
+#EXTINF:-1 tvg-id="portocanal.pt" tvg-name="PT | Porto Canal HD" ,PT | Porto Canal HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273563
-#EXTINF:-1 tvg-id="portocanal.pt" tvg-name="PT | Porto Canal FHD" group-title="PT | DESPORTO",PT | Porto Canal FHD
+#EXTINF:-1 tvg-id="portocanal.pt" tvg-name="PT | Porto Canal FHD" ,PT | Porto Canal FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273562
-#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="PT | Sport TV NBA" group-title="PT | DESPORTO",PT | Sport TV NBA
+#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="PT | Sport TV NBA" ,PT | Sport TV NBA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273561
-#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="PT | Sport TV NBA FHD" group-title="PT | DESPORTO",PT | Sport TV NBA FHD
+#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="PT | Sport TV NBA FHD" ,PT | Sport TV NBA FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273560
-#EXTINF:-1 tvg-id="kombatsport.pt" tvg-name="PT | Kombat Sport" group-title="PT | DESPORTO",PT | Kombat Sport
+#EXTINF:-1 tvg-id="kombatsport.pt" tvg-name="PT | Kombat Sport" ,PT | Kombat Sport
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273559
-#EXTINF:-1 tvg-id="fueltv.pt" tvg-name="PT | Fuel TV" group-title="PT | DESPORTO",PT | Fuel TV
+#EXTINF:-1 tvg-id="fueltv.pt" tvg-name="PT | Fuel TV" ,PT | Fuel TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273558
-#EXTINF:-1 tvg-id="fueltv.pt" tvg-name="PT | FUEL TV FHD" group-title="PT | DESPORTO",PT | FUEL TV FHD
+#EXTINF:-1 tvg-id="fueltv.pt" tvg-name="PT | FUEL TV FHD" ,PT | FUEL TV FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273557
-#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="PT | EuroSport 1" tvg-logo="http://www.vod-logo.net/photos/ccf3ef964c2be9790aa396ac9c165579.jpg" group-title="PT | DESPORTO",PT | EuroSport 1
+#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="PT | EuroSport 1" tvg-logo="http://www.vod-logo.net/photos/ccf3ef964c2be9790aa396ac9c165579.jpg" ,PT | EuroSport 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273556
-#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="PT | EuroSport 1 FHD" tvg-logo="http://www.vod-logo.net/photos/ccf3ef964c2be9790aa396ac9c165579.jpg" group-title="PT | DESPORTO",PT | EuroSport 1 FHD
+#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="PT | EuroSport 1 FHD" tvg-logo="http://www.vod-logo.net/photos/ccf3ef964c2be9790aa396ac9c165579.jpg" ,PT | EuroSport 1 FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273555
-#EXTINF:-1 tvg-id="eurosport2.pt" tvg-name="PT | EuroSport 2" tvg-logo="http://www.vod-logo.net/photos/1172255e540f09f2647859b2caefa2a5.jpg" group-title="PT | DESPORTO",PT | EuroSport 2
+#EXTINF:-1 tvg-id="eurosport2.pt" tvg-name="PT | EuroSport 2" tvg-logo="http://www.vod-logo.net/photos/1172255e540f09f2647859b2caefa2a5.jpg" ,PT | EuroSport 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273554
-#EXTINF:-1 tvg-id="eurosport2.pt" tvg-name="PT | EuroSport 2 FHD" tvg-logo="http://www.vod-logo.net/photos/1172255e540f09f2647859b2caefa2a5.jpg" group-title="PT | DESPORTO",PT | EuroSport 2 FHD
+#EXTINF:-1 tvg-id="eurosport2.pt" tvg-name="PT | EuroSport 2 FHD" tvg-logo="http://www.vod-logo.net/photos/1172255e540f09f2647859b2caefa2a5.jpg" ,PT | EuroSport 2 FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273553
-#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="PT | A Bola TV" tvg-logo="http://vod-logo.net/photos/6610ab62788d48080d499b9fe5e92761.png" group-title="PT | DESPORTO",PT | A Bola TV
+#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="PT | A Bola TV" tvg-logo="http://vod-logo.net/photos/6610ab62788d48080d499b9fe5e92761.png" ,PT | A Bola TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273552
-#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="PT | A Bola FHD" tvg-logo="http://vod-logo.net/photos/6610ab62788d48080d499b9fe5e92761.png" group-title="PT | DESPORTO",PT | A Bola FHD
+#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="PT | A Bola FHD" tvg-logo="http://vod-logo.net/photos/6610ab62788d48080d499b9fe5e92761.png" ,PT | A Bola FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273551
-#EXTINF:-1 tvg-id="cacaepesca.pt" tvg-name="PT | CACA & PESCA HD" group-title="PT | DESPORTO",PT | CACA & PESCA HD
+#EXTINF:-1 tvg-id="cacaepesca.pt" tvg-name="PT | CACA & PESCA HD" ,PT | CACA & PESCA HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273550
-#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PT | PFC" group-title="PT | DESPORTO",PT | PFC
+#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PT | PFC" ,PT | PFC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273549
-#EXTINF:-1 tvg-id="benficatv.pt" tvg-name="PT | Benfica HD" tvg-logo="http://vod-logo.net/photos/d1c42492575fec36a0d465b2e1e9b485.png" group-title="PT | DESPORTO",PT | Benfica HD
+#EXTINF:-1 tvg-id="benficatv.pt" tvg-name="PT | Benfica HD" tvg-logo="http://vod-logo.net/photos/d1c42492575fec36a0d465b2e1e9b485.png" ,PT | Benfica HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273548
-#EXTINF:-1 tvg-id="benficatv.pt" tvg-name="PT | Benfica FHD" tvg-logo="http://vod-logo.net/photos/d1c42492575fec36a0d465b2e1e9b485.png" group-title="PT | DESPORTO",PT | Benfica FHD
+#EXTINF:-1 tvg-id="benficatv.pt" tvg-name="PT | Benfica FHD" tvg-logo="http://vod-logo.net/photos/d1c42492575fec36a0d465b2e1e9b485.png" ,PT | Benfica FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273547
-#EXTINF:-1 tvg-id="fightbox.pt" tvg-name="PT | FightBox FHD" group-title="PT | DESPORTO",PT | FightBox FHD
+#EXTINF:-1 tvg-id="fightbox.pt" tvg-name="PT | FightBox FHD" ,PT | FightBox FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273546
-#EXTINF:-1 tvg-id="fightnetwork.pt" tvg-name="PT | FIGHT NETWORK FHD" group-title="PT | DESPORTO",PT | FIGHT NETWORK FHD
+#EXTINF:-1 tvg-id="fightnetwork.pt" tvg-name="PT | FIGHT NETWORK FHD" ,PT | FIGHT NETWORK FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273545
-#EXTINF:-1 tvg-name="PT | Combate HD" group-title="PT | DESPORTO",PT | Combate HD
+#EXTINF:-1 tvg-name="PT | Combate HD" ,PT | Combate HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273544
-#EXTINF:-1 tvg-id="motorvision.pt" tvg-name="PT | Motorvision" group-title="PT | DESPORTO",PT | Motorvision
+#EXTINF:-1 tvg-id="motorvision.pt" tvg-name="PT | Motorvision" ,PT | Motorvision
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273543
-#EXTINF:-1 tvg-name="PT | WWE" group-title="PT | DESPORTO",PT | WWE
+#EXTINF:-1 tvg-name="PT | WWE" ,PT | WWE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/carlos1234/carlos1234/273542
