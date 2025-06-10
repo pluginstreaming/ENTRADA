@@ -2,13 +2,13 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://baf-qrcode.b-cdn.net/RUNTIME.jpeg" , RunTime
+#EXTINF:-1 tvg-logo="https://baf-qrcode.b-cdn.net/RUNTIME.jpeg" group-title="⏩ RUN TIME" , RunTime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-#EXTINF:-1 tvg-logo="https://baf-qrcode.b-cdn.net/RUNTIME.jpeg" , RunTime Ação
+#EXTINF:-1 tvg-logo="https://baf-qrcode.b-cdn.net/RUNTIME.jpeg" group-title="⏩ RUN TIME" , RunTime Ação
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-#EXTINF:-1 tvg-logo="https://baf-qrcode.b-cdn.net/RUNTIME.jpeg" , RunTime Comédia
+#EXTINF:-1 tvg-logo="https://baf-qrcode.b-cdn.net/RUNTIME.jpeg" group-title="⏩ RUN TIME" , RunTime Comédia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-#EXTINF:-1 tvg-logo="https://baf-qrcode.b-cdn.net/RUNTIME.jpeg" , RunTime Romance
+#EXTINF:-1 tvg-logo="https://baf-qrcode.b-cdn.net/RUNTIME.jpeg" group-title="⏩ RUN TIME" , RunTime Romance
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 
 
