@@ -1,17 +1,35 @@
-#EXTM3U
+<channel>
+    <name>Agenda Esportiva</name>
+    <fanart>https://baf-qrcode.b-cdn.net/FOTO_INFORMACOES_ESP_FULL_1920x1080.jpg</fanart>
 
+    <item>
+        <title>AGENDA ESPORTIVA 01</title>
+        <link>http://newoneblack.site:80/1427440/123456/438037.ts</link>
+        <thumbnail>https://od.lk/s/NDVfNDk0MTIwODVf/Design%20sem%20nome.jpg</thumbnail>
+    </item>
 
+    <item>
+        <title>AGENDA ESPORTIVA 02</title>
+        <link>http://newoneblack.site:80/1427440/123456/438038.ts</link>
+        <thumbnail>https://od.lk/s/NDVfNDk0MTIwODVf/Design%20sem%20nome.jpg</thumbnail>
+    </item>
 
+    <item>
+        <title>UFC FIGHT PASS² (AGENDA DE LUTAS)</title>
+        <link>http://newoneblack.site:80/1427440/123456/233215.ts</link>
+        <thumbnail>https://img.inboxbr.pro/icones_channels/ufc-fight-pass.png</thumbnail>
+    </item>
 
-#EXTINF:-1 tvg-name="AGENDA ESPORTIVA 01" tvg-logo="https://od.lk/s/NDVfNDk0MTIwODVf/Design%20sem%20nome.jpg" ,AGENDA ESPORTIVA 01
-http://newoneblack.site:80/1427440/123456/438037.ts
-#EXTINF:-1 tvg-name="AGENDA ESPORTIVA 02" tvg-logo="https://od.lk/s/NDVfNDk0MTIwODVf/Design%20sem%20nome.jpg" ,AGENDA ESPORTIVA 02
-http://newoneblack.site:80/1427440/123456/438038.ts
-#EXTINF:-1 tvg-name="UFC FIGHT PASS² (AGENDA DE LUTAS)" tvg-logo="https://img.inboxbr.pro/icones_channels/ufc-fight-pass.png" ,UFC FIGHT PASS² (AGENDA DE LUTAS)
-http://newoneblack.site:80/1427440/123456/233215.ts
-#EXTINF:-1 tvg-name="Jogos do Dia" tvg-logo="https://i.imgur.com/J4Anx99.png" ,AGENDA ESPORTIVA 03
-http://cdnrez.xyz:80/462111520/310657938/2152194.ts
-#EXTINF:-1 tvg-name="JOGOS DO DIA" tvg-logo="https://od.lk/s/NDVfNDk0MTIwODVf/Design%20sem%20nome.jpg" ,AGENDA ESPORTIVA 04
-http://t5dx.in:80/029911/007404/1696413.ts
+    <item>
+        <title>AGENDA ESPORTIVA 03</title>
+        <link>http://cdnrez.xyz:80/462111520/310657938/2152194.ts</link>
+        <thumbnail>https://i.imgur.com/J4Anx99.png</thumbnail>
+    </item>
 
+    <item>
+        <title>AGENDA ESPORTIVA 04</title>
+        <link>http://t5dx.in:80/029911/007404/1696413.ts</link>
+        <thumbnail>https://od.lk/s/NDVfNDk0MTIwODVf/Design%20sem%20nome.jpg</thumbnail>
+    </item>
 
+</channel>
