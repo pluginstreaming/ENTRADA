@@ -3,123 +3,313 @@
 
 
 
-#EXTINF:-1 tvg-id="canal11.pt" tvg-name="PT | Canal 11 HD" tvg-logo="http://vod-logo.net/photos/34930a82a4c031443aa3f84ca5c3ac03.png" ,PT | Canal 11 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273600
-#EXTINF:-1 tvg-id="canal11.pt" tvg-name="PT | Canal 11 FHD" tvg-logo="http://vod-logo.net/photos/34930a82a4c031443aa3f84ca5c3ac03.png" ,PT | Canal 11 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273599
-#EXTINF:-1 tvg-id="sporttv+.pt" tvg-name="PT | Sport TV +" tvg-logo="http://vod-logo.net/photos/4ad414d19593ba23f33d8e87d1254811.png" ,PT | Sport TV +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273598
-#EXTINF:-1 tvg-id="sporttv+.pt" tvg-name="PT | Sport TV + HD" tvg-logo="http://vod-logo.net/photos/4ad414d19593ba23f33d8e87d1254811.png" ,PT | Sport TV + HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273597
-#EXTINF:-1 tvg-id="sporttv+.pt" tvg-name="PT | Sport TV + FHD" tvg-logo="http://vod-logo.net/photos/4ad414d19593ba23f33d8e87d1254811.png" ,PT | Sport TV + FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273596
-#EXTINF:-1 tvg-id="sporttv.pt" tvg-name="PT | Sport TV FHD" ,PT | Sport TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273595
-#EXTINF:-1 tvg-id="sporttv.pt" tvg-name="PT | Sport TV 1 HD" tvg-logo="http://vod-logo.net/photos/b2190652b2027dd2d2511adee1f9066a.png" ,PT | Sport TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273594
-#EXTINF:-1 tvg-id="sporttv.pt" tvg-name="PT | Sport TV 1 SD" tvg-logo="http://vod-logo.net/photos/b2190652b2027dd2d2511adee1f9066a.png" ,PT | Sport TV 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273593
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT | Sport TV 1 FHD" tvg-logo="http://vod-logo.net/photos/b2190652b2027dd2d2511adee1f9066a.png" ,PT | Sport TV 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273592
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT | Sport TV 1 4K" tvg-logo="http://vod-logo.net/photos/b2190652b2027dd2d2511adee1f9066a.png" ,PT | Sport TV 1 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273591
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT | Sport TV 2 HD" tvg-logo="http://vod-logo.net/photos/325b19251188b38a8f0109be641af706.png" ,PT | Sport TV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273590
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT | Sport  TV 2 SD" tvg-logo="http://vod-logo.net/photos/325b19251188b38a8f0109be641af706.png" ,PT | Sport  TV 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273589
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT | Sport TV 2 FHD" tvg-logo="http://vod-logo.net/photos/325b19251188b38a8f0109be641af706.png" ,PT | Sport TV 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273588
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT | Sport TV 3 HD" tvg-logo="http://vod-logo.net/photos/b0c43dcbf8d18f54a9de056c4d8c1515.png" ,PT | Sport TV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273587
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT | Sport TV 3 SD" tvg-logo="http://vod-logo.net/photos/b0c43dcbf8d18f54a9de056c4d8c1515.png" ,PT | Sport TV 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273586
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT | Sport TV 3 FHD" tvg-logo="http://vod-logo.net/photos/b0c43dcbf8d18f54a9de056c4d8c1515.png" ,PT | Sport TV 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273585
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT | Sport TV 4 HD" tvg-logo="http://vod-logo.net/photos/271f5410b895bc09d25919af45f236fd.png" ,PT | Sport TV 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273584
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT | Sport TV 4 FHD" tvg-logo="http://vod-logo.net/photos/271f5410b895bc09d25919af45f236fd.png" ,PT | Sport TV 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273583
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT | Sport TV 5 HD" ,PT | Sport TV 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273582
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT | Sport TV 5 FHD" tvg-logo="https://s9.gifyu.com/images/SULa4.png" ,PT | Sport TV 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273581
-#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="PT | SPORT TV 6 FHD" tvg-logo="https://s9.gifyu.com/images/SULa6.png" ,PT | SPORT TV 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/638007
-#EXTINF:-1 tvg-id="sporttv7.pt" tvg-name="PT | SPORT TV 7 FHD" tvg-logo="https://www.meo.pt/PublishingImages/canais/sport-tv-7-meo-logo.webp" ,PT | SPORT TV 7 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/631220
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT | Eleven Sport 1 HD" tvg-logo="http://vod-logo.net/photos/9a72ecc66d8220deb0587d3273d0248d.png" ,PT | Eleven Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273580
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT | Eleven Sports 1 FHD" tvg-logo="http://vod-logo.net/photos/9a72ecc66d8220deb0587d3273d0248d.png" ,PT | Eleven Sports 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273579
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT | Eleven Sport 2 HD" tvg-logo="http://vod-logo.net/photos/6c3d72dad461d373e5c6fec0ff2bde2a.png" ,PT | Eleven Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273578
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT | Eleven Sports 2 FHD" tvg-logo="http://vod-logo.net/photos/6c3d72dad461d373e5c6fec0ff2bde2a.png" ,PT | Eleven Sports 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273577
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT | Eleven Sport 3 HD" tvg-logo="http://vod-logo.net/photos/3b94182a3106fe5d3f1de1263c609ea8.png" ,PT | Eleven Sport 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273576
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT | Eleven Sports 3 FHD" tvg-logo="http://vod-logo.net/photos/3b94182a3106fe5d3f1de1263c609ea8.png" ,PT | Eleven Sports 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273575
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT | Eleven Sport 4 HD" tvg-logo="http://vod-logo.net/photos/f9cfd61484f039b87dd9070ecb6ec0b9.png" ,PT | Eleven Sport 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273574
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT | Eleven Sports 4 FHD" tvg-logo="http://vod-logo.net/photos/f9cfd61484f039b87dd9070ecb6ec0b9.png" ,PT | Eleven Sports 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273573
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT | Eleven Sport 5 HD" ,PT | Eleven Sport 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273572
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT | Eleven Sports 5 FHD" ,PT | Eleven Sports 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273571
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT | Eleven Sports 6 HD" ,PT | Eleven Sports 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273569
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT | Eleven Sports 6 FHD" ,PT | Eleven Sports 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273568
-#EXTINF:-1 tvg-id="btv.pt" tvg-name="PT | BTV FHD" ,PT | BTV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273567
-#EXTINF:-1 tvg-id="btv.pt" tvg-name="PT | BTV HD" ,PT | BTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273566
-#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="PT | Sporting TV" tvg-logo="http://vod-logo.net/photos/c3fbdd9e99ea3d18310449c4df888f62.png" ,PT | Sporting TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273565
-#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="PT | Sporting TV FHD" tvg-logo="http://vod-logo.net/photos/c3fbdd9e99ea3d18310449c4df888f62.png" ,PT | Sporting TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273564
-#EXTINF:-1 tvg-id="portocanal.pt" tvg-name="PT | Porto Canal HD" ,PT | Porto Canal HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273563
-#EXTINF:-1 tvg-id="portocanal.pt" tvg-name="PT | Porto Canal FHD" ,PT | Porto Canal FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273562
-#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="PT | Sport TV NBA" ,PT | Sport TV NBA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273561
-#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="PT | Sport TV NBA FHD" ,PT | Sport TV NBA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273560
-#EXTINF:-1 tvg-id="kombatsport.pt" tvg-name="PT | Kombat Sport" ,PT | Kombat Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273559
-#EXTINF:-1 tvg-id="fueltv.pt" tvg-name="PT | Fuel TV" ,PT | Fuel TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273558
-#EXTINF:-1 tvg-id="fueltv.pt" tvg-name="PT | FUEL TV FHD" ,PT | FUEL TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273557
-#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="PT | EuroSport 1" tvg-logo="http://www.vod-logo.net/photos/ccf3ef964c2be9790aa396ac9c165579.jpg" ,PT | EuroSport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273556
-#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="PT | EuroSport 1 FHD" tvg-logo="http://www.vod-logo.net/photos/ccf3ef964c2be9790aa396ac9c165579.jpg" ,PT | EuroSport 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273555
-#EXTINF:-1 tvg-id="eurosport2.pt" tvg-name="PT | EuroSport 2" tvg-logo="http://www.vod-logo.net/photos/1172255e540f09f2647859b2caefa2a5.jpg" ,PT | EuroSport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273554
-#EXTINF:-1 tvg-id="eurosport2.pt" tvg-name="PT | EuroSport 2 FHD" tvg-logo="http://www.vod-logo.net/photos/1172255e540f09f2647859b2caefa2a5.jpg" ,PT | EuroSport 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273553
-#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="PT | A Bola TV" tvg-logo="http://vod-logo.net/photos/6610ab62788d48080d499b9fe5e92761.png" ,PT | A Bola TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273552
-#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="PT | A Bola FHD" tvg-logo="http://vod-logo.net/photos/6610ab62788d48080d499b9fe5e92761.png" ,PT | A Bola FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273551
-#EXTINF:-1 tvg-id="cacaepesca.pt" tvg-name="PT | CACA & PESCA HD" ,PT | CACA & PESCA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273550
-#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PT | PFC" ,PT | PFC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273549
-#EXTINF:-1 tvg-id="benficatv.pt" tvg-name="PT | Benfica HD" tvg-logo="http://vod-logo.net/photos/d1c42492575fec36a0d465b2e1e9b485.png" ,PT | Benfica HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273548
-#EXTINF:-1 tvg-id="benficatv.pt" tvg-name="PT | Benfica FHD" tvg-logo="http://vod-logo.net/photos/d1c42492575fec36a0d465b2e1e9b485.png" ,PT | Benfica FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273547
-#EXTINF:-1 tvg-id="fightbox.pt" tvg-name="PT | FightBox FHD" ,PT | FightBox FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273546
-#EXTINF:-1 tvg-id="fightnetwork.pt" tvg-name="PT | FIGHT NETWORK FHD" ,PT | FIGHT NETWORK FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273545
-#EXTINF:-1 tvg-name="PT | Combate HD" ,PT | Combate HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273544
-#EXTINF:-1 tvg-id="motorvision.pt" tvg-name="PT | Motorvision" ,PT | Motorvision
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273543
-#EXTINF:-1 tvg-name="PT | WWE" ,PT | WWE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://budgettv.xyz:80/676767/767676/273542
+#EXTINF:-1 tvg-name="PT: 24 Kitchen [FHD]" tvg-logo="http://cc90.one/OFM9" group-title="Canais | Portugal",PT: 24 Kitchen [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294036.ts
+#EXTINF:-1 tvg-name="PT: A Bola TV [FHD]" tvg-logo="http://cc90.one/OFR2" group-title="Canais | Portugal",PT: A Bola TV [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294079.ts
+#EXTINF:-1 tvg-name="PT: Afro Music Channel [SD]" tvg-logo="http://cc90.one/OFJ0" group-title="Canais | Portugal",PT: Afro Music Channel [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/293997.ts
+#EXTINF:-1 tvg-name="PT: Alma Lusa [FHD]" tvg-logo="http://cc90.one/OFN0" group-title="Canais | Portugal",PT: Alma Lusa [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294037.ts
+#EXTINF:-1 tvg-name="PT: AMC Break [SD]" tvg-logo="http://cc90.one/OFQ5" group-title="Canais | Portugal",PT: AMC Break [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294072.ts
+#EXTINF:-1 tvg-name="PT: AMC Crime [HD]" tvg-logo="http://cc90.one/OFQ6" group-title="Canais | Portugal",PT: AMC Crime [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294073.ts
+#EXTINF:-1 tvg-name="PT: AMC [HD]" tvg-logo="http://cc90.one/OFK8" group-title="Canais | Portugal",PT: AMC [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294015.ts
+#EXTINF:-1 tvg-name="PT: AR TV Canal Parlamento [SD]" tvg-logo="http://cc90.one/OFK1" group-title="Canais | Portugal",PT: AR TV Canal Parlamento [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294008.ts
+#EXTINF:-1 tvg-name="PT: AXN Movies [FHD]" tvg-logo="http://cc90.one/OFL0" group-title="Canais | Portugal",PT: AXN Movies [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294017.ts
+#EXTINF:-1 tvg-name="PT: AXN White [FHD]" tvg-logo="http://cc90.one/OFL1" group-title="Canais | Portugal",PT: AXN White [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294018.ts
+#EXTINF:-1 tvg-name="PT: AXN [FHD]" tvg-logo="http://cc90.one/OFK9" group-title="Canais | Portugal",PT: AXN [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294016.ts
+#EXTINF:-1 tvg-name="PT: Baby TV [SD]" tvg-logo="http://cc90.one/OFG8" group-title="Canais | Portugal",PT: Baby TV [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/293975.ts
+#EXTINF:-1 tvg-name="PT: Benfica TV [FHD]" tvg-logo="http://cc90.one/OFI2" group-title="Canais | Portugal",PT: Benfica TV [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/293989.ts
+#EXTINF:-1 tvg-name="PT: Biggs [FHD]" tvg-logo="http://cc90.one/OFN1" group-title="Canais | Portugal",PT: Biggs [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294038.ts
+#EXTINF:-1 tvg-name="PT: Blaze [HD]" tvg-logo="http://cc90.one/OFN2" group-title="Canais | Portugal",PT: Blaze [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294039.ts
+#EXTINF:-1 tvg-name="PT: Bloomberg [SD]" tvg-logo="http://cc90.one/OFK2" group-title="Canais | Portugal",PT: Bloomberg [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294009.ts
+#EXTINF:-1 tvg-name="PT: Bom Som Channel [FHD]" tvg-logo="http://cc90.one/OFR3" group-title="Canais | Portugal",PT: Bom Som Channel [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294080.ts
+#EXTINF:-1 tvg-name="PT: Boomerang [SD]" tvg-logo="http://cc90.one/OFG9" group-title="Canais | Portugal",PT: Boomerang [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/293976.ts
+#EXTINF:-1 tvg-name="PT: Campo Pequeno [HD]" tvg-logo="http://cc90.one/OFR4" group-title="Canais | Portugal",PT: Campo Pequeno [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294081.ts
+#EXTINF:-1 tvg-name="PT: Canal 11 [FHD]" tvg-logo="http://cc90.one/OFI3" group-title="Canais | Portugal",PT: Canal 11 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/293990.ts
+#EXTINF:-1 tvg-name="PT: Canal 11 [FHD]" tvg-logo="http://cc90.one/OMF7" group-title="Canais | Portugal",PT: Canal 11 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/295725.ts
+#EXTINF:-1 tvg-name="PT: CANAL 180 [SD]" tvg-logo="http://cc90.one/OFJ1" group-title="Canais | Portugal",PT: CANAL 180 [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/293998.ts
+#EXTINF:-1 tvg-name="PT: Canal Nos [FHD]" tvg-logo="http://cc90.one/OFL2" group-title="Canais | Portugal",PT: Canal Nos [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294019.ts
+#EXTINF:-1 tvg-name="PT: Canal Panda [HD]" tvg-logo="http://cc90.one/OFH0" group-title="Canais | Portugal",PT: Canal Panda [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/293977.ts
+#EXTINF:-1 tvg-name="PT: Canal Q [SD]" tvg-logo="http://cc90.one/OFN3" group-title="Canais | Portugal",PT: Canal Q [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294040.ts
+#EXTINF:-1 tvg-name="PT: Cancao Nova [SD]" tvg-logo="http://cc90.one/OFN4" group-title="Canais | Portugal",PT: Cancao Nova [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294041.ts
+#EXTINF:-1 tvg-name="PT: Cartoon Network [SD]" tvg-logo="http://cc90.one/OFH1" group-title="Canais | Portugal",PT: Cartoon Network [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/293978.ts
+#EXTINF:-1 tvg-name="PT: Cartoonito [SD]" tvg-logo="http://cc90.one/OFH2" group-title="Canais | Portugal",PT: Cartoonito [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/293979.ts
+#EXTINF:-1 tvg-name="PT: Casa e Cozinha [HD]" tvg-logo="http://cc90.one/OFN5" group-title="Canais | Portugal",PT: Casa e Cozinha [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294042.ts
+#EXTINF:-1 tvg-name="PT: Caza y Pesca [HD]" tvg-logo="http://cc90.one/OFQ2" group-title="Canais | Portugal",PT: Caza y Pesca [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294069.ts
+#EXTINF:-1 tvg-name="PT: Caçavision [FHD]" tvg-logo="http://cc90.one/OFQ1" group-title="Canais | Portugal",PT: Caçavision [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294068.ts
+#EXTINF:-1 tvg-name="PT: CBS Reality [HD]" tvg-logo="http://cc90.one/OFN6" group-title="Canais | Portugal",PT: CBS Reality [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294043.ts
+#EXTINF:-1 tvg-name="PT: Cine Mundo [FHD]" tvg-logo="http://cc90.one/OFL3" group-title="Canais | Portugal",PT: Cine Mundo [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294020.ts
+#EXTINF:-1 tvg-name="PT: CM TV [FHD]" tvg-logo="http://cc90.one/OFK3" group-title="Canais | Portugal",PT: CM TV [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294010.ts
+#EXTINF:-1 tvg-name="PT: CNBC [SD]" tvg-logo="http://cc90.one/OFR5" group-title="Canais | Portugal",PT: CNBC [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294082.ts
+#EXTINF:-1 tvg-name="PT: CNN Portugal [HD]" tvg-logo="http://cc90.one/OFK4" group-title="Canais | Portugal",PT: CNN Portugal [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294011.ts
+#EXTINF:-1 tvg-name="PT: Combate [HD]" tvg-logo="http://cc90.one/OFI4" group-title="Canais | Portugal",PT: Combate [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/293991.ts
+#EXTINF:-1 tvg-name="PT: Combate [HD]" tvg-logo="http://cc90.one/OMF8" group-title="Canais | Portugal",PT: Combate [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/295726.ts
+#EXTINF:-1 tvg-name="PT: Crime District [SD]" tvg-logo="http://cc90.one/OFQ7" group-title="Canais | Portugal",PT: Crime District [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294074.ts
+#EXTINF:-1 tvg-name="PT: Crime+ Investigation [SD]" tvg-logo="http://cc90.one/OFQ8" group-title="Canais | Portugal",PT: Crime+ Investigation [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294075.ts
+#EXTINF:-1 tvg-name="PT: DAZN 1 [HD]" tvg-logo="http://cc90.one/OMF1" group-title="Canais | Portugal",PT: DAZN 1 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/295719.ts
+#EXTINF:-1 tvg-name="PT: DAZN 2 [FHD]" tvg-logo="http://cc90.one/OMF2" group-title="Canais | Portugal",PT: DAZN 2 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/295720.ts
+#EXTINF:-1 tvg-name="PT: DAZN 3 [HD]" tvg-logo="http://cc90.one/OMF3" group-title="Canais | Portugal",PT: DAZN 3 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/295721.ts
+#EXTINF:-1 tvg-name="PT: DAZN 4 [HD]" tvg-logo="http://cc90.one/OMF4" group-title="Canais | Portugal",PT: DAZN 4 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/295722.ts
+#EXTINF:-1 tvg-name="PT: DAZN 5 [FHD]" tvg-logo="http://cc90.one/OMF5" group-title="Canais | Portugal",PT: DAZN 5 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/295723.ts
+#EXTINF:-1 tvg-name="PT: DAZN 6 [FHD]" tvg-logo="http://cc90.one/OMF6" group-title="Canais | Portugal",PT: DAZN 6 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/295724.ts
+#EXTINF:-1 tvg-name="PT: Discovery World [FHD]" tvg-logo="http://cc90.one/OFQ9" group-title="Canais | Portugal",PT: Discovery World [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294076.ts
+#EXTINF:-1 tvg-name="PT: Disney Channel [SD]" tvg-logo="http://cc90.one/OFH3" group-title="Canais | Portugal",PT: Disney Channel [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/293980.ts
+#EXTINF:-1 tvg-name="PT: Disney Junior [FHD]" tvg-logo="http://cc90.one/OFH4" group-title="Canais | Portugal",PT: Disney Junior [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/293981.ts
+#EXTINF:-1 tvg-name="PT: DISNEY MARVEL [FHD]" tvg-logo="http://cc90.one/OFR6" group-title="Canais | Portugal",PT: DISNEY MARVEL [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294083.ts
+#EXTINF:-1 tvg-name="PT: DISNEY PIXAR [CANAL OFF]" tvg-logo="http://cc90.one/OFR7" group-title="Canais | Portugal",PT: DISNEY PIXAR [CANAL OFF]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294084.ts
+#EXTINF:-1 tvg-name="PT: Disney+ Pixar [HD]" tvg-logo="http://cc90.one/OFH5" group-title="Canais | Portugal",PT: Disney+ Pixar [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/293982.ts
+#EXTINF:-1 tvg-name="PT: Dizi Channel [FHD]" tvg-logo="http://cc90.one/OFL4" group-title="Canais | Portugal",PT: Dizi Channel [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294021.ts
+#EXTINF:-1 tvg-name="PT: DOG TV [HD]" tvg-logo="http://cc90.one/OFR8" group-title="Canais | Portugal",PT: DOG TV [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294085.ts
+#EXTINF:-1 tvg-name="PT: E! [HD]" tvg-logo="http://cc90.one/OFN7" group-title="Canais | Portugal",PT: E! [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294044.ts
+#EXTINF:-1 tvg-name="PT: euronews [SD]" tvg-logo="http://cc90.one/OFK5" group-title="Canais | Portugal",PT: euronews [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294012.ts
+#EXTINF:-1 tvg-name="PT: Eurosport 1 [FHD]" tvg-logo="http://cc90.one/OMF9" group-title="Canais | Portugal",PT: Eurosport 1 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/295727.ts
+#EXTINF:-1 tvg-name="PT: Eurosport 2 [FHD]" tvg-logo="http://cc90.one/OMG0" group-title="Canais | Portugal",PT: Eurosport 2 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/295728.ts
+#EXTINF:-1 tvg-name="PT: FASHIONTV [FHD]" tvg-logo="http://cc90.one/OFR9" group-title="Canais | Portugal",PT: FASHIONTV [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294086.ts
+#EXTINF:-1 tvg-name="PT: FIREMAN SAM [HD]" tvg-logo="http://cc90.one/OFS0" group-title="Canais | Portugal",PT: FIREMAN SAM [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294087.ts
+#EXTINF:-1 tvg-name="PT: Food Network [SD]" tvg-logo="http://cc90.one/OFN8" group-title="Canais | Portugal",PT: Food Network [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294045.ts
+#EXTINF:-1 tvg-name="PT: Fuel TV [FHD]" tvg-logo="http://cc90.one/OFI5" group-title="Canais | Portugal",PT: Fuel TV [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/293992.ts
+#EXTINF:-1 tvg-name="PT: Fuel TV [FHD]" tvg-logo="http://cc90.one/OMG1" group-title="Canais | Portugal",PT: Fuel TV [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/295729.ts
+#EXTINF:-1 tvg-name="PT: HGTV [FHD]" tvg-logo="http://cc90.one/OFN9" group-title="Canais | Portugal",PT: HGTV [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294046.ts
+#EXTINF:-1 tvg-name="PT: Historia [FHD]" tvg-logo="http://cc90.one/OFR0" group-title="Canais | Portugal",PT: Historia [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294077.ts
+#EXTINF:-1 tvg-name="PT: Hollywood [FHD]" tvg-logo="http://cc90.one/OFL5" group-title="Canais | Portugal",PT: Hollywood [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294022.ts
+#EXTINF:-1 tvg-name="PT: Investigation Discovery [FHD]" tvg-logo="http://cc90.one/OFR1" group-title="Canais | Portugal",PT: Investigation Discovery [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294078.ts
+#EXTINF:-1 tvg-name="PT: Kanuca TV [FHD]" tvg-logo="http://cc90.one/OFH6" group-title="Canais | Portugal",PT: Kanuca TV [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/293983.ts
+#EXTINF:-1 tvg-name="PT: Kombat Sport [FHD]" tvg-logo="http://cc90.one/OFS1" group-title="Canais | Portugal",PT: Kombat Sport [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294088.ts
+#EXTINF:-1 tvg-name="PT: Kuriakos Kids [FHD]" tvg-logo="http://cc90.one/OFH7" group-title="Canais | Portugal",PT: Kuriakos Kids [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/293984.ts
+#EXTINF:-1 tvg-name="PT: Kuriakos TV [FHD]" tvg-logo="http://cc90.one/OFH8" group-title="Canais | Portugal",PT: Kuriakos TV [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/293985.ts
+#EXTINF:-1 tvg-name="PT: Local visão [FHD]" tvg-logo="http://cc90.one/OFS2" group-title="Canais | Portugal",PT: Local visão [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294089.ts
+#EXTINF:-1 tvg-name="PT: MCM POP [SD]" tvg-logo="http://cc90.one/OFJ2" group-title="Canais | Portugal",PT: MCM POP [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/293999.ts
+#EXTINF:-1 tvg-name="PT: MCM TOP [HD]" tvg-logo="http://cc90.one/OFJ3" group-title="Canais | Portugal",PT: MCM TOP [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294000.ts
+#EXTINF:-1 tvg-name="PT: MEO Videoclube [SD]" tvg-logo="http://cc90.one/OFL6" group-title="Canais | Portugal",PT: MEO Videoclube [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294023.ts
+#EXTINF:-1 tvg-name="PT: Mezzo Live [HD]" tvg-logo="http://cc90.one/OFS4" group-title="Canais | Portugal",PT: Mezzo Live [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294091.ts
+#EXTINF:-1 tvg-name="PT: Mezzo [SD]" tvg-logo="http://cc90.one/OFS3" group-title="Canais | Portugal",PT: Mezzo [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294090.ts
+#EXTINF:-1 tvg-name="PT: Motorvision TV [SD]" tvg-logo="http://cc90.one/OFI9" group-title="Canais | Portugal",PT: Motorvision TV [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/293996.ts
+#EXTINF:-1 tvg-name="PT: Motorvision TV [SD]" tvg-logo="http://cc90.one/OMH4" group-title="Canais | Portugal",PT: Motorvision TV [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/295742.ts
+#EXTINF:-1 tvg-name="PT: MTV 00s [SD]" tvg-logo="http://cc90.one/OFJ4" group-title="Canais | Portugal",PT: MTV 00s [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294001.ts
+#EXTINF:-1 tvg-name="PT: MTV Classic [SD]" tvg-logo="http://cc90.one/OFJ5" group-title="Canais | Portugal",PT: MTV Classic [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294002.ts
+#EXTINF:-1 tvg-name="PT: MTV Live [FHD]" tvg-logo="http://cc90.one/OFS5" group-title="Canais | Portugal",PT: MTV Live [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294092.ts
+#EXTINF:-1 tvg-name="PT: MTV Portugal [FHD]" tvg-logo="http://cc90.one/OFJ6" group-title="Canais | Portugal",PT: MTV Portugal [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294003.ts
+#EXTINF:-1 tvg-name="PT: NAT GEO Wild [FHD]" tvg-logo="http://cc90.one/OFQ4" group-title="Canais | Portugal",PT: NAT GEO Wild [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294071.ts
+#EXTINF:-1 tvg-name="PT: NAT GEO [FHD]" tvg-logo="http://cc90.one/OFQ3" group-title="Canais | Portugal",PT: NAT GEO [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294070.ts
+#EXTINF:-1 tvg-name="PT: NBA TV [HD]" tvg-logo="http://cc90.one/OMH5" group-title="Canais | Portugal",PT: NBA TV [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/295743.ts
+#EXTINF:-1 tvg-name="PT: News Now [SD]" tvg-logo="http://cc90.one/OFS6" group-title="Canais | Portugal",PT: News Now [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294093.ts
+#EXTINF:-1 tvg-name="PT: Nick Junior [SD]" tvg-logo="http://cc90.one/OFH9" group-title="Canais | Portugal",PT: Nick Junior [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/293986.ts
+#EXTINF:-1 tvg-name="PT: nickelodeon [SD]" tvg-logo="http://cc90.one/OFI0" group-title="Canais | Portugal",PT: nickelodeon [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/293987.ts
+#EXTINF:-1 tvg-name="PT: Nos Studios [FHD]" tvg-logo="http://cc90.one/OFL7" group-title="Canais | Portugal",PT: Nos Studios [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294024.ts
+#EXTINF:-1 tvg-name="PT: Odisseia [HD]" tvg-logo="http://cc90.one/OFO0" group-title="Canais | Portugal",PT: Odisseia [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294047.ts
+#EXTINF:-1 tvg-name="PT: OPTO [FHD]" tvg-logo="http://cc90.one/OFS7" group-title="Canais | Portugal",PT: OPTO [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294094.ts
+#EXTINF:-1 tvg-name="PT: PANDA Kids [HD]" tvg-logo="http://cc90.one/OFI1" group-title="Canais | Portugal",PT: PANDA Kids [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/293988.ts
+#EXTINF:-1 tvg-name="PT: Porto Canal [FHD]" tvg-logo="http://cc90.one/OFO1" group-title="Canais | Portugal",PT: Porto Canal [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294048.ts
+#EXTINF:-1 tvg-name="PT: Record TV [SD]" tvg-logo="http://cc90.one/OFS8" group-title="Canais | Portugal",PT: Record TV [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294095.ts
+#EXTINF:-1 tvg-name="PT: RTP 1 [FHD]" tvg-logo="http://cc90.one/OFO2" group-title="Canais | Portugal",PT: RTP 1 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294049.ts
+#EXTINF:-1 tvg-name="PT: RTP 2 [HD]" tvg-logo="http://cc90.one/OFO3" group-title="Canais | Portugal",PT: RTP 2 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294050.ts
+#EXTINF:-1 tvg-name="PT: RTP 3 [HD]" tvg-logo="http://cc90.one/OFO4" group-title="Canais | Portugal",PT: RTP 3 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294051.ts
+#EXTINF:-1 tvg-name="PT: RTP Açores [SD]" tvg-logo="http://cc90.one/OFO5" group-title="Canais | Portugal",PT: RTP Açores [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294052.ts
+#EXTINF:-1 tvg-name="PT: RTP Internacional [SD]" tvg-logo="http://cc90.one/OFS9" group-title="Canais | Portugal",PT: RTP Internacional [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294096.ts
+#EXTINF:-1 tvg-name="PT: RTP Madeira [SD]" tvg-logo="http://cc90.one/OFO7" group-title="Canais | Portugal",PT: RTP Madeira [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294054.ts
+#EXTINF:-1 tvg-name="PT: RTP Memória [SD]" tvg-logo="http://cc90.one/OFO8" group-title="Canais | Portugal",PT: RTP Memória [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294055.ts
+#EXTINF:-1 tvg-name="PT: RTP África [SD]" tvg-logo="http://cc90.one/OFO6" group-title="Canais | Portugal",PT: RTP África [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294053.ts
+#EXTINF:-1 tvg-name="PT: SAUDE+ [HD]" tvg-logo="http://cc90.one/OFO9" group-title="Canais | Portugal",PT: SAUDE+ [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294056.ts
+#EXTINF:-1 tvg-name="PT: SIC Caras [FHD]" tvg-logo="http://cc90.one/OFP1" group-title="Canais | Portugal",PT: SIC Caras [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294058.ts
+#EXTINF:-1 tvg-name="PT: SIC Internacional [HD]" tvg-logo="http://cc90.one/OFT0" group-title="Canais | Portugal",PT: SIC Internacional [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294097.ts
+#EXTINF:-1 tvg-name="PT: SIC K [FHD]" tvg-logo="http://cc90.one/OFP2" group-title="Canais | Portugal",PT: SIC K [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294059.ts
+#EXTINF:-1 tvg-name="PT: SIC Kids [FHD]" tvg-logo="http://cc90.one/OFT1" group-title="Canais | Portugal",PT: SIC Kids [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294098.ts
+#EXTINF:-1 tvg-name="PT: SIC Mulher [FHD]" tvg-logo="http://cc90.one/OFL8" group-title="Canais | Portugal",PT: SIC Mulher [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294025.ts
+#EXTINF:-1 tvg-name="PT: SIC Noticias [FHD]" tvg-logo="http://cc90.one/OFK6" group-title="Canais | Portugal",PT: SIC Noticias [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294013.ts
+#EXTINF:-1 tvg-name="PT: SIC Novelas [FHD]" tvg-logo="http://cc90.one/OFT2" group-title="Canais | Portugal",PT: SIC Novelas [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294099.ts
+#EXTINF:-1 tvg-name="PT: SIC Radical [FHD]" tvg-logo="http://cc90.one/OFP3" group-title="Canais | Portugal",PT: SIC Radical [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294060.ts
+#EXTINF:-1 tvg-name="PT: SIC [FHD]" tvg-logo="http://cc90.one/OFP0" group-title="Canais | Portugal",PT: SIC [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294057.ts
+#EXTINF:-1 tvg-name="PT: SPORT TV + [FHD]" tvg-logo="http://cc90.one/OMG2" group-title="Canais | Portugal",PT: SPORT TV + [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/295730.ts
+#EXTINF:-1 tvg-name="PT: SPORT TV 1 [HD]" tvg-logo="http://cc90.one/OMG3" group-title="Canais | Portugal",PT: SPORT TV 1 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/295731.ts
+#EXTINF:-1 tvg-name="PT: SPORT TV 2 [FHD]" tvg-logo="http://cc90.one/OMG4" group-title="Canais | Portugal",PT: SPORT TV 2 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/295732.ts
+#EXTINF:-1 tvg-name="PT: SPORT TV 3 [FHD]" tvg-logo="http://cc90.one/OMG5" group-title="Canais | Portugal",PT: SPORT TV 3 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/295733.ts
+#EXTINF:-1 tvg-name="PT: SPORT TV 4 [FHD]" tvg-logo="http://cc90.one/OMG6" group-title="Canais | Portugal",PT: SPORT TV 4 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/295734.ts
+#EXTINF:-1 tvg-name="PT: SPORT TV 5 [FHD]" tvg-logo="http://cc90.one/OMG7" group-title="Canais | Portugal",PT: SPORT TV 5 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/295735.ts
+#EXTINF:-1 tvg-name="PT: SPORT TV 6 [FHD]" tvg-logo="http://cc90.one/OMG8" group-title="Canais | Portugal",PT: SPORT TV 6 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/295736.ts
+#EXTINF:-1 tvg-name="PT: SPORT TV 7 [HD]" tvg-logo="http://cc90.one/OMG9" group-title="Canais | Portugal",PT: SPORT TV 7 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/295737.ts
+#EXTINF:-1 tvg-name="PT: SPORT TV NBA [FHD]" tvg-logo="http://cc90.one/OMH0" group-title="Canais | Portugal",PT: SPORT TV NBA [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/295738.ts
+#EXTINF:-1 tvg-name="PT: SPORT.TV [FHD]" tvg-logo="http://cc90.one/OFI6" group-title="Canais | Portugal",PT: SPORT.TV [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/293993.ts
+#EXTINF:-1 tvg-name="PT: SPORT.TV [FHD]" tvg-logo="http://cc90.one/OMH1" group-title="Canais | Portugal",PT: SPORT.TV [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/295739.ts
+#EXTINF:-1 tvg-name="PT: Sporting TV [FHD]" tvg-logo="http://cc90.one/OFI7" group-title="Canais | Portugal",PT: Sporting TV [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/293994.ts
+#EXTINF:-1 tvg-name="PT: Sporting TV [FHD]" tvg-logo="http://cc90.one/OMH2" group-title="Canais | Portugal",PT: Sporting TV [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/295740.ts
+#EXTINF:-1 tvg-name="PT: STAR Channel [FHD]" tvg-logo="http://cc90.one/OFL9" group-title="Canais | Portugal",PT: STAR Channel [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294026.ts
+#EXTINF:-1 tvg-name="PT: STAR Comedy [HD]" tvg-logo="http://cc90.one/OFM0" group-title="Canais | Portugal",PT: STAR Comedy [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294027.ts
+#EXTINF:-1 tvg-name="PT: STAR Crime [FHD]" tvg-logo="http://cc90.one/OFM1" group-title="Canais | Portugal",PT: STAR Crime [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294028.ts
+#EXTINF:-1 tvg-name="PT: STAR Life [FHD]" tvg-logo="http://cc90.one/OFM2" group-title="Canais | Portugal",PT: STAR Life [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294029.ts
+#EXTINF:-1 tvg-name="PT: STAR Movies [FHD]" tvg-logo="http://cc90.one/OFM3" group-title="Canais | Portugal",PT: STAR Movies [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294030.ts
+#EXTINF:-1 tvg-name="PT: Stingray CMusic [SD]" tvg-logo="http://cc90.one/OFT3" group-title="Canais | Portugal",PT: Stingray CMusic [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294100.ts
+#EXTINF:-1 tvg-name="PT: Stingray Retro [SD]" tvg-logo="http://cc90.one/OFT4" group-title="Canais | Portugal",PT: Stingray Retro [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294101.ts
+#EXTINF:-1 tvg-name="PT: SYFY Portugal [FHD]" tvg-logo="http://cc90.one/OFM4" group-title="Canais | Portugal",PT: SYFY Portugal [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294031.ts
+#EXTINF:-1 tvg-name="PT: TCV Internacional [SD]" tvg-logo="http://cc90.one/OFT5" group-title="Canais | Portugal",PT: TCV Internacional [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294102.ts
+#EXTINF:-1 tvg-name="PT: TLC [SD]" tvg-logo="http://cc90.one/OFP4" group-title="Canais | Portugal",PT: TLC [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294061.ts
+#EXTINF:-1 tvg-name="PT: TOROS [HD]" tvg-logo="http://cc90.one/OFT6" group-title="Canais | Portugal",PT: TOROS [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294103.ts
+#EXTINF:-1 tvg-name="PT: TPA Notícias [SD]" tvg-logo="http://cc90.one/OFT7" group-title="Canais | Portugal",PT: TPA Notícias [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294104.ts
+#EXTINF:-1 tvg-name="PT: Trace Brasil [HD]" tvg-logo="http://cc90.one/OFJ7" group-title="Canais | Portugal",PT: Trace Brasil [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294004.ts
+#EXTINF:-1 tvg-name="PT: Trace Latina [HD]" tvg-logo="http://cc90.one/OFJ8" group-title="Canais | Portugal",PT: Trace Latina [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294005.ts
+#EXTINF:-1 tvg-name="PT: Trace Toca [SD]" tvg-logo="http://cc90.one/OFJ9" group-title="Canais | Portugal",PT: Trace Toca [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294006.ts
+#EXTINF:-1 tvg-name="PT: Trace Urban [SD]" tvg-logo="http://cc90.one/OFK0" group-title="Canais | Portugal",PT: Trace Urban [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294007.ts
+#EXTINF:-1 tvg-name="PT: Travel Channel [HD]" tvg-logo="http://cc90.one/OFP5" group-title="Canais | Portugal",PT: Travel Channel [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294062.ts
+#EXTINF:-1 tvg-name="PT: Travelxp [FHD]" tvg-logo="http://cc90.one/OFP6" group-title="Canais | Portugal",PT: Travelxp [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294063.ts
+#EXTINF:-1 tvg-name="PT: TV Mana 1 [HD]" tvg-logo="http://cc90.one/OFP7" group-title="Canais | Portugal",PT: TV Mana 1 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294064.ts
+#EXTINF:-1 tvg-name="PT: TVCine Action [HD]" tvg-logo="http://cc90.one/OFM5" group-title="Canais | Portugal",PT: TVCine Action [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294032.ts
+#EXTINF:-1 tvg-name="PT: TVCine Edition [FHD]" tvg-logo="http://cc90.one/OFM6" group-title="Canais | Portugal",PT: TVCine Edition [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294033.ts
+#EXTINF:-1 tvg-name="PT: TVCine Emotion [FHD]" tvg-logo="http://cc90.one/OFM7" group-title="Canais | Portugal",PT: TVCine Emotion [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294034.ts
+#EXTINF:-1 tvg-name="PT: TVCine Top [FHD]" tvg-logo="http://cc90.one/OFM8" group-title="Canais | Portugal",PT: TVCine Top [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294035.ts
+#EXTINF:-1 tvg-name="PT: TVI Ficção [FHD]" tvg-logo="http://cc90.one/OFP8" group-title="Canais | Portugal",PT: TVI Ficção [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294065.ts
+#EXTINF:-1 tvg-name="PT: TVI Reality [FHD]" tvg-logo="http://cc90.one/OFP9" group-title="Canais | Portugal",PT: TVI Reality [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294066.ts
+#EXTINF:-1 tvg-name="PT: TVI [FHD]" tvg-logo="http://cc90.one/OFK7" group-title="Canais | Portugal",PT: TVI [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294014.ts
+#EXTINF:-1 tvg-name="PT: V+ TVI [FHD]" tvg-logo="http://cc90.one/OFQ0" group-title="Canais | Portugal",PT: V+ TVI [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/294067.ts
+#EXTINF:-1 tvg-name="PT: W-Sport [FHD]" tvg-logo="http://cc90.one/OFI8" group-title="Canais | Portugal",PT: W-Sport [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/293995.ts
+#EXTINF:-1 tvg-name="PT: W-Sport [FHD]" tvg-logo="http://cc90.one/OMH3" group-title="Canais | Portugal",PT: W-Sport [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nandovip.xyz:80/andressabarbicha/andressabarbicha/295741.ts
