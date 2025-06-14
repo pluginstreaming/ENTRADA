@@ -1,78 +1,23 @@
-<channel>
-    <name>Esportes</name>
-    <fanart>https://baf-qrcode.b-cdn.net/FOTO_INFORMACOES_ESP_FULL_1920x1080.jpg</fanart>
+<tv>
+    <channel id="golfchannelhd">
+        <display-name>GOLF CHANNEL HD</display-name>
+        <logo>https://i.imgur.com/HFEKsAc.png</logo>
+        <fanart>https://baf-qrcode.b-cdn.net/FOTO_INFORMACOES_ESP_FULL_1920x1080.jpg</fanart>
+    </channel>
+    <channel id="golfchannelfhdh264">
+        <display-name>GOLF CHANNEL FHD H264</display-name>
+        <logo>https://i.imgur.com/HFEKsAc.png</logo>
+        <fanart>https://baf-qrcode.b-cdn.net/FOTO_INFORMACOES_ESP_FULL_1920x1080.jpg</fanart>
+    </channel>
 
-    <item>
-        <title>Band Sports FHD</title>
-        <link>http://t5dx.in:80/029911/007404/1696415.ts|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Referer=http://painel.com
-</link>
-        <thumbnail>http://97j91.xyz/images/logos/89c82ac7b48190d42c202057b99b354b.png</thumbnail>
-    </item>
-
-    <item>
-        <title>Band Sports FHD²</title>
-        <link>http://t5dx.in:80/029911/007404/1697848.ts</link>
-        <thumbnail>https://imagizer.imageshack.com/v2/100x75q90/924/WHWkVN.png</thumbnail>
-    </item>
-
-    <item>
-        <title>Band Sports HD</title>
-        <link>http://t5dx.in:80/029911/007404/1696416.ts</link>
-        <thumbnail>http://97j91.xyz/images/logos/89c82ac7b48190d42c202057b99b354b.png</thumbnail>
-    </item>
-
-    <item>
-        <title>Band Sports HD²</title>
-        <link>http://t5dx.in:80/029911/007404/1697849.ts</link>
-        <thumbnail>https://imagizer.imageshack.com/v2/100x75q90/924/WHWkVN.png</thumbnail>
-    </item>
-
-    <item>
-        <title>Band Sports SD</title>
-        <link>http://t5dx.in:80/029911/007404/1696417.ts</link>
-        <thumbnail>http://97j91.xyz/images/logos/89c82ac7b48190d42c202057b99b354b.png</thumbnail>
-    </item>
-
-    <item>
-        <title>Band Sports SD²</title>
-        <link>http://t5dx.in:80/029911/007404/1697850.ts</link>
-        <thumbnail>https://imagizer.imageshack.com/v2/100x75q90/924/WHWkVN.png</thumbnail>
-    </item>
-
-    <item>
-        <title>Combate FHD</title>
-        <link>http://t5dx.in:80/029911/007404/1696418.ts</link>
-        <thumbnail>http://97j91.xyz/images/logos/Premiere_combate.png</thumbnail>
-    </item>
-
-    <item>
-        <title>Combate FHD²</title>
-        <link>http://t5dx.in:80/029911/007404/1697851.ts</link>
-        <thumbnail>https://imagizer.imageshack.com/img923/8510/tM7GEt.png</thumbnail>
-    </item>
-
-    <item>
-        <title>Combate HD</title>
-        <link>http://t5dx.in:80/029911/007404/1696419.ts</link>
-        <thumbnail>http://97j91.xyz/images/logos/Premiere_combate.png</thumbnail>
-    </item>
-
-    <item>
-        <title>Combate HD²</title>
-        <link>http://t5dx.in:80/029911/007404/1697852.ts</link>
-        <thumbnail>https://imagizer.imageshack.com/img923/8510/tM7GEt.png</thumbnail>
-    </item>
-
-    <item>
-        <title>Combate SD</title>
-        <link>http://t5dx.in:80/029911/007404/1696420.ts</link>
-        <thumbnail>http://97j91.xyz/images/logos/Premiere_combate.png</thumbnail>
-    </item>
-
-    <item>
-        <title>Combate SD²</title>
-        <link>http://t5dx.in:80/029911/007404/1697853.ts</link>
-        <thumbnail>https://imagizer.imageshack.com/img923/8510/tM7GEt.png</thumbnail>
-    </item>
-
-</channel>
+    <programme start="20250614160000 +0000" channel="golfchannelhd">
+        <title>GOLF CHANNEL HD</title>
+        <desc>Transmissão ao vivo do Golf Channel HD.</desc>
+        <icon src="https://i.imgur.com/HFEKsAc.png"/>
+    </programme>
+    <programme start="20250614160000 +0000" channel="golfchannelfhdh264">
+        <title>GOLF CHANNEL FHD H264</title>
+        <desc>Transmissão ao vivo do Golf Channel em Full HD H264.</desc>
+        <icon src="https://i.imgur.com/HFEKsAc.png"/>
+    </programme>
+</tv>
