@@ -1,8 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-name="JOGOS DE HOJE" tvg-logo="https://i.postimg.cc/cHHX4vYD/canal-futebol.png" ,JOGOS DE HOJE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://spvivofibra.uk:80/5sdctvy8p3/elc60vyyc9/339310
+
 #EXTINF:-1 tvg-name="GOLF CHANNEL HD" tvg-logo="https://i.imgur.com/HFEKsAc.png" group-title="PLUGINSTREAMING PAY PER VIEW",GOLF CHANNEL HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=https://ncplay.fun:443/8384129342/1905233721/4720066
 #EXTINF:-1 tvg-name="GOLF CHANNEL FHD H264" tvg-logo="https://i.imgur.com/HFEKsAc.png" group-title="PLUGINSTREAMING PAY PER VIEW",GOLF CHANNEL FHD H264
