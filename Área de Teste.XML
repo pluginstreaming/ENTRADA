@@ -3,16 +3,1012 @@
 
 
 
-#EXTINF:-1 tvg-name="RUN-TIME AÇAO" tvg-logo="https://img.inboxbr.pro/icones_channels/runtime_br_action_bg.png" ,RUN-TIME AÇAO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/446995713/137514716/4231800
-#EXTINF:-1 tvg-name="RUN-TIME CRIME" tvg-logo="https://img.inboxbr.pro/icones_channels/runtime_crime_16x9_1.png" ,RUN-TIME CRIME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/446995713/137514716/4231801
-#EXTINF:-1 tvg-name="RUN-TIME CÓMEDIA" tvg-logo="https://img.inboxbr.pro/icones_channels/br_comedy_bg.png" ,RUN-TIME CÓMEDIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/446995713/137514716/4231802
-#EXTINF:-1 tvg-name="RUN-TIME FAMILIA" tvg-logo="https://img.inboxbr.pro/icones_channels/runtime_familia_16x9_3_0.png" ,RUN-TIME FAMILIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/446995713/137514716/4231803
-#EXTINF:-1 tvg-name="RUN-TIME ROMANCE" tvg-logo="https://img.inboxbr.pro/icones_channels/runtime_romance_16x9_2.png" ,RUN-TIME ROMANCE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/446995713/137514716/4231804
-#EXTINF:-1 tvg-name="RUN-TIME TV & FILMES" tvg-logo="https://img.inboxbr.pro/icones_channels/runtime_br_1920x1080_0.png" ,RUN-TIME TV & FILMES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/446995713/137514716/4231805
+#EXTINF:-1 tvg-name="A Ilha dos Ilús (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xIDEsu5ZZ7H6i5f1bJKaMzg9V2E.jpg" group-title="INFANTIS PLUGINSTREAMING",A Ilha dos Ilús (2023)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/4230045.mp4
+#EXTINF:-1 tvg-name="O Rei Leão (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8aIvm8OaJISOpVTt7rMIh7X35G5.jpg" group-title="INFANTIS PLUGINSTREAMING",O Rei Leão (1994)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3952415.mp4
+#EXTINF:-1 tvg-name="Pikachu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/je9xT4SPYaJ5Z9tsd4TjDSYoCWS.jpg" group-title="INFANTIS PLUGINSTREAMING",Pikachu
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3950565.mp4
+#EXTINF:-1 tvg-name="Hellboy Animated: O Espírito de Fantasma (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/je9xT4SPYaJ5Z9tsd4TjDSYoCWS.jpg" group-title="INFANTIS PLUGINSTREAMING",Hellboy Animated: O Espírito de Fantasma (2007)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3950564.mp4
+#EXTINF:-1 tvg-name="Um Panda em Apuros 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4EpxPtKZf0fTnjHE4oIxOJwvKx.jpg" group-title="INFANTIS PLUGINSTREAMING",Um Panda em Apuros 2 (2022)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3949163.mp4
+#EXTINF:-1 tvg-name="Kayara - A Princesa Inca (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1F9XXHadJR2as6YAi9hkG6bkDEE.jpg" group-title="INFANTIS PLUGINSTREAMING",Kayara - A Princesa Inca (2025)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3948120.mp4
+#EXTINF:-1 tvg-name="A Princesa Xuxa e os Trapalhões (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvW79AumK2Y8Kom68pDp9yrzGgj.jpg" group-title="INFANTIS PLUGINSTREAMING",A Princesa Xuxa e os Trapalhões (1989)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3947721.mp4
+#EXTINF:-1 tvg-name="O Universo de Oliver (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oiMmOzeRh5miENfdxGmpdT8ZMai.jpg" group-title="INFANTIS PLUGINSTREAMING",O Universo de Oliver (2022)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3946756.mp4
+#EXTINF:-1 tvg-name="Moana 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1NUWVjoKzWzOdGE01NHquyubkx.jpg" group-title="INFANTIS PLUGINSTREAMING",Moana 2 (2024)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3728418.mp4
+#EXTINF:-1 tvg-name="Chico Bento e a Goiabeira Maraviosa (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2K7Zhw9yRjzoa4HBbrjt7aqlgT.jpg" group-title="INFANTIS PLUGINSTREAMING",Chico Bento e a Goiabeira Maraviosa (2025)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3728402.mkv
+#EXTINF:-1 tvg-name="O Grinch [Filme] (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vDtJA6DdwLpwoV60rKLWOCt63gK.jpg" group-title="INFANTIS PLUGINSTREAMING",O Grinch [Filme] (2000)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3728346.mp4
+#EXTINF:-1 tvg-name="Slime - Uma Aventura Pegajosa 2 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqVybeRgb6V7MxcQvHAu4yOVWbs.jpg" group-title="INFANTIS PLUGINSTREAMING",Slime - Uma Aventura Pegajosa 2 (2021)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3490712.mp4
+#EXTINF:-1 tvg-name="Peça por Peça (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVyWW9HhYXui6SjF4cTDUPDYCIz.jpg" group-title="INFANTIS PLUGINSTREAMING",Peça por Peça (2024)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3484433.mp4
+#EXTINF:-1 tvg-name="Trolls (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVbNDmPrbnfgINfEoAMx41N7IfH.jpg" group-title="INFANTIS PLUGINSTREAMING",Trolls (2016)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045732.mp4
+#EXTINF:-1 tvg-name="Scooby-Doo! Halloween (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hGtLCW4JGqpa8u3j4Ct89LjChz.jpg" group-title="INFANTIS PLUGINSTREAMING",Scooby-Doo! Halloween (2020)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045731.mp4
+#EXTINF:-1 tvg-name="Todos os Cães Merecem o Céu 2 (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Am8Tjc2ku1M7HcZ0Yyi2mylVgw.jpg" group-title="INFANTIS PLUGINSTREAMING",Todos os Cães Merecem o Céu 2 (1996)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045730.mp4
+#EXTINF:-1 tvg-name="Steamboy (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qXKIprtcRR5iyqycPg2OyW8S4b.jpg" group-title="INFANTIS PLUGINSTREAMING",Steamboy (2004)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045729.mp4
+#EXTINF:-1 tvg-name="O Reino Gelado: A Terra dos Espelhos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9o9YYuS1MKv1jsYu47hnWqqkC3.jpg" group-title="INFANTIS PLUGINSTREAMING",O Reino Gelado: A Terra dos Espelhos (2018)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045728.mp4
+#EXTINF:-1 tvg-name="Pets: A Vida Secreta dos Bichos (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xKpQ8fDDu1qCvBl5bF2vpsZPSUj.jpg" group-title="INFANTIS PLUGINSTREAMING",Pets: A Vida Secreta dos Bichos (2016)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045726.mp4
+#EXTINF:-1 tvg-name="Os Vilões da Disney (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oV6q3SbgVjRD5Dhzo3lYx7viqUQ.jpg" group-title="INFANTIS PLUGINSTREAMING",Os Vilões da Disney (2001)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045725.mp4
+#EXTINF:-1 tvg-name="O Serviço de Entregas da Kiki (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h2zP9prETqeB8kSQDy46Z6UHzFE.jpg" group-title="INFANTIS PLUGINSTREAMING",O Serviço de Entregas da Kiki (1989)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045723.mp4
+#EXTINF:-1 tvg-name="Yu-Gi-Oh! O Lado Negro das Dimensões (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8srHmjvcNcPHzEUr67Qbi3JpFGZ.jpg" group-title="INFANTIS PLUGINSTREAMING",Yu-Gi-Oh! O Lado Negro das Dimensões (2016)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045722.mp4
+#EXTINF:-1 tvg-name="Um Time Show de Bola (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JexevmMkDLaRTa8JalJt7UIlue.jpg" group-title="INFANTIS PLUGINSTREAMING",Um Time Show de Bola (2013)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045721.mp4
+#EXTINF:-1 tvg-name="O Poderoso Chefinho 2: Negócios da Família (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2wBy31OCllFS1pSHkTnInxoHXOX.jpg" group-title="INFANTIS PLUGINSTREAMING",O Poderoso Chefinho 2: Negócios da Família (2021)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045720.mp4
+#EXTINF:-1 tvg-name="Vic o Viking e a Espada Mágica (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sIUT0MsCzjPJyArJyu9uJiKa0v4.jpg" group-title="INFANTIS PLUGINSTREAMING",Vic o Viking e a Espada Mágica (2019)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045719.mp4
+#EXTINF:-1 tvg-name="Violet Evergarden: O Filme (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mpNG6z33xOtUWuOU83BE0bvorxi.jpg" group-title="INFANTIS PLUGINSTREAMING",Violet Evergarden: O Filme (2020)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045718.mp4
+#EXTINF:-1 tvg-name="Os Smurfs e a Flauta Mágica (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHMA03s2zf9SWjNsdYfNKZkZOoI.jpg" group-title="INFANTIS PLUGINSTREAMING",Os Smurfs e a Flauta Mágica (1976)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045717.mp4
+#EXTINF:-1 tvg-name="Procurando Dory (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MOyKnmtE2hd778bIybw9v8HkiP.jpg" group-title="INFANTIS PLUGINSTREAMING",Procurando Dory (2016)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045716.mp4
+#EXTINF:-1 tvg-name="Sapatinho Vermelho e os Sete Anões (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9bEhjyNgn2sh6zGB0Zo1QguA7w.jpg" group-title="INFANTIS PLUGINSTREAMING",Sapatinho Vermelho e os Sete Anões (2019)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045714.mp4
+#EXTINF:-1 tvg-name="Shrek Terceiro (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abw1mIJIjG9X3xSEffE9siLcOkN.jpg" group-title="INFANTIS PLUGINSTREAMING",Shrek Terceiro (2007)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045713.mp4
+#EXTINF:-1 tvg-name="Palavras que Borbulham como Refrigerante (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3SUwBkn5Sh7UEOwNQG55um8aq89.jpg" group-title="INFANTIS PLUGINSTREAMING",Palavras que Borbulham como Refrigerante (2021)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045712.mp4
+#EXTINF:-1 tvg-name="Zumbilênio: O Parque dos Monstros (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w2HamcBWs8Uv2Xgt2nNPlOtyczU.jpg" group-title="INFANTIS PLUGINSTREAMING",Zumbilênio: O Parque dos Monstros (2017)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045711.mp4
+#EXTINF:-1 tvg-name="Toy Story 2 (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjzb9ojVSEw9vg5kp22ijPKXyMF.jpg" group-title="INFANTIS PLUGINSTREAMING",Toy Story 2 (1999)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045710.mp4
+#EXTINF:-1 tvg-name="Tinker Bell e o Resgate da Fada (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yY69Kxm9QP9mHL9Awswxgqr3q1C.jpg" group-title="INFANTIS PLUGINSTREAMING",Tinker Bell e o Resgate da Fada (2010)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045709.mp4
+#EXTINF:-1 tvg-name="Um Lobo em Pele de Cordeiro (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCy1aWSMUm5dQpEzPfGJ4lPDNVe.jpg" group-title="INFANTIS PLUGINSTREAMING",Um Lobo em Pele de Cordeiro (2016)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045708.mp4
+#EXTINF:-1 tvg-name="Tom & Jerry: O Filme (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NvYyM8H6d5KAVGqpyFV9YPO5cU.jpg" group-title="INFANTIS PLUGINSTREAMING",Tom & Jerry: O Filme (2021)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045707.mp4
+#EXTINF:-1 tvg-name="Um Panda em Apuros (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iuXko1729KGWPijKf2tOie2MBk.jpg" group-title="INFANTIS PLUGINSTREAMING",Um Panda em Apuros (2019)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045704.mp4
+#EXTINF:-1 tvg-name="É o Bicho! (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oNjj2sW0zpg5aa8bzsv8HDxmDPs.jpg" group-title="INFANTIS PLUGINSTREAMING",É o Bicho! (2017)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045692.mp4
+#EXTINF:-1 tvg-name="Toy Story 3 (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg" group-title="INFANTIS PLUGINSTREAMING",Toy Story 3 (2010)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045705.mp4
+#EXTINF:-1 tvg-name="Bob Esponja: Um Herói Fora D'Água (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xpJyqKVz2RDegkXplyRweJM7ZR.jpg" group-title="INFANTIS PLUGINSTREAMING",Bob Esponja: Um Herói Fora D'Água (2015)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045700.mp4
+#EXTINF:-1 tvg-name="Zootopia 2 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ieaBcDSZBZZY4imyEJmMOdSCeo3.jpg" group-title="INFANTIS PLUGINSTREAMING",Zootopia 2 (2025)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045699.mp4
+#EXTINF:-1 tvg-name="Uma Floresta Muito Louca (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GpMbVpbBSCH7eDDRKUQDMtvYX4.jpg" group-title="INFANTIS PLUGINSTREAMING",Uma Floresta Muito Louca (2017)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045698.mp4
+#EXTINF:-1 tvg-name="WALL-E (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkpbPp3vrHfYNDrD6xHDfO6YKyQ.jpg" group-title="INFANTIS PLUGINSTREAMING",WALL-E (2008)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045697.mp4
+#EXTINF:-1 tvg-name="Zé Colmeia: O Filme (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJznQfkWmN8MDnOvwxrt1UOnEAG.jpg" group-title="INFANTIS PLUGINSTREAMING",Zé Colmeia: O Filme (2010)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045703.mp4
+#EXTINF:-1 tvg-name="Trolls 2 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/paaMwl91E8rZPs9MMGLqp7iaF3H.jpg" group-title="INFANTIS PLUGINSTREAMING",Trolls 2 (2020)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045701.mp4
+#EXTINF:-1 tvg-name="Frangoelho e o Hamster das Trevas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIzqgCqKh69G95HDB9LWTLnLT8H.jpg" group-title="INFANTIS PLUGINSTREAMING",Frangoelho e o Hamster das Trevas (2022)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045715.mp4
+#EXTINF:-1 tvg-name="Wolfwalkers (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCa0yDjBb6zHgy2dhbud9mfsTLK.jpg" group-title="INFANTIS PLUGINSTREAMING",Wolfwalkers (2020)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045694.mp4
+#EXTINF:-1 tvg-name="Vida de Inseto (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKTJe3KGA2BHdHl9USjjCWZ3U5a.jpg" group-title="INFANTIS PLUGINSTREAMING",Vida de Inseto (1998)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045693.mp4
+#EXTINF:-1 tvg-name="Uma Família Feliz (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cgL3n62QkoXNbYymgeb4ZAtged.jpg" group-title="INFANTIS PLUGINSTREAMING",Uma Família Feliz (2024)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045691.mp4
+#EXTINF:-1 tvg-name="Tinker Bell: Fadas e Piratas (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2wnJj5SPmR70o6YK3m31SnOT33.jpg" group-title="INFANTIS PLUGINSTREAMING",Tinker Bell: Fadas e Piratas (2014)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045690.mp4
+#EXTINF:-1 tvg-name="Xico" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2wnJj5SPmR70o6YK3m31SnOT33.jpg" group-title="INFANTIS PLUGINSTREAMING",Xico
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045689.mp4
+#EXTINF:-1 tvg-name="Todos os Cães Merecem o Céu (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/akkIedKj4cnAc3c4L8wxIbu0uOK.jpg" group-title="INFANTIS PLUGINSTREAMING",Todos os Cães Merecem o Céu (1989)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045657.mp4
+#EXTINF:-1 tvg-name="Zathura: Uma Aventura Espacial (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ufvBPlygnMSjjbv62ufRR6EKwdZ.jpg" group-title="INFANTIS PLUGINSTREAMING",Zathura: Uma Aventura Espacial (2005)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045656.mp4
+#EXTINF:-1 tvg-name="Em Busca do Vale Encantado III: A Época da Grande Partilha (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0M9VrgfnTfCkYZXRYxKvrOWIWN.jpg" group-title="INFANTIS PLUGINSTREAMING",Em Busca do Vale Encantado III: A Época da Grande Partilha (1995)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045696.mp4
+#EXTINF:-1 tvg-name="Reino Escondido (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pwtlAQWMXLosi1gLBbdBqy5VT76.jpg" group-title="INFANTIS PLUGINSTREAMING",Reino Escondido (2013)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045686.mp4
+#EXTINF:-1 tvg-name="Soul (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzDAfXoqNAvWUe7uss2NE3BmRqy.jpg" group-title="INFANTIS PLUGINSTREAMING",Soul (2020)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045683.mp4
+#EXTINF:-1 tvg-name="Tinker Bell: O Segredo das Fadas (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a4XtmRHjpcN8r4ZUn7g3kGEE3F4.jpg" group-title="INFANTIS PLUGINSTREAMING",Tinker Bell: O Segredo das Fadas (2012)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045681.mp4
+#EXTINF:-1 tvg-name="Viva (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3PCUWfSEh8Oz1Ld2onU3d0yvcg.jpg" group-title="INFANTIS PLUGINSTREAMING",Viva (2015)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045680.mp4
+#EXTINF:-1 tvg-name="Gnomeu e Julieta: O Mistério do Jardim (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epvRtYmscoCPEQ4DLtzr2o6TuL1.jpg" group-title="INFANTIS PLUGINSTREAMING",Gnomeu e Julieta: O Mistério do Jardim (2018)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045679.mp4
+#EXTINF:-1 tvg-name="Tom & Jerry: Aventura com o Gigante (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7jAuWL84wwgu8Mks8sJOiC1MpRC.jpg" group-title="INFANTIS PLUGINSTREAMING",Tom & Jerry: Aventura com o Gigante (2013)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045678.mp4
+#EXTINF:-1 tvg-name="Supervilões (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3PAdKFvUP7iTjGAR0U4yP6xNtqe.jpg" group-title="INFANTIS PLUGINSTREAMING",Supervilões (2018)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045677.mp4
+#EXTINF:-1 tvg-name="Shopkins: Aventura Selvagem (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6SuXzWrfX5OmSznf3J175DG5X7.jpg" group-title="INFANTIS PLUGINSTREAMING",Shopkins: Aventura Selvagem (2018)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045674.mp4
+#EXTINF:-1 tvg-name="O Reino do Rei Pena (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFitc3XRTlEgXEk4nCasKOdL181.jpg" group-title="INFANTIS PLUGINSTREAMING",O Reino do Rei Pena (2014)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045673.mp4
+#EXTINF:-1 tvg-name="O Show da Luna: Bichos na Fazenda (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bbECz3sNhmj3eSzBVtj13CnZ5e4.jpg" group-title="INFANTIS PLUGINSTREAMING",O Show da Luna: Bichos na Fazenda (2019)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045672.mp4
+#EXTINF:-1 tvg-name="Os Rugrats e os Thornberrys Vão Aprontar (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDG9GLILtQz0rA8nwIH7aVCrqw0.jpg" group-title="INFANTIS PLUGINSTREAMING",Os Rugrats e os Thornberrys Vão Aprontar (2003)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045670.mp4
+#EXTINF:-1 tvg-name="O Rei Leão (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrHr8eEJYDAA7WYybyH162s4oZ4.jpg" group-title="INFANTIS PLUGINSTREAMING",O Rei Leão (2019)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045669.mp4
+#EXTINF:-1 tvg-name="Olhos de Gato (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoMN4exFcNZNCpTLCzv3IP6xULV.jpg" group-title="INFANTIS PLUGINSTREAMING",Olhos de Gato (2020)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045668.mp4
+#EXTINF:-1 tvg-name="Pokémon: Giratina e o Cavaleiro do Céu (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWb8LkgBcobNi6azuACIFDNJzmU.jpg" group-title="INFANTIS PLUGINSTREAMING",Pokémon: Giratina e o Cavaleiro do Céu (2008)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045667.mp4
+#EXTINF:-1 tvg-name="Pateta: O Filme (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5L1wXw5p0EmqPMkZpwjaB5A1nVD.jpg" group-title="INFANTIS PLUGINSTREAMING",Pateta: O Filme (1995)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045666.mp4
+#EXTINF:-1 tvg-name="Ratatouille (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKxcKosRU4FEIeg9vtklDvIfVFv.jpg" group-title="INFANTIS PLUGINSTREAMING",Ratatouille (2007)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045665.mp4
+#EXTINF:-1 tvg-name="WiFi Ralph: Quebrando a Internet (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8aaXBBT5Hwo7Oab8wyNyoN7z7mg.jpg" group-title="INFANTIS PLUGINSTREAMING",WiFi Ralph: Quebrando a Internet (2018)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045664.mp4
+#EXTINF:-1 tvg-name="Toy Story: Um Mundo de Aventuras (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AptcisAVyZqBllXLEGje8MjKzJI.jpg" group-title="INFANTIS PLUGINSTREAMING",Toy Story: Um Mundo de Aventuras (1995)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045663.mp4
+#EXTINF:-1 tvg-name="Toy Story 4 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/csiyO6q8rR74pfgJDjwINzhoick.jpg" group-title="INFANTIS PLUGINSTREAMING",Toy Story 4 (2019)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045662.mp4
+#EXTINF:-1 tvg-name="Sing (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/26lQ3OJqv5NRDpd38eU54zAfLxr.jpg" group-title="INFANTIS PLUGINSTREAMING",Sing (1989)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045661.mp4
+#EXTINF:-1 tvg-name="Space Jam: Um Novo Legado (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itN4fscYy1hIQy5lSdv44SddsoG.jpg" group-title="INFANTIS PLUGINSTREAMING",Space Jam: Um Novo Legado (2021)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045660.mp4
+#EXTINF:-1 tvg-name="Toy Story de Terror (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l322MKyX8QDXd0ndsXKf8YObfl2.jpg" group-title="INFANTIS PLUGINSTREAMING",Toy Story de Terror (2013)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045655.mp4
+#EXTINF:-1 tvg-name="Um Lobo em Pele de Cordeiro 2 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kettRut0IDbza6YrpiedssWbWxc.jpg" group-title="INFANTIS PLUGINSTREAMING",Um Lobo em Pele de Cordeiro 2 (2019)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045653.mp4
+#EXTINF:-1 tvg-name="Rango (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5kYzP2hljfdooEzl1lskWn7yoj.jpg" group-title="INFANTIS PLUGINSTREAMING",Rango (2011)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045652.mp4
+#EXTINF:-1 tvg-name="Tinker Bell e o Monstro da Terra do Nunca (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwv9AdjVlr0LBsNAPpk2LllJqAd.jpg" group-title="INFANTIS PLUGINSTREAMING",Tinker Bell e o Monstro da Terra do Nunca (2014)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045650.mp4
+#EXTINF:-1 tvg-name="Valentina Despertando Para Os Sonhos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lPslknj3CohVLrKwElVJwRvafPe.jpg" group-title="INFANTIS PLUGINSTREAMING",Valentina Despertando Para Os Sonhos (2021)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045649.mp4
+#EXTINF:-1 tvg-name="Up: Altas Aventuras (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEc9bNtbeCP1Xf9Z6xhU62rqtYe.jpg" group-title="INFANTIS PLUGINSTREAMING",Up: Altas Aventuras (2009)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045648.mp4
+#EXTINF:-1 tvg-name="Turbo (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6GdF5hcnsU5IwaRhyhnysNy5hO.jpg" group-title="INFANTIS PLUGINSTREAMING",Turbo (2013)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045645.mp4
+#EXTINF:-1 tvg-name="O Que Será de Nozes 2 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYdF23DN5K9enPqF6VlihO0aMJY.jpg" group-title="INFANTIS PLUGINSTREAMING",O Que Será de Nozes 2 (2017)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045643.mp4
+#EXTINF:-1 tvg-name="Universidade Monstros (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRNSCtyFGspt1iVKWzQZ9sJiTYW.jpg" group-title="INFANTIS PLUGINSTREAMING",Universidade Monstros (2013)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045639.mp4
+#EXTINF:-1 tvg-name="Pinóquio (1940)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJTpz9LJFmDflvibkY2Y7IFOGua.jpg" group-title="INFANTIS PLUGINSTREAMING",Pinóquio (1940)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045636.mp4
+#EXTINF:-1 tvg-name="Planeta do Tesouro (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GJnKM1CLylmp8phkyiITiwu7L.jpg" group-title="INFANTIS PLUGINSTREAMING",Planeta do Tesouro (2002)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045635.mp4
+#EXTINF:-1 tvg-name="Os Simpsons: O Bem, o Bart e o Loki (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hO4RYsWZqP7U9ikLZquJAB3oSH.jpg" group-title="INFANTIS PLUGINSTREAMING", o Bart e o Loki (2021)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045634.mp4
+#EXTINF:-1 tvg-name="Shrek 2 (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHeyupQEoDUdNfppQDl6LQcncUK.jpg" group-title="INFANTIS PLUGINSTREAMING",Shrek 2 (2004)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045633.mp4
+#EXTINF:-1 tvg-name="Sinbad (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m01y1AQieKorJA6hR8NO2RKxrtV.jpg" group-title="INFANTIS PLUGINSTREAMING",Sinbad (1992)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045632.mp4
+#EXTINF:-1 tvg-name="O Natal de Charlie Brown (1965)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ft7y7pAhyHT0GoA5d4CDI33J8Zl.jpg" group-title="INFANTIS PLUGINSTREAMING",O Natal de Charlie Brown (1965)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045631.mp4
+#EXTINF:-1 tvg-name="Pokémon 4: Viajantes do Tempo (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKFaC1fj4hzEOrMzvIYuuZyCTx8.jpg" group-title="INFANTIS PLUGINSTREAMING",Pokémon 4: Viajantes do Tempo (2001)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045630.mp4
+#EXTINF:-1 tvg-name="Pateta: O Filme (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5L1wXw5p0EmqPMkZpwjaB5A1nVD.jpg" group-title="INFANTIS PLUGINSTREAMING",Pateta: O Filme (1995)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045629.mp4
+#EXTINF:-1 tvg-name="The Jungle Book: Return 2 the Jungle (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZRKTx2wjRMM5UEn61nzyPrTd6d.jpg" group-title="INFANTIS PLUGINSTREAMING",The Jungle Book: Return 2 the Jungle (2013)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045628.mp4
+#EXTINF:-1 tvg-name="Pokémon 7: Alma Gêmea (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/plDxcsCB5muct8j88GCgC2FII7T.jpg" group-title="INFANTIS PLUGINSTREAMING",Pokémon 7: Alma Gêmea (2004)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045627.mp4
+#EXTINF:-1 tvg-name="Pateta 2: Radicalmente Pateta (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6R9fbKe3A3cyVdNO9G1HPtysFrH.jpg" group-title="INFANTIS PLUGINSTREAMING",Pateta 2: Radicalmente Pateta (2000)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045626.mp4
+#EXTINF:-1 tvg-name="Trolls: Vamos Festejar (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPMRsLakrUzyD4NFs5faJCtyCHM.jpg" group-title="INFANTIS PLUGINSTREAMING",Trolls: Vamos Festejar (2017)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045625.mp4
+#EXTINF:-1 tvg-name="Shrek (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg" group-title="INFANTIS PLUGINSTREAMING",Shrek (2001)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045624.mp4
+#EXTINF:-1 tvg-name="Pokémon: Arceus e a Jóia da Vida (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pzqwhVEaBDKPbfici20mTXMQY5D.jpg" group-title="INFANTIS PLUGINSTREAMING",Pokémon: Arceus e a Jóia da Vida (2009)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045623.mp4
+#EXTINF:-1 tvg-name="Os Pinguins de Madagascar: O Filme (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9jno0ySammISRGvc0RZREjYUvg.jpg" group-title="INFANTIS PLUGINSTREAMING",Os Pinguins de Madagascar: O Filme (2014)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045622.mp4
+#EXTINF:-1 tvg-name="The Fantasia Legacy: Fantasia Continued (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uARUK0wGbTB4S4iWvnwlD47FTeI.jpg" group-title="INFANTIS PLUGINSTREAMING",The Fantasia Legacy: Fantasia Continued (2000)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045621.mp4
+#EXTINF:-1 tvg-name="Bem-Vindo ao Mundo dos Ogglies (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQpEQKVtBqIQrYFccdoxGxQkDvJ.jpg" group-title="INFANTIS PLUGINSTREAMING",Bem-Vindo ao Mundo dos Ogglies (2021)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045620.mp4
+#EXTINF:-1 tvg-name="Sonhos S.A. (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/atlvvY0QnnW5WrW0UEWfcpdIIX9.jpg" group-title="INFANTIS PLUGINSTREAMING",Sonhos S.A. (2020)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045618.mp4
+#EXTINF:-1 tvg-name="Cantando de Galo: O Resgate dos Ovinhos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crPmQKdQMS2DGbvMS3oDYG3Xe92.jpg" group-title="INFANTIS PLUGINSTREAMING",Cantando de Galo: O Resgate dos Ovinhos (2021)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045616.mp4
+#EXTINF:-1 tvg-name="Tinker Bell e o Tesouro Perdido (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKTfGR1ksZGusE1fsqr7WqzUGuw.jpg" group-title="INFANTIS PLUGINSTREAMING",Tinker Bell e o Tesouro Perdido (2009)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045615.mp4
+#EXTINF:-1 tvg-name="Scooby-Doo! e o Fantasma Gourmet (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/izIxXz7oWmqZagyp5PHEhfinp1V.jpg" group-title="INFANTIS PLUGINSTREAMING",Scooby-Doo! e o Fantasma Gourmet (2018)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045614.mp4
+#EXTINF:-1 tvg-name="Shrek Bate o Sino (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkIEMVAYQHUhkxyLA9dhozDCLAt.jpg" group-title="INFANTIS PLUGINSTREAMING",Shrek Bate o Sino (2007)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045613.mp4
+#EXTINF:-1 tvg-name="Pokémon o Filme: Volcanion e a Maravilha Mecânica (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzfGkn1nfx4EvYP5axS2jKJmkHK.jpg" group-title="INFANTIS PLUGINSTREAMING",Pokémon o Filme: Volcanion e a Maravilha Mecânica (2016)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045612.mp4
+#EXTINF:-1 tvg-name="Norm e os Invencíveis (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2PUZIS8mzAY6DxoXIIzCvQyDf93.jpg" group-title="INFANTIS PLUGINSTREAMING",Norm e os Invencíveis (2016)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045659.mp4
+#EXTINF:-1 tvg-name="Robôs (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tC9hcesF7QpMFuB6MvQg900VUyX.jpg" group-title="INFANTIS PLUGINSTREAMING",Robôs (2005)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045658.mp4
+#EXTINF:-1 tvg-name="Operação Presente (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zl3jpbZ1weIUIUBB3OzUY9HSSSF.jpg" group-title="INFANTIS PLUGINSTREAMING",Operação Presente (2011)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045647.mp4
+#EXTINF:-1 tvg-name="Oi, Scooby-Doo (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n24cMOaixIsJ1yqQnRQHMTRwlqe.jpg" group-title="INFANTIS PLUGINSTREAMING", Scooby-Doo (2005)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045646.mp4
+#EXTINF:-1 tvg-name="Cinderela e o Príncipe Secreto (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/caMtietnPdDz8EHSgH3nzijhEws.jpg" group-title="INFANTIS PLUGINSTREAMING",Cinderela e o Príncipe Secreto (2018)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045640.mp4
+#EXTINF:-1 tvg-name="Gato de Botas (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFs9zpddiT45Sx3FsUshdVZJEFl.jpg" group-title="INFANTIS PLUGINSTREAMING",Gato de Botas (2011)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045617.mp4
+#EXTINF:-1 tvg-name="Scooby-Doo na Ilha dos Zumbis (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxYjPxMgtbAzsisNRyR0jB9wEOt.jpg" group-title="INFANTIS PLUGINSTREAMING",Scooby-Doo na Ilha dos Zumbis (1998)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045610.mp4
+#EXTINF:-1 tvg-name="Os Smurfs (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xGhRkBo791KeITsAKbWtrforxi.jpg" group-title="INFANTIS PLUGINSTREAMING",Os Smurfs (2011)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045609.mp4
+#EXTINF:-1 tvg-name="Leo Da Vinci: Missão Mona Lisa (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vyJBGnjaSHCgmgbx5YsLjDhOuJu.jpg" group-title="INFANTIS PLUGINSTREAMING",Leo Da Vinci: Missão Mona Lisa (2018)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045604.mp4
+#EXTINF:-1 tvg-name="Madagascar (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3xzOyFlWxoGFPG4aUGX8zMS4OA.jpg" group-title="INFANTIS PLUGINSTREAMING",Madagascar (2005)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045601.mp4
+#EXTINF:-1 tvg-name="O Grinch (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vDtJA6DdwLpwoV60rKLWOCt63gK.jpg" group-title="INFANTIS PLUGINSTREAMING",O Grinch (2000)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045637.mp4
+#EXTINF:-1 tvg-name="Digimon: O Filme (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tiH1muonzAWzlLjPhjAcAYVAjzm.jpg" group-title="INFANTIS PLUGINSTREAMING",Digimon: O Filme (2000)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045608.mp4
+#EXTINF:-1 tvg-name="Ei Arnold! Na Selva: O Filme (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxz5Y0ZjAfpkMSWr78u4ZkWeOs5.jpg" group-title="INFANTIS PLUGINSTREAMING",Ei Arnold! Na Selva: O Filme (2018)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045607.mp4
+#EXTINF:-1 tvg-name="O Poderoso Chefinho (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sUJzHEA9Ft1JXoae7QeNYSBhY4q.jpg" group-title="INFANTIS PLUGINSTREAMING",O Poderoso Chefinho (2017)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045603.mp4
+#EXTINF:-1 tvg-name="Khumba (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQfFslEZlouRR5tlwzeO8XAjgtb.jpg" group-title="INFANTIS PLUGINSTREAMING",Khumba (2013)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045600.mp4
+#EXTINF:-1 tvg-name="Rupture (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w5Xv9NZ3Xi11ayb56WzErJITe4w.jpg" group-title="INFANTIS PLUGINSTREAMING",Rupture (2011)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045599.mp4
+#EXTINF:-1 tvg-name="Mary e a Flor da Feiticeira (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRVcNahAM4edrPhgldrz5Ac5td6.jpg" group-title="INFANTIS PLUGINSTREAMING",Mary e a Flor da Feiticeira (2017)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045596.mp4
+#EXTINF:-1 tvg-name="Como Treinar o Seu Dragão: Volta ao Lar (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZbfgH0pXsv0I3LWYlEc8LSrNcd.jpg" group-title="INFANTIS PLUGINSTREAMING",Como Treinar o Seu Dragão: Volta ao Lar (2019)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045605.mp4
+#EXTINF:-1 tvg-name="Bobbleheads: O Filme (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGm4xo1fVDzXYBm5La0VeZkbmLW.jpg" group-title="INFANTIS PLUGINSTREAMING",Bobbleheads: O Filme (2020)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045593.mp4
+#EXTINF:-1 tvg-name="O Parque dos Sonhos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxybUNiRTGSCkOOWtOf3kDse43v.jpg" group-title="INFANTIS PLUGINSTREAMING",O Parque dos Sonhos (2019)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045591.mp4
+#EXTINF:-1 tvg-name="Invasor Zim e o Florpus (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lYy5EBxl8cwpyejcy85LgSdf34m.jpg" group-title="INFANTIS PLUGINSTREAMING",Invasor Zim e o Florpus (2019)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045582.mp4
+#EXTINF:-1 tvg-name="O Peixe Grande & Begônia (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5XoJpNKo3N7M7wV76q8t3bXhskn.jpg" group-title="INFANTIS PLUGINSTREAMING",O Peixe Grande & Begônia (2016)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045570.mp4
+#EXTINF:-1 tvg-name="Bob Esponja: O Incrível Resgate (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d88x4Jnyhr4xErOYeJCspcxI34h.jpg" group-title="INFANTIS PLUGINSTREAMING",Bob Esponja: O Incrível Resgate (2020)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045641.mp4
+#EXTINF:-1 tvg-name="Kung Fu Panda 2 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dSF0v3XPCzKb30zv3fLeuoJuTRv.jpg" group-title="INFANTIS PLUGINSTREAMING",Kung Fu Panda 2 (2011)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045619.mp4
+#EXTINF:-1 tvg-name="Asterix Conquista a América (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wa5KnDRiWKk5REMtUPbUiX8aqT.jpg" group-title="INFANTIS PLUGINSTREAMING",Asterix Conquista a América (1994)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045598.mp4
+#EXTINF:-1 tvg-name="Procurando Nemo (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jrPMq7IMLTqcuPDlK6jfruEbpq.jpg" group-title="INFANTIS PLUGINSTREAMING",Procurando Nemo (2003)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045597.mp4
+#EXTINF:-1 tvg-name="Como é Bom se Divertir (1947)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGOVtD7F6WYb0n3dR4PLauS6wj.jpg" group-title="INFANTIS PLUGINSTREAMING",Como é Bom se Divertir (1947)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045594.mp4
+#EXTINF:-1 tvg-name="Lilo & Stitch 2: Stitch Deu Defeito (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7XH0o8IJp0YKubgEee2vuPrJ1wk.jpg" group-title="INFANTIS PLUGINSTREAMING",Lilo & Stitch 2: Stitch Deu Defeito (2005)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045592.mp4
+#EXTINF:-1 tvg-name="Garfield 2 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXwKOr1LnYMetY7mROBQ3MFhb1a.jpg" group-title="INFANTIS PLUGINSTREAMING",Garfield 2 (2006)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045590.mp4
+#EXTINF:-1 tvg-name="Missão Cegonha (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VTYZiDRHBMEEtzv7CPwr0ZruPn.jpg" group-title="INFANTIS PLUGINSTREAMING",Missão Cegonha (2017)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045589.mp4
+#EXTINF:-1 tvg-name="Como Treinar o Seu Dragão (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfj27wcg80MjSn7Il6iGQ2wkTth.jpg" group-title="INFANTIS PLUGINSTREAMING",Como Treinar o Seu Dragão (2010)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045587.mp4
+#EXTINF:-1 tvg-name="Por Água Abaixo (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzyUeoCg6fh8nSQD1LFiUiiOs8P.jpg" group-title="INFANTIS PLUGINSTREAMING",Por Água Abaixo (2006)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045586.mp4
+#EXTINF:-1 tvg-name="Marcel (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eNMN4dBXwKTGh8u3hXBrhFEHy4E.jpg" group-title="INFANTIS PLUGINSTREAMING",Marcel (2018)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045585.mp4
+#EXTINF:-1 tvg-name="KonoSuba: As Bênçãos de Deus Nesse Mundo Maravilhoso! - Lenda Carmesim (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t37cFbjqWzcteiA3XrkNOUswPLa.jpg" group-title="INFANTIS PLUGINSTREAMING",KonoSuba: As Bênçãos de Deus Nesse Mundo Maravilhoso! - Lenda Carmesim (2019)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045584.mp4
+#EXTINF:-1 tvg-name="Divertida Mente (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Kg34KTlnoHvjLzD7ji2jUSouvD.jpg" group-title="INFANTIS PLUGINSTREAMING",Divertida Mente (2015)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045583.mp4
+#EXTINF:-1 tvg-name="Cory Carson e o Halloween (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEE93qOoF24wFaqNjd7fxyZz8Ni.jpg" group-title="INFANTIS PLUGINSTREAMING",Cory Carson e o Halloween (2020)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045580.mp4
+#EXTINF:-1 tvg-name="Blush (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOnRPzGjmGwmoqtznGv1gx22JWh.jpg" group-title="INFANTIS PLUGINSTREAMING",Blush (2021)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045578.mp4
+#EXTINF:-1 tvg-name="Cara (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOnRPzGjmGwmoqtznGv1gx22JWh.jpg" group-title="INFANTIS PLUGINSTREAMING",Cara (2008)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045575.mp4
+#EXTINF:-1 tvg-name="Pokémon 3: O Feitiço dos Unown (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqUWAVNetRIIQC6I0UDnubz8Qw3.jpg" group-title="INFANTIS PLUGINSTREAMING",Pokémon 3: O Feitiço dos Unown (2000)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045574.mp4
+#EXTINF:-1 tvg-name="The Condor (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bch7Q6VyaedoMzKlTdyD1u0qFhW.jpg" group-title="INFANTIS PLUGINSTREAMING",The Condor (2007)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045573.mp4
+#EXTINF:-1 tvg-name="Batman: Alma do Dragão (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydnDIq7NLIzBb2dThiFaR5MAdKb.jpg" group-title="INFANTIS PLUGINSTREAMING",Batman: Alma do Dragão (2021)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045572.mp4
+#EXTINF:-1 tvg-name="Lego Liga da Justiça: Combate Cósmico (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxO2VxlzrgoW59Ox92HQWoVZy1Y.jpg" group-title="INFANTIS PLUGINSTREAMING",Lego Liga da Justiça: Combate Cósmico (2016)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045571.mp4
+#EXTINF:-1 tvg-name="Carros 2 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIKaabvE40T39nOIngcZPcPJeYe.jpg" group-title="INFANTIS PLUGINSTREAMING",Carros 2 (2011)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045566.mp4
+#EXTINF:-1 tvg-name="Lego Taxi (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2fPonWbIC9kRED215Ozp1XQIWZT.jpg" group-title="INFANTIS PLUGINSTREAMING",Lego Taxi (2015)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045565.mp4
+#EXTINF:-1 tvg-name="Caçadores de Dragões (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjkizGqBrNL8Pcq4IjTDde6IwEc.jpg" group-title="INFANTIS PLUGINSTREAMING",Caçadores de Dragões (2008)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045564.mp4
+#EXTINF:-1 tvg-name="Deu a Louca na Chapeuzinho (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fgIhvFgpgzawR0IflGXIQmyn8s.jpg" group-title="INFANTIS PLUGINSTREAMING",Deu a Louca na Chapeuzinho (2005)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045561.mp4
+#EXTINF:-1 tvg-name="Bernardo e Bianca (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zcf9bfXDmKpUHRuPLUM8px9nVHL.jpg" group-title="INFANTIS PLUGINSTREAMING",Bernardo e Bianca (1977)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045556.mp4
+#EXTINF:-1 tvg-name="Pokémon o Filme: Eu Escolho Você! (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aip9h0zIzKHTdSxoZHdOWweQTrI.jpg" group-title="INFANTIS PLUGINSTREAMING",Pokémon o Filme: Eu Escolho Você! (2017)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045554.mp4
+#EXTINF:-1 tvg-name="Link Perdido (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b2hayCDCuzoG99LmWIMqB619iJu.jpg" group-title="INFANTIS PLUGINSTREAMING",Link Perdido (2019)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045549.mp4
+#EXTINF:-1 tvg-name="Bons de Bico (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlXAfUwE3CRzB9TbrwvmQLlAf6L.jpg" group-title="INFANTIS PLUGINSTREAMING",Bons de Bico (2013)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045548.mp4
+#EXTINF:-1 tvg-name="Lino: Uma Aventura de Sete Vidas (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjCpF29tG2TuSnDfmLxBxeaB6dp.jpg" group-title="INFANTIS PLUGINSTREAMING",Lino: Uma Aventura de Sete Vidas (2017)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045547.mp4
+#EXTINF:-1 tvg-name="Wallace & Gromit: A Batalha dos Vegetais (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o06EMgTpbObtQabzKCHwU1QS0Y6.jpg" group-title="INFANTIS PLUGINSTREAMING",Wallace & Gromit: A Batalha dos Vegetais (2005)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045546.mp4
+#EXTINF:-1 tvg-name="SpongeBob SquarePants: Glove World Forever" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o06EMgTpbObtQabzKCHwU1QS0Y6.jpg" group-title="INFANTIS PLUGINSTREAMING",SpongeBob SquarePants: Glove World Forever
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045541.mp4
+#EXTINF:-1 tvg-name="Superman: O Homem do Amanhã (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9kn5wm8hRt1k7xzXPNNs682LBP.jpg" group-title="INFANTIS PLUGINSTREAMING",Superman: O Homem do Amanhã (2020)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045562.mp4
+#EXTINF:-1 tvg-name="O Homem das Cavernas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8dMhhcO92QhGlMy7eROcZjjphJ.jpg" group-title="INFANTIS PLUGINSTREAMING",O Homem das Cavernas (2018)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045560.mp4
+#EXTINF:-1 tvg-name="Os Croods 2: Uma Nova Era (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f7BIa9xIerwviSMsa9BEY28sC3Y.jpg" group-title="INFANTIS PLUGINSTREAMING",Os Croods 2: Uma Nova Era (2020)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045559.mp4
+#EXTINF:-1 tvg-name="Nem Que a Vaca Tussa (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/merEoWh2Ju8AoYedYCW0faW9e9O.jpg" group-title="INFANTIS PLUGINSTREAMING",Nem Que a Vaca Tussa (2004)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045558.mp4
+#EXTINF:-1 tvg-name="O Pequeno Narigudo (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yYRijal6Yda1sas16XKu01RXPn8.jpg" group-title="INFANTIS PLUGINSTREAMING",O Pequeno Narigudo (2003)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045557.mp4
+#EXTINF:-1 tvg-name="Titan A.E. (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/el2iHk3LTJWfEnwrvcRkvWY501G.jpg" group-title="INFANTIS PLUGINSTREAMING",Titan A.E. (2000)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045555.mp4
+#EXTINF:-1 tvg-name="Dumbo (1941)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKDdllslMtsU9JixAv5HR9biXlp.jpg" group-title="INFANTIS PLUGINSTREAMING",Dumbo (1941)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045553.mp4
+#EXTINF:-1 tvg-name="Muñe" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTuosbPwYvDBT9N82utCKWmeSCg.jpg" group-title="INFANTIS PLUGINSTREAMING",Muñe
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045552.mp4
+#EXTINF:-1 tvg-name="Cocorico (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAp0VzDEOn7rvHrc63DHqrMOqK4.jpg" group-title="INFANTIS PLUGINSTREAMING",Cocorico (2024)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045551.mp4
+#EXTINF:-1 tvg-name="Detona Ralph (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPAPODCQ1NiEHYiHI8oSSAg6b4o.jpg" group-title="INFANTIS PLUGINSTREAMING",Detona Ralph (2012)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045550.mp4
+#EXTINF:-1 tvg-name="O Procurado (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPID9fe5zoruCIWq49lgcAaLjWa.jpg" group-title="INFANTIS PLUGINSTREAMING",O Procurado (2008)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045544.mp4
+#EXTINF:-1 tvg-name="Pikachu Ao Resgate" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPID9fe5zoruCIWq49lgcAaLjWa.jpg" group-title="INFANTIS PLUGINSTREAMING",Pikachu Ao Resgate
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045543.mp4
+#EXTINF:-1 tvg-name="Pachamama (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9MP51jJ3ksNy0zXqkuhF8mgOPMJ.jpg" group-title="INFANTIS PLUGINSTREAMING",Pachamama (2018)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045540.mp4
+#EXTINF:-1 tvg-name="Batman vs. Robin (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LK9q1ovubLoH4Ajswve7pxr5Se.jpg" group-title="INFANTIS PLUGINSTREAMING",Batman vs. Robin (2015)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045539.mp4
+#EXTINF:-1 tvg-name="Os Croods (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7k9w3RgKYoJ9MCwdBY0ZBxC323L.jpg" group-title="INFANTIS PLUGINSTREAMING",Os Croods (2013)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045538.mp4
+#EXTINF:-1 tvg-name="Pokémon: Zoroark - Mestre das Ilusões (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zGKwjx1hl7I9ef5RlKrGQh5fL1w.jpg" group-title="INFANTIS PLUGINSTREAMING",Pokémon: Zoroark - Mestre das Ilusões (2010)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045537.mp4
+#EXTINF:-1 tvg-name="The Last: Naruto O Filme (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKn9V7hvkxJqFWBhNLHStbpHUIN.jpg" group-title="INFANTIS PLUGINSTREAMING",The Last: Naruto O Filme (2014)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045536.mp4
+#EXTINF:-1 tvg-name="Monstros S.A. (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKiG037CiuSZqL1gxsDHyBj28lg.jpg" group-title="INFANTIS PLUGINSTREAMING",Monstros S.A. (2001)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045535.mp4
+#EXTINF:-1 tvg-name="EncrenCão (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSzY7xjIWyLN5WJUle0v4MnL2Rn.jpg" group-title="INFANTIS PLUGINSTREAMING",EncrenCão (2019)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045534.mp4
+#EXTINF:-1 tvg-name="O Pequeno Stuart Little 2 (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5JEDi0zjtJeLSL0IQb3H0MMbCCI.jpg" group-title="INFANTIS PLUGINSTREAMING",O Pequeno Stuart Little 2 (2002)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045533.mp4
+#EXTINF:-1 tvg-name="O Gigante de Ferro (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8StQ8dmVQ94THFTrMVHuMp5QKw.jpg" group-title="INFANTIS PLUGINSTREAMING",O Gigante de Ferro (1999)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045530.mp4
+#EXTINF:-1 tvg-name="Tinker Bell: Uma Aventura no Mundo das Fadas (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/azgjMUMoUJB2yheVcN1Ae8lFNeD.jpg" group-title="INFANTIS PLUGINSTREAMING",Tinker Bell: Uma Aventura no Mundo das Fadas (2008)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045529.mp4
+#EXTINF:-1 tvg-name="BOLT (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/laqmUUSqV9qMxDqzbXnXssF6F5G.jpg" group-title="INFANTIS PLUGINSTREAMING",BOLT (2019)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045528.mp4
+#EXTINF:-1 tvg-name="Spirit (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jppEf2ihUzInG37j6T0koaqGYWs.jpg" group-title="INFANTIS PLUGINSTREAMING",Spirit (2001)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045527.mp4
+#EXTINF:-1 tvg-name="Pokémon 7: Alma Gêmea (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/plDxcsCB5muct8j88GCgC2FII7T.jpg" group-title="INFANTIS PLUGINSTREAMING",Pokémon 7: Alma Gêmea (2004)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045526.mp4
+#EXTINF:-1 tvg-name="Os Sem-Floresta (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEsA7RzsWWmCg02Otagb6BznG5L.jpg" group-title="INFANTIS PLUGINSTREAMING",Os Sem-Floresta (2006)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045525.mp4
+#EXTINF:-1 tvg-name="Encantado (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/226gLQXTTcUkjCSh8xM3hRMyKIO.jpg" group-title="INFANTIS PLUGINSTREAMING",Encantado (2002)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045521.mp4
+#EXTINF:-1 tvg-name="Masha e o Urso (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZZDHukS9VOpicduVl8oR4imSSt.jpg" group-title="INFANTIS PLUGINSTREAMING",Masha e o Urso (2016)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045519.mp4
+#EXTINF:-1 tvg-name="A Lenda do Rei Macaco: A Volta do Herói (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxA7d9DQ2aJJH07IaZbsVbm66L8.jpg" group-title="INFANTIS PLUGINSTREAMING",A Lenda do Rei Macaco: A Volta do Herói (2015)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045563.mp4
+#EXTINF:-1 tvg-name="Meu Malvado Favorito (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vS6GWMkvsRmKC64xsMyNWLgAO36.jpg" group-title="INFANTIS PLUGINSTREAMING",Meu Malvado Favorito (2010)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045532.mp4
+#EXTINF:-1 tvg-name="Lucky Ducky (1948)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6Hxy5kXOLbXjoUnHZmow29flmy.jpg" group-title="INFANTIS PLUGINSTREAMING",Lucky Ducky (1948)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045524.mp4
+#EXTINF:-1 tvg-name="Hey Arnold! O Filme (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xbLyR7nVeZSnUKtQHsytgfcfZtM.jpg" group-title="INFANTIS PLUGINSTREAMING",Hey Arnold! O Filme (2002)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045523.mp4
+#EXTINF:-1 tvg-name="Festa no Céu (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l6luVQ9F7t7wErnSOq6Vd0SgDxV.jpg" group-title="INFANTIS PLUGINSTREAMING",Festa no Céu (2014)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045522.mp4
+#EXTINF:-1 tvg-name="Mundo Estranho (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uAlwqJbFqMRWXUA45E1aw1Pacun.jpg" group-title="INFANTIS PLUGINSTREAMING",Mundo Estranho (2022)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045518.mp4
+#EXTINF:-1 tvg-name="Tá Dando Onda (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/edR3BjwAwUGHtOQMXJTWRfMYBvt.jpg" group-title="INFANTIS PLUGINSTREAMING",Tá Dando Onda (2007)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045503.mp4
+#EXTINF:-1 tvg-name="LEGO Super-Heróis da Marvel: Vingadores Reunidos! (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUBZNoY7idPfqKZepnDEv7Qc8GC.jpg" group-title="INFANTIS PLUGINSTREAMING",LEGO Super-Heróis da Marvel: Vingadores Reunidos! (2015)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045502.mp4
+#EXTINF:-1 tvg-name="Liga da Justiça: Deuses e Monstros (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/su5lmAMy438kYaAjJeGk2k17jnZ.jpg" group-title="INFANTIS PLUGINSTREAMING",Liga da Justiça: Deuses e Monstros (2015)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045517.mp4
+#EXTINF:-1 tvg-name="Moana: Um Mar de Aventuras (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgDYSh9oRMNUS0ldxJLJtFGSGMK.jpg" group-title="INFANTIS PLUGINSTREAMING",Moana: Um Mar de Aventuras (2016)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045516.mp4
+#EXTINF:-1 tvg-name="Jujutsu Kaisen 0: O Filme (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ndvx03fmREMxEgaZ1vWt756TOQ.jpg" group-title="INFANTIS PLUGINSTREAMING",Jujutsu Kaisen 0: O Filme (2021)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045515.mp4
+#EXTINF:-1 tvg-name="Amigos Alienígenas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZY8LoT91xzaWa08m3YqBynA4Jb.jpg" group-title="INFANTIS PLUGINSTREAMING",Amigos Alienígenas (2018)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045514.mp4
+#EXTINF:-1 tvg-name="Ma che musica maestro (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t439VZdHXT02toh7kONuQBYaF0c.jpg" group-title="INFANTIS PLUGINSTREAMING",Ma che musica maestro (1971)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045513.mp4
+#EXTINF:-1 tvg-name="Hotel Transilvânia 2 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/prBkRebn3rgLVboyxmEpjKaDJ1x.jpg" group-title="INFANTIS PLUGINSTREAMING",Hotel Transilvânia 2 (2015)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045512.mp4
+#EXTINF:-1 tvg-name="Carros (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2nM2NRV8wt3n3ffoHQ3KdMkY3vR.jpg" group-title="INFANTIS PLUGINSTREAMING",Carros (2006)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045511.mp4
+#EXTINF:-1 tvg-name="Hotel Transilvânia (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9kAWShk7qrqril2dLboP0hi8I2.jpg" group-title="INFANTIS PLUGINSTREAMING",Hotel Transilvânia (2012)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045510.mp4
+#EXTINF:-1 tvg-name="Naruto Shippuden: O Filme (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2CL0VzHq8DwD1UDG9Jck7VZH1L.jpg" group-title="INFANTIS PLUGINSTREAMING",Naruto Shippuden: O Filme (2007)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045509.mp4
+#EXTINF:-1 tvg-name="As Aventuras de Ichabod e Sr. Sapo (1949)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mK6JBRA9g7g4dzejndEp2j346Ap.jpg" group-title="INFANTIS PLUGINSTREAMING",As Aventuras de Ichabod e Sr. Sapo (1949)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045508.mp4
+#EXTINF:-1 tvg-name="Batman: O Mistério da Mulher-Morcego (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJCDOMdjmy3yyClzJxGkJesyCiU.jpg" group-title="INFANTIS PLUGINSTREAMING",Batman: O Mistério da Mulher-Morcego (2003)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045507.mp4
+#EXTINF:-1 tvg-name="Dois Irmãos: Uma Jornada Fantástica (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsi2UM64Mhr6NmY1LKeeCuZOaCo.jpg" group-title="INFANTIS PLUGINSTREAMING",Dois Irmãos: Uma Jornada Fantástica (2020)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045506.mp4
+#EXTINF:-1 tvg-name="Doug: O Filme (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbkT7xbD7TMw1Ez33Yolrp95boh.jpg" group-title="INFANTIS PLUGINSTREAMING",Doug: O Filme (1999)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045505.mp4
+#EXTINF:-1 tvg-name="O Ajudante Do Papai Noel (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eY6HyFOSGy3umrV35SFmYlqpbBz.jpg" group-title="INFANTIS PLUGINSTREAMING",O Ajudante Do Papai Noel (2015)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045501.mp4
+#EXTINF:-1 tvg-name="Hércules (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKwBRP5o8t6BpUfSeIy09q9AiH0.jpg" group-title="INFANTIS PLUGINSTREAMING",Hércules (1997)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045500.mp4
+#EXTINF:-1 tvg-name="Meu Malvado Favorito 3 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ag4yzurAIjk8KWHwtoF5RMxJQSI.jpg" group-title="INFANTIS PLUGINSTREAMING",Meu Malvado Favorito 3 (2017)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045496.mp4
+#EXTINF:-1 tvg-name="Scooby-Doo!  Mistério na Lutamania (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZnIj2r5OPqJBy7XuVhOUyzG4ui.jpg" group-title="INFANTIS PLUGINSTREAMING",Scooby-Doo!  Mistério na Lutamania (2014)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045495.mp4
+#EXTINF:-1 tvg-name="Asterix e o Domínio dos Deuses (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/axLyPQz7Dln0a7tpl2iST60vTSY.jpg" group-title="INFANTIS PLUGINSTREAMING",Asterix e o Domínio dos Deuses (2014)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045392.mp4
+#EXTINF:-1 tvg-name="Abril e o Mundo Extraordinário (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b2bd94kKwywDAmfhRCUMNncH1NM.jpg" group-title="INFANTIS PLUGINSTREAMING",Abril e o Mundo Extraordinário (2015)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045504.mp4
+#EXTINF:-1 tvg-name="As Aventuras de Ozzy (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aaevprL22fLDp7ceu8Qu89JX6W8.jpg" group-title="INFANTIS PLUGINSTREAMING",As Aventuras de Ozzy (2016)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045499.mp4
+#EXTINF:-1 tvg-name="Heróis Modestos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Dyqy3uOg6VbDp4u4DkCnHvzTNd.jpg" group-title="INFANTIS PLUGINSTREAMING",Heróis Modestos (2019)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045498.mp4
+#EXTINF:-1 tvg-name="Happy Feet 2: O Pinguim (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kp8ADtdIyNDUqEQRBxtUgj5zefz.jpg" group-title="INFANTIS PLUGINSTREAMING",Happy Feet 2: O Pinguim (2011)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045497.mp4
+#EXTINF:-1 tvg-name="My Little Pony (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jMGl63O1FJaG5bBSSOlklzIjauX.jpg" group-title="INFANTIS PLUGINSTREAMING",My Little Pony (1984)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045494.mp4
+#EXTINF:-1 tvg-name="Pokémon o Filme: Genesect e a Lenda Revelada (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/twhBtwnnLHV5bbgAPilKYHFMzli.jpg" group-title="INFANTIS PLUGINSTREAMING",Pokémon o Filme: Genesect e a Lenda Revelada (2013)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045493.mp4
+#EXTINF:-1 tvg-name="Naruto Shippuden o Filme: Herdeiros da Vontade do Fogo (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7TQFZZQhai2MY0FoWsWAMMtYANb.jpg" group-title="INFANTIS PLUGINSTREAMING",Naruto Shippuden o Filme: Herdeiros da Vontade do Fogo (2009)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045492.mp4
+#EXTINF:-1 tvg-name="Os Incríveis (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9u27l1k3aUj774xOGCCaVX3iFDu.jpg" group-title="INFANTIS PLUGINSTREAMING",Os Incríveis (2004)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045491.mp4
+#EXTINF:-1 tvg-name="Pokémon 3: O Feitiço dos Unown (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqUWAVNetRIIQC6I0UDnubz8Qw3.jpg" group-title="INFANTIS PLUGINSTREAMING",Pokémon 3: O Feitiço dos Unown (2000)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045490.mp4
+#EXTINF:-1 tvg-name="A Guarda do Leão: Um Novo Rugido (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cHBE11YIWes6N0iKzdK8HpGGhJj.jpg" group-title="INFANTIS PLUGINSTREAMING",A Guarda do Leão: Um Novo Rugido (2016)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045489.mp4
+#EXTINF:-1 tvg-name="Arthur e a Guerra dos Dois Mundos (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fu7luWwrs8uKiOjTv9aCvJ9pYrB.jpg" group-title="INFANTIS PLUGINSTREAMING",Arthur e a Guerra dos Dois Mundos (2010)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045488.mp4
+#EXTINF:-1 tvg-name="Looney Tunes All Stars (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmLEmYiT7EGYkmC3XpdQd31vDxN.jpg" group-title="INFANTIS PLUGINSTREAMING",Looney Tunes All Stars (1999)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045487.mp4
+#EXTINF:-1 tvg-name="Dragões: Equipe de Resgate: Em Busca do Dragão Dourado (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/afecdT4uWB9sjo6MnnnjOQmRljq.jpg" group-title="INFANTIS PLUGINSTREAMING",Dragões: Equipe de Resgate: Em Busca do Dragão Dourado (2020)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045486.mp4
+#EXTINF:-1 tvg-name="O Caminho para El Dorado (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oaj2kKqOyFEo4Mj2Y12rwbjgv8u.jpg" group-title="INFANTIS PLUGINSTREAMING",O Caminho para El Dorado (2000)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045485.mp4
+#EXTINF:-1 tvg-name="O Segredo dos Animais (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nG4eJPNA4M4odMPR9bso3RZUKOL.jpg" group-title="INFANTIS PLUGINSTREAMING",O Segredo dos Animais (2006)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045484.mp4
+#EXTINF:-1 tvg-name="Scooby-Doo! De Volta à Ilha dos Zumbis (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DWSsLs8jltBxH2LSazuSR9FjpQ.jpg" group-title="INFANTIS PLUGINSTREAMING",Scooby-Doo! De Volta à Ilha dos Zumbis (2019)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045483.mp4
+#EXTINF:-1 tvg-name="ParaNorman (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DZPtuYTKYxt6vzHvZ5FLThG4fl.jpg" group-title="INFANTIS PLUGINSTREAMING",ParaNorman (2012)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045482.mp4
+#EXTINF:-1 tvg-name="Duda e os Gnomos (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvLogoBfPPGi26pgIOaPeYFfulN.jpg" group-title="INFANTIS PLUGINSTREAMING",Duda e os Gnomos (2017)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045481.mp4
+#EXTINF:-1 tvg-name="Peter Pan (1953)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooZYY1HiuekAYoZgR91xdndCFCh.jpg" group-title="INFANTIS PLUGINSTREAMING",Peter Pan (1953)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045480.mp4
+#EXTINF:-1 tvg-name="Carros 3 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXMAGlcr6pqn0NHvoTatxXeUtW8.jpg" group-title="INFANTIS PLUGINSTREAMING",Carros 3 (2017)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045478.mp4
+#EXTINF:-1 tvg-name="Racetime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXMAGlcr6pqn0NHvoTatxXeUtW8.jpg" group-title="INFANTIS PLUGINSTREAMING",Racetime
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045477.mp4
+#EXTINF:-1 tvg-name="As Aventuras de Tom Sawyer (1938)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wE4V8Rav9puZ3gEuKTrfaAN84mv.jpg" group-title="INFANTIS PLUGINSTREAMING",As Aventuras de Tom Sawyer (1938)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045476.mp4
+#EXTINF:-1 tvg-name="Ilha dos Cachorros (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4k4sjRXGMTfIDkfVi7lHccatnWk.jpg" group-title="INFANTIS PLUGINSTREAMING",Ilha dos Cachorros (2018)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045475.mp4
+#EXTINF:-1 tvg-name="Ponyo - Uma Amizade que Veio do Mar (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvpsmNWc8nyePJMbyMc9X5lLN6L.jpg" group-title="INFANTIS PLUGINSTREAMING",Ponyo - Uma Amizade que Veio do Mar (2008)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045474.mp4
+#EXTINF:-1 tvg-name="Como Treinar o Seu Dragão 3 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yn6f3dy0Rh2Y00YE8B52Pdm9IRp.jpg" group-title="INFANTIS PLUGINSTREAMING",Como Treinar o Seu Dragão 3 (2019)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045473.mp4
+#EXTINF:-1 tvg-name="That Time I Get Reincarnated as a Slime: O Filme (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13SyU6DvAwgI5MZdYJPTjhk6N50.jpg" group-title="INFANTIS PLUGINSTREAMING",That Time I Get Reincarnated as a Slime: O Filme (2022)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045472.mp4
+#EXTINF:-1 tvg-name="Naruto: Guardiões do Reino da Lua Crescente (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2wwVFqDULo63dxQGp4jOKzClIGt.jpg" group-title="INFANTIS PLUGINSTREAMING",Naruto: Guardiões do Reino da Lua Crescente (2006)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045471.mp4
+#EXTINF:-1 tvg-name="Descendentes: O Casamento Real (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzNIgQ4hjeNFln9DdLuJmNXVV9j.jpg" group-title="INFANTIS PLUGINSTREAMING",Descendentes: O Casamento Real (2021)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045470.mp4
+#EXTINF:-1 tvg-name="Emoji: O Filme (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4LW0JOeHyOFRsN6PAyWrH4qbG.jpg" group-title="INFANTIS PLUGINSTREAMING",Emoji: O Filme (2017)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045469.mp4
+#EXTINF:-1 tvg-name="Operação Big Hero (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zGuS48PShYgLwBpoRBCgzJC20uN.jpg" group-title="INFANTIS PLUGINSTREAMING",Operação Big Hero (2014)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045468.mp4
+#EXTINF:-1 tvg-name="Demon Slayer (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFeHHxnTrSb4NaFRqFDYcqtqbQ1.jpg" group-title="INFANTIS PLUGINSTREAMING",Demon Slayer (2003)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045467.mp4
+#EXTINF:-1 tvg-name="Batman: O Cavaleiro de Gotham (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bbLZlFl1K8EzkoXcZ0a8bBRZIAu.jpg" group-title="INFANTIS PLUGINSTREAMING",Batman: O Cavaleiro de Gotham (2008)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045466.mp4
+#EXTINF:-1 tvg-name="Lilo & Stitch (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ottRXMCQ9jPB318syTcfIdtJWIE.jpg" group-title="INFANTIS PLUGINSTREAMING",Lilo & Stitch (2002)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045465.mp4
+#EXTINF:-1 tvg-name="O Bom Dinossauro (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKGYOFSf9WvhNjWcmQXAQe5VuiE.jpg" group-title="INFANTIS PLUGINSTREAMING",O Bom Dinossauro (2015)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045464.mp4
+#EXTINF:-1 tvg-name="Liga da Justiça Sombria (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3vgqMPgkJ4WuSIs3ZGhO4ojTkE9.jpg" group-title="INFANTIS PLUGINSTREAMING",Liga da Justiça Sombria (2017)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045463.mp4
+#EXTINF:-1 tvg-name="Oliver e Sua Turma (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AqjEHCoGou8QjY5Yh9JyQ57ut9Z.jpg" group-title="INFANTIS PLUGINSTREAMING",Oliver e Sua Turma (1988)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045462.mp4
+#EXTINF:-1 tvg-name="Pokémon Ranger e o Lendário Templo do Mar (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xv7CC8DTSVoE4QSF3CUmXh575zT.jpg" group-title="INFANTIS PLUGINSTREAMING",Pokémon Ranger e o Lendário Templo do Mar (2006)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045461.mp4
+#EXTINF:-1 tvg-name="Shrek Para Sempre: O Capítulo Final (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxMK2UCjvB8hOFod3v2wQDXLGF3.jpg" group-title="INFANTIS PLUGINSTREAMING",Shrek Para Sempre: O Capítulo Final (2010)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045460.mp4
+#EXTINF:-1 tvg-name="O Rei Leão II: O Reino de Simba (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9GB2FntD6nBGx1EsKKOtR7v4Tza.jpg" group-title="INFANTIS PLUGINSTREAMING",O Rei Leão II: O Reino de Simba (1998)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045459.mp4
+#EXTINF:-1 tvg-name="O Cão e a Raposa 2 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7tPn2knHDMTlgr63L5bdPBPZf7.jpg" group-title="INFANTIS PLUGINSTREAMING",O Cão e a Raposa 2 (2006)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045458.mp4
+#EXTINF:-1 tvg-name="Sonic: O Filme (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOC0FSGqyzcnnx7XFgLazI9nACT.jpg" group-title="INFANTIS PLUGINSTREAMING",Sonic: O Filme (2020)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045457.mp4
+#EXTINF:-1 tvg-name="Meu Amigo Totoro (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/23KKTxDg6rxZVc66bloQQdPSr29.jpg" group-title="INFANTIS PLUGINSTREAMING",Meu Amigo Totoro (1988)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045456.mp4
+#EXTINF:-1 tvg-name="Bunyan e Babe: Os Amigos da Floresta (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1r3aKyYbIWZwzIRdMNO9EJFFUek.jpg" group-title="INFANTIS PLUGINSTREAMING",Bunyan e Babe: Os Amigos da Floresta (2017)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045455.mp4
+#EXTINF:-1 tvg-name="O Presente de Natal de Angela (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6TFKcVSIfIFDffi91XztloA6X7o.jpg" group-title="INFANTIS PLUGINSTREAMING",O Presente de Natal de Angela (2020)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045454.mp4
+#EXTINF:-1 tvg-name="O Pequeno Pé Grande (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXETzXKoFkMpHyQQtT9oC8uXZxb.jpg" group-title="INFANTIS PLUGINSTREAMING",O Pequeno Pé Grande (2016)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045453.mp4
+#EXTINF:-1 tvg-name="STAND BY ME Doraemon 2 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPJLUn3rUr9bl39t8l0hOqkzoj2.jpg" group-title="INFANTIS PLUGINSTREAMING",STAND BY ME Doraemon 2 (2020)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045452.mp4
+#EXTINF:-1 tvg-name="A Verdadeira História de Papai Noel (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEIBrplag2W7doD7lxbBnQh5WEF.jpg" group-title="INFANTIS PLUGINSTREAMING",A Verdadeira História de Papai Noel (1970)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045451.mp4
+#EXTINF:-1 tvg-name="Irmão Urso (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pFRQgHiZwHTX7LmHEI0hwocuBC3.jpg" group-title="INFANTIS PLUGINSTREAMING",Irmão Urso (2003)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045450.mp4
+#EXTINF:-1 tvg-name="Garotos em Guerra (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajN39RQfotbMynhCFOKDliYbOwe.jpg" group-title="INFANTIS PLUGINSTREAMING",Garotos em Guerra (2015)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045449.mp4
+#EXTINF:-1 tvg-name="As Tartarugas Ninja (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udkk1VQY9wgarV7xZ9qcraa7Qsd.jpg" group-title="INFANTIS PLUGINSTREAMING",As Tartarugas Ninja (2014)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045448.mp4
+#EXTINF:-1 tvg-name="O Show da Luna – Das Ilhas ao Continente (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbc7jVWjJc3FZX8vSDnmGCVNVEr.jpg" group-title="INFANTIS PLUGINSTREAMING",O Show da Luna – Das Ilhas ao Continente (2019)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045447.mp4
+#EXTINF:-1 tvg-name="Enrolados Outra Vez: Rainha por um dia (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7D5Z1J1HlMepZxLZxT2piPa3EEq.jpg" group-title="INFANTIS PLUGINSTREAMING",Enrolados Outra Vez: Rainha por um dia (2017)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045446.mp4
+#EXTINF:-1 tvg-name="Nezha: O Renascer de um Deus (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gvcFFHbxpJSaasHa8S4lx4WvbRW.jpg" group-title="INFANTIS PLUGINSTREAMING",Nezha: O Renascer de um Deus (2021)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045445.mp4
+#EXTINF:-1 tvg-name="A Era do Gelo 4 (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dWiHLqARtyAAOy0nLvXIxRYkfNA.jpg" group-title="INFANTIS PLUGINSTREAMING",A Era do Gelo 4 (2012)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045444.mp4
+#EXTINF:-1 tvg-name="Planeta 51 (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQqvFrUBOitSvw0kXehYq3vOY1G.jpg" group-title="INFANTIS PLUGINSTREAMING",Planeta 51 (2009)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045443.mp4
+#EXTINF:-1 tvg-name="Hotel Transilvânia 3: Férias Monstruosas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyDm9V7xSyxpgu7MfcMatyZcR03.jpg" group-title="INFANTIS PLUGINSTREAMING",Hotel Transilvânia 3: Férias Monstruosas (2018)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045442.mp4
+#EXTINF:-1 tvg-name="Hotel Transilvânia: Mascote (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNxIazoQqDQukfQqkYxTgx9DRbu.jpg" group-title="INFANTIS PLUGINSTREAMING",Hotel Transilvânia: Mascote (2017)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045441.mp4
+#EXTINF:-1 tvg-name="Os Smurfs e a Vila Perdida (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7DtiMnR55uSRIUAaIpnEMwYdGFD.jpg" group-title="INFANTIS PLUGINSTREAMING",Os Smurfs e a Vila Perdida (2017)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045440.mp4
+#EXTINF:-1 tvg-name="Pato Pato Ganso (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lDk0dvwjBi6bGBOqgOXc5W5T7Qk.jpg" group-title="INFANTIS PLUGINSTREAMING",Pato Pato Ganso (2018)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045439.mp4
+#EXTINF:-1 tvg-name="O Corcunda de Notre Dame (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mvdPI1neAfdMKvetXEBj4hpPQoI.jpg" group-title="INFANTIS PLUGINSTREAMING",O Corcunda de Notre Dame (1996)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045438.mp4
+#EXTINF:-1 tvg-name="O Corcunda de Notre Dame II: O Segredo do Sino (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2TLAX4PLdHV4aBfhYIqNzh1gmpH.jpg" group-title="INFANTIS PLUGINSTREAMING",O Corcunda de Notre Dame II: O Segredo do Sino (2002)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045437.mp4
+#EXTINF:-1 tvg-name="Happy Feet: O Pinguim (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vd5OoU5rhfKblLoLwaCK5QU0yJS.jpg" group-title="INFANTIS PLUGINSTREAMING",Happy Feet: O Pinguim (2006)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045436.mp4
+#EXTINF:-1 tvg-name="Axel e os Meninos do Espaço (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kFiTH61TrnLQ5ciVa9dT3PyF74l.jpg" group-title="INFANTIS PLUGINSTREAMING",Axel e os Meninos do Espaço (2017)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045435.mp4
+#EXTINF:-1 tvg-name="Resident Evil: Condenação (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDXEVM49qy5CrNySBXRUaTLJty7.jpg" group-title="INFANTIS PLUGINSTREAMING",Resident Evil: Condenação (2012)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045434.mp4
+#EXTINF:-1 tvg-name="Os Casagrandes: O Filme (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRD3xPQuEbANBcSWiEfiydKQRkz.jpg" group-title="INFANTIS PLUGINSTREAMING",Os Casagrandes: O Filme (2024)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045433.mp4
+#EXTINF:-1 tvg-name="Historietas Assombradas: O Filme (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Ko8bZMi9GFgGDkwIN9Gl6YetaI.jpg" group-title="INFANTIS PLUGINSTREAMING",Historietas Assombradas: O Filme (2017)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045432.mp4
+#EXTINF:-1 tvg-name="Bee Movie: A História de uma Abelha (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dC0f3uld9Ea51QzlLleSFxWy2Hw.jpg" group-title="INFANTIS PLUGINSTREAMING",Bee Movie: A História de uma Abelha (2007)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045431.mp4
+#EXTINF:-1 tvg-name="Batman vs. Robin (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LK9q1ovubLoH4Ajswve7pxr5Se.jpg" group-title="INFANTIS PLUGINSTREAMING",Batman vs. Robin (2015)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045430.mp4
+#EXTINF:-1 tvg-name="George, o Curioso 3: De Volta para a Selva (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vvUzgYjIoczU8roazbkJgzh6u35.jpg" group-title="INFANTIS PLUGINSTREAMING", o Curioso 3: De Volta para a Selva (2015)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045429.mp4
+#EXTINF:-1 tvg-name="As Fantasias de Nicolás (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/razgQWxwMFXyhI6musNJBTgCUbb.jpg" group-title="INFANTIS PLUGINSTREAMING",As Fantasias de Nicolás (2021)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045428.mp4
+#EXTINF:-1 tvg-name="Octonautas e o Círculo de Fogo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aGFtQaLlhpQ2zmmx9dcx8dNYLuI.jpg" group-title="INFANTIS PLUGINSTREAMING",Octonautas e o Círculo de Fogo (2021)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045427.mp4
+#EXTINF:-1 tvg-name="As Aventuras dos Chipmunks (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0d8qJL8anmGG14UfjBC7HHATJK.jpg" group-title="INFANTIS PLUGINSTREAMING",As Aventuras dos Chipmunks (1987)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045426.mp4
+#EXTINF:-1 tvg-name="My Hero Academia: O Filme – Ascensão dos Heróis (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dovXbq6JUJ6rRwetoj7SHZxbzaQ.jpg" group-title="INFANTIS PLUGINSTREAMING",My Hero Academia: O Filme – Ascensão dos Heróis (2019)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045425.mp4
+#EXTINF:-1 tvg-name="Hotel Transilvânia: Transformonstrão (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9PbtCo5IIkd26WPQfZUpPyn6fTz.jpg" group-title="INFANTIS PLUGINSTREAMING",Hotel Transilvânia: Transformonstrão (2022)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045424.mp4
+#EXTINF:-1 tvg-name="Em Busca do Vale Encantado II: A Grande Aventura do Vale (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8oBw8UCxsYVjj0pul0j1GGNJbk.jpg" group-title="INFANTIS PLUGINSTREAMING",Em Busca do Vale Encantado II: A Grande Aventura do Vale (1994)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045423.mp4
+#EXTINF:-1 tvg-name="Marvel Rising: Coração de Ferro (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2UPS5hPBFgRN1Zbs7RKvn0iipu.jpg" group-title="INFANTIS PLUGINSTREAMING",Marvel Rising: Coração de Ferro (2019)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045422.mp4
+#EXTINF:-1 tvg-name="Debaixo do Píer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cc8hlSJTcbkgW1VbejYcgizqgbv.jpg" group-title="INFANTIS PLUGINSTREAMING",Debaixo do Píer (2023)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045421.mp4
+#EXTINF:-1 tvg-name="Fantasia (1940)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKg8Zpm4fMOy7KmrBHdo4YCT5dS.jpg" group-title="INFANTIS PLUGINSTREAMING",Fantasia (1940)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045420.mp4
+#EXTINF:-1 tvg-name="Irmão Urso 2 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4kOIrwYMXInmFH8eaJ6kDoAkUW.jpg" group-title="INFANTIS PLUGINSTREAMING",Irmão Urso 2 (2006)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045419.mp4
+#EXTINF:-1 tvg-name="As aventuras de stinky dog (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bToyfmalpcAd5jZFnv8XcWu644L.jpg" group-title="INFANTIS PLUGINSTREAMING",As aventuras de stinky dog (2020)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045418.mp4
+#EXTINF:-1 tvg-name="George (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2FgpOU2ILGSSuNTdWW8h5bKvgzj.jpg" group-title="INFANTIS PLUGINSTREAMING",George (1972)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045417.mp4
+#EXTINF:-1 tvg-name="Batman: Silêncio (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fepR3N7FtTaZp5aiLrrYiQUH0A.jpg" group-title="INFANTIS PLUGINSTREAMING",Batman: Silêncio (2019)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045416.mp4
+#EXTINF:-1 tvg-name="O Natal do Zé Coleta (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8IvONOYDawf3TFbXM29kkCw4LzU.jpg" group-title="INFANTIS PLUGINSTREAMING",O Natal do Zé Coleta (2020)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045415.mp4
+#EXTINF:-1 tvg-name="Gnomeu e Julieta (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crfkHThpFO8ddvkhJn5XVSgMT6Q.jpg" group-title="INFANTIS PLUGINSTREAMING",Gnomeu e Julieta (2011)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045414.mp4
+#EXTINF:-1 tvg-name="O Touro Ferdinando (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rnoYZvoSbS6uogrESSbKOpwg0sB.jpg" group-title="INFANTIS PLUGINSTREAMING",O Touro Ferdinando (2017)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045412.mp4
+#EXTINF:-1 tvg-name="Hora do Recreio (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNqRmUjIei16VJvSKlCLaKSCCM.jpg" group-title="INFANTIS PLUGINSTREAMING",Hora do Recreio (2001)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045411.mp4
+#EXTINF:-1 tvg-name="Kung Fu Panda (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/schmAu5DYdn2YPoBUdqpxF98N1z.jpg" group-title="INFANTIS PLUGINSTREAMING",Kung Fu Panda (2008)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045409.mp4
+#EXTINF:-1 tvg-name="Kung Fu Panda 3 (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pXYJjUNtnLfXVKGmqi1nfGornri.jpg" group-title="INFANTIS PLUGINSTREAMING",Kung Fu Panda 3 (2016)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045408.mp4
+#EXTINF:-1 tvg-name="Elliot: Uma História de Natal (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hic80IBkrc5ZnCcIx6Hyb9ovldl.jpg" group-title="INFANTIS PLUGINSTREAMING",Elliot: Uma História de Natal (2018)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045407.mp4
+#EXTINF:-1 tvg-name="A Princesa Encantada (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eK08pDC4ASwgS5OohDmZcUbLrBx.jpg" group-title="INFANTIS PLUGINSTREAMING",A Princesa Encantada (1994)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045406.mp4
+#EXTINF:-1 tvg-name="Lego" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLjMIPu7XiMdrFfxhhAzgcdqFXE.jpg" group-title="INFANTIS PLUGINSTREAMING",Lego
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045405.mp4
+#EXTINF:-1 tvg-name="Belle (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCK00C3L0bM5jphoYU0gFpG3Hly.jpg" group-title="INFANTIS PLUGINSTREAMING",Belle (2013)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045404.mp4
+#EXTINF:-1 tvg-name="Deu a Louca na Chapeuzinho 2 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gDPL7IajxEr9rrXCESmyovsbDG.jpg" group-title="INFANTIS PLUGINSTREAMING",Deu a Louca na Chapeuzinho 2 (2011)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045403.mp4
+#EXTINF:-1 tvg-name="Naruto: A Lenda da Pedra de Gelel (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/91MdpBECxnko6W48X05snozqjPh.jpg" group-title="INFANTIS PLUGINSTREAMING",Naruto: A Lenda da Pedra de Gelel (2005)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045402.mp4
+#EXTINF:-1 tvg-name="Fatal Fury 2: O Desafio de Krauser (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/XurVd4PxfsU3nzt4oxk49O8Fjd.jpg" group-title="INFANTIS PLUGINSTREAMING",Fatal Fury 2: O Desafio de Krauser (1993)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045401.mp4
+#EXTINF:-1 tvg-name="Frozen: Uma Aventura Congelante (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fh8yowTUdhF2EIYDSo0UgpJuatI.jpg" group-title="INFANTIS PLUGINSTREAMING",Frozen: Uma Aventura Congelante (2013)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045400.mp4
+#EXTINF:-1 tvg-name="Sem Norte (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2SpeGvseXAnpCT1iGLIT4nSWaG7.jpg" group-title="INFANTIS PLUGINSTREAMING",Sem Norte (2020)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045399.mp4
+#EXTINF:-1 tvg-name="Batman vs. Robin (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LK9q1ovubLoH4Ajswve7pxr5Se.jpg" group-title="INFANTIS PLUGINSTREAMING",Batman vs. Robin (2015)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045398.mp4
+#EXTINF:-1 tvg-name="Batman do Futuro: O Filme (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8YgqCWC9Vf9732oa4uUcQRR38GC.jpg" group-title="INFANTIS PLUGINSTREAMING",Batman do Futuro: O Filme (1999)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045397.mp4
+#EXTINF:-1 tvg-name="Atlantis: O Reino Perdido (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1vzOcucm5O2SrIQZDmhb0RCioh.jpg" group-title="INFANTIS PLUGINSTREAMING",Atlantis: O Reino Perdido (2001)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045396.mp4
+#EXTINF:-1 tvg-name="Meus Amigos Dinossauros (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ap4e3zJ5girxFryRddW6zXOHZAL.jpg" group-title="INFANTIS PLUGINSTREAMING",Meus Amigos Dinossauros (2012)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045394.mp4
+#EXTINF:-1 tvg-name="Minions (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zBpMdcxJelRvA7VPaF9GvoH5sZv.jpg" group-title="INFANTIS PLUGINSTREAMING",Minions (2015)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045393.mp4
+#EXTINF:-1 tvg-name="Cante com a Disney no Natal (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajWfaNxgu1z7aenyt3UyMnF9sfy.jpg" group-title="INFANTIS PLUGINSTREAMING",Cante com a Disney no Natal (2020)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045391.mp4
+#EXTINF:-1 tvg-name="A Incrível História da Pera Gigante (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFfWd5TkLOLemoqf0tdO4kGz71Y.jpg" group-title="INFANTIS PLUGINSTREAMING",A Incrível História da Pera Gigante (2017)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045390.mp4
+#EXTINF:-1 tvg-name="Irmãos Urso: A Viagem de Volta Pra Casa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFfWd5TkLOLemoqf0tdO4kGz71Y.jpg" group-title="INFANTIS PLUGINSTREAMING",Irmãos Urso: A Viagem de Volta Pra Casa
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045389.mp4
+#EXTINF:-1 tvg-name="A Ratinha Valente 2: O Segredo do Ratinho (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xpBvK12iDJkHm9KVZ8R4HyClrmH.jpg" group-title="INFANTIS PLUGINSTREAMING",A Ratinha Valente 2: O Segredo do Ratinho (1998)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045388.mp4
+#EXTINF:-1 tvg-name="Astro Kid (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2WjImKh2iXGFRuteLzXU782MJ6l.jpg" group-title="INFANTIS PLUGINSTREAMING",Astro Kid (2019)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045387.mp4
+#EXTINF:-1 tvg-name="O Espanta Tubarões (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7CPBvGiryIQkylibEm0YbLUvBEB.jpg" group-title="INFANTIS PLUGINSTREAMING",O Espanta Tubarões (2004)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045386.mp4
+#EXTINF:-1 tvg-name="Balto (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCVcdb5oxDizqFLz0F7TE60NoC9.jpg" group-title="INFANTIS PLUGINSTREAMING",Balto (1995)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045385.mp4
+#EXTINF:-1 tvg-name="A Pequena Sereia: A História de Ariel (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qW6uvSFzHIJm9Y8ZfFuTl71HxMh.jpg" group-title="INFANTIS PLUGINSTREAMING",A Pequena Sereia: A História de Ariel (2008)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045384.mp4
+#EXTINF:-1 tvg-name="Jumbo (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sET1CMQ0CUqjWQTocqSDxKoXBp4.jpg" group-title="INFANTIS PLUGINSTREAMING",Jumbo (2008)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045383.mp4
+#EXTINF:-1 tvg-name="Liga da Justiça Sombria: Guerra de Apokolips (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/okZMETLdhZypwJfzwjeWIzkIBaK.jpg" group-title="INFANTIS PLUGINSTREAMING",Liga da Justiça Sombria: Guerra de Apokolips (2020)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045382.mp4
+#EXTINF:-1 tvg-name="Minions Curta: Amarelo é o Novo Preto (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQN3wqHwvYoYIDFkKQ4QcuNQxoq.jpg" group-title="INFANTIS PLUGINSTREAMING",Minions Curta: Amarelo é o Novo Preto (2018)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045381.mp4
+#EXTINF:-1 tvg-name="Pocahontas (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q5MYFXVy8UQ1ds76fdJs6AJbMzv.jpg" group-title="INFANTIS PLUGINSTREAMING",Pocahontas (1995)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045380.mp4
+#EXTINF:-1 tvg-name="Eterno 831 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgD7nySNJTTZSh9IMAhsSSwDNKz.jpg" group-title="INFANTIS PLUGINSTREAMING",Eterno 831 (2022)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045379.mp4
+#EXTINF:-1 tvg-name="Child of Kamiari Month (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4ThopqezrxVwDorOVCIG4W5BRk.jpg" group-title="INFANTIS PLUGINSTREAMING",Child of Kamiari Month (2021)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045378.mp4
+#EXTINF:-1 tvg-name="As Aventuras de Paddington (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5OkckWBfVPajkIye5PqommeLtDS.jpg" group-title="INFANTIS PLUGINSTREAMING",As Aventuras de Paddington (2014)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045377.mp4
+#EXTINF:-1 tvg-name="Hulk vs. Wolverine (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5OkckWBfVPajkIye5PqommeLtDS.jpg" group-title="INFANTIS PLUGINSTREAMING",Hulk vs. Wolverine (2009)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045376.mp4
+#EXTINF:-1 tvg-name="Arctic Dogs (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckHc0WcqX4lgo28tO8YRMaQQjxu.jpg" group-title="INFANTIS PLUGINSTREAMING",Arctic Dogs (2019)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045375.mp4
+#EXTINF:-1 tvg-name="Fatal Fury: Rei dos Lutadores (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3WU8cu3jtKAZMlY4FEoSakxW89i.jpg" group-title="INFANTIS PLUGINSTREAMING",Fatal Fury: Rei dos Lutadores (1992)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045374.mp4
+#EXTINF:-1 tvg-name="Aladdin (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qYB8MwE6AgLFe5ruBUmPA0RWRPY.jpg" group-title="INFANTIS PLUGINSTREAMING",Aladdin (1992)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045373.mp4
+#EXTINF:-1 tvg-name="Pokémon 6: Jirachi - Realizador de Desejos (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIULywQnT4pAJxAhJFNo9yaYRBq.jpg" group-title="INFANTIS PLUGINSTREAMING",Pokémon 6: Jirachi - Realizador de Desejos (2003)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045372.mp4
+#EXTINF:-1 tvg-name="O Herói Cuco (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y6yeAsB2Ynw0cPUc9yj62eJQXnN.jpg" group-title="INFANTIS PLUGINSTREAMING",O Herói Cuco (2016)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045371.mp4
+#EXTINF:-1 tvg-name="Gisaku e a Chave do Tempo (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/naGhft30x6BEJxynNk3ZjnOjXLZ.jpg" group-title="INFANTIS PLUGINSTREAMING",Gisaku e a Chave do Tempo (2005)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045370.mp4
+#EXTINF:-1 tvg-name="Alvin e os Esquilos (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o2WoeYJv9ISS9bw0kKD2cvmg9xN.jpg" group-title="INFANTIS PLUGINSTREAMING",Alvin e os Esquilos (2007)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045369.mp4
+#EXTINF:-1 tvg-name="Robin Hood (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ueby0ItqnT53Llu1Z6995Bps8UO.jpg" group-title="INFANTIS PLUGINSTREAMING",Robin Hood (1973)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045368.mp4
+#EXTINF:-1 tvg-name="LEGO Star Wars: Especial de Festas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kqN43yygrJM2ckpnYBdtJRmn1b.jpg" group-title="INFANTIS PLUGINSTREAMING",LEGO Star Wars: Especial de Festas (2020)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045367.mp4
+#EXTINF:-1 tvg-name="O Bom Gigante Amigo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAbbJPbRnY8TRwFure08S7SWnM9.jpg" group-title="INFANTIS PLUGINSTREAMING",O Bom Gigante Amigo (2016)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045366.mp4
+#EXTINF:-1 tvg-name="Bartok o Magnífico (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r243zEE7lTd8E6WwbtEGgu5dOs.jpg" group-title="INFANTIS PLUGINSTREAMING",Bartok o Magnífico (1999)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045365.mp4
+#EXTINF:-1 tvg-name="Ben (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xW8NRrCptRNYu12PisTyd0YIwC2.jpg" group-title="INFANTIS PLUGINSTREAMING",Ben (2023)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045364.mp4
+#EXTINF:-1 tvg-name="Aladdin e os 40 Ladrões (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOXlD75Is9T11tdDxfzrsIFg10w.jpg" group-title="INFANTIS PLUGINSTREAMING",Aladdin e os 40 Ladrões (1996)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045363.mp4
+#EXTINF:-1 tvg-name="Marvel Vs Capcom Infinite" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOXlD75Is9T11tdDxfzrsIFg10w.jpg" group-title="INFANTIS PLUGINSTREAMING",Marvel Vs Capcom Infinite
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045362.mp4
+#EXTINF:-1 tvg-name="A Saga dos Padrinhos Mágicos (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqUQeOCB4C7cGZlzSQtKe69gbA2.jpg" group-title="INFANTIS PLUGINSTREAMING",A Saga dos Padrinhos Mágicos (2009)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045361.mp4
+#EXTINF:-1 tvg-name="Pokémon o Filme: O Poder de Todos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5JDpggW74NfM36e3vXV0aN5b7ZD.jpg" group-title="INFANTIS PLUGINSTREAMING",Pokémon o Filme: O Poder de Todos (2018)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045360.mp4
+#EXTINF:-1 tvg-name="Liga da Justiça: Os Cinco Fatais (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wGUGI6zPSXYx9eUxaoihEXO5mf2.jpg" group-title="INFANTIS PLUGINSTREAMING",Liga da Justiça: Os Cinco Fatais (2019)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045359.mp4
+#EXTINF:-1 tvg-name="Batman Sem Limites: Caos Monstruoso (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Z2wxal8o520pPOyL7eznejThrq.jpg" group-title="INFANTIS PLUGINSTREAMING",Batman Sem Limites: Caos Monstruoso (2015)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045358.mp4
+#EXTINF:-1 tvg-name="Meu Malvado Favorito 2 (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rbl6J630P7yjJbjSH87qcf8RbaX.jpg" group-title="INFANTIS PLUGINSTREAMING",Meu Malvado Favorito 2 (2013)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045357.mp4
+#EXTINF:-1 tvg-name="Peter Pan (1953)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooZYY1HiuekAYoZgR91xdndCFCh.jpg" group-title="INFANTIS PLUGINSTREAMING",Peter Pan (1953)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045356.mp4
+#EXTINF:-1 tvg-name="A Grande Escapada (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/835Yw9f0gYyR8RSsDKL34VEgCjL.jpg" group-title="INFANTIS PLUGINSTREAMING",A Grande Escapada (1966)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045355.mp4
+#EXTINF:-1 tvg-name="Bayonetta: Destino Sangrento (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNkX3ZbPkEPEp4d82qnuHYIKEST.jpg" group-title="INFANTIS PLUGINSTREAMING",Bayonetta: Destino Sangrento (2013)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045354.mp4
+#EXTINF:-1 tvg-name="O Gato de Botas: Os Três Diabos (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ptvbHUWpU8Nh6vrmSvjx4ESDgfC.jpg" group-title="INFANTIS PLUGINSTREAMING",O Gato de Botas: Os Três Diabos (2012)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045353.mp4
+#EXTINF:-1 tvg-name="As Aventuras de Peabody e Sherman (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ndGl3yPRbHlem0PuDJuUvUuY9dQ.jpg" group-title="INFANTIS PLUGINSTREAMING",As Aventuras de Peabody e Sherman (2014)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045352.mp4
+#EXTINF:-1 tvg-name="O Expresso Polar (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/adXE99ie9wBdpdvdrB2HDpl9aoV.jpg" group-title="INFANTIS PLUGINSTREAMING",O Expresso Polar (2004)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045351.mp4
+#EXTINF:-1 tvg-name="Os Smurfs 2 (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/52p2PtBAebB0HwvfY5YIowT7sFI.jpg" group-title="INFANTIS PLUGINSTREAMING",Os Smurfs 2 (2013)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045349.mp4
+#EXTINF:-1 tvg-name="Animais em Apuros (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kiz3KNsePwMi9A5CYCkID6hi0C4.jpg" group-title="INFANTIS PLUGINSTREAMING",Animais em Apuros (2018)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045348.mp4
+#EXTINF:-1 tvg-name="Em Busca do Vale Encantado IV: Viagem Através da Névoa (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pucOq39RqQitWcfLW6GQpLsMFmS.jpg" group-title="INFANTIS PLUGINSTREAMING",Em Busca do Vale Encantado IV: Viagem Através da Névoa (1996)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045347.mp4
+#EXTINF:-1 tvg-name="Klaus (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/guyZW9AQdTMp2F4esttjyIMMK1k.jpg" group-title="INFANTIS PLUGINSTREAMING",Klaus (2019)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045346.mp4
+#EXTINF:-1 tvg-name="Ranma ½: Filme 2 - Nihao My Concubine (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmYWCVWCM81XiQTI0I7EWG5y5ur.jpg" group-title="INFANTIS PLUGINSTREAMING",Ranma ½: Filme 2 - Nihao My Concubine (1992)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045345.mp4
+#EXTINF:-1 tvg-name="Coraline e o Mundo Secreto (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rranXmvqPT4NoXzmxhFtXr9nNYT.jpg" group-title="INFANTIS PLUGINSTREAMING",Coraline e o Mundo Secreto (2009)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045344.mp4
+#EXTINF:-1 tvg-name="AGENTE (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVZRFTOknQZm1qSpK5QqWsLvxV8.jpg" group-title="INFANTIS PLUGINSTREAMING",AGENTE (2018)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045343.mp4
+#EXTINF:-1 tvg-name="Super Monstros Turma Nova (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Dv6emhYCz6JVwUJZU5j8C4Jdi7.jpg" group-title="INFANTIS PLUGINSTREAMING",Super Monstros Turma Nova (2020)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045342.mp4
+#EXTINF:-1 tvg-name="Reino do Superman (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4rWHJLzM8CrsdtcTOLGY58ef4j.jpg" group-title="INFANTIS PLUGINSTREAMING",Reino do Superman (2019)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045341.mp4
+#EXTINF:-1 tvg-name="Em Busca do Vale Encantado (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qMJ56ZOBLguROa3Hpkw8n8FS555.jpg" group-title="INFANTIS PLUGINSTREAMING",Em Busca do Vale Encantado (1988)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045340.mp4
+#EXTINF:-1 tvg-name="As Aventuras de Tintim (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lSzqfKyzb7nRCZ3qihPhdspZeMA.jpg" group-title="INFANTIS PLUGINSTREAMING",As Aventuras de Tintim (2011)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045339.mp4
+#EXTINF:-1 tvg-name="Lego Ninjago: O Filme (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuWC8NXGjooaJFZTxpxotZ0AMlR.jpg" group-title="INFANTIS PLUGINSTREAMING",Lego Ninjago: O Filme (2017)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045338.mp4
+#EXTINF:-1 tvg-name="Corgi: Top Dog (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bADPrYHUtPv6tTUaEiU03JuYEJc.jpg" group-title="INFANTIS PLUGINSTREAMING",Corgi: Top Dog (2019)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045337.mp4
+#EXTINF:-1 tvg-name="Megamente (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbiEPYIfdRENV7t0KvMZJ2HIfcQ.jpg" group-title="INFANTIS PLUGINSTREAMING",Megamente (2010)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045336.mp4
+#EXTINF:-1 tvg-name="Batman: O Longo Dia das Bruxas - Parte 1 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5QiyFLxCQNojxA6PUJwkgeE2HvD.jpg" group-title="INFANTIS PLUGINSTREAMING",Batman: O Longo Dia das Bruxas - Parte 1 (2021)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045335.mp4
+#EXTINF:-1 tvg-name="Pets Unidos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPhPXOL1wN1OPTqoCCcLJnHbgyn.jpg" group-title="INFANTIS PLUGINSTREAMING",Pets Unidos (2019)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045334.mp4
+#EXTINF:-1 tvg-name="Christopher Robin: Um Reencontro Inesquecível (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zTlGXx2A1JwdaLvLQXmb0lYBdDt.jpg" group-title="INFANTIS PLUGINSTREAMING",Christopher Robin: Um Reencontro Inesquecível (2018)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045333.mp4
+#EXTINF:-1 tvg-name="Enrolados (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bmbKwPL8nEE5ASZsGYonBsjY6bx.jpg" group-title="INFANTIS PLUGINSTREAMING",Enrolados (2010)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045332.mp4
+#EXTINF:-1 tvg-name="A Princesa e o Dragão (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eWpbrTpACpLIGUA2RNdVwpwkdd0.jpg" group-title="INFANTIS PLUGINSTREAMING",A Princesa e o Dragão (2018)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045331.mp4
+#EXTINF:-1 tvg-name="A Lenda da Serpente (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmJsSOQtuU7xwN48ATCPrI96ENM.jpg" group-title="INFANTIS PLUGINSTREAMING",A Lenda da Serpente (2019)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045330.mp4
+#EXTINF:-1 tvg-name="Marvel Rising: Guerreiros Secretos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/naGAVjCQkTCEYqAvFSz1nMLccBR.jpg" group-title="INFANTIS PLUGINSTREAMING",Marvel Rising: Guerreiros Secretos (2018)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045329.mp4
+#EXTINF:-1 tvg-name="Era uma Vez um Boneco de Neve (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/334CebHp60Kg8xhMnJrrTtgiRxK.jpg" group-title="INFANTIS PLUGINSTREAMING",Era uma Vez um Boneco de Neve (2020)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045328.mp4
+#EXTINF:-1 tvg-name="Osmar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/334CebHp60Kg8xhMnJrrTtgiRxK.jpg" group-title="INFANTIS PLUGINSTREAMING",Osmar
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045327.mp4
+#EXTINF:-1 tvg-name="Alvin e os Esquilos 3 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1yk43x6M0PAq7tVsksOIcWi9k3Y.jpg" group-title="INFANTIS PLUGINSTREAMING",Alvin e os Esquilos 3 (2011)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045326.mp4
+#EXTINF:-1 tvg-name="Anastasia (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bppGWGA8zq1sRvTdDJnUzVW9GcH.jpg" group-title="INFANTIS PLUGINSTREAMING",Anastasia (1997)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045325.mp4
+#EXTINF:-1 tvg-name="Mulher-Maravilha: Linhagem de Sangue (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjwO46qdVwq2WxoYT4qlKpuaGxX.jpg" group-title="INFANTIS PLUGINSTREAMING",Mulher-Maravilha: Linhagem de Sangue (2019)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045324.mp4
+#EXTINF:-1 tvg-name="Pinóquio 3000 (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9U5nRgaXZthxfjopUcBueX8fZvp.jpg" group-title="INFANTIS PLUGINSTREAMING",Pinóquio 3000 (2004)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045323.mp4
+#EXTINF:-1 tvg-name="Horton e o Mundo dos Quem! (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccbrPygrecMP2QnGcC6taskeiNS.jpg" group-title="INFANTIS PLUGINSTREAMING",Horton e o Mundo dos Quem! (2008)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045322.mp4
+#EXTINF:-1 tvg-name="A Dama e o Vagabundo II: As Aventuras de Banzé (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r8kqvSoshJobn1zdZhJM0Gnj1kx.jpg" group-title="INFANTIS PLUGINSTREAMING",A Dama e o Vagabundo II: As Aventuras de Banzé (2001)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045321.mp4
+#EXTINF:-1 tvg-name="Frozen 2 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgY7jbAxqn6iiFxApdkmpPaUxYW.jpg" group-title="INFANTIS PLUGINSTREAMING",Frozen 2 (2019)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045320.mp4
+#EXTINF:-1 tvg-name="Garfield (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xYuyd5udAQkdwgm2gknxDMqYuOf.jpg" group-title="INFANTIS PLUGINSTREAMING",Garfield (2017)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045319.mp4
+#EXTINF:-1 tvg-name="O Congresso Futurista (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xYuyd5udAQkdwgm2gknxDMqYuOf.jpg" group-title="INFANTIS PLUGINSTREAMING",O Congresso Futurista (2013)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045318.mp4
+#EXTINF:-1 tvg-name="Aviões 2: Heróis do Fogo ao Resgate (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/61OQPchvsTPr7pQPggGLbTgG7vY.jpg" group-title="INFANTIS PLUGINSTREAMING",Aviões 2: Heróis do Fogo ao Resgate (2014)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045317.mp4
+#EXTINF:-1 tvg-name="A Lenda dos Guardiões (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zWx7qwzT0WDRUaJafnotACJDX3e.jpg" group-title="INFANTIS PLUGINSTREAMING",A Lenda dos Guardiões (2010)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045316.mp4
+#EXTINF:-1 tvg-name="FormiguinhaZ (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/plM5vyLRiiVrVlLC7bQPVmjSwN2.jpg" group-title="INFANTIS PLUGINSTREAMING",FormiguinhaZ (1998)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045315.mp4
+#EXTINF:-1 tvg-name="Bernardo e Bianca na Terra dos Cangurus (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRYhDfnXrkRhUr76bBUO0AqXN9p.jpg" group-title="INFANTIS PLUGINSTREAMING",Bernardo e Bianca na Terra dos Cangurus (1990)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045314.mp4
+#EXTINF:-1 tvg-name="Asterix e o Segredo da Poção Mágica (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0zfYNjoXQKDoHlYJqIvGx9Hkvx.jpg" group-title="INFANTIS PLUGINSTREAMING",Asterix e o Segredo da Poção Mágica (2018)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045313.mp4
+#EXTINF:-1 tvg-name="O Bicho Vai Pegar (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6n81JDmbKnjjdagHmPx3gSGVNr.jpg" group-title="INFANTIS PLUGINSTREAMING",O Bicho Vai Pegar (2006)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045312.mp4
+#EXTINF:-1 tvg-name="As Aventuras de Tadeo (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aDzLeKUiCqsZewE6HXndTxr5WgL.jpg" group-title="INFANTIS PLUGINSTREAMING",As Aventuras de Tadeo (2012)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045311.mp4
+#EXTINF:-1 tvg-name="A Princesa e a Ervilha (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oC1wcIY9VECwRkRd6nS4DSHVrMR.jpg" group-title="INFANTIS PLUGINSTREAMING",A Princesa e a Ervilha (2002)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045310.mp4
+#EXTINF:-1 tvg-name="As Aventuras de Paddington 2 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bVAplALQBfKNRrAdOWol6T49Yw6.jpg" group-title="INFANTIS PLUGINSTREAMING",As Aventuras de Paddington 2 (2017)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045309.mp4
+#EXTINF:-1 tvg-name="BETO (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5t6PguxDa3MiTVlqCKb3LxNoKYW.jpg" group-title="INFANTIS PLUGINSTREAMING",BETO (2022)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045308.mp4
+#EXTINF:-1 tvg-name="As Aventuras de Tadeo 2: O Segredo do Rei Midas (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqEAcGkY274kboyv51e93KO1n7.jpg" group-title="INFANTIS PLUGINSTREAMING",As Aventuras de Tadeo 2: O Segredo do Rei Midas (2017)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045307.mp4
+#EXTINF:-1 tvg-name="O Lorax: Em Busca da Trúfula Perdida (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rfClKuMmhFawkdCJXMEV3OGOJ3.jpg" group-title="INFANTIS PLUGINSTREAMING",O Lorax: Em Busca da Trúfula Perdida (2012)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045306.mp4
+#EXTINF:-1 tvg-name="Monstros vs Alienígenas (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rkV9oqoxun8h0aMQAhUR1rY60a1.jpg" group-title="INFANTIS PLUGINSTREAMING",Monstros vs Alienígenas (2009)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045305.mp4
+#EXTINF:-1 tvg-name="A Dama e o Vagabundo (1955)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKBA03V9LvfpvcNfUgAwdydRSA1.jpg" group-title="INFANTIS PLUGINSTREAMING",A Dama e o Vagabundo (1955)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045304.mp4
+#EXTINF:-1 tvg-name="Naruto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKBA03V9LvfpvcNfUgAwdydRSA1.jpg" group-title="INFANTIS PLUGINSTREAMING",Naruto
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045302.mp4
+#EXTINF:-1 tvg-name="A Ilha do Monstros (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmi6F3qtYnP0NdLiL0zkABtg1MY.jpg" group-title="INFANTIS PLUGINSTREAMING",A Ilha do Monstros (1987)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045301.mp4
+#EXTINF:-1 tvg-name="O Natal de Angela (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUUPFgIkYGb0okY1siub2wDg5Ly.jpg" group-title="INFANTIS PLUGINSTREAMING",O Natal de Angela (2017)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045300.mp4
+#EXTINF:-1 tvg-name="Os Smurfs: Um Conto de Natal (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eCQLOZB5RoWiC4ofTtUN73VcpOd.jpg" group-title="INFANTIS PLUGINSTREAMING",Os Smurfs: Um Conto de Natal (2011)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045299.mp4
+#EXTINF:-1 tvg-name="Mulan (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nq4taYpb2PjN1Cwni23GOZJbOaR.jpg" group-title="INFANTIS PLUGINSTREAMING",Mulan (1998)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045298.mp4
+#EXTINF:-1 tvg-name="Magia Estranha (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VQcLPXlJJZhNDYdjvOcw2KylUF.jpg" group-title="INFANTIS PLUGINSTREAMING",Magia Estranha (2015)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045297.mp4
+#EXTINF:-1 tvg-name="Being Gavin (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tv8G8ruEqR8zKyqv3lpf6jONyv9.jpg" group-title="INFANTIS PLUGINSTREAMING",Being Gavin (2019)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045296.mp4
+#EXTINF:-1 tvg-name="Rio 2 (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e0CKmNlKfWwc8LSgfyf4gYsTjjP.jpg" group-title="INFANTIS PLUGINSTREAMING",Rio 2 (2014)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045295.mp4
+#EXTINF:-1 tvg-name="Doutor Estranho (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oW4odCdgmYHgKt6AVOqUasrMVjC.jpg" group-title="INFANTIS PLUGINSTREAMING",Doutor Estranho (2016)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045294.mp4
+#EXTINF:-1 tvg-name="Diretamente de Lugar Nenhum: Scooby-Doo! Encontra Coragem (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kIzMlyaIFWWkFDVbla2O10kYe1b.jpg" group-title="INFANTIS PLUGINSTREAMING",Diretamente de Lugar Nenhum: Scooby-Doo! Encontra Coragem (2021)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045293.mp4
+#EXTINF:-1 tvg-name="Capitão Dentes de Sabre e o Diamante Mágico (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhxWyLscNxa2cSIkr3OzCA0QKKV.jpg" group-title="INFANTIS PLUGINSTREAMING",Capitão Dentes de Sabre e o Diamante Mágico (2020)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045292.mp4
+#EXTINF:-1 tvg-name="Ethel & Ernest (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSBSbvdI9j381JSORvhAhRu7Mrh.jpg" group-title="INFANTIS PLUGINSTREAMING",Ethel & Ernest (2016)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045291.mp4
+#EXTINF:-1 tvg-name="Pokémon: Lucario e o Mistério de Mew (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRwdr4emOEGRJht4H7eFDLcrAom.jpg" group-title="INFANTIS PLUGINSTREAMING",Pokémon: Lucario e o Mistério de Mew (2005)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045289.mp4
+#EXTINF:-1 tvg-name="Aristogatas (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iqp5afP5Wc18iu16FXxBrsh9dnd.jpg" group-title="INFANTIS PLUGINSTREAMING",Aristogatas (1970)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045287.mp4
+#EXTINF:-1 tvg-name="Osmose Jones" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iqp5afP5Wc18iu16FXxBrsh9dnd.jpg" group-title="INFANTIS PLUGINSTREAMING",Osmose Jones
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045286.mp4
+#EXTINF:-1 tvg-name="A Bruxa (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqOtwhj8DxOBIwI0u6ThooXEIBR.jpg" group-title="INFANTIS PLUGINSTREAMING",A Bruxa (2016)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045285.mp4
+#EXTINF:-1 tvg-name="My Hero Academia: O Filme - 2 Heróis (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUvte49bppXNUL5QGUZdhzTE9Q6.jpg" group-title="INFANTIS PLUGINSTREAMING",My Hero Academia: O Filme - 2 Heróis (2018)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045284.mp4
+#EXTINF:-1 tvg-name="O Caldeirão Mágico (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/euAKR1FKFxkS7MCVDVYgdoa15km.jpg" group-title="INFANTIS PLUGINSTREAMING",O Caldeirão Mágico (1985)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045283.mp4
+#EXTINF:-1 tvg-name="O Castelo Animado (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzvJO7kuycojauuRA9ke0d4uBkZ.jpg" group-title="INFANTIS PLUGINSTREAMING",O Castelo Animado (2004)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045282.mp4
+#EXTINF:-1 tvg-name="Minha Vida de Abobrinha (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jsmf7rlHvHN0oxuXZPH8xrBt39.jpg" group-title="INFANTIS PLUGINSTREAMING",Minha Vida de Abobrinha (2016)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045281.mp4
+#EXTINF:-1 tvg-name="A Nova Onda do Imperador (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLeHgN6zdW1rfKP3KXJwa4AbJx.jpg" group-title="INFANTIS PLUGINSTREAMING",A Nova Onda do Imperador (2000)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045280.mp4
+#EXTINF:-1 tvg-name="Mulan 2: A Lenda Continua (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWcoRhckk3F1v1HvaMvIyc9faZA.jpg" group-title="INFANTIS PLUGINSTREAMING",Mulan 2: A Lenda Continua (2004)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045279.mp4
+#EXTINF:-1 tvg-name="O Natal Mágico do Mickey - Nevou na Casa do Mickey (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUkFRdxLDKqvPkIlWk5FJEIkigL.jpg" group-title="INFANTIS PLUGINSTREAMING",O Natal Mágico do Mickey - Nevou na Casa do Mickey (2001)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045278.mp4
+#EXTINF:-1 tvg-name="Pica-Pau: O Filme (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJXWViokoejHZqEn7GWdNMQ4BRv.jpg" group-title="INFANTIS PLUGINSTREAMING",Pica-Pau: O Filme (2017)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045277.mp4
+#EXTINF:-1 tvg-name="Angry Birds: O Filme (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFXFfxCZe1pCYWzcGGxsxqc1bc7.jpg" group-title="INFANTIS PLUGINSTREAMING",Angry Birds: O Filme (2016)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045276.mp4
+#EXTINF:-1 tvg-name="Naruto Shippuden o Filme: Prisão de Sangue (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTQjUgNPv8uJATb8PNZNowxfehF.jpg" group-title="INFANTIS PLUGINSTREAMING",Naruto Shippuden o Filme: Prisão de Sangue (2011)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045275.mp4
+#EXTINF:-1 tvg-name="Um Conto Americano (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a9elS5roP45lpMmaRKuhDTXFWv9.jpg" group-title="INFANTIS PLUGINSTREAMING",Um Conto Americano (1986)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045274.mp4
+#EXTINF:-1 tvg-name="Dinossauro (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9aYipPdXLJO2d7Aoa9gnLXHlQfz.jpg" group-title="INFANTIS PLUGINSTREAMING",Dinossauro (2000)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045273.mp4
+#EXTINF:-1 tvg-name="A Bela e a Fera: O Natal Encantado (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkNjZN0gQtlsA0ZkAr3weIh9m7C.jpg" group-title="INFANTIS PLUGINSTREAMING",A Bela e a Fera: O Natal Encantado (1997)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045271.mp4
+#EXTINF:-1 tvg-name="Bombay Rose (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dXPo495OANEEtzCk9u4wJVpfqw.jpg" group-title="INFANTIS PLUGINSTREAMING",Bombay Rose (2019)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045270.mp4
+#EXTINF:-1 tvg-name="Abominável (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oC89hsRFoF4OcrgYIKysDD7M6XO.jpg" group-title="INFANTIS PLUGINSTREAMING",Abominável (2019)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045269.mp4
+#EXTINF:-1 tvg-name="A Princesa e o Sapo (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7uyZwjeHH9JmfULo4WzMsDpfW0S.jpg" group-title="INFANTIS PLUGINSTREAMING",A Princesa e o Sapo (2009)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045268.mp4
+#EXTINF:-1 tvg-name="Hellboy Animated: O Espírito de Fantasma (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7uyZwjeHH9JmfULo4WzMsDpfW0S.jpg" group-title="INFANTIS PLUGINSTREAMING",Hellboy Animated: O Espírito de Fantasma (2007)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045267.mp4
+#EXTINF:-1 tvg-name="Como o Grinch Roubou o Natal (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ir0iRuPK9OEuH569cp0nF5CJce.jpg" group-title="INFANTIS PLUGINSTREAMING",Como o Grinch Roubou o Natal (1966)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045266.mp4
+#EXTINF:-1 tvg-name="Boy in the Woods (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1m9IYLv3hkYNhniNhoSTplog5O8.jpg" group-title="INFANTIS PLUGINSTREAMING",Boy in the Woods (2020)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045265.mp4
+#EXTINF:-1 tvg-name="Heavy Metal 2000 (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mzOgKYOXiuwE5DIfagFs34bOb3J.jpg" group-title="INFANTIS PLUGINSTREAMING",Heavy Metal 2000 (2000)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045264.mp4
+#EXTINF:-1 tvg-name="Big Pai, Big Filho (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f3NYvraDC5yZrfUn9PvTE0TbRnm.jpg" group-title="INFANTIS PLUGINSTREAMING", Big Filho (2017)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045263.mp4
+#EXTINF:-1 tvg-name="LEGO Super Heróis DC: O Flash (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eCGkQ9PNrr93qklsj3wh9C8Ni1M.jpg" group-title="INFANTIS PLUGINSTREAMING",LEGO Super Heróis DC: O Flash (2018)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045262.mp4
+#EXTINF:-1 tvg-name="Mogli" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eCGkQ9PNrr93qklsj3wh9C8Ni1M.jpg" group-title="INFANTIS PLUGINSTREAMING",Mogli
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045261.mp4
+#EXTINF:-1 tvg-name="As Aventuras de Azur e Asmar (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRubk6Wv4njMyglt6Tnexswg1CI.jpg" group-title="INFANTIS PLUGINSTREAMING",As Aventuras de Azur e Asmar (2006)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045260.mp4
+#EXTINF:-1 tvg-name="Dummie A Múmia e a Tumba de Achnetut (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2obwJYn2N9teDclkgCgr79I5Y1R.jpg" group-title="INFANTIS PLUGINSTREAMING",Dummie A Múmia e a Tumba de Achnetut (2017)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045259.mp4
+#EXTINF:-1 tvg-name="Bambi 2 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpvRZcuWVT8LxQGzT5PJPWKiB5r.jpg" group-title="INFANTIS PLUGINSTREAMING",Bambi 2 (2006)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045258.mp4
+#EXTINF:-1 tvg-name="Lucas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHi7EN4nRBFV0xhQ3Rej57HjCpr.jpg" group-title="INFANTIS PLUGINSTREAMING",Lucas (2021)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045255.mp4
+#EXTINF:-1 tvg-name="Kingslave: Final Fantasy XV" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHi7EN4nRBFV0xhQ3Rej57HjCpr.jpg" group-title="INFANTIS PLUGINSTREAMING",Kingslave: Final Fantasy XV
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045254.mp4
+#EXTINF:-1 tvg-name="A Família Addams (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFwaszCIbVXGnsJG6dg6WUY7d6P.jpg" group-title="INFANTIS PLUGINSTREAMING",A Família Addams (1991)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045253.mp4
+#EXTINF:-1 tvg-name="Amigos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFwaszCIbVXGnsJG6dg6WUY7d6P.jpg" group-title="INFANTIS PLUGINSTREAMING",Amigos (2018)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045252.mp4
+#EXTINF:-1 tvg-name="As Peripécias do Ratinho Detetive (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3sk2bhjP5YBtmo2HNlAisvaxBY1.jpg" group-title="INFANTIS PLUGINSTREAMING",As Peripécias do Ratinho Detetive (1986)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045251.mp4
+#EXTINF:-1 tvg-name="Bambi (1942)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpgRyhfvS2ieJbS50z7vDrHrTXb.jpg" group-title="INFANTIS PLUGINSTREAMING",Bambi (1942)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045250.mp4
+#EXTINF:-1 tvg-name="As Aventuras de Fujiwara Manchester: O Filme (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4qDfyJ9BucztiShYjZLszxsILj5.jpg" group-title="INFANTIS PLUGINSTREAMING",As Aventuras de Fujiwara Manchester: O Filme (2019)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045249.mp4
+#EXTINF:-1 tvg-name="As Muitas Aventuras do Ursinho Pooh (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/drmonezw1z24j1LD5haP56QRIbs.jpg" group-title="INFANTIS PLUGINSTREAMING",As Muitas Aventuras do Ursinho Pooh (1977)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045248.mp4
+#EXTINF:-1 tvg-name="A Canção do Sul (1946)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/en2EQM7Iv5VMcCN3tWPV5mf7plh.jpg" group-title="INFANTIS PLUGINSTREAMING",A Canção do Sul (1946)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045272.mp4
+#EXTINF:-1 tvg-name="A Família do Futuro (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uR9rV69x4saB2vh9yfgQ5PA5E0r.jpg" group-title="INFANTIS PLUGINSTREAMING",A Família do Futuro (2007)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045257.mp4
+#EXTINF:-1 tvg-name="A Travessia (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8F78yefPAMVuIxYosXby3GfPsiK.jpg" group-title="INFANTIS PLUGINSTREAMING",A Travessia (2015)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045247.mp4
+#EXTINF:-1 tvg-name="A Fuga das Galinhas (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hp5shw8xyuYId322rT9am3HrKCQ.jpg" group-title="INFANTIS PLUGINSTREAMING",A Fuga das Galinhas (2000)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045245.mp4
+#EXTINF:-1 tvg-name="A Estrela de Belém (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9LD4vsEFV1o1vSt0LQf7v8IHma.jpg" group-title="INFANTIS PLUGINSTREAMING",A Estrela de Belém (2017)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045244.mp4
+#EXTINF:-1 tvg-name="A Era do Gelo 2 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5BSEXwvi0xDC2CbMkZQ0LngaVOh.jpg" group-title="INFANTIS PLUGINSTREAMING",A Era do Gelo 2 (2006)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045243.mp4
+#EXTINF:-1 tvg-name="Minions Curta: Amarelo é o Novo Preto (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQN3wqHwvYoYIDFkKQ4QcuNQxoq.jpg" group-title="INFANTIS PLUGINSTREAMING",Minions Curta: Amarelo é o Novo Preto (2018)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045241.mp4
+#EXTINF:-1 tvg-name="Alice no País das Maravilhas (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvD0kvICG7hP03vrNvylUINhafM.jpg" group-title="INFANTIS PLUGINSTREAMING",Alice no País das Maravilhas (2010)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045240.mp4
+#EXTINF:-1 tvg-name="A Vida Moderna de Rocko: Volta ao Lar (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mR68oX7S5nS6V2hCEsZzWoagH0x.jpg" group-title="INFANTIS PLUGINSTREAMING",A Vida Moderna de Rocko: Volta ao Lar (2019)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045237.mp4
+#EXTINF:-1 tvg-name="Animatrix (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oPHRLYim486RsjbedS5mTFM5ni6.jpg" group-title="INFANTIS PLUGINSTREAMING",Animatrix (2003)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045236.mp4
+#EXTINF:-1 tvg-name="A Viagem de Chihiro (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhoKhsyJ3hFaxEm5pMdZRiTu2lJ.jpg" group-title="INFANTIS PLUGINSTREAMING",A Viagem de Chihiro (2001)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045232.mp4
+#EXTINF:-1 tvg-name="A Noiva Cadáver (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tms7ulCuyhXyvMHd9Gyg9J6MMph.jpg" group-title="INFANTIS PLUGINSTREAMING",A Noiva Cadáver (2005)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045246.mp4
+#EXTINF:-1 tvg-name="A Casa Monstro (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qBEpDF693Bql7roL6LY3SsNHg52.jpg" group-title="INFANTIS PLUGINSTREAMING",A Casa Monstro (2006)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045242.mp4
+#EXTINF:-1 tvg-name="A Ratinha Valente (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydHOcvSIZNgp80r5fCrJf8jBevR.jpg" group-title="INFANTIS PLUGINSTREAMING",A Ratinha Valente (1982)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045238.mp4
+#EXTINF:-1 tvg-name="A Lenda do Pato Sol (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efFenszsONkgeqBU0rjG9jA6g6x.jpg" group-title="INFANTIS PLUGINSTREAMING",A Lenda do Pato Sol (2016)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045235.mp4
+#EXTINF:-1 tvg-name="A Era do Gelo 3 (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TmTkDpCTBzWvH7iX6gRqlElMeu.jpg" group-title="INFANTIS PLUGINSTREAMING",A Era do Gelo 3 (2009)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045234.mp4
+#EXTINF:-1 tvg-name="Aviões (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KrnsveRY7O6YR2X0j1vGrEksIZ.jpg" group-title="INFANTIS PLUGINSTREAMING",Aviões (2013)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045229.mp4
+#EXTINF:-1 tvg-name="A Pequena Sereia: A História de Ariel (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qW6uvSFzHIJm9Y8ZfFuTl71HxMh.jpg" group-title="INFANTIS PLUGINSTREAMING",A Pequena Sereia: A História de Ariel (2008)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045226.mp4
+#EXTINF:-1 tvg-name="A Origem dos Guardiões (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yK0iCFtWKFnwbbTqMd3nD06cq9g.jpg" group-title="INFANTIS PLUGINSTREAMING",A Origem dos Guardiões (2012)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045225.mp4
+#EXTINF:-1 tvg-name="A Volta ao Mundo em 80 Dias (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kuaBfUCrp1RBmdq1FsFHVe5eQO9.jpg" group-title="INFANTIS PLUGINSTREAMING",A Volta ao Mundo em 80 Dias (2021)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045224.mp4
+#EXTINF:-1 tvg-name="A Era do Gelo (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2NR4rJdD6bIVE61T7rhHxrrGvv.jpg" group-title="INFANTIS PLUGINSTREAMING",A Era do Gelo (2002)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045223.mp4
+#EXTINF:-1 tvg-name="A Caminho da Lua (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWZ3atqzyZ7GT1NrptLXwFI9vVb.jpg" group-title="INFANTIS PLUGINSTREAMING",A Caminho da Lua (2020)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045222.mp4
+#EXTINF:-1 tvg-name="11 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEE1bvDTpU39PJVyKkvkVtTTmVQ.jpg" group-title="INFANTIS PLUGINSTREAMING",11 (2017)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045221.mp4
+#EXTINF:-1 tvg-name="A Pequena Sereia (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yeo0MKX2cAE0Ge7qoeRCiMWvSjV.jpg" group-title="INFANTIS PLUGINSTREAMING",A Pequena Sereia (2023)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045220.mp4
+#EXTINF:-1 tvg-name="A Espada Era a Lei (1963)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5rtXHSx4sXJKMJsLR7OUjryCHl.jpg" group-title="INFANTIS PLUGINSTREAMING",A Espada Era a Lei (1963)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045219.mp4
+#EXTINF:-1 tvg-name="A Bela e a Fera (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/is4c02QuP70BCVLp27SSlDeByoe.jpg" group-title="INFANTIS PLUGINSTREAMING",A Bela e a Fera (1991)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/3045218.mp4
+#EXTINF:-1 tvg-name="O Despertar dos Poderes (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8WqHHfh4n7xMaYPF9wHq6Q4Tzk1.jpg" group-title="INFANTIS PLUGINSTREAMING",O Despertar dos Poderes (2022)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/2606320.mp4
+#EXTINF:-1 tvg-name="Master Kid - O Despertar de um Herói (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pxl3gQG1BebbA8GhcJXAvwuipgj.jpg" group-title="INFANTIS PLUGINSTREAMING",Master Kid - O Despertar de um Herói (2021)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/2257199.mp4
+#EXTINF:-1 tvg-name="Divertida Mente 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGvz7nlGQeePcVOpAzOcHsC7kRt.jpg" group-title="INFANTIS PLUGINSTREAMING",Divertida Mente 2 (2024)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/2255181.mp4
+#EXTINF:-1 tvg-name="As Aventuras de Sammy (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WkTLPos0myItXrrforHMKQlTvi.jpg" group-title="INFANTIS PLUGINSTREAMING",As Aventuras de Sammy (2010)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/2039845.mp4
+#EXTINF:-1 tvg-name="Tom & Jerry: Terra do Boneco de Neve (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZke9IRWqbrBeliSw8usGmXqFTL.jpg" group-title="INFANTIS PLUGINSTREAMING",Tom & Jerry: Terra do Boneco de Neve (2022)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/2039840.mp4
+#EXTINF:-1 tvg-name="Tom & Jerry: O Mágico de Oz (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUs6z0aZdJo99rJ62voOlF0BUOr.jpg" group-title="INFANTIS PLUGINSTREAMING",Tom & Jerry: O Mágico de Oz (2011)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/2039839.mp4
+#EXTINF:-1 tvg-name="Tom & Jerry no Velho Oeste (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/khy44zoKUqInUSWhdzzcQZKDU0P.jpg" group-title="INFANTIS PLUGINSTREAMING",Tom & Jerry no Velho Oeste (2022)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/2039838.mp4
+#EXTINF:-1 tvg-name="Tom e Jerry: Ajudantes do Papai Noel (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cO4vg8aFYCFKiJXxtyT30BBwqWU.jpg" group-title="INFANTIS PLUGINSTREAMING",Tom e Jerry: Ajudantes do Papai Noel (2014)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/2039837.mp4
+#EXTINF:-1 tvg-name="Tom & Jerry: Velozes e Ferozes (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dlKofOSw1fY9BUCy03UOca0OIJg.jpg" group-title="INFANTIS PLUGINSTREAMING",Tom & Jerry: Velozes e Ferozes (2005)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/2039836.mp4
+#EXTINF:-1 tvg-name="Tom & Jerry: Robin Hood e seu Ratinho Feliz (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fsb9vmk305VAJDWpct998uHdWP6.jpg" group-title="INFANTIS PLUGINSTREAMING",Tom & Jerry: Robin Hood e seu Ratinho Feliz (2012)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/2039835.mp4
+#EXTINF:-1 tvg-name="Tom & Jerry: O Filme (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NvYyM8H6d5KAVGqpyFV9YPO5cU.jpg" group-title="INFANTIS PLUGINSTREAMING",Tom & Jerry: O Filme (2021)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/2039834.mp4
+#EXTINF:-1 tvg-name="Tom & Jerry: O Dragão Perdido (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzd01r7Ar3kkqPpONXXX7S7WRgz.jpg" group-title="INFANTIS PLUGINSTREAMING",Tom & Jerry: O Dragão Perdido (2014)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/2039833.mp4
+#EXTINF:-1 tvg-name="Tom & Jerry: Aventura com o Gigante (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7jAuWL84wwgu8Mks8sJOiC1MpRC.jpg" group-title="INFANTIS PLUGINSTREAMING",Tom & Jerry: Aventura com o Gigante (2013)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/2039832.mp4
+#EXTINF:-1 tvg-name="Tom & Jerry: A Fantástica Fábrica de Chocolates (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zViPy2FpbtCU4kkedW3uK45aKUg.jpg" group-title="INFANTIS PLUGINSTREAMING",Tom & Jerry: A Fantástica Fábrica de Chocolates (2017)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/2039831.mp4
+#EXTINF:-1 tvg-name="Tom & Jerry: O Anel Mágico (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7w9htTCL9ikMzoduvAQfSm6bDIK.jpg" group-title="INFANTIS PLUGINSTREAMING",Tom & Jerry: O Anel Mágico (2002)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/2039830.mp4
+#EXTINF:-1 tvg-name="Tom & Jerry: Na Ilha do Tesouro (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgxmldGZgE8fIaTnhblSDhi2L5X.jpg" group-title="INFANTIS PLUGINSTREAMING",Tom & Jerry: Na Ilha do Tesouro (2006)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/2039829.mp4
+#EXTINF:-1 tvg-name="O Conto de Natal do Mickey (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7yKOdH05wTqWiRH0mpFF5TsLnYr.jpg" group-title="INFANTIS PLUGINSTREAMING",O Conto de Natal do Mickey (1983)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/2039828.mp4
+#EXTINF:-1 tvg-name="Os Simpsons: Homer Papai Noel (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bs8Z8i0VtC2IW7DlYDUMjRoyuEB.jpg" group-title="INFANTIS PLUGINSTREAMING",Os Simpsons: Homer Papai Noel (2024)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/2038862.mkv
+#EXTINF:-1 tvg-name="Piper: Descobrindo o Mundo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/45aUXGecIQKawGXfLchHJaYcF2F.jpg" group-title="INFANTIS PLUGINSTREAMING",Piper: Descobrindo o Mundo (2016)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/2035068.mp4
+#EXTINF:-1 tvg-name="Red: Crescer é Uma Fera (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qSoLBerH2841Ha4W0LYkexftlpc.jpg" group-title="INFANTIS PLUGINSTREAMING",Red: Crescer é Uma Fera (2022)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/2029887.mp4
+#EXTINF:-1 tvg-name="John e o Potrinho Mágico (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t66a8QPn7V8NzxoDEA7IANc4ixI.jpg" group-title="INFANTIS PLUGINSTREAMING",John e o Potrinho Mágico (2021)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/2028151.mp4
+#EXTINF:-1 tvg-name="O Pequeno Príncipe (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AeWqkAp2bAZEoj1GGd2jLc6R0LD.jpg" group-title="INFANTIS PLUGINSTREAMING",O Pequeno Príncipe (2015)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/2028150.mp4
+#EXTINF:-1 tvg-name="A Fuga das Galinhas: A Ameaça dos Nuggets (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8O7qM2ue5VHPsu1FFbZSRMpCqwY.jpg" group-title="INFANTIS PLUGINSTREAMING",A Fuga das Galinhas: A Ameaça dos Nuggets (2023)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/1612240.mp4
+#EXTINF:-1 tvg-name="A Era do Gelo: As Aventuras de Buck (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1iVjKCGHPVNj7IQVB1DdpL8U7Y8.jpg" group-title="INFANTIS PLUGINSTREAMING",A Era do Gelo: As Aventuras de Buck (2022)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/1612189.mp4
+#EXTINF:-1 tvg-name="Meu Malvado Favorito (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vS6GWMkvsRmKC64xsMyNWLgAO36.jpg" group-title="INFANTIS PLUGINSTREAMING",Meu Malvado Favorito (2010)
+http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/movie/446995713/137514716/1393872.mp4
 
