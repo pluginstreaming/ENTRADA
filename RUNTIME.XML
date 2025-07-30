@@ -1,41 +1,17 @@
-#EXTM3U                           
+#EXTM3U
 
 
 
 
-
-
-
-#EXTINF:-1 tvg-name="Runtime Ação" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" ,Runtime Ação
-http://newoneblack.site:80/1427440/123456/231438.ts
-#EXTINF:-1 tvg-name="Runtime Brasil HD²" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" ,Runtime Brasil HD²
-http://newoneblack.site:80/1427440/123456/231439.ts
-#EXTINF:-1 tvg-name="Runtime Cine Espanto" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" ,Runtime Cine Espanto
-http://newoneblack.site:80/1427440/123456/231440.ts
-#EXTINF:-1 tvg-name="Runtime Comédia" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" ,Runtime Comédia
-http://newoneblack.site:80/1427440/123456/231441.ts
-#EXTINF:-1 tvg-name="Runtime Crime" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" ,Runtime Crime
-http://newoneblack.site:80/1427440/123456/231442.ts
-#EXTINF:-1 tvg-name="Runtime Família" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" ,Runtime Família
-http://newoneblack.site:80/1427440/123456/231443.ts
-#EXTINF:-1 tvg-name="Runtime Movie Sphere" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" ,Runtime Movie Sphere
-http://newoneblack.site:80/1427440/123456/231444.ts
-#EXTINF:-1 tvg-name="Runtime Romance" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" ,Runtime Romance
-http://newoneblack.site:80/1427440/123456/231445.ts
-#EXTINF:-1 tvg-name="Runtime TG Brasil" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" ,Runtime TG Brasil
-http://newoneblack.site:80/1427440/123456/231446.ts
-#EXTINF:-1 tvg-name="Runtime TV & Filmes" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" ,Runtime TV & Filmes
-http://newoneblack.site:80/1427440/123456/231447.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-name="RUN-TIME AÇAO" tvg-logo="https://img.inboxbr.pro/icones_channels/runtime_br_action_bg.png" ,RUN-TIME AÇAO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/446995713/137514716/4231800
+#EXTINF:-1 tvg-name="RUN-TIME CRIME" tvg-logo="https://img.inboxbr.pro/icones_channels/runtime_crime_16x9_1.png" ,RUN-TIME CRIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/446995713/137514716/4231801
+#EXTINF:-1 tvg-name="RUN-TIME CÓMEDIA" tvg-logo="https://img.inboxbr.pro/icones_channels/br_comedy_bg.png" ,RUN-TIME CÓMEDIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/446995713/137514716/4231802
+#EXTINF:-1 tvg-name="RUN-TIME FAMILIA" tvg-logo="https://img.inboxbr.pro/icones_channels/runtime_familia_16x9_3_0.png" ,RUN-TIME FAMILIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/446995713/137514716/4231803
+#EXTINF:-1 tvg-name="RUN-TIME ROMANCE" tvg-logo="https://img.inboxbr.pro/icones_channels/runtime_romance_16x9_2.png" ,RUN-TIME ROMANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/446995713/137514716/4231804
+#EXTINF:-1 tvg-name="RUN-TIME TV & FILMES" tvg-logo="https://img.inboxbr.pro/icones_channels/runtime_br_1920x1080_0.png" ,RUN-TIME TV & FILMES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://sudgfeyuaqiuohytrgvbc.v3k28712sd.xyz:80/446995713/137514716/4231805
