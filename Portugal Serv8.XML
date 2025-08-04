@@ -3,559 +3,137 @@
 
 
 
-#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT | 24 KITCHEN" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/24-kitchen_0.png?itok=trbjd-1N" group-title="PORTUGAL",PT | 24 KITCHEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1628
-#EXTINF:-1 tvg-id="24-kitchen" tvg-name="PT | 24 KITCHEN" tvg-logo="https://logo.iptveditor.com/24kitchen.png" group-title="PORTUGAL",PT | 24 KITCHEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62895
-#EXTINF:-1 tvg-id="24-kitchen" tvg-name="PT | 24 KITCHEN (B)" tvg-logo="https://logo.iptveditor.com/24kitchen.png" group-title="PORTUGAL",PT | 24 KITCHEN (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62896
-#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="PT | A BOLA TV" tvg-logo="https://sport-tv-guide.live/images/stations/a798.png" group-title="PORTUGAL",PT | A BOLA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/13085
-#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="PT | A BOLA TV(OPCAO 2)" tvg-logo="https://sport-tv-guide.live/images/stations/a798.png" group-title="PORTUGAL",PT | A BOLA TV(OPCAO 2)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/24030
-#EXTINF:-1 tvg-id="AfroMusic.pt" tvg-name="PT | AFRO MUSIC" tvg-logo="https://www.trzcacak.rs/myfile/full/247-2470357_afro-afro-music.png" group-title="PORTUGAL",PT | AFRO MUSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1626
-#EXTINF:-1 tvg-id="afro-music" tvg-name="PT | AFRO MUSIC" tvg-logo="https://i.postimg.cc/tTXf01Xd/Afro-Music-Channel-logo-3.png" group-title="PORTUGAL",PT | AFRO MUSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62898
-#EXTINF:-1 tvg-id="ALMA LUSA" tvg-name="PT | ALMA LUSA" tvg-logo="https://i.postimg.cc/pd2RcPsV/alma-lusa.png" group-title="PORTUGAL",PT | ALMA LUSA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62899
-#EXTINF:-1 tvg-id="AMC.pt" tvg-name="PT | AMC" tvg-logo="http://200.77.160.48:8090/izzi/v4/img/dummy-img/channels/aMC.png" group-title="PORTUGAL",PT | AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1624
-#EXTINF:-1 tvg-id="amc" tvg-name="PT | AMC" tvg-logo="https://logo.iptveditor.com/amc.png" group-title="PORTUGAL",PT | AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62900
-#EXTINF:-1 tvg-id="amc" tvg-name="PT | AMC (B)" tvg-logo="https://logo.iptveditor.com/amc.png" group-title="PORTUGAL",PT | AMC (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62901
-#EXTINF:-1 tvg-id="ARTV PT" tvg-name="PT | ARTV" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/7tr2gd5mllfe.png" group-title="PORTUGAL",PT | ARTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1622
-#EXTINF:-1 tvg-id="artv" tvg-name="PT | ARTV" tvg-logo="https://logo.iptveditor.com/artv.png" group-title="PORTUGAL",PT | ARTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62902
-#EXTINF:-1 tvg-id="AXN-POR" tvg-name="PT | AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Axn.png" group-title="PORTUGAL",PT | AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1620
-#EXTINF:-1 tvg-id="axn-sd" tvg-name="PT | AXN" tvg-logo="https://logo.iptveditor.com/axn.png" group-title="PORTUGAL",PT | AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62903
-#EXTINF:-1 tvg-id="axn-sd" tvg-name="PT | AXN (B)" tvg-logo="https://logo.iptveditor.com/axn.png" group-title="PORTUGAL",PT | AXN (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62904
-#EXTINF:-1 tvg-id="AXNBlack.pt" tvg-name="PT | AXN BLACK" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112015/axn_black.png?itok=Qms3FUZl" group-title="PORTUGAL",PT | AXN BLACK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1621
-#EXTINF:-1 tvg-id="axn-bl-sd" tvg-name="PT | AXN MOVIES" tvg-logo="https://logo.iptveditor.com/axnmovies.png" group-title="PORTUGAL",PT | AXN MOVIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62905
-#EXTINF:-1 tvg-id="axn-bl-sd" tvg-name="PT | AXN MOVIES (B)" tvg-logo="https://logo.iptveditor.com/axnmovies.png" group-title="PORTUGAL",PT | AXN MOVIES (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62906
-#EXTINF:-1 tvg-id="AXNWhite.pt" tvg-name="PT | AXN WHITE" tvg-logo="https://seeklogo.com/images/A/axn-white-logo-4568307513-seeklogo.com.png" group-title="PORTUGAL",PT | AXN WHITE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1619
-#EXTINF:-1 tvg-id="axn-white-sd" tvg-name="PT | AXN WHITE" tvg-logo="https://logo.iptveditor.com/axnwhite.png" group-title="PORTUGAL",PT | AXN WHITE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62907
-#EXTINF:-1 tvg-id="axn-white-sd" tvg-name="PT | AXN WHITE (B)" tvg-logo="https://logo.iptveditor.com/axnwhite.png" group-title="PORTUGAL",PT | AXN WHITE (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62908
-#EXTINF:-1 tvg-id="Baby TV PT" tvg-name="PT | BABY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="PORTUGAL",PT | BABY TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1617
-#EXTINF:-1 tvg-id="baby-tv" tvg-name="PT | BABY TV" tvg-logo="https://logo.iptveditor.com/babytv.png" group-title="PORTUGAL",PT | BABY TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62909
-#EXTINF:-1 tvg-id="BBC Entertainment PT" tvg-name="PT | BBC ENTERTAINMENT" tvg-logo="https://areamedia.nl/wp-content/uploads/bbc-entertainment.png" group-title="PORTUGAL",PT | BBC ENTERTAINMENT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1616
-#EXTINF:-1 tvg-id="BBC Entertainment" tvg-name="PT | BBC ENTERTAINMENT" tvg-logo="https://logo.iptveditor.com/bbcentertainment.png" group-title="PORTUGAL",PT | BBC ENTERTAINMENT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62910
-#EXTINF:-1 tvg-id="BBC World PT" tvg-name="PT | BBC WORLD NEWS" tvg-logo="https://pbs.twimg.com/profile_images/1150717770478379008/8-XiwK-s_400x400.png" group-title="PORTUGAL",PT | BBC WORLD NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1615
-#EXTINF:-1 tvg-id="BBC World News" tvg-name="PT | BBC WORLD NEWS" tvg-logo="https://logo.iptveditor.com/bbcnews.png" group-title="PORTUGAL",PT | BBC WORLD NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62911
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="PT | BENFICA TV" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2017/08/benfica-tv.png" group-title="PORTUGAL",PT | BENFICA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1609
-#EXTINF:-1 tvg-id="benfica-tv-1-sd" tvg-name="PT | BENFICA TV" tvg-logo="https://logo.iptveditor.com/btv.png" group-title="PORTUGAL",PT | BENFICA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62912
-#EXTINF:-1 tvg-id="benfica-tv-1-sd" tvg-name="PT | BENFICA TV" tvg-logo="https://logo.iptveditor.com/btv.png" group-title="PORTUGAL",PT | BENFICA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62913
-#EXTINF:-1 tvg-id="benfica-tv-1-sd" tvg-name="PT | BENFICA TV (B)" tvg-logo="https://logo.iptveditor.com/btv.png" group-title="PORTUGAL",PT | BENFICA TV (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62914
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="PT | BENFICA TV(OPCAO 2)" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2017/08/benfica-tv.png" group-title="PORTUGAL",PT | BENFICA TV(OPCAO 2)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/26350
-#EXTINF:-1 tvg-id="panda-biggs" tvg-name="PT | BIGGS" tvg-logo="https://logo.iptveditor.com/biggs.png" group-title="PORTUGAL",PT | BIGGS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62915
-#EXTINF:-1 tvg-id="Blaze PT" tvg-name="PT | BLAZE" tvg-logo="https://image.roku.com/developer_channels/prod/e09d957355f61341352a484c6dd0fbaef06b2afc40014f8aadda14d061830fd6.png" group-title="PORTUGAL",PT | BLAZE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1614
-#EXTINF:-1 tvg-id="blaze-hd" tvg-name="PT | BLAZE" tvg-logo="https://logo.iptveditor.com/blaze.png" group-title="PORTUGAL",PT | BLAZE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62916
-#EXTINF:-1 tvg-id="bloomberg" tvg-name="PT | BLOOMBERG" tvg-logo="https://logo.iptveditor.com/bloomberg.png" group-title="PORTUGAL",PT | BLOOMBERG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62917
-#EXTINF:-1 tvg-id="cazaepesca.pt" tvg-name="PT | CACA E PESCA" tvg-logo="https://portalnacional.com.pt/images/icons/tv/CACAP.png" group-title="PORTUGAL",PT | CACA E PESCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1607
-#EXTINF:-1 tvg-id="CacaVision.pt" tvg-name="PT | CACA VISION" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/17/CASA_Vision.png/revision/latest?cb=20141230180937" group-title="PORTUGAL",PT | CACA VISION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1606
-#EXTINF:-1 tvg-id="Canal 11 HD PT" tvg-name="PT | CANAL 11" tvg-logo="https://sportguide.live/images/stations/a1787.png" group-title="PORTUGAL",PT | CANAL 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/24031
-#EXTINF:-1 tvg-id="c11" tvg-name="PT | CANAL 11" tvg-logo="https://logo.iptveditor.com/canal11.png" group-title="PORTUGAL",PT | CANAL 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62920
-#EXTINF:-1 tvg-id="c11" tvg-name="PT | CANAL 11 (B)" tvg-logo="https://logo.iptveditor.com/canal11.png" group-title="PORTUGAL",PT | CANAL 11 (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62921
-#EXTINF:-1 tvg-id="Canal 11 HD PT" tvg-name="PT | CANAL 11(OPCAO 2)" tvg-logo="https://sportguide.live/images/stations/a1787.png" group-title="PORTUGAL",PT | CANAL 11(OPCAO 2)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/26351
-#EXTINF:-1 tvg-id="c180" tvg-name="PT | CANAL 180" tvg-logo="https://logo.iptveditor.com/canal180.png" group-title="PORTUGAL",PT | CANAL 180
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62922
-#EXTINF:-1 tvg-id="canalpanda.pt" tvg-name="PT | CANAL PANDA" tvg-logo="https://image.roku.com/developer_channels/prod/d57160e099b0e72136d975fb478e2543eeca3539063d96b2271bda30ade1975f.png" group-title="PORTUGAL",PT | CANAL PANDA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1601
-#EXTINF:-1 tvg-id="panda-sd" tvg-name="PT | CANAL PANDA" tvg-logo="https://logo.iptveditor.com/canalpanda.png" group-title="PORTUGAL",PT | CANAL PANDA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62923
-#EXTINF:-1 tvg-id="CanalQ.pt" tvg-name="PT | CANAL Q" tvg-logo="https://www.thematv.com/images/channels/canal-q.png" group-title="PORTUGAL",PT | CANAL Q
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1600
-#EXTINF:-1 tvg-id="canal-q" tvg-name="PT | CANAL Q" tvg-logo="https://logo.iptveditor.com/canalq.png" group-title="PORTUGAL",PT | CANAL Q
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62924
-#EXTINF:-1 tvg-id="CANCAONOVA.pt" tvg-name="PT | CANCAO NOVA" tvg-logo="https://media.licdn.com/dms/image/C560BAQEW8baU2jVw5A/company-logo_200_200/0?e=2159024400&v=beta&t=0aYZL8eXGak8C3D4MeydQhw8FBs2N5wSCoj4J7xZqfc" group-title="PORTUGAL",PT | CANCAO NOVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1599
-#EXTINF:-1 tvg-id="cartoon.pt" tvg-name="PT | CARTOON NETWORK" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/buy-cheap-cartoon-network-clothing-toys-png-logo-5.png" group-title="PORTUGAL",PT | CARTOON NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1598
-#EXTINF:-1 tvg-id="cartoon-network" tvg-name="PT | CARTOON NETWORK" tvg-logo="https://logo.iptveditor.com/cartoonnetwork.png" group-title="PORTUGAL",PT | CARTOON NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62926
-#EXTINF:-1 tvg-id="casa-e-cozinha" tvg-name="PT | CASA E COZINHA" tvg-logo="https://i.postimg.cc/cH0JVcgD/Casa-e-cozinha-Logo.png" group-title="PORTUGAL",PT | CASA E COZINHA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62927
-#EXTINF:-1 tvg-id="caca-e-pesca" tvg-name="PT | CAÇA E PESCA" tvg-logo="https://logo.iptveditor.com/aepesca.png" group-title="PORTUGAL",PT | CAÇA E PESCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62918
-#EXTINF:-1 tvg-id="cacavision" tvg-name="PT | CAÇAVISION" tvg-logo="https://logo.iptveditor.com/cacavision.png" group-title="PORTUGAL",PT | CAÇAVISION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62919
-#EXTINF:-1 tvg-id="CBSReality.pt" tvg-name="PT | CBS REALITY" tvg-logo="https://hqtv.biz/tv/logos/m/cbs-reality.png" group-title="PORTUGAL",PT | CBS REALITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1597
-#EXTINF:-1 tvg-id="Cinemundo.pt" tvg-name="PT | CINEMUNDO" tvg-logo="http://www.comandotv.com/xbmc/cinemundo.png" group-title="PORTUGAL",PT | CINEMUNDO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1596
-#EXTINF:-1 tvg-id="cinemundo" tvg-name="PT | CINEMUNDO" tvg-logo="https://logo.iptveditor.com/cinemundo.png" group-title="PORTUGAL",PT | CINEMUNDO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62928
-#EXTINF:-1 tvg-id="cinemundo" tvg-name="PT | CINEMUNDO (B)" tvg-logo="https://logo.iptveditor.com/cinemundo.png" group-title="PORTUGAL",PT | CINEMUNDO (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62929
-#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="PT | CMTV" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CMTV.png" group-title="PORTUGAL",PT | CMTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1592
-#EXTINF:-1 tvg-id="cmtv-sd" tvg-name="PT | CMTV" tvg-logo="https://logo.iptveditor.com/cmtv.png" group-title="PORTUGAL",PT | CMTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62930
-#EXTINF:-1 tvg-id="cmtv-sd" tvg-name="PT | CMTV (B)" tvg-logo="https://logo.iptveditor.com/cmtv.png" group-title="PORTUGAL",PT | CMTV (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62931
-#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="PT | CMTV(OPCAO 2)" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CMTV.png" group-title="PORTUGAL",PT | CMTV(OPCAO 2)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1594
-#EXTINF:-1 tvg-id="cnbc" tvg-name="PT | CNBC EUROPE" tvg-logo="https://logo.iptveditor.com/cnbceu.png" group-title="PORTUGAL",PT | CNBC EUROPE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62932
-#EXTINF:-1 tvg-id="cnn" tvg-name="PT | CNN (EN)" tvg-logo="https://logo.iptveditor.com/cnn.png" group-title="PORTUGAL",PT | CNN (EN)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62933
-#EXTINF:-1 tvg-id="cnn-pt" tvg-name="PT | CNN PORTUGAL" tvg-logo="https://logo.iptveditor.com/cnn.png" group-title="PORTUGAL",PT | CNN PORTUGAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62934
-#EXTINF:-1 tvg-id="Crime plus Investigation PT" tvg-name="PT | CRIME + INVESTIGATION" tvg-logo="https://archive.org/download/CrimeInvestigation/CrimeInvestigation.png" group-title="PORTUGAL",PT | CRIME + INVESTIGATION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1591
-#EXTINF:-1 tvg-id="crime-inv" tvg-name="PT | CRIME + INVESTIGATION" tvg-logo="https://logo.iptveditor.com/crimeandinvestigation.png" group-title="PORTUGAL",PT | CRIME + INVESTIGATION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62935
-#EXTINF:-1 tvg-id="crime-inv" tvg-name="PT | CRIME + INVESTIGATION (B)" tvg-logo="https://logo.iptveditor.com/crimeandinvestigation.png" group-title="PORTUGAL",PT | CRIME + INVESTIGATION (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62936
-#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="PT | DISCOVERY CHANNEL" tvg-logo="https://p.pngsee.com/uploadpng/small/109-1091126_discovery-press-world-png-logo-logo-discovery-channel.png" group-title="PORTUGAL",PT | DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1589
-#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="PT | DISNEY CHANNEL" tvg-logo="https://www.netclipart.com/pp/m/261-2610808_disney-channel-png-disney-channel-mickey-ears.png" group-title="PORTUGAL",PT | DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1587
-#EXTINF:-1 tvg-id="disney-channel-sd" tvg-name="PT | DISNEY CHANNEL" tvg-logo="https://logo.iptveditor.com/disneychannel.png" group-title="PORTUGAL",PT | DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62939
-#EXTINF:-1 tvg-id="DisneyJunior.pt" tvg-name="PT | DISNEY JUNIOR" tvg-logo="http://www.throng.com.au/files/u3/disney-junior.png" group-title="PORTUGAL",PT | DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1586
-#EXTINF:-1 tvg-id="disney-junior" tvg-name="PT | DISNEY JUNIOR" tvg-logo="https://logo.iptveditor.com/disneyjunior.png" group-title="PORTUGAL",PT | DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62940
-#EXTINF:-1 tvg-id="DogTV.us" tvg-name="PT | DOG TV" tvg-logo="https://siteassets.pagecloud.com/dogtv/images/dogtvlogo-ID-b9f1e327-63e1-4d3c-9caf-da8b22a354e7.png" group-title="PORTUGAL",PT | DOG TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1585
-#EXTINF:-1 tvg-id="eentertainment.pt" tvg-name="PT | E!" tvg-logo="http://www.vector-logo.net/logo_preview/ai/e/Entertainment_TV_logo.png" group-title="PORTUGAL",PT | E!
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1584
-#EXTINF:-1 tvg-id="e-entertainment-sd" tvg-name="PT | E! ENTERTAINMENT" tvg-logo="https://logo.iptveditor.com/eentertainment.png" group-title="PORTUGAL",PT | E! ENTERTAINMENT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62942
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT | ELEVEN SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Eleven_Sports_1.png" group-title="PORTUGAL",PT | ELEVEN SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1581
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT | ELEVEN SPORTS 1(OPCAO 2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Eleven_Sports_1.png" group-title="PORTUGAL",PT | ELEVEN SPORTS 1(OPCAO 2)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1583
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT | ELEVEN SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ElevenSports_2.png" group-title="PORTUGAL",PT | ELEVEN SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1577
-#EXTINF:-1 tvg-id="eleven-sports-2-sd" tvg-name="PT | ELEVEN SPORTS 2" tvg-logo="https://logo.iptveditor.com/elevensports2.png" group-title="PORTUGAL",PT | ELEVEN SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62946
-#EXTINF:-1 tvg-id="eleven-sports-2-sd" tvg-name="PT | ELEVEN SPORTS 2 (B)" tvg-logo="https://logo.iptveditor.com/elevensports2.png" group-title="PORTUGAL",PT | ELEVEN SPORTS 2 (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62948
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT | ELEVEN SPORTS 3" group-title="PORTUGAL",PT | ELEVEN SPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1573
-#EXTINF:-1 tvg-id="eleven-sports-3-sd" tvg-name="PT | ELEVEN SPORTS 3" tvg-logo="https://logo.iptveditor.com/elevensports3.png" group-title="PORTUGAL",PT | ELEVEN SPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62950
-#EXTINF:-1 tvg-id="eleven-sports-3-sd" tvg-name="PT | ELEVEN SPORTS 3 (B)" tvg-logo="https://logo.iptveditor.com/elevensports3.png" group-title="PORTUGAL",PT | ELEVEN SPORTS 3 (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62951
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT | ELEVEN SPORTS 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/ElevenSports_4.png" group-title="PORTUGAL",PT | ELEVEN SPORTS 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1569
-#EXTINF:-1 tvg-id="eleven-sports-4-sd" tvg-name="PT | ELEVEN SPORTS 4" tvg-logo="https://logo.iptveditor.com/elevensports4.png" group-title="PORTUGAL",PT | ELEVEN SPORTS 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62953
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT | ELEVEN SPORTS 5" tvg-logo="https://sport-tv-guide.live/images/stations/a1558.png" group-title="PORTUGAL",PT | ELEVEN SPORTS 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1565
-#EXTINF:-1 tvg-id="eleven-sports-5-sd" tvg-name="PT | ELEVEN SPORTS 5" tvg-logo="https://logo.iptveditor.com/elevensports5.png" group-title="PORTUGAL",PT | ELEVEN SPORTS 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62955
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT | ELEVEN SPORTS 6" tvg-logo="https://sport-tv-guide.live/images/stations/a1559.png" group-title="PORTUGAL",PT | ELEVEN SPORTS 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1561
-#EXTINF:-1 tvg-id="eleven-sports-6-sd" tvg-name="PT | ELEVEN SPORTS 6" tvg-logo="https://logo.iptveditor.com/elevensports6.png" group-title="PORTUGAL",PT | ELEVEN SPORTS 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62958
-#EXTINF:-1 tvg-id="euronews.pt" tvg-name="PT | EURONEWS" tvg-logo="http://www.userlogos.org/files/logos/Hugo/euronews1.png" group-title="PORTUGAL",PT | EURONEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1559
-#EXTINF:-1 tvg-id="euronews" tvg-name="PT | EURONEWS" tvg-logo="https://logo.iptveditor.com/euronews.png" group-title="PORTUGAL",PT | EURONEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62961
-#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="PT | EUROSPORT 1" tvg-logo="http://portal.ipturkhd.com:8000/logos/eurosport1.png" group-title="PORTUGAL",PT | EUROSPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1558
-#EXTINF:-1 tvg-id="eurosport-1-sd" tvg-name="PT | EUROSPORT 1" tvg-logo="https://logo.iptveditor.com/eurosport1.png" group-title="PORTUGAL",PT | EUROSPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62962
-#EXTINF:-1 tvg-id="eurosport-1-sd" tvg-name="PT | EUROSPORT 1 (B)" tvg-logo="https://logo.iptveditor.com/eurosport1.png" group-title="PORTUGAL",PT | EUROSPORT 1 (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62963
-#EXTINF:-1 tvg-id="Eurosport 2 PT" tvg-name="PT | EUROSPORT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Eurosport_2_Logo.svg/220px-Eurosport_2_Logo.svg.png" group-title="PORTUGAL",PT | EUROSPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1556
-#EXTINF:-1 tvg-id="eurosport-2-sd" tvg-name="PT | EUROSPORT 2" tvg-logo="https://logo.iptveditor.com/eurosport2.png" group-title="PORTUGAL",PT | EUROSPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62964
-#EXTINF:-1 tvg-id="eurosport-2-sd" tvg-name="PT | EUROSPORT 2 (B)" tvg-logo="https://logo.iptveditor.com/eurosport2.png" group-title="PORTUGAL",PT | EUROSPORT 2 (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62965
-#EXTINF:-1 tvg-id="Fashion TV PT" tvg-name="PT | FASHION TV" tvg-logo="https://pbs.twimg.com/profile_images/377155464/FashionTV_logo.png" group-title="PORTUGAL",PT | FASHION TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1555
-#EXTINF:-1 tvg-id="Fight Channel HD PT" tvg-name="PT | FIGHT NETWORK" tvg-logo="http://www.powyeah.com/wp-content/uploads/2016/06/fight-network.png" group-title="PORTUGAL",PT | FIGHT NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1554
-#EXTINF:-1 tvg-id="Fight Network" tvg-name="PT | FIGHT NETWORK" tvg-logo="https://logo.iptveditor.com/fightnetwork.png" group-title="PORTUGAL",PT | FIGHT NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62966
-#EXTINF:-1 tvg-name="PT | FINE LIVING" tvg-logo="https://www.elkvant.sk/wp-content/uploads/fine-living-hd.png" group-title="PORTUGAL",PT | FINE LIVING
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1553
-#EXTINF:-1 tvg-id="Food Network HD PT" tvg-name="PT | FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/246px-Food_Network_New_Logo.png" group-title="PORTUGAL",PT | FOOD NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1552
-#EXTINF:-1 tvg-id="food-network" tvg-name="PT | FOOD NETWORK" tvg-logo="https://logo.iptveditor.com/foodnetwork.png" group-title="PORTUGAL",PT | FOOD NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62967
-#EXTINF:-1 tvg-id="fox.pt" tvg-name="PT | FOX" tvg-logo="https://pbs.twimg.com/profile_images/1176519394022658048/nFDAUWzR_400x400.png" group-title="PORTUGAL",PT | FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1547
-#EXTINF:-1 tvg-id="fox-sd" tvg-name="PT | FOX" tvg-logo="https://logo.iptveditor.com/fox.png" group-title="PORTUGAL",PT | FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62968
-#EXTINF:-1 tvg-id="fox-sd" tvg-name="PT | FOX (B)" tvg-logo="https://logo.iptveditor.com/fox.png" group-title="PORTUGAL",PT | FOX (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62969
-#EXTINF:-1 tvg-id="FOXComedy.pt" tvg-name="PT | FOX COMEDY" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-comedy-hd_m.png" group-title="PORTUGAL",PT | FOX COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1550
-#EXTINF:-1 tvg-id="fox-comedy-sd" tvg-name="PT | FOX COMEDY" tvg-logo="https://logo.iptveditor.com/foxcomedy.png" group-title="PORTUGAL",PT | FOX COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62970
-#EXTINF:-1 tvg-id="fox-comedy-sd" tvg-name="PT | FOX COMEDY (B)" tvg-logo="https://logo.iptveditor.com/foxcomedy.png" group-title="PORTUGAL",PT | FOX COMEDY (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62971
-#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="PT | FOX CRIME" tvg-logo="https://1.bp.blogspot.com/-LUcRqLO3-_w/VtCPP7a8XxI/AAAAAAAABEs/eLZ4w1mWwvw/s1600/fox_crime_asia_hd.gif" group-title="PORTUGAL",PT | FOX CRIME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1548
-#EXTINF:-1 tvg-id="fox-crime-sd" tvg-name="PT | FOX CRIME" tvg-logo="https://logo.iptveditor.com/foxcrime.png" group-title="PORTUGAL",PT | FOX CRIME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62972
-#EXTINF:-1 tvg-id="fox-crime-sd" tvg-name="PT | FOX CRIME (B)" tvg-logo="https://logo.iptveditor.com/foxcrime.png" group-title="PORTUGAL",PT | FOX CRIME (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62973
-#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="PT | FOX LIFE" tvg-logo="http://kccl.tv/sites/default/files/Fox-Life-HD.png" group-title="PORTUGAL",PT | FOX LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1546
-#EXTINF:-1 tvg-id="fox-life-sd" tvg-name="PT | FOX LIFE" tvg-logo="https://logo.iptveditor.com/foxlife.png" group-title="PORTUGAL",PT | FOX LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62974
-#EXTINF:-1 tvg-id="fox-life-sd" tvg-name="PT | FOX LIFE (B)" tvg-logo="https://logo.iptveditor.com/foxlife.png" group-title="PORTUGAL",PT | FOX LIFE (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62975
-#EXTINF:-1 tvg-id="FOX Movies PT" tvg-name="PT | FOX MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Fox_movies_arabia_%28bein%29.png" group-title="PORTUGAL",PT | FOX MOVIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1544
-#EXTINF:-1 tvg-id="fox-movies-sd" tvg-name="PT | FOX MOVIES" tvg-logo="https://logo.iptveditor.com/foxmovies.png" group-title="PORTUGAL",PT | FOX MOVIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62976
-#EXTINF:-1 tvg-id="fox-movies-sd" tvg-name="PT | FOX MOVIES (B)" tvg-logo="https://logo.iptveditor.com/foxmovies.png" group-title="PORTUGAL",PT | FOX MOVIES (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62977
-#EXTINF:-1 tvg-id="fashion-tv" tvg-name="PT | FTV" tvg-logo="https://logo.iptveditor.com/ftv.png" group-title="PORTUGAL",PT | FTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62978
-#EXTINF:-1 tvg-id="FuelTV.pt" tvg-name="PT | FUEL TV" tvg-logo="http://img.android.downloadatoz.com/upload/icon/t/v/f/tv-fuel-foxcablenetworks-activity-1403537127.jpg" group-title="PORTUGAL",PT | FUEL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1542
-#EXTINF:-1 tvg-id="fuel-tv" tvg-name="PT | FUEL TV" tvg-logo="https://logo.iptveditor.com/fueltv.png" group-title="PORTUGAL",PT | FUEL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62979
-#EXTINF:-1 tvg-id="globo-sd" tvg-name="PT | GLOBO" tvg-logo="https://logo.iptveditor.com/globo.png" group-title="PORTUGAL",PT | GLOBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62980
-#EXTINF:-1 tvg-id="globo-now" tvg-name="PT | GLOBO NOW" tvg-logo="https://logo.iptveditor.com/globonow.png" group-title="PORTUGAL",PT | GLOBO NOW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62981
-#EXTINF:-1 tvg-id="HistoryChannel.pt" tvg-name="PT | HISTORIA" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/06/historia_126.jpg" group-title="PORTUGAL",PT | HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1541
-#EXTINF:-1 tvg-id="historia-sd" tvg-name="PT | HISTÓRIA" tvg-logo="https://logo.iptveditor.com/historia.png" group-title="PORTUGAL",PT | HISTÓRIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62982
-#EXTINF:-1 tvg-id="hollywood.pt" tvg-name="PT | HOLLYWOOD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Chollywood.png" group-title="PORTUGAL",PT | HOLLYWOOD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1539
-#EXTINF:-1 tvg-id="id-investigation-discovery" tvg-name="PT | ID INVESTIGATION DISCOVERY" tvg-logo="https://logo.iptveditor.com/investigationdiscovery.png" group-title="PORTUGAL",PT | ID INVESTIGATION DISCOVERY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62986
-#EXTINF:-1 tvg-id="id-investigation-discovery" tvg-name="PT | ID INVESTIGATION DISCOVERY (B)" tvg-logo="https://logo.iptveditor.com/idinvestigationdiscovery.png" group-title="PORTUGAL",PT | ID INVESTIGATION DISCOVERY (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62987
-#EXTINF:-1 tvg-id="ID Investigation Discovery PT" tvg-name="PT | INVESTIGATION DISCOVERY" tvg-logo="https://1s7efb3dokct1y2e4q31coij-wpengine.netdna-ssl.com/wp-content/uploads/2019/04/logo-blk-id@2x.png" group-title="PORTUGAL",PT | INVESTIGATION DISCOVERY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1538
-#EXTINF:-1 tvg-id="KombatSport.pt" tvg-name="PT | KOMBAT SPORT" tvg-logo="https://www.bce.lu/wp-content/uploads/2016/06/LOGO-Kombat_Sport.png" group-title="PORTUGAL",PT | KOMBAT SPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1536
-#EXTINF:-1 tvg-id="kuriakos-tv" tvg-name="PT | KURIAKOS TV" tvg-logo="https://logo.iptveditor.com/kuriakostv.png" group-title="PORTUGAL",PT | KURIAKOS TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62988
-#EXTINF:-1 tvg-id="MCMPop.pt" tvg-name="PT | MCM POP" tvg-logo="https://seeklogo.com/images/M/mcm-pop-logo-042DCB84A2-seeklogo.com.png" group-title="PORTUGAL",PT | MCM POP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1531
-#EXTINF:-1 tvg-id="mcm-pop" tvg-name="PT | MCM POP" tvg-logo="https://logo.iptveditor.com/mcmpop.png" group-title="PORTUGAL",PT | MCM POP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62989
-#EXTINF:-1 tvg-name="PT | MCM TOP" tvg-logo="https://seeklogo.com/images/M/mcm-top-logo-3649B48C16-seeklogo.com.png" group-title="PORTUGAL",PT | MCM TOP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1530
-#EXTINF:-1 tvg-id="mezzo.pt" tvg-name="PT | MEZZO" tvg-logo="http://triozadig.com/wp-content/uploads/2018/01/unnamed-e1517589268840.jpg" group-title="PORTUGAL",PT | MEZZO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1529
-#EXTINF:-1 tvg-id="motorvision" tvg-name="PT | MOTORVISION" tvg-logo="https://logo.iptveditor.com/motorvision.png" group-title="PORTUGAL",PT | MOTORVISION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62993
-#EXTINF:-1 tvg-id="Motorvision.pt" tvg-name="PT | MOTORVISION TV" tvg-logo="https://mountain.partners/media/1301/motorvisiontv.png" group-title="PORTUGAL",PT | MOTORVISION TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1528
-#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-name="PT | MTV" tvg-logo="http://pluspng.com/img-png/mtv-logo-vector-png-mtv-logo-vector-download-280.png" group-title="PORTUGAL",PT | MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1525
-#EXTINF:-1 tvg-id="vh1" tvg-name="PT | MTV 00S" tvg-logo="https://logo.iptveditor.com/mtv00s.png" group-title="PORTUGAL",PT | MTV 00S
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62994
-#EXTINF:-1 tvg-name="PT | MTV DANCE" tvg-logo="https://media.info/i/lf/300/1508556331/1091.png" group-title="PORTUGAL",PT | MTV DANCE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1527
-#EXTINF:-1 tvg-name="PT | MTV ROCKS" tvg-logo="https://i.pinimg.com/originals/70/0e/2a/700e2a8795c959e2b8c24785129cba79.png" group-title="PORTUGAL",PT | MTV ROCKS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1524
-#EXTINF:-1 tvg-id="national-geographic-sd" tvg-name="PT | NAT GEO" tvg-logo="https://logo.iptveditor.com/nationalgeographic.png" group-title="PORTUGAL",PT | NAT GEO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62996
-#EXTINF:-1 tvg-id="national-geographic-sd" tvg-name="PT | NAT GEO (B)" tvg-logo="https://logo.iptveditor.com/nationalgeographic.png" group-title="PORTUGAL",PT | NAT GEO (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62997
-#EXTINF:-1 tvg-id="NatGeoWild.pt" tvg-name="PT | NAT GEO WILD" tvg-logo="https://sc.dish.com/shared/images/station-logos/natgw.png" group-title="PORTUGAL",PT | NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1521
-#EXTINF:-1 tvg-id="nat-geo-wild-sd" tvg-name="PT | NAT GEO WILD" tvg-logo="https://logo.iptveditor.com/natgeowild.png" group-title="PORTUGAL",PT | NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62998
-#EXTINF:-1 tvg-id="nat-geo-wild-sd" tvg-name="PT | NAT GEO WILD (B)" tvg-logo="https://logo.iptveditor.com/natgeowild.png" group-title="PORTUGAL",PT | NAT GEO WILD (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/62999
-#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="PT | NATIONAL GEOGRAPHIC" group-title="PORTUGAL",PT | NATIONAL GEOGRAPHIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1520
-#EXTINF:-1 tvg-id="nba-tv-sd" tvg-name="PT | NBA TV (B)" tvg-logo="https://logo.iptveditor.com/nbatv.png" group-title="PORTUGAL",PT | NBA TV (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63001
-#EXTINF:-1 tvg-id="Nick Jr. PT" tvg-name="PT | NICK JR." tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DAgNJEGkL._SY355_.png" group-title="PORTUGAL",PT | NICK JR.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1519
-#EXTINF:-1 tvg-id="nick-jr" tvg-name="PT | NICK JR." tvg-logo="https://logo.iptveditor.com/nickjr.png" group-title="PORTUGAL",PT | NICK JR.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63003
-#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="PT | NICKELODEON" tvg-logo="https://www.freepnglogos.com/uploads/nickelodeon-logo-sound-png-27.png" group-title="PORTUGAL",PT | NICKELODEON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1518
-#EXTINF:-1 tvg-id="nickelodeon" tvg-name="PT | NICKELODEON" tvg-logo="https://logo.iptveditor.com/nickelodeon.png" group-title="PORTUGAL",PT | NICKELODEON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63004
-#EXTINF:-1 tvg-id="NOSStudios.pt" tvg-name="PT | NOS STUDIOS" tvg-logo="https://cdn.nos.pt/common/img/nos_opengraph.png" group-title="PORTUGAL",PT | NOS STUDIOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1517
-#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="PT | ODISSEIA" tvg-logo="http://fundamental2019.com.br/wp-content/uploads/2018/06/LOGO-ODISSEIA.png" group-title="PORTUGAL",PT | ODISSEIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1516
-#EXTINF:-1 tvg-id="odisseia-sd" tvg-name="PT | ODISSEIA" tvg-logo="https://logo.iptveditor.com/odisseia.png" group-title="PORTUGAL",PT | ODISSEIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63006
-#EXTINF:-1 tvg-name="PT | OPTO SIC" tvg-logo="https://i.postimg.cc/DZGcH3j0/optosic.png" group-title="PORTUGAL",PT | OPTO SIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63007
-#EXTINF:-1 tvg-id="PandaBiggs.pt" tvg-name="PT | PANDA BIGGS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Panda_Biggs_logo.png/220px-Panda_Biggs_logo.png" group-title="PORTUGAL",PT | PANDA BIGGS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1515
-#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PT | PFC" tvg-logo="https://www.nossagente.net/wp_new/wp-content/uploads/2013/08/PFC_LOGO_slogan2.png" group-title="PORTUGAL",PT | PFC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1514
-#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="PT | PORTO CANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Logo_porto_canal.png" group-title="PORTUGAL",PT | PORTO CANAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1512
-#EXTINF:-1 tvg-id="porto-canal" tvg-name="PT | PORTO CANAL" tvg-logo="https://logo.iptveditor.com/portocanal.png" group-title="PORTUGAL",PT | PORTO CANAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63009
-#EXTINF:-1 tvg-id="porto-canal" tvg-name="PT | PORTO CANAL (B)" tvg-logo="https://logo.iptveditor.com/portocanal.png" group-title="PORTUGAL",PT | PORTO CANAL (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63010
-#EXTINF:-1 tvg-id="Real Madrid TV PT" tvg-name="PT | REAL MADRID TV" tvg-logo="http://www.arabe-media.com/tv/img357.png" group-title="PORTUGAL",PT | REAL MADRID TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1511
-#EXTINF:-1 tvg-id="Record News" tvg-name="PT | RECORD NEWS" tvg-logo="https://i.postimg.cc/s2X7dCXy/Record-News-logo-2016.png" group-title="PORTUGAL",PT | RECORD NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63011
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT | RTP 1" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/rtp1.png" group-title="PORTUGAL",PT | RTP 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/24034
-#EXTINF:-1 tvg-id="rtp-1-sd" tvg-name="PT | RTP 1" tvg-logo="https://logo.iptveditor.com/rtp1.png" group-title="PORTUGAL",PT | RTP 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63012
-#EXTINF:-1 tvg-id="rtp-1-sd" tvg-name="PT | RTP 1" tvg-logo="https://logo.iptveditor.com/rtp1.png" group-title="PORTUGAL",PT | RTP 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63013
-#EXTINF:-1 tvg-id="rtp-1-sd" tvg-name="PT | RTP 1 (B)" tvg-logo="https://logo.iptveditor.com/rtp1.png" group-title="PORTUGAL",PT | RTP 1 (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63014
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT | RTP 1 (OPCAO 2)" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/rtp1.png" group-title="PORTUGAL",PT | RTP 1 (OPCAO 2)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/24035
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="PT | RTP 2" tvg-logo="https://www.fpo.pt/www/images/fpo/comunicados/gerais/2013/16579_443615305705283_333251319_n.png" group-title="PORTUGAL",PT | RTP 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/24036
-#EXTINF:-1 tvg-id="rtp-2" tvg-name="PT | RTP 2" tvg-logo="https://logo.iptveditor.com/rtp2.png" group-title="PORTUGAL",PT | RTP 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63016
-#EXTINF:-1 tvg-id="rtp-2" tvg-name="PT | RTP 2 (B)" tvg-logo="https://logo.iptveditor.com/rtp2.png" group-title="PORTUGAL",PT | RTP 2 (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63017
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="PT | RTP 2(OPCAO 2)" tvg-logo="https://www.fpo.pt/www/images/fpo/comunicados/gerais/2013/16579_443615305705283_333251319_n.png" group-title="PORTUGAL",PT | RTP 2(OPCAO 2)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/40689
-#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="PT | RTP 3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP3.png" group-title="PORTUGAL",PT | RTP 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/24037
-#EXTINF:-1 tvg-id="rtp-3-sd" tvg-name="PT | RTP 3" tvg-logo="https://logo.iptveditor.com/rtp3.png" group-title="PORTUGAL",PT | RTP 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63018
-#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="PT | RTP 3(OPCAO 2)" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP3.png" group-title="PORTUGAL",PT | RTP 3(OPCAO 2)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1503
-#EXTINF:-1 tvg-id="RTP Acores PT" tvg-name="PT | RTP ACORES" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPACORES.png" group-title="PORTUGAL",PT | RTP ACORES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1501
-#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-name="PT | RTP AFRICA" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/04/RTP-%C3%81frica.png" group-title="PORTUGAL",PT | RTP AFRICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1500
-#EXTINF:-1 tvg-name="PT | RTP ARENA" tvg-logo="https://i.postimg.cc/ZnKhjHHf/rtpArena.png" group-title="PORTUGAL",PT | RTP ARENA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63021
-#EXTINF:-1 tvg-id="RTPInternacional.za" tvg-name="PT | RTP INTERNACIONAL" tvg-logo="https://sport-tv-guide.live/images/tv-station-rtpt-internacional-ca-1507.png" group-title="PORTUGAL",PT | RTP INTERNACIONAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/24038
-#EXTINF:-1 tvg-name="PT | RTP INTERNATIONAL" tvg-logo="https://i.postimg.cc/9QVFQVPv/RTP-Internacional-2016.png" group-title="PORTUGAL",PT | RTP INTERNATIONAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63022
-#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-name="PT | RTP MADEIRA" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/04/RTP-Madeira.png" group-title="PORTUGAL",PT | RTP MADEIRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1498
-#EXTINF:-1 tvg-id="rtp-madeira" tvg-name="PT | RTP MADEIRA" tvg-logo="https://logo.iptveditor.com/rtpmadeira.png" group-title="PORTUGAL",PT | RTP MADEIRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63023
-#EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-name="PT | RTP MEMORIA" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPMEMORIA.png" group-title="PORTUGAL",PT | RTP MEMORIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1497
-#EXTINF:-1 tvg-id="rtp-memoria" tvg-name="PT | RTP MEMÓRIA" tvg-logo="https://logo.iptveditor.com/rtpmemoria.png" group-title="PORTUGAL",PT | RTP MEMÓRIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63024
-#EXTINF:-1 tvg-id="rtp-africa" tvg-name="PT | RTP ÁFRICA" tvg-logo="https://logo.iptveditor.com/rtpafrica1.png" group-title="PORTUGAL",PT | RTP ÁFRICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63020
-#EXTINF:-1 tvg-id="sic.pt" tvg-name="PT | SIC" tvg-logo="https://4.bp.blogspot.com/-DtY41i7UI5s/W7dU1andqXI/AAAAAAAAVOA/y7hit8JMqgc0Y9UFETekeTuuc7YipuTiACLcBGAs/s1600/Novo+Logotipo+SIC.png" group-title="PORTUGAL",PT | SIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1486
-#EXTINF:-1 tvg-id="sic-sd" tvg-name="PT | SIC" tvg-logo="https://i.postimg.cc/cCV9Y4xY/SIC-2018.png" group-title="PORTUGAL",PT | SIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63025
-#EXTINF:-1 tvg-id="sic-sd" tvg-name="PT | SIC" tvg-logo="https://i.postimg.cc/cCV9Y4xY/SIC-2018.png" group-title="PORTUGAL",PT | SIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63026
-#EXTINF:-1 tvg-id="SicCaras.pt" tvg-name="PT | SIC CARAS" tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2013/10/SIC-Caras-logo.png" group-title="PORTUGAL",PT | SIC CARAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1493
-#EXTINF:-1 tvg-id="sic-caras" tvg-name="PT | SIC CARAS" tvg-logo="https://i.postimg.cc/SQ7HYcCN/SIC-Caras.png" group-title="PORTUGAL",PT | SIC CARAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63028
-#EXTINF:-1 tvg-name="PT | SIC INTERNACIONAL" tvg-logo="https://i.postimg.cc/Hk2WJKBj/SIC-Internacional-2018.webp" group-title="PORTUGAL",PT | SIC INTERNACIONAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63029
-#EXTINF:-1 tvg-id="sic-k" tvg-name="PT | SIC K" tvg-logo="https://i.postimg.cc/qq3fWFgs/SIC-K.png" group-title="PORTUGAL",PT | SIC K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63030
-#EXTINF:-1 tvg-id="SicK.pt" tvg-name="PT | SIC KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/SIC_K_Portugal.png" group-title="PORTUGAL",PT | SIC KIDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1490
-#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="PT | SIC MULHER" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6a/Logo_sem_fundo_SIC_Mulher.png" group-title="PORTUGAL",PT | SIC MULHER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1489
-#EXTINF:-1 tvg-id="sic-mulher" tvg-name="PT | SIC MULHER" tvg-logo="https://i.postimg.cc/m2VxJ7g6/SIC-Mulher.png" group-title="PORTUGAL",PT | SIC MULHER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63031
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="PT | SIC NOTICIAS" tvg-logo="http://cintesis.eu/wp-content/uploads/2017/10/sic_n_peq.png" group-title="PORTUGAL",PT | SIC NOTICIAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1487
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="PT | SIC NOTICIAS(OPCAO 2)" tvg-logo="http://cintesis.eu/wp-content/uploads/2017/10/sic_n_peq.png" group-title="PORTUGAL",PT | SIC NOTICIAS(OPCAO 2)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1488
-#EXTINF:-1 tvg-id="sic-noticias" tvg-name="PT | SIC NOTÍCIAS" tvg-logo="https://logo.iptveditor.com/sicnoticias.png" group-title="PORTUGAL",PT | SIC NOTÍCIAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63032
-#EXTINF:-1 tvg-id="sic-noticias" tvg-name="PT | SIC NOTÍCIAS" tvg-logo="https://logo.iptveditor.com/sicnoticias.png" group-title="PORTUGAL",PT | SIC NOTÍCIAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63033
-#EXTINF:-1 tvg-id="sic-noticias" tvg-name="PT | SIC NOTÍCIAS (B)" tvg-logo="https://logo.iptveditor.com/sicnoticias.png" group-title="PORTUGAL",PT | SIC NOTÍCIAS (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63034
-#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="PT | SIC RADICAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png" group-title="PORTUGAL",PT | SIC RADICAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1484
-#EXTINF:-1 tvg-id="sic-radical" tvg-name="PT | SIC RADICAL" tvg-logo="https://i.postimg.cc/sxdyfzk6/SIC-Radical-2011.png" group-title="PORTUGAL",PT | SIC RADICAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63035
-#EXTINF:-1 tvg-id="sic.pt" tvg-name="PT | SIC(OPCAO 2)" tvg-logo="https://4.bp.blogspot.com/-DtY41i7UI5s/W7dU1andqXI/AAAAAAAAVOA/y7hit8JMqgc0Y9UFETekeTuuc7YipuTiACLcBGAs/s1600/Novo+Logotipo+SIC.png" group-title="PORTUGAL",PT | SIC(OPCAO 2)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/26352
-#EXTINF:-1 tvg-name="PT | SOBRENATURAL TV" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/sobrenatural-tv.png" group-title="PORTUGAL",PT | SOBRENATURAL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1483
-#EXTINF:-1 tvg-id="sport-tv-mais-sd" tvg-name="PT | SPORT TV +" tvg-logo="https://i.postimg.cc/HxKdmpdX/Sport-TV-3.png" group-title="PORTUGAL",PT | SPORT TV +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63038
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT | SPORT TV 1" tvg-logo="https://gulf365.co/content/uploads/2019/09/20/0b06788710.jpg" group-title="PORTUGAL",PT | SPORT TV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/24040
-#EXTINF:-1 tvg-id="sport-tv1-sd" tvg-name="PT | SPORT TV 1" tvg-logo="http://dl.dropboxusercontent.com/s/x2gd6cvkrdf1f0j/sporttv-1.png" group-title="PORTUGAL",PT | SPORT TV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63040
-#EXTINF:-1 tvg-id="sport-tv1-sd" tvg-name="PT | SPORT TV 1" tvg-logo="http://dl.dropboxusercontent.com/s/x2gd6cvkrdf1f0j/sporttv-1.png" group-title="PORTUGAL",PT | SPORT TV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63041
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT | SPORT TV 1(OPCAO 2)" tvg-logo="https://sportguide.live/images/stations/a450.png" group-title="PORTUGAL",PT | SPORT TV 1(OPCAO 2)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1477
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT | SPORT TV 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZAJXM-VWcZB2Xo5QO1vKhFMABazcmx9PsC0BisQsu9iG3iW-d" group-title="PORTUGAL",PT | SPORT TV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1471
-#EXTINF:-1 tvg-id="sport-tv2-sd" tvg-name="PT | SPORT TV 2" tvg-logo="http://dl.dropboxusercontent.com/s/td33rqzfv1fcsyn/sporttv-2.png" group-title="PORTUGAL",PT | SPORT TV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63043
-#EXTINF:-1 tvg-id="sport-tv2-sd" tvg-name="PT | SPORT TV 2" tvg-logo="http://dl.dropboxusercontent.com/s/td33rqzfv1fcsyn/sporttv-2.png" group-title="PORTUGAL",PT | SPORT TV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63044
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT | SPORT TV 2(OPCAO 2)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZAJXM-VWcZB2Xo5QO1vKhFMABazcmx9PsC0BisQsu9iG3iW-d" group-title="PORTUGAL",PT | SPORT TV 2(OPCAO 2)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/24041
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT | SPORT TV 3" tvg-logo="https://sport-tv-guide.live/images/stations/a452.png" group-title="PORTUGAL",PT | SPORT TV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/24042
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT | SPORT TV 3(OPCAO 2)" tvg-logo="https://sport-tv-guide.live/images/stations/a452.png" group-title="PORTUGAL",PT | SPORT TV 3(OPCAO 2)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1469
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT | SPORT TV 4" tvg-logo="https://2.bp.blogspot.com/-8iCvE3hryzY/WcfzD3DmjqI/AAAAAAAAEmA/nH61kBu8QS0adinlN8lPIDPjvacCuW8kACLcBGAs/s392/Sport-Tv-4.png" group-title="PORTUGAL",PT | SPORT TV 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/24043
-#EXTINF:-1 tvg-id="sport-tv4-sd" tvg-name="PT | SPORT TV 4" tvg-logo="http://dl.dropboxusercontent.com/s/qkhum1y9zupb57g/sporttv-4.png" group-title="PORTUGAL",PT | SPORT TV 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63049
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT | SPORT TV 4(OPCAO 2)" tvg-logo="https://2.bp.blogspot.com/-8iCvE3hryzY/WcfzD3DmjqI/AAAAAAAAEmA/nH61kBu8QS0adinlN8lPIDPjvacCuW8kACLcBGAs/s392/Sport-Tv-4.png" group-title="PORTUGAL",PT | SPORT TV 4(OPCAO 2)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1465
-#EXTINF:-1 tvg-name="PT | SPORT TV 5" tvg-logo="https://sport-tv-guide.live/images/stations/a454.png" group-title="PORTUGAL",PT | SPORT TV 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1457
-#EXTINF:-1 tvg-id="sport-tv5-sd" tvg-name="PT | SPORT TV 5 (B)" tvg-logo="http://dl.dropboxusercontent.com/s/pc8dhom81qcnfo4/sporttv-5.png" group-title="PORTUGAL",PT | SPORT TV 5 (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63054
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT | SPORT TV 5(OPCAO 2)" tvg-logo="https://sport-tv-guide.live/images/stations/a454.png" group-title="PORTUGAL",PT | SPORT TV 5(OPCAO 2)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1460
-#EXTINF:-1 tvg-name="PT | SPORT TV 6" group-title="PORTUGAL",PT | SPORT TV 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/61039
-#EXTINF:-1 tvg-id="sport-tv6-sd" tvg-name="PT | SPORT TV 6" tvg-logo="https://i.postimg.cc/VNgkxQJW/Sport-TV-6-2.png" group-title="PORTUGAL",PT | SPORT TV 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63055
-#EXTINF:-1 tvg-id="sport-tv6-sd" tvg-name="PT | SPORT TV 6" tvg-logo="https://i.postimg.cc/VNgkxQJW/Sport-TV-6-2.png" group-title="PORTUGAL",PT | SPORT TV 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63056
-#EXTINF:-1 tvg-id="sport-tv6-sd" tvg-name="PT | SPORT TV 6 (B)" tvg-logo="https://i.postimg.cc/VNgkxQJW/Sport-TV-6-2.png" group-title="PORTUGAL",PT | SPORT TV 6 (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63057
-#EXTINF:-1 tvg-name="PT | SPORT TV 7" group-title="PORTUGAL",PT | SPORT TV 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/78217
-#EXTINF:-1 tvg-id="SportTVplus.pt" tvg-name="PT | SPORT TV+" tvg-logo="http://www.nos.pt/particulares/televisao/canais/PublishingImages/destaques-hp/sporttv+/medium_sporttv+.jpg" group-title="PORTUGAL",PT | SPORT TV+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1452
-#EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-name="PT | SPORTING TV" tvg-logo="http://visaodigital.sytes.net/picons/sportingtv.png" group-title="PORTUGAL",PT | SPORTING TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1481
-#EXTINF:-1 tvg-id="sporting-tv-sd" tvg-name="PT | SPORTING TV" tvg-logo="https://logo.iptveditor.com/sportingtv.png" group-title="PORTUGAL",PT | SPORTING TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63058
-#EXTINF:-1 tvg-id="sporting-tv-sd" tvg-name="PT | SPORTING TV (B)" tvg-logo="https://logo.iptveditor.com/sportingtv.png" group-title="PORTUGAL",PT | SPORTING TV (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63059
-#EXTINF:-1 tvg-id="SyFy.pt" tvg-name="PT | SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/SYFY.png" group-title="PORTUGAL",PT | SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1450
-#EXTINF:-1 tvg-id="syfy-sd" tvg-name="PT | SYFY" tvg-logo="https://logo.iptveditor.com/syfy.png" group-title="PORTUGAL",PT | SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63060
-#EXTINF:-1 tvg-name="PT | TCV INTERNATIONAL" tvg-logo="https://3.bp.blogspot.com/-cHgUiuaWuGs/UdVZsMD419I/AAAAAAAAvl8/JtjVILWPbdM/s259/Cape+Verde+Television+DStv.jpg" group-title="PORTUGAL",PT | TCV INTERNATIONAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/76590
-#EXTINF:-1 tvg-id="TLC.pt" tvg-name="PT | TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Tlc.png" group-title="PORTUGAL",PT | TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1449
-#EXTINF:-1 tvg-id="tlc" tvg-name="PT | TLC" tvg-logo="https://logo.iptveditor.com/tlc.png" group-title="PORTUGAL",PT | TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63061
-#EXTINF:-1 tvg-id="Toros TV PT" tvg-name="PT | TOROS TV" tvg-logo="https://verliga1.net/wp-content/uploads/2017/07/toros_tv.png" group-title="PORTUGAL",PT | TOROS TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1448
-#EXTINF:-1 tvg-id="tpa.pt" tvg-name="PT | TPA INTERNACIONAL" tvg-logo="http://www.semba-c.com/site/uploads/images/20151123143736_0.PNG" group-title="PORTUGAL",PT | TPA INTERNACIONAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/60859
-#EXTINF:-1 tvg-id="trace-toca" tvg-name="PT | TRACE TOCA" tvg-logo="https://logo.iptveditor.com/tracetoca.png" group-title="PORTUGAL",PT | TRACE TOCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63062
-#EXTINF:-1 tvg-id="traceafrica.za" tvg-name="PT | TRACE URBAN" tvg-logo="https://pbs.twimg.com/profile_images/1101077726612676608/tS3DbFx0_400x400.png" group-title="PORTUGAL",PT | TRACE URBAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1447
-#EXTINF:-1 tvg-id="trace-urban" tvg-name="PT | TRACE URBAN" tvg-logo="https://logo.iptveditor.com/traceurban.png" group-title="PORTUGAL",PT | TRACE URBAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63063
-#EXTINF:-1 tvg-id="TravelChannel.pt" tvg-name="PT | TRAVEL CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Travel_Channel_logo-cerulean_blue.png" group-title="PORTUGAL",PT | TRAVEL CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1446
-#EXTINF:-1 tvg-id="travel-channel-sd" tvg-name="PT | TRAVEL CHANNEL" tvg-logo="https://logo.iptveditor.com/travelchannel.png" group-title="PORTUGAL",PT | TRAVEL CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63064
-#EXTINF:-1 tvg-id="GloboNow.pt" tvg-name="PT | TV GLOBO NOW" tvg-logo="https://pbs.twimg.com/profile_images/1549987240/globo_400x400.jpg" group-title="PORTUGAL",PT | TV GLOBO NOW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1444
-#EXTINF:-1 tvg-id="tvrecord.pt" tvg-name="PT | TV RECORD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Record_2023_with_wordmark.png" group-title="PORTUGAL",PT | TV RECORD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1441
-#EXTINF:-1 tvg-name="PT | TV SERIES" group-title="PORTUGAL",PT | TV SERIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1440
-#EXTINF:-1 tvg-name="PT | TVCINE 1" tvg-logo="http://zap.cvmultimedia.cv/wp-content/uploads/2016/09/LOGOS-CANAIS-ZAP-160x160-tvc1.png" group-title="PORTUGAL",PT | TVCINE 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1438
-#EXTINF:-1 tvg-name="PT | TVCINE 2" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/11597_logo_tv_cine_3.png" group-title="PORTUGAL",PT | TVCINE 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1436
-#EXTINF:-1 tvg-name="PT | TVCINE 3" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/11596_logo_tv_cine_4.png" group-title="PORTUGAL",PT | TVCINE 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1434
-#EXTINF:-1 tvg-name="PT | TVCINE 4" tvg-logo="http://jokerplanete.com/logos-portugal-tv/TVC4.png" group-title="PORTUGAL",PT | TVCINE 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1432
-#EXTINF:-1 tvg-id="tvcine-action" tvg-name="PT | TVCINE ACTION" tvg-logo="https://logo.iptveditor.com/tvcineaction.png" group-title="PORTUGAL",PT | TVCINE ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63066
-#EXTINF:-1 tvg-id="tvcine-action" tvg-name="PT | TVCINE ACTION (B)" tvg-logo="https://logo.iptveditor.com/tvcineaction.png" group-title="PORTUGAL",PT | TVCINE ACTION (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63067
-#EXTINF:-1 tvg-id="tvcine-edition" tvg-name="PT | TVCINE EDITION (B)" tvg-logo="https://logo.iptveditor.com/tvcineedition.png" group-title="PORTUGAL",PT | TVCINE EDITION (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63069
-#EXTINF:-1 tvg-id="tvcine-emotion" tvg-name="PT | TVCINE EMOTION" tvg-logo="https://logo.iptveditor.com/tvcineemotion.png" group-title="PORTUGAL",PT | TVCINE EMOTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63070
-#EXTINF:-1 tvg-id="tvcine-emotion" tvg-name="PT | TVCINE EMOTION (B)" tvg-logo="https://logo.iptveditor.com/tvcineemotion.png" group-title="PORTUGAL",PT | TVCINE EMOTION (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63071
-#EXTINF:-1 tvg-id="tvcine-top" tvg-name="PT | TVCINE TOP" tvg-logo="https://logo.iptveditor.com/tvcinetop.png" group-title="PORTUGAL",PT | TVCINE TOP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63072
-#EXTINF:-1 tvg-id="tvcine-top" tvg-name="PT | TVCINE TOP (B)" tvg-logo="https://logo.iptveditor.com/tvcinetop.png" group-title="PORTUGAL",PT | TVCINE TOP (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63073
-#EXTINF:-1 tvg-id="TVI.pt" tvg-name="PT | TVI" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/TVI_logo.png/revision/latest?cb=20100918105531" group-title="PORTUGAL",PT | TVI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/9833
-#EXTINF:-1 tvg-id="tvi-sd" tvg-name="PT | TVI" tvg-logo="https://i.postimg.cc/05d00fVF/TVI.png" group-title="PORTUGAL",PT | TVI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63074
-#EXTINF:-1 tvg-id="TVI24.pt" tvg-name="PT | TVI 24" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/50/Tvi_24.png" group-title="PORTUGAL",PT | TVI 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/24154
-#EXTINF:-1 tvg-id="TVI24.pt" tvg-name="PT | TVI 24(OPCAO 2)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/50/Tvi_24.png" group-title="PORTUGAL",PT | TVI 24(OPCAO 2)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1429
-#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="PT | TVI FICCAO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d0/TVI_fic%C3%A7%C3%A3o.png" group-title="PORTUGAL",PT | TVI FICCAO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1425
-#EXTINF:-1 tvg-id="tvi-ficcao" tvg-name="PT | TVI FICÇÃO" tvg-logo="https://i.postimg.cc/D0HvXs4g/TVI-Ficcao.png" group-title="PORTUGAL",PT | TVI FICÇÃO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63077
-#EXTINF:-1 tvg-name="PT | TVI INTERNACIONAL" tvg-logo="https://i.postimg.cc/jj3scfVb/TVI-Internacional-2017.webp" group-title="PORTUGAL",PT | TVI INTERNACIONAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63078
-#EXTINF:-1 tvg-id="TVIReal.pt" tvg-name="PT | TVI REALITY" tvg-logo="https://4.bp.blogspot.com/-VbC26yhRq7M/VwwWSb-YiNI/AAAAAAAABWg/GTmCsyGVIakJwYELApckOLxSiryRiqYfA/s1600/FOpfAgxT.png" group-title="PORTUGAL",PT | TVI REALITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1418
-#EXTINF:-1 tvg-id="tvi-reality-sd" tvg-name="PT | TVI REALITY" tvg-logo="https://i.postimg.cc/Gh6t80kC/TVI-Reality-2017.png" group-title="PORTUGAL",PT | TVI REALITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63079
-#EXTINF:-1 tvg-id="tvi-reality-sd" tvg-name="PT | TVI REALITY (B)" tvg-logo="https://i.postimg.cc/Gh6t80kC/TVI-Reality-2017.png" group-title="PORTUGAL",PT | TVI REALITY (B)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63080
-#EXTINF:-1 tvg-name="PT | TVI REALITY * MOSAICO" tvg-logo="https://i.postimg.cc/Gh6t80kC/TVI-Reality-2017.png" group-title="PORTUGAL",PT | TVI REALITY * MOSAICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63081
-#EXTINF:-1 tvg-name="PT | TVI REALITY CAMARA 1" tvg-logo="https://i.postimg.cc/Gh6t80kC/TVI-Reality-2017.png" group-title="PORTUGAL",PT | TVI REALITY CAMARA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63082
-#EXTINF:-1 tvg-name="PT | TVI REALITY CAMARA 2" tvg-logo="https://i.postimg.cc/Gh6t80kC/TVI-Reality-2017.png" group-title="PORTUGAL",PT | TVI REALITY CAMARA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63083
-#EXTINF:-1 tvg-name="PT | TVI REALITY CAMARA 3" tvg-logo="https://i.postimg.cc/Gh6t80kC/TVI-Reality-2017.png" group-title="PORTUGAL",PT | TVI REALITY CAMARA 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63084
-#EXTINF:-1 tvg-name="PT | TVI REALITY CAMERA 1" tvg-logo="https://4.bp.blogspot.com/-VbC26yhRq7M/VwwWSb-YiNI/AAAAAAAABWg/GTmCsyGVIakJwYELApckOLxSiryRiqYfA/s1600/FOpfAgxT.png" group-title="PORTUGAL",PT | TVI REALITY CAMERA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1423
-#EXTINF:-1 tvg-name="PT | TVI REALITY EXCLUSIVO" tvg-logo="https://i.postimg.cc/FHSgncBW/1024.png" group-title="PORTUGAL",PT | TVI REALITY EXCLUSIVO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63086
-#EXTINF:-1 tvg-name="PT | TVI REALITY MOSAICO" tvg-logo="https://4.bp.blogspot.com/-VbC26yhRq7M/VwwWSb-YiNI/AAAAAAAABWg/GTmCsyGVIakJwYELApckOLxSiryRiqYfA/s1600/FOpfAgxT.png" group-title="PORTUGAL",PT | TVI REALITY MOSAICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1419
-#EXTINF:-1 tvg-id="TVI.pt" tvg-name="PT | TVI(OPCAO 2)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/TVI_logo.png/revision/latest?cb=20100918105531" group-title="PORTUGAL",PT | TVI(OPCAO 2)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/24153
-#EXTINF:-1 tvg-id="vh1.pt" tvg-name="PT | VH1" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_8hMLqSQn1wqY2bgV_i_wO7MtcfVxPKHVBAw=s900-c-k-c0xffffffff-no-rj-mo" group-title="PORTUGAL",PT | VH1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1417
-#EXTINF:-1 tvg-id="zapvivahd.pt" tvg-name="PT | ZAP VIVA" group-title="PORTUGAL",PT | ZAP VIVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/1416
-#EXTINF:-1 tvg-id="zap-viva" tvg-name="PT | ZAP VIVA" tvg-logo="https://logo.iptveditor.com/zapviva.png" group-title="PORTUGAL",PT | ZAP VIVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://op.web24.live:8080/recycle_n24/network24_selfrestream/63087
+#EXTINF:-1 tvg-id="ABOLATV" tvg-name="PT-A BOLA TV FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-A BOLA TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234914
+#EXTINF:-1 tvg-id="ABOLATV" tvg-name="PT-A BOLA TV HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-A BOLA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234915
+#EXTINF:-1 tvg-id="BENFC" tvg-name="PT-BENFICA TV FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-BENFICA TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234916
+#EXTINF:-1 tvg-id="BENFC" tvg-name="PT-BENFICA TV HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-BENFICA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234917
+#EXTINF:-1 tvg-id="CAN11" tvg-name="PT-CANAL 11 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-CANAL 11 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234918
+#EXTINF:-1 tvg-id="CAN11" tvg-name="PT-CANAL 11 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-CANAL 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234919
+#EXTINF:-1 tvg-id="ELEVEN" tvg-name="PT-ELEVEN SPORTS 01 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-ELEVEN SPORTS 01 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234920
+#EXTINF:-1 tvg-id="ELEVEN" tvg-name="PT-ELEVEN SPORTS 01 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-ELEVEN SPORTS 01 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234921
+#EXTINF:-1 tvg-id="ESUK1" tvg-name="PT-EUROSPORT 01 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 01 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234922
+#EXTINF:-1 tvg-id="ESUK1" tvg-name="PT-EUROSPORT 01 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 01 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234923
+#EXTINF:-1 tvg-id="EUSP2NL" tvg-name="PT-EUROSPORT 02 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 02 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234924
+#EXTINF:-1 tvg-id="EUSP2NL" tvg-name="PT-EUROSPORT 02 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 02 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234925
+#EXTINF:-1 tvg-id="EUSP2NL" tvg-name="PT-EUROSPORT 02 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 02 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234926
+#EXTINF:-1 tvg-id="EUSP2NL" tvg-name="PT-EUROSPORT 02 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 02 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234927
+#EXTINF:-1 tvg-name="PT-EUROSPORT 03 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 03 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234928
+#EXTINF:-1 tvg-name="PT-EUROSPORT 03 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 03 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234929
+#EXTINF:-1 tvg-name="PT-EUROSPORT 04 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 04 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234930
+#EXTINF:-1 tvg-name="PT-EUROSPORT 04 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 04 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234931
+#EXTINF:-1 tvg-name="PT-EUROSPORT 05 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 05 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234932
+#EXTINF:-1 tvg-name="PT-EUROSPORT 05 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 05 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234933
+#EXTINF:-1 tvg-name="PT-EUROSPORT 06 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 06 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234934
+#EXTINF:-1 tvg-name="PT-EUROSPORT 06 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 06 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234935
+#EXTINF:-1 tvg-name="PT-PORTO TV FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-PORTO TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234936
+#EXTINF:-1 tvg-name="PT-PORTO TV HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-PORTO TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234937
+#EXTINF:-1 tvg-name="PT-SPORTING TV FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-SPORTING TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234938
+#EXTINF:-1 tvg-name="PT-SPORTING TV HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-SPORTING TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234939
+#EXTINF:-1 tvg-name="PT-SPORTV 05 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-SPORTV 05 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234940
+
+
+
+
+
+#EXTINF:-1 tvg-id="CANLPAN" tvg-name="PT-CANAL PANDA HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⭐ ABERTOS PT",PT-CANAL PANDA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234895
+#EXTINF:-1 tvg-name="PT-RTP 01 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⭐ ABERTOS PT",PT-RTP 01 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234896
+#EXTINF:-1 tvg-name="PT-RTP 02 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⭐ ABERTOS PT",PT-RTP 02 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234897
+#EXTINF:-1 tvg-name="PT-RTP MEMORIAS HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⭐ ABERTOS PT",PT-RTP MEMORIAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234898
+#EXTINF:-1 tvg-name="PT-SIC CARAS HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⭐ ABERTOS PT",PT-SIC CARAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234899
+#EXTINF:-1 tvg-name="PT-SIC HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⭐ ABERTOS PT",PT-SIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234900
+#EXTINF:-1 tvg-name="PT-SIC MULHERES HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⭐ ABERTOS PT",PT-SIC MULHERES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234901
+#EXTINF:-1 tvg-name="PT-TVI FICÇAO HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⭐ ABERTOS PT",PT-TVI FICÇAO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234903
+#EXTINF:-1 tvg-name="PT-TVI HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⭐ ABERTOS PT",PT-TVI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234902
+
+
+
+
+
+#EXTINF:-1 tvg-id="CMTVPOR" tvg-name="PT-CMTV FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⭐ NOTICIAS PT",PT-CMTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234904
+#EXTINF:-1 tvg-id="CMTVPOR" tvg-name="PT-CMTV HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⭐ NOTICIAS PT",PT-CMTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234905
+#EXTINF:-1 tvg-name="PT-CNN PORTUGAL FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⭐ NOTICIAS PT",PT-CNN PORTUGAL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234906
+#EXTINF:-1 tvg-name="PT-CNN PORTUGAL HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⭐ NOTICIAS PT",PT-CNN PORTUGAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234907
+#EXTINF:-1 tvg-id="EURNWFA" tvg-name="PT-EURONEWS FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⭐ NOTICIAS PT",PT-EURONEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234908
+#EXTINF:-1 tvg-id="EURNWFA" tvg-name="PT-EURONEWS HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⭐ NOTICIAS PT",PT-EURONEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234909
+#EXTINF:-1 tvg-name="PT-RTP 03 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⭐ NOTICIAS PT",PT-RTP 03 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234910
+#EXTINF:-1 tvg-name="PT-RTP 03 HD2" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⭐ NOTICIAS PT",PT-RTP 03 HD2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234911
+#EXTINF:-1 tvg-name="PT-SIC NOTICIA FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⭐ NOTICIAS PT",PT-SIC NOTICIA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234912
+#EXTINF:-1 tvg-name="PT-SIC NOTICIA HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⭐ NOTICIAS PT",PT-SIC NOTICIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234913
+
+
+
+
+
+#EXTINF:-1 tvg-name="PT-SPORTV 01 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ SPORTV PT",PT-SPORTV 01 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234941
+#EXTINF:-1 tvg-name="PT-SPORTV 01 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ SPORTV PT",PT-SPORTV 01 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234942
+#EXTINF:-1 tvg-name="PT-SPORTV 02 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ SPORTV PT",PT-SPORTV 02 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234943
+#EXTINF:-1 tvg-name="PT-SPORTV 02 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ SPORTV PT",PT-SPORTV 02 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234944
+#EXTINF:-1 tvg-name="PT-SPORTV 03 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ SPORTV PT",PT-SPORTV 03 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234945
+#EXTINF:-1 tvg-name="PT-SPORTV 03 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ SPORTV PT",PT-SPORTV 03 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234946
+#EXTINF:-1 tvg-name="PT-SPORTV 04 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ SPORTV PT",PT-SPORTV 04 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234947
+#EXTINF:-1 tvg-name="PT-SPORTV 04 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ SPORTV PT",PT-SPORTV 04 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234948
+#EXTINF:-1 tvg-name="PT-SPORTV 05 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ SPORTV PT",PT-SPORTV 05 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234949
+#EXTINF:-1 tvg-name="PT-SPORTV 06 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ SPORTV PT",PT-SPORTV 06 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234950
+#EXTINF:-1 tvg-name="PT-SPORTV 06 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ SPORTV PT",PT-SPORTV 06 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234951
+
+
+
+
+
