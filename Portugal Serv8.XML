@@ -3,137 +3,132 @@
 
 
 
-#EXTINF:-1 tvg-id="ABOLATV" tvg-name="PT-A BOLA TV FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-A BOLA TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234914
-#EXTINF:-1 tvg-id="ABOLATV" tvg-name="PT-A BOLA TV HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-A BOLA TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234915
-#EXTINF:-1 tvg-id="BENFC" tvg-name="PT-BENFICA TV FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-BENFICA TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234916
-#EXTINF:-1 tvg-id="BENFC" tvg-name="PT-BENFICA TV HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-BENFICA TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234917
-#EXTINF:-1 tvg-id="CAN11" tvg-name="PT-CANAL 11 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-CANAL 11 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234918
-#EXTINF:-1 tvg-id="CAN11" tvg-name="PT-CANAL 11 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-CANAL 11 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234919
-#EXTINF:-1 tvg-id="ELEVEN" tvg-name="PT-ELEVEN SPORTS 01 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-ELEVEN SPORTS 01 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234920
-#EXTINF:-1 tvg-id="ELEVEN" tvg-name="PT-ELEVEN SPORTS 01 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-ELEVEN SPORTS 01 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234921
-#EXTINF:-1 tvg-id="ESUK1" tvg-name="PT-EUROSPORT 01 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 01 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234922
-#EXTINF:-1 tvg-id="ESUK1" tvg-name="PT-EUROSPORT 01 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 01 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234923
-#EXTINF:-1 tvg-id="EUSP2NL" tvg-name="PT-EUROSPORT 02 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 02 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234924
-#EXTINF:-1 tvg-id="EUSP2NL" tvg-name="PT-EUROSPORT 02 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 02 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234925
-#EXTINF:-1 tvg-id="EUSP2NL" tvg-name="PT-EUROSPORT 02 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 02 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234926
-#EXTINF:-1 tvg-id="EUSP2NL" tvg-name="PT-EUROSPORT 02 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 02 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234927
-#EXTINF:-1 tvg-name="PT-EUROSPORT 03 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 03 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234928
-#EXTINF:-1 tvg-name="PT-EUROSPORT 03 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 03 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234929
-#EXTINF:-1 tvg-name="PT-EUROSPORT 04 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 04 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234930
-#EXTINF:-1 tvg-name="PT-EUROSPORT 04 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 04 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234931
-#EXTINF:-1 tvg-name="PT-EUROSPORT 05 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 05 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234932
-#EXTINF:-1 tvg-name="PT-EUROSPORT 05 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 05 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234933
-#EXTINF:-1 tvg-name="PT-EUROSPORT 06 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 06 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234934
-#EXTINF:-1 tvg-name="PT-EUROSPORT 06 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 06 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234935
-#EXTINF:-1 tvg-name="PT-PORTO TV FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-PORTO TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234936
-#EXTINF:-1 tvg-name="PT-PORTO TV HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-PORTO TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234937
-#EXTINF:-1 tvg-name="PT-SPORTING TV FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-SPORTING TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234938
-#EXTINF:-1 tvg-name="PT-SPORTING TV HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-SPORTING TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234939
-#EXTINF:-1 tvg-name="PT-SPORTV 05 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-SPORTV 05 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234940
-
-
-
-
-
 #EXTINF:-1 tvg-id="CANLPAN" tvg-name="PT-CANAL PANDA HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⭐ ABERTOS PT",PT-CANAL PANDA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234895
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234895
 #EXTINF:-1 tvg-name="PT-RTP 01 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⭐ ABERTOS PT",PT-RTP 01 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234896
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234896
 #EXTINF:-1 tvg-name="PT-RTP 02 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⭐ ABERTOS PT",PT-RTP 02 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234897
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234897
 #EXTINF:-1 tvg-name="PT-RTP MEMORIAS HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⭐ ABERTOS PT",PT-RTP MEMORIAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234898
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234898
 #EXTINF:-1 tvg-name="PT-SIC CARAS HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⭐ ABERTOS PT",PT-SIC CARAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234899
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234899
 #EXTINF:-1 tvg-name="PT-SIC HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⭐ ABERTOS PT",PT-SIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234900
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234900
 #EXTINF:-1 tvg-name="PT-SIC MULHERES HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⭐ ABERTOS PT",PT-SIC MULHERES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234901
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234901
 #EXTINF:-1 tvg-name="PT-TVI FICÇAO HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⭐ ABERTOS PT",PT-TVI FICÇAO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234903
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234903
 #EXTINF:-1 tvg-name="PT-TVI HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⭐ ABERTOS PT",PT-TVI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234902
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234902
 
 
 
 
 
 #EXTINF:-1 tvg-id="CMTVPOR" tvg-name="PT-CMTV FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⭐ NOTICIAS PT",PT-CMTV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234904
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234904
 #EXTINF:-1 tvg-id="CMTVPOR" tvg-name="PT-CMTV HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⭐ NOTICIAS PT",PT-CMTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234905
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234905
 #EXTINF:-1 tvg-name="PT-CNN PORTUGAL FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⭐ NOTICIAS PT",PT-CNN PORTUGAL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234906
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234906
 #EXTINF:-1 tvg-name="PT-CNN PORTUGAL HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⭐ NOTICIAS PT",PT-CNN PORTUGAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234907
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234907
 #EXTINF:-1 tvg-id="EURNWFA" tvg-name="PT-EURONEWS FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⭐ NOTICIAS PT",PT-EURONEWS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234908
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234908
 #EXTINF:-1 tvg-id="EURNWFA" tvg-name="PT-EURONEWS HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⭐ NOTICIAS PT",PT-EURONEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234909
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234909
 #EXTINF:-1 tvg-name="PT-RTP 03 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⭐ NOTICIAS PT",PT-RTP 03 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234910
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234910
 #EXTINF:-1 tvg-name="PT-RTP 03 HD2" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⭐ NOTICIAS PT",PT-RTP 03 HD2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234911
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234911
 #EXTINF:-1 tvg-name="PT-SIC NOTICIA FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⭐ NOTICIAS PT",PT-SIC NOTICIA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234912
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234912
 #EXTINF:-1 tvg-name="PT-SIC NOTICIA HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⭐ NOTICIAS PT",PT-SIC NOTICIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234913
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234913
 
 
 
 
 
 #EXTINF:-1 tvg-name="PT-SPORTV 01 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ SPORTV PT",PT-SPORTV 01 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234941
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234941
 #EXTINF:-1 tvg-name="PT-SPORTV 01 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ SPORTV PT",PT-SPORTV 01 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234942
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234942
 #EXTINF:-1 tvg-name="PT-SPORTV 02 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ SPORTV PT",PT-SPORTV 02 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234943
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234943
 #EXTINF:-1 tvg-name="PT-SPORTV 02 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ SPORTV PT",PT-SPORTV 02 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234944
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234944
 #EXTINF:-1 tvg-name="PT-SPORTV 03 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ SPORTV PT",PT-SPORTV 03 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234945
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234945
 #EXTINF:-1 tvg-name="PT-SPORTV 03 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ SPORTV PT",PT-SPORTV 03 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234946
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234946
 #EXTINF:-1 tvg-name="PT-SPORTV 04 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ SPORTV PT",PT-SPORTV 04 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234947
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234947
 #EXTINF:-1 tvg-name="PT-SPORTV 04 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ SPORTV PT",PT-SPORTV 04 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234948
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234948
 #EXTINF:-1 tvg-name="PT-SPORTV 05 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ SPORTV PT",PT-SPORTV 05 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234949
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234949
 #EXTINF:-1 tvg-name="PT-SPORTV 06 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ SPORTV PT",PT-SPORTV 06 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234950
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234950
 #EXTINF:-1 tvg-name="PT-SPORTV 06 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ SPORTV PT",PT-SPORTV 06 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/695183/123456/234951
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234951
 
 
 
 
 
+#EXTINF:-1 tvg-id="ABOLATV" tvg-name="PT-A BOLA TV FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-A BOLA TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234914
+#EXTINF:-1 tvg-id="ABOLATV" tvg-name="PT-A BOLA TV HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-A BOLA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234915
+#EXTINF:-1 tvg-id="BENFC" tvg-name="PT-BENFICA TV FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-BENFICA TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234916
+#EXTINF:-1 tvg-id="BENFC" tvg-name="PT-BENFICA TV HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-BENFICA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234917
+#EXTINF:-1 tvg-id="CAN11" tvg-name="PT-CANAL 11 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-CANAL 11 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234918
+#EXTINF:-1 tvg-id="CAN11" tvg-name="PT-CANAL 11 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-CANAL 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234919
+#EXTINF:-1 tvg-id="ELEVEN" tvg-name="PT-ELEVEN SPORTS 01 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-ELEVEN SPORTS 01 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234920
+#EXTINF:-1 tvg-id="ELEVEN" tvg-name="PT-ELEVEN SPORTS 01 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-ELEVEN SPORTS 01 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234921
+#EXTINF:-1 tvg-id="ESUK1" tvg-name="PT-EUROSPORT 01 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 01 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234922
+#EXTINF:-1 tvg-id="ESUK1" tvg-name="PT-EUROSPORT 01 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 01 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234923
+#EXTINF:-1 tvg-id="EUSP2NL" tvg-name="PT-EUROSPORT 02 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 02 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234924
+#EXTINF:-1 tvg-id="EUSP2NL" tvg-name="PT-EUROSPORT 02 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 02 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234925
+#EXTINF:-1 tvg-id="EUSP2NL" tvg-name="PT-EUROSPORT 02 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 02 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234926
+#EXTINF:-1 tvg-id="EUSP2NL" tvg-name="PT-EUROSPORT 02 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 02 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234927
+#EXTINF:-1 tvg-name="PT-EUROSPORT 03 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 03 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234928
+#EXTINF:-1 tvg-name="PT-EUROSPORT 03 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 03 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234929
+#EXTINF:-1 tvg-name="PT-EUROSPORT 04 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 04 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234930
+#EXTINF:-1 tvg-name="PT-EUROSPORT 04 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 04 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234931
+#EXTINF:-1 tvg-name="PT-EUROSPORT 05 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 05 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234932
+#EXTINF:-1 tvg-name="PT-EUROSPORT 05 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 05 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234933
+#EXTINF:-1 tvg-name="PT-EUROSPORT 06 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 06 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234934
+#EXTINF:-1 tvg-name="PT-EUROSPORT 06 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-EUROSPORT 06 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234935
+#EXTINF:-1 tvg-name="PT-PORTO TV FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-PORTO TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234936
+#EXTINF:-1 tvg-name="PT-PORTO TV HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-PORTO TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234937
+#EXTINF:-1 tvg-name="PT-SPORTING TV FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-SPORTING TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234938
+#EXTINF:-1 tvg-name="PT-SPORTING TV HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-SPORTING TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234939
+#EXTINF:-1 tvg-name="PT-SPORTV 05 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" group-title="⚽ ESPORTES PT",PT-SPORTV 05 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/99941212/6199941212/234940
