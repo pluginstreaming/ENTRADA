@@ -17,6 +17,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://levelxpt.lat:80/090720634/959666174/1544879.ts
 #EXTINF:-1 tvg-name="Flograppling" group-title="⚽ESPORTES PPV",Flograppling
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://levelxpt.lat:80/090720634/959666174/5068660.ts
+#EXTINF:-1 tvg-name="X-Sports HD" tvg-logo="http://ixi.paineluhd.club:80/images/7d4adb8aabb453f4c164be0b992e4182.png" group-title="⚽ESPORTES PPV",X-Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://levelxpt.lat:80/090720634/959666174/6271790.ts
 
 
 
@@ -116,6 +118,19 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 
 
 
+#EXTINF:-1 tvg-name="SPORTY NET  1" tvg-logo="https://i.imgur.com/5WtSBxq.png" group-title="⚽SPORTY NET",SPORTY NET  1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://levelxpt.lat:80/090720634/959666174/172915.ts
+#EXTINF:-1 tvg-name="SPORTY NET 2" tvg-logo="https://i.imgur.com/5WtSBxq.png" group-title="⚽SPORTY NET",SPORTY NET 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://levelxpt.lat:80/090720634/959666174/172916.ts
+#EXTINF:-1 tvg-name="NOSSO FUTEBOL 1" tvg-logo="https://i.imgur.com/5WtSBxq.png" group-title="⚽SPORTY NET",NOSSO FUTEBOL 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://levelxpt.lat:80/090720634/959666174/172914.ts
+#EXTINF:-1 tvg-name="NOSSO FUTEBOL 2" tvg-logo="https://i.imgur.com/5WtSBxq.png" group-title="⚽SPORTY NET",NOSSO FUTEBOL 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://levelxpt.lat:80/090720634/959666174/172917.ts
+
+
+
+
+
 #EXTINF:-1 tvg-name="NSPORTS 1" tvg-logo="https://i.imgur.com/1qdK4KH.png" group-title="⚽ NSPORTS | DAZN",NSPORTS 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://levelxpt.lat:80/090720634/959666174/173216.ts
 #EXTINF:-1 tvg-name="NSPORTS 3" tvg-logo="https://i.imgur.com/1qdK4KH.png" group-title="⚽ NSPORTS | DAZN",NSPORTS 3
@@ -128,25 +143,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://levelxpt.lat:80/090720634/959666174/5150784.ts
 #EXTINF:-1 tvg-id="Dazn" tvg-name="DAZN 4" tvg-logo="httpS://files.jpnetwork.com.br/index.php/s/yJt85r9jCPtTdp6/download/dazn.png" group-title="⚽ NSPORTS | DAZN",DAZN 4
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://levelxpt.lat:80/090720634/959666174/5150785.ts
-
-
-
-
-
-#EXTINF:-1 tvg-name="NBA League Pass 1 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/nba-logo-10.png" group-title="⚡NBA LEAGUE | NFL",NBA League Pass 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://levelxpt.lat:80/090720634/959666174/3241495.ts
-#EXTINF:-1 tvg-name="NBA League Pass 2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/nba-logo-10.png" group-title="⚡NBA LEAGUE | NFL",NBA League Pass 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://levelxpt.lat:80/090720634/959666174/3241496.ts
-#EXTINF:-1 tvg-name="NBA League Pass 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/nba-logo-10.png" group-title="⚡NBA LEAGUE | NFL",NBA League Pass 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://levelxpt.lat:80/090720634/959666174/3241498.ts
-#EXTINF:-1 tvg-name="NBA League Pass 4 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/nba-logo-10.png" group-title="⚡NBA LEAGUE | NFL",NBA League Pass 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://levelxpt.lat:80/090720634/959666174/3241499.ts
-#EXTINF:-1 tvg-name="NBA League Pass 5 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/nba-logo-10.png" group-title="⚡NBA LEAGUE | NFL",NBA League Pass 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://levelxpt.lat:80/090720634/959666174/3241500.ts
-#EXTINF:-1 tvg-name="NBA TV HD" tvg-logo="http://xp2.wtf:80/images/27012dc7bd4f8d0bc0dcd4903c3fd04d.png" group-title="⚡NBA LEAGUE | NFL",NBA TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://levelxpt.lat:80/090720634/959666174/4778988.ts
-#EXTINF:-1 tvg-name="NFL" tvg-logo="http://xp2.wtf:80/images/ef365adb849ac166762b95d9b91cfd58.png" group-title="⚡NBA LEAGUE | NFL",NFL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://levelxpt.lat:80/090720634/959666174/4137265.ts
 
 
 
@@ -239,6 +235,12 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://levelxpt.lat:80/090720634/959666174/4776175.ts
 #EXTINF:-1 tvg-id="SporTV 3 HD" tvg-name="SPORTV 3 SD" tvg-logo="https://i.imgur.com/oENNdwD.png" group-title="⚽SPORTV",SPORTV 3 SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://levelxpt.lat:80/090720634/959666174/4776174.ts
+#EXTINF:-1 tvg-name="SPORTV 4 HD" tvg-logo="https://i.imgur.com/fIn5l9L.png" group-title="⚽SPORTV",SPORTV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://levelxpt.lat:80/090720634/959666174/6283112.ts
+#EXTINF:-1 tvg-name="SPORTV 6 HD" tvg-logo="https://i.imgur.com/fIn5l9L.png" group-title="⚽SPORTV",SPORTV 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://levelxpt.lat:80/090720634/959666174/6283113.ts
+#EXTINF:-1 tvg-name="SPORTV 5 HD" tvg-logo="https://i.imgur.com/fIn5l9L.png" group-title="⚽SPORTV",SPORTV 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://levelxpt.lat:80/090720634/959666174/6283114.ts
 
 
 
@@ -346,12 +348,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://levelxpt.lat:80/090720634/959666174/4925956.ts
 #EXTINF:-1 tvg-name="HBO MAX 06" tvg-logo="https://files.jpnetwork.com.br/index.php/s/gEw6y2C57Hc8wB2/download/max11.png" group-title="⚽DISNEY+ | HBO MAX",HBO MAX 06
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://levelxpt.lat:80/090720634/959666174/4925957.ts
-#EXTINF:-1 tvg-id="TNTLVHD" tvg-name="TNT 01" tvg-logo="https://files.jpnetwork.com.br/index.php/s/KmXzn8Lyf57zoCp/download/tnt.png" group-title="⚽DISNEY+ | HBO MAX",TNT 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://levelxpt.lat:80/090720634/959666174/4925958.ts
-#EXTINF:-1 tvg-id="TNTLVHD" tvg-name="TNT 02" tvg-logo="https://files.jpnetwork.com.br/index.php/s/KmXzn8Lyf57zoCp/download/tnt.png" group-title="⚽DISNEY+ | HBO MAX",TNT 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://levelxpt.lat:80/090720634/959666174/4925959.ts
-#EXTINF:-1 tvg-id="TNTLVHD" tvg-name="TNT 03" tvg-logo="https://files.jpnetwork.com.br/index.php/s/KmXzn8Lyf57zoCp/download/tnt.png" group-title="⚽DISNEY+ | HBO MAX",TNT 03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://levelxpt.lat:80/090720634/959666174/4925960.ts
 #EXTINF:-1 tvg-name="Disney+ 01 HD" tvg-logo="http://69.197.159.50:80/images/f3f270755a6d354dbd036419d7863d74.jpg" group-title="⚽DISNEY+ | HBO MAX",Disney+ 01 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://levelxpt.lat:80/090720634/959666174/5067267.ts
 #EXTINF:-1 tvg-name="Disney+ 02 HD" tvg-logo="http://69.197.159.50:80/images/f3f270755a6d354dbd036419d7863d74.jpg" group-title="⚽DISNEY+ | HBO MAX",Disney+ 02 HD
