@@ -2,10 +2,22 @@
 
 
 
-
-#EXTINF:-1 tvg-name="A Fazenda 17 Aquecimento" tvg-logo="https://i.imgur.com/CiBLaIb.jpeg" group-title="Canais | A Fazenda 17",A Fazenda 17 Aquecimento
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/araujo050/c96196818b/4598337.ts
-
+#EXTINF:-1 tvg-name="A Fazenda" tvg-logo="https://i.imgur.com/CiBLaIb.jpeg" group-title="Canais | A Fazenda 17",A Fazenda
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdntac.xyz:80/923597720/024924386/4599502.ts
+#EXTINF:-1 tvg-name="A Fazenda Cam 01" tvg-logo="https://i.imgur.com/CiBLaIb.jpeg" group-title="Canais | A Fazenda 17",A Fazenda Cam 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdntac.xyz:80/923597720/024924386/4599503.ts
+#EXTINF:-1 tvg-name="A Fazenda Cam 02" tvg-logo="https://i.imgur.com/CiBLaIb.jpeg" group-title="Canais | A Fazenda 17",A Fazenda Cam 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdntac.xyz:80/923597720/024924386/4599504.ts
+#EXTINF:-1 tvg-name="A Fazenda Cam 03" tvg-logo="https://i.imgur.com/CiBLaIb.jpeg" group-title="Canais | A Fazenda 17",A Fazenda Cam 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdntac.xyz:80/923597720/024924386/4599505.ts
+#EXTINF:-1 tvg-name="A Fazenda Cam 04" tvg-logo="https://i.imgur.com/CiBLaIb.jpeg" group-title="Canais | A Fazenda 17",A Fazenda Cam 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdntac.xyz:80/923597720/024924386/4599506.ts
+#EXTINF:-1 tvg-name="A Fazenda Cam 05" tvg-logo="https://i.imgur.com/CiBLaIb.jpeg" group-title="Canais | A Fazenda 17",A Fazenda Cam 05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdntac.xyz:80/923597720/024924386/4599507.ts
+#EXTINF:-1 tvg-name="A Fazenda Cam 06" tvg-logo="https://i.imgur.com/CiBLaIb.jpeg" group-title="Canais | A Fazenda 17",A Fazenda Cam 06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdntac.xyz:80/923597720/024924386/4599508.ts
+#EXTINF:-1 tvg-name="A Fazenda Cam 07" tvg-logo="https://i.imgur.com/CiBLaIb.jpeg" group-title="Canais | A Fazenda 17",A Fazenda Cam 07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdntac.xyz:80/923597720/024924386/4599509.ts
 
 
 
