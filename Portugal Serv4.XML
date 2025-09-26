@@ -3,105 +3,169 @@
 
 
 
-#EXTINF:-1 tvg-name="Sport TV + HD " tvg-logo="https://logos.sologos.art/server/Sport%20TV%20%2B.png" ,Sport TV + HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/51993
-#EXTINF:-1 tvg-name="Sport TV +" tvg-logo="https://logos.sologos.art/server/Sport%20TV%20%2B.png" ,Sport TV +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/10795
-#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-name="Sport TV 4K" tvg-logo="https://logos.sologos.art/server/Sport%20TV%201.png" ,Sport TV 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/1237812
-#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-name="Sport TV 1 Full HD" tvg-logo="https://logos.sologos.art/server/Sport%20TV%201.png" ,Sport TV 1 Full HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/1514
-#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-name="Sport TV 1 HD" tvg-logo="https://logos.sologos.art/server/Sport%20TV%201.png" ,Sport TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/1515
-#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-name="Sport TV 1" tvg-logo="https://logos.sologos.art/server/Sport%20TV%201.png" ,Sport TV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/1516
-#EXTINF:-1 tvg-name="Sport TV 2 Full HD" tvg-logo="https://logos.sologos.art/server/Sport%20TV%202.png" ,Sport TV 2 Full HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/1517
-#EXTINF:-1 tvg-name="Sport TV 2  HD" tvg-logo="https://logos.sologos.art/server/Sport%20TV%202.png" ,Sport TV 2  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/1518
-#EXTINF:-1 tvg-id="SPORT TV 2 HD" tvg-name="Sport TV 2" tvg-logo="https://logos.sologos.art/server/Sport%20TV%202.png" ,Sport TV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/1519
-#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" tvg-name="Sport TV 3 Full HD" tvg-logo="https://logos.sologos.art/server/Sport%20TV%203.png" ,Sport TV 3 Full HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/1520
-#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" tvg-name="Sport TV 3  HD" tvg-logo="https://logos.sologos.art/server/Sport%20TV%203.png" ,Sport TV 3  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/1521
-#EXTINF:-1 tvg-name="Sport TV 3" tvg-logo="https://logos.sologos.art/server/Sport%20TV%203.png" ,Sport TV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/1522
-#EXTINF:-1 tvg-id="SPORT TV 4 HD" tvg-name="Sport TV 4 Full HD" tvg-logo="https://logos.sologos.art/server/Sport%20TV%204.png" ,Sport TV 4 Full HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/1523
-#EXTINF:-1 tvg-id="SPORT TV 4 HD" tvg-name="Sport TV 4 HD" tvg-logo="https://logos.sologos.art/server/Sport%20TV%204.png" ,Sport TV 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/1524
-#EXTINF:-1 tvg-id="SPORT TV 4 HD" tvg-name="Sport TV 4" tvg-logo="https://logos.sologos.art/server/Sport%20TV%204.png" ,Sport TV 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/1525
-#EXTINF:-1 tvg-name="Sport TV 5 Full HD" tvg-logo="https://logos.sologos.art/server/Sport%20TV%205.png" ,Sport TV 5 Full HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/1526
-#EXTINF:-1 tvg-id="SPORT TV 5 HD" tvg-name="Sport TV 5 HD" tvg-logo="https://logos.sologos.art/server/Sport%20TV%205.png" ,Sport TV 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/1527
-#EXTINF:-1 tvg-name="Sport TV 5" tvg-logo="https://logos.sologos.art/server/Sport%20TV%205.png" ,Sport TV 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/1528
-#EXTINF:-1 tvg-name="Sport TV 6 HD " tvg-logo="https://i.postimg.cc/d3NHk70d/Sport-TV.png" ,Sport TV 6 HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/68314
-#EXTINF:-1 tvg-name="Sport TV NBA " tvg-logo="https://logos.sologos.art/server/NBA%20TV.png" ,Sport TV NBA 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/45258
-#EXTINF:-1 tvg-id="BTV1.HD.pt" tvg-name="BTV 4K" tvg-logo="https://logos.sologos.art/server/Benfica%20TV.png" ,BTV 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/1237811
-#EXTINF:-1 tvg-name="BTV FHD" tvg-logo="https://logos.sologos.art/server/Benfica%20TV.png" ,BTV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/1529
-#EXTINF:-1 tvg-id="BTV HD" tvg-name="BTV TV HD" tvg-logo="https://logos.sologos.art/server/Benfica%20TV.png" ,BTV TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/1530
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://logos.sologos.art/server/Benfica%20TV.png" ,BTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/1531
-#EXTINF:-1 tvg-name="Sporting TV HD" tvg-logo="https://logos.sologos.art/server/Sporting%20TV.png" ,Sporting TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/1533
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Eleven Sports 1 FHD" tvg-logo="https://logos.sologos.art/server/Eleven%20Sports.png" ,Eleven Sports 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/2377
-#EXTINF:-1 tvg-name="Eleven Sports 1 HD" tvg-logo="https://logos.sologos.art/server/Eleven%20Sports.png" ,Eleven Sports 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/2375
-#EXTINF:-1 tvg-name="Eleven Sports 1" tvg-logo="https://logos.sologos.art/server/Eleven%20Sports.png" ,Eleven Sports 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/2373
-#EXTINF:-1 tvg-name="Eleven Sports 2 FHD" tvg-logo="https://logos.sologos.art/server/Eleven%20Sports.png" ,Eleven Sports 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/2385
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Eleven Sports 2 HD" tvg-logo="https://logos.sologos.art/server/Eleven%20Sports.png" ,Eleven Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/2382
-#EXTINF:-1 tvg-name="Eleven Sports 2" tvg-logo="https://logos.sologos.art/server/Eleven%20Sports.png" ,Eleven Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/2381
-#EXTINF:-1 tvg-name="Eleven Sports 3 FHD" tvg-logo="https://logos.sologos.art/server/Eleven%20Sports.png" ,Eleven Sports 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/2391
-#EXTINF:-1 tvg-name="Eleven Sports 3 HD" tvg-logo="https://logos.sologos.art/server/Eleven%20Sports.png" ,Eleven Sports 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/2390
-#EXTINF:-1 tvg-name="Eleven Sports 3" tvg-logo="https://logos.sologos.art/server/Eleven%20Sports.png" ,Eleven Sports 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/2387
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 4 HD" tvg-name="Eleven Sports 4 FHD" tvg-logo="https://logos.sologos.art/server/Eleven%20Sports.png" ,Eleven Sports 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/2398
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 4 HD" tvg-name="Eleven Sports 4 HD" tvg-logo="https://logos.sologos.art/server/Eleven%20Sports.png" ,Eleven Sports 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/2396
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 4 HD" tvg-name="Eleven Sports 4" tvg-logo="https://logos.sologos.art/server/Eleven%20Sports.png" ,Eleven Sports 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/2395
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 5 HD" tvg-name="Eleven Sports 5 FHD" tvg-logo="https://logos.sologos.art/server/Eleven%20Sports.png" ,Eleven Sports 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/2405
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 5 HD" tvg-name="Eleven Sports 5 HD" tvg-logo="https://logos.sologos.art/server/Eleven%20Sports.png" ,Eleven Sports 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/2402
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 5 HD" tvg-name="Eleven Sports 5" tvg-logo="https://logos.sologos.art/server/Eleven%20Sports.png" ,Eleven Sports 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/2401
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 6 HD" tvg-name="Eleven Sports 6 FHD" tvg-logo="https://logos.sologos.art/server/Eleven%20Sports.png" ,Eleven Sports 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/2411
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 6" tvg-name="Eleven Sports 6 HD" tvg-logo="https://logos.sologos.art/server/Eleven%20Sports.png" ,Eleven Sports 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/2409
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 6 HD" tvg-name="Eleven Sports 6" tvg-logo="https://logos.sologos.art/server/Eleven%20Sports.png" ,Eleven Sports 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/2407
-#EXTINF:-1 tvg-name="A Bola TV HD" tvg-logo="https://logos.sologos.art/server/A%20Bola%20TV.png" ,A Bola TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/1535
-#EXTINF:-1 tvg-id="CANAL 11 HD" tvg-name="Canal 11 HD" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2019/07/logo11.png" ,Canal 11 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/2623
-#EXTINF:-1 tvg-id="CANAL 11" tvg-name="Canal 11" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2019/07/logo11.png" ,Canal 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/911027
-#EXTINF:-1 tvg-name="Eurosport 1" tvg-logo="https://logos.sologos.art/server/EuroSport%201.png" ,Eurosport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/1536
-#EXTINF:-1 tvg-name="Eurosport 2" tvg-logo="https://logos.sologos.art/server/EuroSport%202.png" ,Eurosport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/1537
-#EXTINF:-1 tvg-name="Fight Sports HD" tvg-logo="https://logos.sologos.art/server/Fight%20Network.png" ,Fight Sports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/1538
-#EXTINF:-1 tvg-id="GINX ESPORTS" tvg-name="GINX Esports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Ginx_Esports_logo.png" ,GINX Esports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/1540
-#EXTINF:-1 tvg-id="MOTORVISION HD" tvg-name="MotorVision TV" tvg-logo="https://logos.sologos.art/server/Motorvision.png" ,MotorVision TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://bananadoce.online:8080/123456789/12345678/1541
+#EXTINF:-1 tvg-id="RTP.1.HD.pt" tvg-name="RTP 1 HD" tvg-logo="https://logos.sologos.art/server/RTP%201.png" group-title="PORTUGAL",RTP 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1604
+#EXTINF:-1 tvg-id="RTP.1.HD.pt" tvg-name="RTP 1" tvg-logo="https://logos.sologos.art/server/RTP%201.png" group-title="PORTUGAL",RTP 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1600
+#EXTINF:-1 tvg-id="RTP.2.HD.pt" tvg-name="RTP 2 HD" tvg-logo="https://logos.sologos.art/server/RTP%202.png" group-title="PORTUGAL",RTP 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1603
+#EXTINF:-1 tvg-id="RTP.2.HD.pt" tvg-name="RTP 2" tvg-logo="https://logos.sologos.art/server/RTP%202.png" group-title="PORTUGAL",RTP 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1599
+#EXTINF:-1 tvg-id="RTP.3.HD.pt" tvg-name="RTP 3 HD" tvg-logo="https://logos.sologos.art/server/RTP%203.png" group-title="PORTUGAL",RTP 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1479
+#EXTINF:-1 tvg-id="RTP.3.HD.pt" tvg-name="RTP 3" tvg-logo="https://logos.sologos.art/server/RTP%203.png" group-title="PORTUGAL",RTP 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/899601
+#EXTINF:-1 tvg-name="RTP Acores" tvg-logo="https://prinplay.com.br/server/RTP%20A%C3%A7ores.png" group-title="PORTUGAL",RTP Acores
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1498
+#EXTINF:-1 tvg-name="RTP Africa" tvg-logo="https://prinplay.com.br/server/RTP%20%C3%81frica.png" group-title="PORTUGAL",RTP Africa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1501
+#EXTINF:-1 tvg-id="RTP MADEIRA" tvg-name="RTP Madeira" tvg-logo="https://logos.sologos.art/server/RTP%20Madeira.png" group-title="PORTUGAL",RTP Madeira
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1500
+#EXTINF:-1 tvg-name="RTP Memoria" tvg-logo="https://logos.sologos.art/server/RTP%20Memo%CC%81ria.png" group-title="PORTUGAL",RTP Memoria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1499
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC HD" tvg-logo="https://logos.sologos.art/server/SIC.png" group-title="PORTUGAL",SIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/10224
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC" tvg-logo="https://logos.sologos.art/server/SIC.png" group-title="PORTUGAL",SIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1480
+#EXTINF:-1 tvg-id="TVI HD" tvg-name="TVI HD" tvg-logo="https://logos.sologos.art/server/TVI.png" group-title="PORTUGAL",TVI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1483
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVI" tvg-logo="https://logos.sologos.art/server/TVI.png" group-title="PORTUGAL",TVI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1484
+#EXTINF:-1 tvg-name="SIC Noticias  HD" tvg-logo="https://prinplay.com.br/server/SIC%20Not%C3%ADcias.png" group-title="PORTUGAL",SIC Noticias  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/10226
+#EXTINF:-1 tvg-name="SIC Noticias" tvg-logo="https://prinplay.com.br/server/SIC%20Not%C3%ADcias.png" group-title="PORTUGAL",SIC Noticias
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1493
+#EXTINF:-1 tvg-id="CMTV.HD.pt" tvg-name="CMTV HD" tvg-logo="https://logos.sologos.art/server/CMTV.png" group-title="PORTUGAL",CMTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/10230
+#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV" tvg-logo="https://logos.sologos.art/server/CMTV.png" group-title="PORTUGAL",CMTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1494
+#EXTINF:-1 tvg-id="CNN.Portugal.HD.pt" tvg-name="CNN Portugal HD" tvg-logo="https://logos.sologos.art/server/CNN.png" group-title="PORTUGAL",CNN Portugal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/899603
+#EXTINF:-1 tvg-id="CNN.Portugal.HD.pt" tvg-name="CNN Portugal " tvg-logo="https://logos.sologos.art/server/CNN.png" group-title="PORTUGAL",CNN Portugal 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/75838
+#EXTINF:-1 tvg-id="TCV.Internacional.pt" tvg-name="TCV Internacional " tvg-logo="https://logos.sologos.art/server/TCV%20Internacional.png" group-title="PORTUGAL",TCV Internacional 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/899602
+#EXTINF:-1 tvg-name="Globo Portugal" tvg-logo="https://logos.sologos.art/server/Globo%20Portugal.png" group-title="PORTUGAL",Globo Portugal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/2433
+#EXTINF:-1 tvg-id="SIC.Caras.HD.pt" tvg-name="SIC Caras HD " tvg-logo="https://logos.sologos.art/server/Sic%20Caras.png" group-title="PORTUGAL",SIC Caras HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/51991
+#EXTINF:-1 tvg-name="SIC Caras" tvg-logo="https://logos.sologos.art/server/Sic%20Caras.png" group-title="PORTUGAL",SIC Caras
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1491
+#EXTINF:-1 tvg-id="SIC.Mulher.HD.pt" tvg-name="SIC Mulher HD" tvg-logo="https://logos.sologos.art/server/SIC%20Mulher.png" group-title="PORTUGAL",SIC Mulher HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/10227
+#EXTINF:-1 tvg-name="SIC Mulher" tvg-logo="https://logos.sologos.art/server/SIC%20Mulher.png" group-title="PORTUGAL",SIC Mulher
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1490
+#EXTINF:-1 tvg-id="SIC RADICAL HD" tvg-name="SIC Radical HD" tvg-logo="https://logos.sologos.art/server/Sic%20Radical.png" group-title="PORTUGAL",SIC Radical HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/10225
+#EXTINF:-1 tvg-id="SIC RADICAL HD" tvg-name="SIC Radical" tvg-logo="https://logos.sologos.art/server/Sic%20Radical.png" group-title="PORTUGAL",SIC Radical
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1492
+#EXTINF:-1 tvg-id="tvi.ficcao.pt" tvg-name="TVI Ficcao HD " tvg-logo="https://prinplay.com.br/server/TVI%20Fic%C3%A7%C3%A3o.png" group-title="PORTUGAL",TVI Ficcao HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/51992
+#EXTINF:-1 tvg-name="TVI Ficcao" tvg-logo="https://prinplay.com.br/server/TVI%20Fic%C3%A7%C3%A3o.png" group-title="PORTUGAL",TVI Ficcao
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1487
+#EXTINF:-1 tvg-id="TVI REALITY HD" tvg-name="TVI Reality HD" tvg-logo="https://logos.sologos.art/server/TVI%20Reality.png" group-title="PORTUGAL",TVI Reality HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1489
+#EXTINF:-1 tvg-id="TVI REALITY" tvg-name="TVI Reality" tvg-logo="https://logos.sologos.art/server/TVI%20Reality.png" group-title="PORTUGAL",TVI Reality
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1488
+#EXTINF:-1 tvg-id="GAMETOON HD" tvg-name="Gametoon HD" tvg-logo="https://iconape.com/wp-content/files/um/279516/png/gametoon-hd-logo.png" group-title="PORTUGAL",Gametoon HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/52023
+#EXTINF:-1 tvg-id="PORTO CANAL HD" tvg-name="Porto Canal" tvg-logo="https://logos.sologos.art/server/Porto%20Canal.png" group-title="PORTUGAL",Porto Canal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1497
+#EXTINF:-1 tvg-id="TVCine TOP HD" tvg-name="TVCine Top HD" tvg-logo="https://logos.sologos.art/server/TVCine%20Top.png" group-title="PORTUGAL",TVCine Top HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1544
+#EXTINF:-1 tvg-id="TVCine TOP HD" tvg-name="TVCine Top " tvg-logo="https://logos.sologos.art/server/TVCine%20Top.png" group-title="PORTUGAL",TVCine Top 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1545
+#EXTINF:-1 tvg-id="TVCine EDITION HD" tvg-name="TVCine Edition HD" tvg-logo="https://logos.sologos.art/server/TVCine%20Edition.png" group-title="PORTUGAL",TVCine Edition HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1546
+#EXTINF:-1 tvg-id="TVCine EDITION HD" tvg-name="TVCine Edition" tvg-logo="https://logos.sologos.art/server/TVCine%20Edition.png" group-title="PORTUGAL",TVCine Edition
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1547
+#EXTINF:-1 tvg-id="TVCine EMOTION HD" tvg-name="TVCine Emotion HD" tvg-logo="https://logos.sologos.art/server/TVCine%20Emotion.png" group-title="PORTUGAL",TVCine Emotion HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1548
+#EXTINF:-1 tvg-id="TVCine.EDITION.HD.pt" tvg-name="TVCine Emotion " tvg-logo="https://logos.sologos.art/server/TVCine%20Emotion.png" group-title="PORTUGAL",TVCine Emotion 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1549
+#EXTINF:-1 tvg-id="TVCine.ACTION.HD.pt" tvg-name="TVCine Action HD" tvg-logo="https://logos.sologos.art/server/TVCine%20Action.png" group-title="PORTUGAL",TVCine Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1550
+#EXTINF:-1 tvg-id="TVCine.ACTION.HD.pt" tvg-name="TVCine Action" tvg-logo="https://logos.sologos.art/server/TVCine%20Action.png" group-title="PORTUGAL",TVCine Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1551
+#EXTINF:-1 tvg-name="AMC HD" tvg-logo="https://logos.sologos.art/server/AMC.png" group-title="PORTUGAL",AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1568
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="https://logos.sologos.art/server/AXN.png" group-title="PORTUGAL",AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1553
+#EXTINF:-1 tvg-id="AXN MOVIES HD" tvg-name="AXN Movies HD" tvg-logo="https://logos.sologos.art/server/AXN.png" group-title="PORTUGAL",AXN Movies HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1554
+#EXTINF:-1 tvg-name="AXN White HD" tvg-logo="https://logos.sologos.art/server/AXN%20White.png" group-title="PORTUGAL",AXN White HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1557
+#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-name="AXN White" tvg-logo="https://logos.sologos.art/server/AXN%20White.png" group-title="PORTUGAL",AXN White
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1558
+#EXTINF:-1 tvg-id="STAR COMEDY HD" tvg-name="Star Comedy HD" tvg-logo="https://logos.sologos.art/server/Fox%20Comedy.png" group-title="PORTUGAL",Star Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1563
+#EXTINF:-1 tvg-id="STAR CRIME HD" tvg-name="Star Crime HD" tvg-logo="https://logos.sologos.art/server/Fox%20Crime.png" group-title="PORTUGAL",Star Crime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1564
+#EXTINF:-1 tvg-id="STAR CHANNEL HD" tvg-name="Star Channel HD" tvg-logo="https://logos.sologos.art/server/Fox.png" group-title="PORTUGAL",Star Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1561
+#EXTINF:-1 tvg-name="Star Channel" tvg-logo="https://prinplay.com.br/server/Star%20Channel.png" group-title="PORTUGAL",Star Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1560
+#EXTINF:-1 tvg-id="STAR LIFE HD" tvg-name="Star Life HD" tvg-logo="https://logos.sologos.art/server/Fox%20Life.png" group-title="PORTUGAL",Star Life HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1562
+#EXTINF:-1 tvg-id="STAR MOVIES HD" tvg-name="Star Movies HD" tvg-logo="https://logos.sologos.art/server/Fox%20Movies.png" group-title="PORTUGAL",Star Movies HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1565
+#EXTINF:-1 tvg-name="Hollywood HD" tvg-logo="https://logos.sologos.art/server/Canal%20Hollywood.png" group-title="PORTUGAL",Hollywood HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1566
+#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="Hollywood" tvg-logo="https://logos.sologos.art/server/Canal%20Hollywood.png" group-title="PORTUGAL",Hollywood
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1567
+#EXTINF:-1 tvg-id="NOS.Studios.HD.pt" tvg-name="Nos Studios HD " tvg-logo="https://logos.sologos.art/server/Canal%20NOS.png" group-title="PORTUGAL",Nos Studios HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/45491
+#EXTINF:-1 tvg-id="SYFY LOW" tvg-name="Syfy HD" tvg-logo="https://logos.sologos.art/server/Syfy.png" group-title="PORTUGAL",Syfy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1570
+#EXTINF:-1 tvg-name="Cinemundo HD" tvg-logo="https://logos.sologos.art/server/Cine%20Mundo.png" group-title="PORTUGAL",Cinemundo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1569
+#EXTINF:-1 tvg-id="AMC.Crime.HD.pt" tvg-name="AMC Crime HD" tvg-logo="https://logos.sologos.art/server/AMC.png" group-title="PORTUGAL",AMC Crime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1571
+#EXTINF:-1 tvg-name="Canal Panda" tvg-logo="https://logos.sologos.art/server/Canal%20Panda.png" group-title="PORTUGAL",Canal Panda
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1503
+#EXTINF:-1 tvg-name="Panda Kids" tvg-logo="https://logos.sologos.art/server/Panda%20Biggs.png" group-title="PORTUGAL",Panda Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1504
+#EXTINF:-1 tvg-id="CART" tvg-name="Cartoon Network" tvg-logo="https://logos.sologos.art/server/Cartoon%20Network.png" group-title="PORTUGAL",Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1505
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="https://logos.sologos.art/server/Baby%20TV.png" group-title="PORTUGAL",Baby TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1508
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery Channel HD" tvg-logo="https://logos.sologos.art/server/Discovery%20Channel.png" group-title="PORTUGAL",Discovery Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1574
+#EXTINF:-1 tvg-name="Disney Channel³" tvg-logo="https://logos.sologos.art/server/Disney%20Channel.png" group-title="PORTUGAL",Disney Channel³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1510
+#EXTINF:-1 tvg-name="Disney Junior HD" tvg-logo="https://logos.sologos.art/server/Disney%20Jr..png" group-title="PORTUGAL",Disney Junior HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1511
+#EXTINF:-1 tvg-name="SIC K" tvg-logo="https://logos.sologos.art/server/SIC%20Kids.png" group-title="PORTUGAL",SIC K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1509
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon" tvg-logo="https://logos.sologos.art/server/Nickelodeon.png" group-title="PORTUGAL",Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1506
+#EXTINF:-1 tvg-id="TLC HD" tvg-name="TLC" tvg-logo="https://logos.sologos.art/server/TLC.png" group-title="PORTUGAL",TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1587
+#EXTINF:-1 tvg-id="24 KITCHEN HD" tvg-name="24 Kitchen HD" tvg-logo="https://logos.sologos.art/server/24%20Kitchen.png" group-title="PORTUGAL",24 Kitchen HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1586
+#EXTINF:-1 tvg-id="24Kitchen.HD.pt" tvg-name="24 Kitchen" tvg-logo="https://logos.sologos.art/server/24%20Kitchen.png" group-title="PORTUGAL",24 Kitchen
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/12779
+#EXTINF:-1 tvg-id="E! ENTERTAINMENT HD" tvg-name="E! " tvg-logo="https://logos.sologos.art/server/E%21%20Entertainment.png" group-title="PORTUGAL",E! 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1588
+#EXTINF:-1 tvg-name="National Geographic Wild HD" tvg-logo="https://logos.sologos.art/server/National%20Geographic.png" group-title="PORTUGAL",National Geographic Wild HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1576
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-name="National Geographic HD" tvg-logo="https://logos.sologos.art/server/Nat%20Geo%20Wild.png" group-title="PORTUGAL",National Geographic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1578
+#EXTINF:-1 tvg-id="ODISSEIA HD" tvg-name="Odisseia" tvg-logo="https://logos.sologos.art/server/Odisseia.png" group-title="PORTUGAL",Odisseia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1579
+#EXTINF:-1 tvg-id="HISTÓRIA HD" tvg-name="Historia HD" tvg-logo="https://logos.sologos.art/server/Canal%20Hist%C3%B3ria.png" group-title="PORTUGAL",Historia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1577
+#EXTINF:-1 tvg-name="Caça e Pesca" tvg-logo="https://prinplay.com.br/server/Ca%C3%A7a%20e%20Pesca.png" group-title="PORTUGAL",Caça e Pesca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1583
+#EXTINF:-1 tvg-name="Cacavision" tvg-logo="https://prinplay.com.br/server/Ca%C3%A7avision.png" group-title="PORTUGAL",Cacavision
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1584
+#EXTINF:-1 tvg-id="FUEL TV HD" tvg-name="Fuel TV" tvg-logo="https://logos.sologos.art/server/Fuel%20TV.png" group-title="PORTUGAL",Fuel TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1596
+#EXTINF:-1 tvg-id="MTV PORTUGAL HD" tvg-name="MTV Portugal" tvg-logo="https://logos.sologos.art/server/MTV.png" group-title="PORTUGAL",MTV Portugal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1591
+#EXTINF:-1 tvg-id="MCM POP HD" tvg-name="MCM Pop" tvg-logo="https://logos.sologos.art/server/MCM%20Pop.png" group-title="PORTUGAL",MCM Pop
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/1593
+#EXTINF:-1 tvg-id="ZAP.Viva.HD.pt" tvg-name="ZAP Viva " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c6/Zap_Viva_%28logo%29.png" group-title="PORTUGAL",ZAP Viva 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/12778
+#EXTINF:-1 tvg-id="Trace.Brasil.pt" tvg-name="Trace Urban " tvg-logo="https://logos.sologos.art/server/Trace%20Urban.png" group-title="PORTUGAL",Trace Urban 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://dns.ortotrauma.online:8080/Eugenioandrade/Brava1/75839
