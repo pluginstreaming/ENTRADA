@@ -1,3 +1,9 @@
+#EXTM3U
+
+
+
+
+
 #EXTINF:-1 tvg-id="RTP 1" tvg-name="RTP 1ᴴᴰ" tvg-logo="https://picons.my-ott.com/picons/RTP_1_HD.png" group-title="PORTUGAL HD",RTP 1ᴴᴰ
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://repi.live:8080/PP5fLhnHA4Hp/ZyapcqxBjRJ6/2
 #EXTINF:-1 tvg-id="RTP 1" tvg-name="RTP 1ᶠᴴᴰ" tvg-logo="http://62.171.169.101/picons/RTP_1_HD.png" group-title="PORTUGAL HD",RTP 1ᶠᴴᴰ
