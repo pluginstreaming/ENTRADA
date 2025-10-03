@@ -1,24 +1,13 @@
-<channel xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
     <name>Agenda Esportiva</name>
     <fanart>https://baf-qrcode.b-cdn.net/FOTO_INFORMACOES_ESP_FULL_1920x1080.jpg</fanart>
 
-    <!-- ITEM 1: imagem -->
     <item>
         <title>AGENDA ESPORTIVA 01</title>
-        <!-- Mantém o link original (opcional/clicável) -->
-        <link>https://baf-qrcode.b-cdn.net/InShot_20251003_110004974.jpg</link>
-        <!-- Fallback clássico -->
-        <enclosure url="https://baf-qrcode.b-cdn.net/InShot_20251003_110004974.jpg" type="image/jpeg"/>
-        <!-- MRSS moderno -->
-        <media:content url="https://baf-qrcode.b-cdn.net/InShot_20251003_110004974.jpg" type="image/jpeg" medium="image"/>
-        <!-- Ajuda o Kodi/skins a tratar como imagem -->
-        <type>picture</type>
-
+        <link>http://aguacomgas.shop:80/222222222/222222222/223475.ts</link>
         <thumbnail>https://www.agendaesportiva.com.br/lib/img/portal/logo/6/header-alt.png</thumbnail>
-        <fanart>https://baf-qrcode.b-cdn.net/FOTO_INFORMACOES_ESP_FULL_1920x1080.jpg</fanart>
     </item>
 
-    <!-- Demais itens continuam como vídeo -->
     <item>
         <title>AGENDA ESPORTIVA 02</title>
         <link>http://alpacinoo.com:8080/2693227/3064276/390825</link>
@@ -36,10 +25,5 @@
         <link>http://newoneblack.site:80/99941212/6199941212/765673</link>
         <thumbnail>https://baf-qrcode.b-cdn.net/UFC.png</thumbnail>
     </item>
+
 </channel>
-
-
- 
-
-
-
