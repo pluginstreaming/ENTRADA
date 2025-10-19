@@ -3,243 +3,117 @@
 
 
 
-#EXTINF:-1 tvg-name="PT: MUNDO TORO " tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",PT: MUNDO TORO 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/571518
-#EXTINF:-1 tvg-id="Record - RIC TV OESTE" tvg-name="PT-  UFC Figth Pass FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",PT-  UFC Figth Pass FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112088
-#EXTINF:-1 tvg-id="Record - RIC TV OESTE" tvg-name="PT -NFL Network HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",PT -NFL Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/2475
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- SportTV +  HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",PT- SportTV +  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/111993
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- SportTV 1 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",PT- SportTV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/111995
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- SportTV 2 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",PT- SportTV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/111998
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- SportTV 3 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",PT- SportTV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112000
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- SportTV 4 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",PT- SportTV 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112002
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- SportTV 5 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",PT- SportTV 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112004
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- SportTV 6 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",PT- SportTV 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112006
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- A Bola TV HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",PT- A Bola TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112014
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="PT- BLOOMBERG" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",PT- BLOOMBERG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112030
-#EXTINF:-1 tvg-name="PT- BTV HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",PT- BTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112010
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- CacaVision SD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",PT- CacaVision SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112078
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- Canal 11 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",PT- Canal 11 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112016
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- Canal180" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",PT- Canal180
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112102
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- Canal Panda HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",PT- Canal Panda HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112026
-#EXTINF:-1 tvg-name="Canal Q SD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",Canal Q SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112052
-#EXTINF:-1 tvg-name="Casa Cozinha HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",Casa Cozinha HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112045
-#EXTINF:-1 tvg-name="Caça & Pesca FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",Caça & Pesca FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112079
-#EXTINF:-1 tvg-name="CBS Reality SD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",CBS Reality SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112043
-#EXTINF:-1 tvg-name="Cine Mundo HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",Cine Mundo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/111971
-#EXTINF:-1 tvg-name="Clubbing TV" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",Clubbing TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112101
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="CMTV HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",CMTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/111945
-#EXTINF:-1 tvg-name="CNN HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",CNN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/111947
-#EXTINF:-1 tvg-name="Crime Investigação SD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",Crime Investigação SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112066
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",Discovery Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112063
-#EXTINF:-1 tvg-name="Discovery ID" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",Discovery ID
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112067
-#EXTINF:-1 tvg-name="Disney +" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",Disney +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112022
-#EXTINF:-1 tvg-name="Disney Marvel" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",Disney Marvel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112020
-#EXTINF:-1 tvg-name="Disney Pixar" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",Disney Pixar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112019
-#EXTINF:-1 tvg-name="Disney Star Wars" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",Disney Star Wars
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112018
-#EXTINF:-1 tvg-id="Record - RIC TV OESTE" tvg-name="DOG TV FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",DOG TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112054
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! Entertainment SD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",E! Entertainment SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112049
-#EXTINF:-1 tvg-name="Eeuro News" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",Eeuro News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112110
-#EXTINF:-1 tvg-id="Fashiontv.br" tvg-name="Fashion TV HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",Fashion TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112068
-#EXTINF:-1 tvg-name="Fight Box HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",Fight Box HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112086
-#EXTINF:-1 tvg-name="Fight Network" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",Fight Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112087
-#EXTINF:-1 tvg-name="Food Network" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",Food Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112048
-#EXTINF:-1 tvg-name="FOX Comedy HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",FOX Comedy HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/111989
-#EXTINF:-1 tvg-name="FOX Crime HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",FOX Crime HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/111987
-#EXTINF:-1 tvg-name="FOX FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",FOX FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/111986
-#EXTINF:-1 tvg-name="FOX HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",FOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/111985
-#EXTINF:-1 tvg-name="FOX Life FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",FOX Life FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/111992
-#EXTINF:-1 tvg-name="FOX Life HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",FOX Life HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/111991
-#EXTINF:-1 tvg-name="FOX Muvies HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",FOX Muvies HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/111969
-#EXTINF:-1 tvg-name="Fuel TV FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",Fuel TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112072
-#EXTINF:-1 tvg-name="Fuel TV HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",Fuel TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112071
-#EXTINF:-1 tvg-name="GINX" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",GINX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112081
-#EXTINF:-1 tvg-name="HBO Portugal" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",HBO Portugal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/111976
-#EXTINF:-1 tvg-name="Hollywood HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",Hollywood HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/111967
-#EXTINF:-1 tvg-name="ID Invesigation Discovery HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",ID Invesigation Discovery HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112064
-#EXTINF:-1 tvg-name="Jim Jam SD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",Jim Jam SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112024
-#EXTINF:-1 tvg-name="Kuriakos TV FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",Kuriakos TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112105
-#EXTINF:-1 tvg-name="Lolly Kids" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",Lolly Kids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112091
-#EXTINF:-1 tvg-name="M6 Music HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",M6 Music HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112103
-#EXTINF:-1 tvg-name="MCM POP SD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",MCM POP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112098
-#EXTINF:-1 tvg-name="MCM TOP" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",MCM TOP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112097
-#EXTINF:-1 tvg-name="Mezzo Live FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",Mezzo Live FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112099
-#EXTINF:-1 tvg-name="MotorVision TV SD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",MotorVision TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112076
-#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV Live HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",MTV Live HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112096
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV Portugal HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",MTV Portugal HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112095
-#EXTINF:-1 tvg-name="Más Chic HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",Más Chic HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112047
-#EXTINF:-1 tvg-name="Nick + HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",Nick + HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112021
-#EXTINF:-1 tvg-name="Nickelodeon SD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",Nickelodeon SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112025
-#EXTINF:-1 tvg-name="NOS StudiosHD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",NOS StudiosHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/111965
-#EXTINF:-1 tvg-name="Odisseia HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",Odisseia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112065
-#EXTINF:-1 tvg-name="Outdoor HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",Outdoor HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112077
-#EXTINF:-1 tvg-name="Panda Biggs SD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",Panda Biggs SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112029
-#EXTINF:-1 tvg-name="PFC SD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",PFC SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112070
-#EXTINF:-1 tvg-name="Porto Canal HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",Porto Canal HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112051
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- 24 Kitchen HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",PT- 24 Kitchen HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112046
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="PT- AMC HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",PT- AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/111973
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- AXN HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",PT- AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/111977
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- AXN MOVIES  HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",PT- AXN MOVIES  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/111981
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- AXN WHITE HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",PT- AXN WHITE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/111979
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- Blaze HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",PT- Blaze HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112053
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="PT- Combate HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",PT- Combate HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112083
-#EXTINF:-1 tvg-name="PT- Marvel" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",PT- Marvel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/111935
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- RTP 1 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",PT- RTP 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/111937
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="PT- RTP 2 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",PT- RTP 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/111939
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- RTP 3 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",PT- RTP 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/111949
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- RTP Africa SD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",PT- RTP Africa SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112057
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- RTP Açores SD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",PT- RTP Açores SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112056
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="PT- RTP MADEIRA" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",PT- RTP MADEIRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112058
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="PT- RTP Memória SD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",PT- RTP Memória SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112055
-#EXTINF:-1 tvg-name="Red Bull TV  FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",Red Bull TV  FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112080
-#EXTINF:-1 tvg-name="SIC Caras HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",SIC Caras HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112039
-#EXTINF:-1 tvg-name="SIC HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",SIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/111941
-#EXTINF:-1 tvg-name="SIC Kids HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",SIC Kids HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112028
-#EXTINF:-1 tvg-name="SIC Mulher HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",SIC Mulher HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112040
-#EXTINF:-1 tvg-name="SIC Noticias HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",SIC Noticias HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/111952
-#EXTINF:-1 tvg-name="SIC Radical HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",SIC Radical HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112041
-#EXTINF:-1 tvg-name="Star + HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",Star + HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/111975
-#EXTINF:-1 tvg-name="SYFY HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/111983
-#EXTINF:-1 tvg-name="TCV Internacioanal" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",TCV Internacioanal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112108
-#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",TLC SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112044
-#EXTINF:-1 tvg-name="Toros TV FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",Toros TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112074
-#EXTINF:-1 tvg-name="Toros TV HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",Toros TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112073
-#EXTINF:-1 tvg-name="TPA Internacional SD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",TPA Internacional SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112106
-#EXTINF:-1 tvg-name="Trace Urban" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",Trace Urban
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112094
-#EXTINF:-1 tvg-name="Travel Channel HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",Travel Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112050
-#EXTINF:-1 tvg-name="TV Cine Action HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",TV Cine Action HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/111963
-#EXTINF:-1 tvg-name="TV Cine Edition HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",TV Cine Edition HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/111958
-#EXTINF:-1 tvg-name="TV Cine Emotion HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",TV Cine Emotion HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/111961
-#EXTINF:-1 tvg-name="TV Cine Top HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",TV Cine Top HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/111956
-#EXTINF:-1 tvg-name="TV Record HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",TV Record HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112038
-#EXTINF:-1 tvg-name="TVC Cabo Verde" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",TVC Cabo Verde
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112109
-#EXTINF:-1 tvg-name="TVCine + HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",TVCine + HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/111955
-#EXTINF:-1 tvg-name="TVI FicçãoHD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",TVI FicçãoHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112033
-#EXTINF:-1 tvg-name="TVI HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",TVI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/111943
-#EXTINF:-1 tvg-name="TVI Reality" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",TVI Reality
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112113
-#EXTINF:-1 tvg-name="TVI Reality FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",TVI Reality FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112114
-#EXTINF:-1 tvg-name="TVI Reality HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",TVI Reality HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112035
-#EXTINF:-1 tvg-name="TVI Reality Low" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",TVI Reality Low
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112112
-#EXTINF:-1 tvg-name="TVI Reality Mosaico" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",TVI Reality Mosaico
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112111
-#EXTINF:-1 tvg-name="VH1 SD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",VH1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112093
-#EXTINF:-1 tvg-name="WWE HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",WWE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112085
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="Zap Viva FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",Zap Viva FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/112104
-#EXTINF:-1 tvg-id="Record - RIC TV OESTE" tvg-name="TV Globo HD" tvg-logo="http://beststorage4you.com:80/logoscanais/Portugal.png" group-title=",TV Globo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://jokatvdigital.org:80/930668174/B154E1646w/377249
+#EXTINF:-1 tvg-id="CANLPAN" tvg-name="PT-CANAL PANDA HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-CANAL PANDA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234895
+#EXTINF:-1 tvg-name="PT-RTP 01 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-RTP 01 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234896
+#EXTINF:-1 tvg-name="PT-RTP 02 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-RTP 02 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234897
+#EXTINF:-1 tvg-name="PT-RTP MEMORIAS HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-RTP MEMORIAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234898
+#EXTINF:-1 tvg-name="PT-SIC CARAS HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-SIC CARAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234899
+#EXTINF:-1 tvg-name="PT-SIC HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-SIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234900
+#EXTINF:-1 tvg-name="PT-SIC MULHERES HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-SIC MULHERES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234901
+#EXTINF:-1 tvg-name="PT-TVI FICÇAO HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-TVI FICÇAO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234903
+#EXTINF:-1 tvg-name="PT-TVI HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-TVI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234902
+#EXTINF:-1 tvg-id="CMTVPOR" tvg-name="PT-CMTV FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-CMTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234904
+#EXTINF:-1 tvg-id="CMTVPOR" tvg-name="PT-CMTV HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-CMTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234905
+#EXTINF:-1 tvg-name="PT-CNN PORTUGAL FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-CNN PORTUGAL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234906
+#EXTINF:-1 tvg-name="PT-CNN PORTUGAL HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-CNN PORTUGAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234907
+#EXTINF:-1 tvg-id="EURNWFA" tvg-name="PT-EURONEWS FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-EURONEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234908
+#EXTINF:-1 tvg-id="EURNWFA" tvg-name="PT-EURONEWS HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-EURONEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234909
+#EXTINF:-1 tvg-name="PT-RTP 03 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-RTP 03 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234910
+#EXTINF:-1 tvg-name="PT-RTP 03 HD2" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-RTP 03 HD2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234911
+#EXTINF:-1 tvg-name="PT-SIC NOTICIA FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-SIC NOTICIA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234912
+#EXTINF:-1 tvg-name="PT-SIC NOTICIA HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-SIC NOTICIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234913
+#EXTINF:-1 tvg-name="PT-SPORTV 01 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-SPORTV 01 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234941
+#EXTINF:-1 tvg-name="PT-SPORTV 01 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-SPORTV 01 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234942
+#EXTINF:-1 tvg-name="PT-SPORTV 02 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-SPORTV 02 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234943
+#EXTINF:-1 tvg-name="PT-SPORTV 02 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-SPORTV 02 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234944
+#EXTINF:-1 tvg-name="PT-SPORTV 03 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-SPORTV 03 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234945
+#EXTINF:-1 tvg-name="PT-SPORTV 03 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-SPORTV 03 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234946
+#EXTINF:-1 tvg-name="PT-SPORTV 04 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-SPORTV 04 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234947
+#EXTINF:-1 tvg-name="PT-SPORTV 04 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-SPORTV 04 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234948
+#EXTINF:-1 tvg-name="PT-SPORTV 05 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-SPORTV 05 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234949
+#EXTINF:-1 tvg-name="PT-SPORTV 06 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-SPORTV 06 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234950
+#EXTINF:-1 tvg-name="PT-SPORTV 06 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-SPORTV 06 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234951
+#EXTINF:-1 tvg-id="ABOLATV" tvg-name="PT-A BOLA TV FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-A BOLA TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234914
+#EXTINF:-1 tvg-id="ABOLATV" tvg-name="PT-A BOLA TV HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-A BOLA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234915
+#EXTINF:-1 tvg-id="BENFC" tvg-name="PT-BENFICA TV FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-BENFICA TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234916
+#EXTINF:-1 tvg-id="BENFC" tvg-name="PT-BENFICA TV HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-BENFICA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234917
+#EXTINF:-1 tvg-id="CAN11" tvg-name="PT-CANAL 11 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-CANAL 11 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234918
+#EXTINF:-1 tvg-id="CAN11" tvg-name="PT-CANAL 11 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-CANAL 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234919
+#EXTINF:-1 tvg-id="ELEVEN" tvg-name="PT-ELEVEN SPORTS 01 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-ELEVEN SPORTS 01 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234920
+#EXTINF:-1 tvg-id="ELEVEN" tvg-name="PT-ELEVEN SPORTS 01 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-ELEVEN SPORTS 01 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234921
+#EXTINF:-1 tvg-id="ESUK1" tvg-name="PT-EUROSPORT 01 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-EUROSPORT 01 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234922
+#EXTINF:-1 tvg-id="ESUK1" tvg-name="PT-EUROSPORT 01 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-EUROSPORT 01 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234923
+#EXTINF:-1 tvg-id="EUSP2NL" tvg-name="PT-EUROSPORT 02 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-EUROSPORT 02 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234924
+#EXTINF:-1 tvg-id="EUSP2NL" tvg-name="PT-EUROSPORT 02 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-EUROSPORT 02 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234925
+#EXTINF:-1 tvg-id="EUSP2NL" tvg-name="PT-EUROSPORT 02 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-EUROSPORT 02 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234926
+#EXTINF:-1 tvg-id="EUSP2NL" tvg-name="PT-EUROSPORT 02 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-EUROSPORT 02 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234927
+#EXTINF:-1 tvg-name="PT-EUROSPORT 03 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-EUROSPORT 03 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234928
+#EXTINF:-1 tvg-name="PT-EUROSPORT 03 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-EUROSPORT 03 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234929
+#EXTINF:-1 tvg-name="PT-EUROSPORT 04 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-EUROSPORT 04 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234930
+#EXTINF:-1 tvg-name="PT-EUROSPORT 04 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-EUROSPORT 04 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234931
+#EXTINF:-1 tvg-name="PT-EUROSPORT 05 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-EUROSPORT 05 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234932
+#EXTINF:-1 tvg-name="PT-EUROSPORT 05 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-EUROSPORT 05 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234933
+#EXTINF:-1 tvg-name="PT-EUROSPORT 06 FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-EUROSPORT 06 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234934
+#EXTINF:-1 tvg-name="PT-EUROSPORT 06 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-EUROSPORT 06 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234935
+#EXTINF:-1 tvg-name="PT-PORTO TV FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-PORTO TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234936
+#EXTINF:-1 tvg-name="PT-PORTO TV HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-PORTO TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234937
+#EXTINF:-1 tvg-name="PT-SPORTING TV FHD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-SPORTING TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234938
+#EXTINF:-1 tvg-name="PT-SPORTING TV HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-SPORTING TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234939
+#EXTINF:-1 tvg-name="PT-SPORTV 05 HD" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Portugal.png" ,PT-SPORTV 05 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site:80/22344451/51584948/234940
