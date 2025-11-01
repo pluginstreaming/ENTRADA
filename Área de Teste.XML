@@ -3,52 +3,109 @@
 
 
 
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News FHD" tvg-logo="https://imgur.com/QegcPKB.jpeg" group-title="Canais | Noticias",Band News FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/17598.ts
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News FHD [H265]" tvg-logo="https://imgur.com/QegcPKB.jpeg" group-title="Canais | Noticias",Band News FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/113206.ts
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News HD" tvg-logo="https://imgur.com/QegcPKB.jpeg" group-title="Canais | Noticias",Band News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/17600.ts
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News SD" tvg-logo="https://imgur.com/QegcPKB.jpeg" group-title="Canais | Noticias",Band News SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/17602.ts
-#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Brasil FHD" tvg-logo="https://imgur.com/mQpuTGf.jpeg" group-title="Canais | Noticias",CNN Brasil FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/17538.ts
-#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Brasil FHD [H265]" tvg-logo="https://imgur.com/mQpuTGf.jpeg" group-title="Canais | Noticias",CNN Brasil FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/113207.ts
-#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Brasil HD" tvg-logo="https://imgur.com/mQpuTGf.jpeg" group-title="Canais | Noticias",CNN Brasil HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/17540.ts
-#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Brasil SD" tvg-logo="https://imgur.com/mQpuTGf.jpeg" group-title="Canais | Noticias",CNN Brasil SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/17542.ts
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News FHD" tvg-logo="https://imgur.com/Ob8jjKR.jpeg" group-title="Canais | Noticias",Globo News FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/17782.ts
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News FHD [H265]" tvg-logo="https://imgur.com/Ob8jjKR.jpeg" group-title="Canais | Noticias",Globo News FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/113205.ts
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News HD" tvg-logo="https://imgur.com/Ob8jjKR.jpeg" group-title="Canais | Noticias",Globo News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/17784.ts
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News SD" tvg-logo="https://imgur.com/Ob8jjKR.jpeg" group-title="Canais | Noticias",Globo News SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/17786.ts
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News FHD" tvg-logo="https://imgur.com/7gyWZD2.jpeg" group-title="Canais | Noticias",Record News FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/17532.ts
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS FHD [H265]" tvg-logo="https://imgur.com/7gyWZD2.jpeg" group-title="Canais | Noticias",RECORD NEWS FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/113208.ts
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News HD" tvg-logo="https://imgur.com/7gyWZD2.jpeg" group-title="Canais | Noticias",Record News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/17534.ts
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News SD" tvg-logo="https://imgur.com/7gyWZD2.jpeg" group-title="Canais | Noticias",Record News SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/17535.ts
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="JOVEM PAN HD" tvg-logo="https://i.ibb.co/pXLs2kF/B4-CC438-E-6-B28-49-A7-989-A-075427-AD39-AA.jpg" group-title="Canais | Noticias",JOVEM PAN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/438849.ts
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="JOVEM PAN FHD" tvg-logo="https://i.ibb.co/pXLs2kF/B4-CC438-E-6-B28-49-A7-989-A-075427-AD39-AA.jpg" group-title="Canais | Noticias",JOVEM PAN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/438850.ts
-#EXTINF:-1 tvg-name="CNN INTERNACIONAL HD" tvg-logo="https://imgur.com/mQpuTGf.jpeg" group-title="Canais | Noticias",CNN INTERNACIONAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/455183.ts
-#EXTINF:-1 tvg-name="CNN INTERNACIONAL SD" tvg-logo="https://imgur.com/mQpuTGf.jpeg" group-title="Canais | Noticias",CNN INTERNACIONAL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/455184.ts
-#EXTINF:-1 tvg-name="NHK WORLD SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/200px-NHK_World.svg.png" group-title="Canais | Noticias",NHK WORLD SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/1100398.ts
-#EXTINF:-1 tvg-name="NHK WORLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/200px-NHK_World.svg.png" group-title="Canais | Noticias",NHK WORLD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/1100399.ts
-#EXTINF:-1 tvg-id="jovempannews.br" tvg-name="JOVEM PAN FHD [H265]" tvg-logo="https://i.ibb.co/pXLs2kF/B4-CC438-E-6-B28-49-A7-989-A-075427-AD39-AA.jpg" group-title="Canais | Noticias",JOVEM PAN FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/1828826.ts
-#EXTINF:-1 tvg-id="jovempannews.br" tvg-name="JOVEM PAN SD" tvg-logo="https://i.ibb.co/pXLs2kF/B4-CC438-E-6-B28-49-A7-989-A-075427-AD39-AA.jpg" group-title="Canais | Noticias",JOVEM PAN SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/1828827.ts
-
+#EXTINF:-1 tvg-id="RTP 1 PT" tvg-name="RTP 1 HEVC PT" tvg-logo="http://tugapt.com/picons/rtp1pt.png" group-title="Portugal HEVC",RTP 1 HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94887
+#EXTINF:-1 tvg-id="RTP 2 PT" tvg-name="RTP 2 HEVC PT" tvg-logo="http://tugapt.com/picons/rtp2pt.png" group-title="Portugal HEVC",RTP 2 HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94886
+#EXTINF:-1 tvg-id="SIC PT" tvg-name="SIC HEVC PT" tvg-logo="http://tugapt.com/picons/sicpt.png" group-title="Portugal HEVC",SIC HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94885
+#EXTINF:-1 tvg-id="TVI PT" tvg-name="TVI HEVC PT" tvg-logo="http://tugapt.com/picons/tvihdpt.png" group-title="Portugal HEVC",TVI HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94884
+#EXTINF:-1 tvg-id="CNN PT" tvg-name="CNN Portugal HEVC PT" tvg-logo="https://www.meo.pt/PublishingImages/canais/cnn-portugal-hd.png" group-title="Portugal HEVC",CNN Portugal HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94883
+#EXTINF:-1 tvg-id="Vplus" tvg-name="V+ HEVC PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ef/V%2BTVI_Logo.png" group-title="Portugal HEVC",V+ HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94882
+#EXTINF:-1 tvg-id="RTP 3 PT" tvg-name="RTP 3 HEVC PT" tvg-logo="http://tugapt.com/picons/rtp3pt.png" group-title="Portugal HEVC",RTP 3 HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94881
+#EXTINF:-1 tvg-id="SIC Noticias PT" tvg-name="SIC NOTICIAS HEVC PT" tvg-logo="http://tugapt.com/picons/sicnoticiashdpt.png" group-title="Portugal HEVC",SIC NOTICIAS HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94880
+#EXTINF:-1 tvg-id="SIC Radical PT" tvg-name="SIC RADICAL HEVC PT" tvg-logo="http://tugapt.com/picons/sicradicalpt.png" group-title="Portugal HEVC",SIC RADICAL HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94879
+#EXTINF:-1 tvg-id="SIC Caras PT" tvg-name="SIC CARAS HEVC PT" tvg-logo="http://tugapt.com/picons/siccaraspt.png" group-title="Portugal HEVC",SIC CARAS HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94878
+#EXTINF:-1 tvg-id="SIC Mulher PT" tvg-name="SIC MULHER HEVC PT" tvg-logo="http://tugapt.com/picons/sicmulherpt.png" group-title="Portugal HEVC",SIC MULHER HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94877
+#EXTINF:-1 tvg-id="CMTV PT" tvg-name="CMTV HEVC PT" tvg-logo="http://tugapt.com/picons/cmtvpt.png" group-title="Portugal HEVC",CMTV HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94876
+#EXTINF:-1 tvg-id="ZAP Viva HD.pt" tvg-name="ZAP VIVA HEVC PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/ZAPVIVAHD.png" group-title="Portugal HEVC",ZAP VIVA HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94875
+#EXTINF:-1 tvg-id="Casa e Cozinha HD PT" tvg-name="CASA E COZINHA HEVC PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/casacozhd.png" group-title="Portugal HEVC",CASA E COZINHA HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94874
+#EXTINF:-1 tvg-id="24 Kitchen PT" tvg-name="24 KITCHEN HEVC PT" tvg-logo="http://tugapt.com/picons/24kitchenhdpt.png" group-title="Portugal HEVC",24 KITCHEN HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94873
+#EXTINF:-1 tvg-id="E! PT" tvg-name="E! HEVC PT" tvg-logo="http://tugapt.com/picons/ept.png" group-title="Portugal HEVC",E! HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94872
+#EXTINF:-1 tvg-id="TVCine TOP PT" tvg-name="TVCINE TOP  HEVC PT" tvg-logo="http://tugapt.com/picons/tvcine1pt.png" group-title="Portugal HEVC",TVCINE TOP  HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94868
+#EXTINF:-1 tvg-id="TVCine EDITION PT" tvg-name="TVCINE EDITION HEVC PT" tvg-logo="http://tugapt.com/picons/tvcine2pt.png" group-title="Portugal HEVC",TVCINE EDITION HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94867
+#EXTINF:-1 tvg-id="TVCine EMOTION PT" tvg-name="TVCINE EMOTION HEVC PT" tvg-logo="http://tugapt.com/picons/tvcine3pt.png" group-title="Portugal HEVC",TVCINE EMOTION HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94866
+#EXTINF:-1 tvg-id="TVCine ACTION PT" tvg-name="TVCINE ACTION HEVC PT" tvg-logo="http://tugapt.com/picons/tvcine4pt.png" group-title="Portugal HEVC",TVCINE ACTION HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94865
+#EXTINF:-1 tvg-id="NOS Studios PT" tvg-name="NOS STUDIOS HEVC PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/NOSSTUDIOS.png" group-title="Portugal HEVC",NOS STUDIOS HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94864
+#EXTINF:-1 tvg-id="AXN PT" tvg-name="AXN HEVC PT" tvg-logo="http://tugapt.com/picons/axnhdpt.png" group-title="Portugal HEVC",AXN HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94863
+#EXTINF:-1 tvg-id="AXN White PT" tvg-name="AXN WHITE HEVC PT" tvg-logo="http://tugapt.com/picons/axnwhitehdpt.png" group-title="Portugal HEVC",AXN WHITE HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94862
+#EXTINF:-1 tvg-id="AXN Movies PT" tvg-name="AXN MOVIES HEVC PT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/axn-movies-hd-pt.png" group-title="Portugal HEVC",AXN MOVIES HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94861
+#EXTINF:-1 tvg-id="AMC PT" tvg-name="AMC HEVC PT" tvg-logo="http://tugapt.com/picons/amcpt.png" group-title="Portugal HEVC",AMC HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94860
+#EXTINF:-1 tvg-id="Hollywood PT" tvg-name="HOLLYWOOD HEVC PT" tvg-logo="http://tugapt.com/picons/hollywoodhdpt.png" group-title="Portugal HEVC",HOLLYWOOD HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94859
+#EXTINF:-1 tvg-id="Syfy PT" tvg-name="SYFY HEVC PT" tvg-logo="http://tugapt.com/picons/syfypt.png" group-title="Portugal HEVC",SYFY HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94858
+#EXTINF:-1 tvg-id="STAR Channel PT" tvg-name="Star HEVC PT" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/STAR_channel.png" group-title="Portugal HEVC",Star HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94857
+#EXTINF:-1 tvg-id="STAR Crime PT" tvg-name="Star CRIME HEVC PT" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/STAR_crime.png" group-title="Portugal HEVC",Star CRIME HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94856
+#EXTINF:-1 tvg-id="STAR Life PT" tvg-name="Star LIFE HEVC PT" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/STAR_life.png" group-title="Portugal HEVC",Star LIFE HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94855
+#EXTINF:-1 tvg-id="STAR Movies PT" tvg-name="Star MOVIES HEVC PT" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/STAR_movies.png" group-title="Portugal HEVC",Star MOVIES HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94854
+#EXTINF:-1 tvg-id="Cinemundo PT" tvg-name="CINEMUNDO HEVC PT" tvg-logo="http://tugapt.com/picons/cinemundopt.png" group-title="Portugal HEVC",CINEMUNDO HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94853
+#EXTINF:-1 tvg-id="Canal 11 HD PT" tvg-name="CANAL 11 HEVC PT" group-title="Portugal HEVC",CANAL 11 HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94852
+#EXTINF:-1 tvg-id="SportTV Plus PT" tvg-name="SPORT TV + HEVC PT" tvg-logo="http://tugapt.com/picons/sporttvpluspt.png" group-title="Portugal HEVC",SPORT TV + HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94851
+#EXTINF:-1 tvg-id="SportTV 1 PT" tvg-name="SPORT TV 1 HEVC PT" tvg-logo="http://tugapt.com/picons/sporttv1pt.png" group-title="Portugal HEVC",SPORT TV 1 HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94850
+#EXTINF:-1 tvg-id="SportTV 2 PT" tvg-name="SPORT TV 2 HEVC PT" tvg-logo="http://tugapt.com/picons/sporttv2pt.png" group-title="Portugal HEVC",SPORT TV 2 HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94849
+#EXTINF:-1 tvg-id="SportTV 3 PT" tvg-name="SPORT TV 3 HEVC PT" tvg-logo="http://tugapt.com/picons/sporttv3pt.png" group-title="Portugal HEVC",SPORT TV 3 HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94848
+#EXTINF:-1 tvg-id="SportTV 4 PT" tvg-name="SPORT TV 4 HEVC PT" tvg-logo="http://tugapt.com/picons/sporttv4pt.png" group-title="Portugal HEVC",SPORT TV 4 HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94847
+#EXTINF:-1 tvg-id="SportTV 5 PT" tvg-name="SPORT TV 5 HEVC PT" tvg-logo="http://tugapt.com/picons/sporttv5pt.png" group-title="Portugal HEVC",SPORT TV 5 HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94846
+#EXTINF:-1 tvg-id="SportTV NBA PT" tvg-name="SPORT TV NBA HEVC PT" group-title="Portugal HEVC",SPORT TV NBA HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94845
+#EXTINF:-1 tvg-id="BTV 1 HD PT" tvg-name="BTV HEVC PT" tvg-logo="http://tugapt.com/picons/btv1pt.png" group-title="Portugal HEVC",BTV HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94844
+#EXTINF:-1 tvg-id="Eleven Sports 1 PT" tvg-name="DAZN 1 HEVC PT" tvg-logo="https://www.meo.pt/PublishingImages/canais/dazn-1-meo-logo.webp" group-title="Portugal HEVC",DAZN 1 HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94843
+#EXTINF:-1 tvg-id="Eleven Sports 2 PT" tvg-name="DAZN 2 HEVC PT" tvg-logo="https://www.meo.pt/PublishingImages/canais/dazn-2-meo-logo.webp" group-title="Portugal HEVC",DAZN 2 HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94842
+#EXTINF:-1 tvg-id="Eleven Sports 3 PT" tvg-name="DAZN 3 HEVC PT" tvg-logo="https://www.meo.pt/PublishingImages/canais/dazn-3-meo-logo.webp" group-title="Portugal HEVC",DAZN 3 HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94841
+#EXTINF:-1 tvg-id="Eurosport 1 PT" tvg-name="EUROSPORT 1 HEVC PT" tvg-logo="http://tugapt.com/picons/eurosport1pt.png" group-title="Portugal HEVC",EUROSPORT 1 HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94840
+#EXTINF:-1 tvg-id="A Bola TV PT" tvg-name="A BOLA TV HEVC PT" tvg-logo="http://tugapt.com/picons/abolatvpt.png" group-title="Portugal HEVC",A BOLA TV HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94839
+#EXTINF:-1 tvg-id="National Geographic PT" tvg-name="NATIONAL GEO HEVC PT" tvg-logo="http://tugapt.com/picons/nationalgeographichdpt.png" group-title="Portugal HEVC",NATIONAL GEO HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94838
+#EXTINF:-1 tvg-id="Nat Geo Wild PT" tvg-name="NAT GEO WILD HEVC PT" tvg-logo="http://tugapt.com/picons/natgeowildpt.png" group-title="Portugal HEVC",NAT GEO WILD HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94837
+#EXTINF:-1 tvg-id="ID Investigation Discovery PT" tvg-name="ID INVESTIGATION HEVC PT" group-title="Portugal HEVC",ID INVESTIGATION HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94836
+#EXTINF:-1 tvg-id="Travel Channel HD.pt" tvg-name="TRAVEL CHANNEL HEVC PT" tvg-logo="http://tugapt.com/picons/travelchannelhdpt.png" group-title="Portugal HEVC",TRAVEL CHANNEL HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94835
+#EXTINF:-1 tvg-id="Historia PT" tvg-name="HISTORIA HEVC PT" tvg-logo="http://tugapt.com/picons/historiapt.png" group-title="Portugal HEVC",HISTORIA HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94833
+#EXTINF:-1 tvg-id="AMC Break PT" tvg-name="AMC Break HEVC PT" tvg-logo="https://www.meo.pt/PublishingImages/canais/amc-break.png" group-title="Portugal HEVC",AMC Break HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94832
+#EXTINF:-1 tvg-id="Odisseia PT" tvg-name="ODISSEIA HEVC PT" tvg-logo="http://tugapt.com/picons/odisseiapt.png" group-title="Portugal HEVC",ODISSEIA HEVC PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://portal.geniptv.com:8080/uH2y7DnhLJ/mzTuqPPfTk/94831
