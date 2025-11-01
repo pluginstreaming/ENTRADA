@@ -151,6 +151,15 @@
 
 
 <channel>
+<name>[B][COLOR blue] [/COLOR] [COLOR white] TV AO VIVO - SERV 10 [/COLOR][/B]</name>
+<thumbnail>https://baf-qrcode.b-cdn.net/icon.jpeg</thumbnail>
+<fanart>https://baf-qrcode.b-cdn.net/FANART%20PLUGIN_STREAMING_1920x1080.jpeg</fanart>
+<info>[COLOR blue] [COLOR]  [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/refs/heads/main/Tv%20ao%20Vivo%20Link%2010.XML</externallink>
+</channel>
+
+
+<channel>
 <name>[B][COLOR blue] [/COLOR] [COLOR blue] ÁREA DE TESTES [COLOR yellow] (TRABALHO DO DESENVOLVEDOR) [/COLOR][/B]</name>
 <thumbnail>https://baf-qrcode.b-cdn.net/icon.jpeg</thumbnail>
 <fanart>https://baf-qrcode.b-cdn.net/FANART%20PLUGIN_STREAMING_1920x1080.jpeg</fanart>
