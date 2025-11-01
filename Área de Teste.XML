@@ -1,1 +1,54 @@
+#EXTM3U
+
+
+
+
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News FHD" tvg-logo="https://imgur.com/QegcPKB.jpeg" group-title="Canais | Noticias",Band News FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/17598.ts
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News FHD [H265]" tvg-logo="https://imgur.com/QegcPKB.jpeg" group-title="Canais | Noticias",Band News FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/113206.ts
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News HD" tvg-logo="https://imgur.com/QegcPKB.jpeg" group-title="Canais | Noticias",Band News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/17600.ts
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News SD" tvg-logo="https://imgur.com/QegcPKB.jpeg" group-title="Canais | Noticias",Band News SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/17602.ts
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Brasil FHD" tvg-logo="https://imgur.com/mQpuTGf.jpeg" group-title="Canais | Noticias",CNN Brasil FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/17538.ts
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Brasil FHD [H265]" tvg-logo="https://imgur.com/mQpuTGf.jpeg" group-title="Canais | Noticias",CNN Brasil FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/113207.ts
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Brasil HD" tvg-logo="https://imgur.com/mQpuTGf.jpeg" group-title="Canais | Noticias",CNN Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/17540.ts
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Brasil SD" tvg-logo="https://imgur.com/mQpuTGf.jpeg" group-title="Canais | Noticias",CNN Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/17542.ts
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News FHD" tvg-logo="https://imgur.com/Ob8jjKR.jpeg" group-title="Canais | Noticias",Globo News FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/17782.ts
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News FHD [H265]" tvg-logo="https://imgur.com/Ob8jjKR.jpeg" group-title="Canais | Noticias",Globo News FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/113205.ts
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News HD" tvg-logo="https://imgur.com/Ob8jjKR.jpeg" group-title="Canais | Noticias",Globo News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/17784.ts
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News SD" tvg-logo="https://imgur.com/Ob8jjKR.jpeg" group-title="Canais | Noticias",Globo News SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/17786.ts
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News FHD" tvg-logo="https://imgur.com/7gyWZD2.jpeg" group-title="Canais | Noticias",Record News FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/17532.ts
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS FHD [H265]" tvg-logo="https://imgur.com/7gyWZD2.jpeg" group-title="Canais | Noticias",RECORD NEWS FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/113208.ts
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News HD" tvg-logo="https://imgur.com/7gyWZD2.jpeg" group-title="Canais | Noticias",Record News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/17534.ts
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News SD" tvg-logo="https://imgur.com/7gyWZD2.jpeg" group-title="Canais | Noticias",Record News SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/17535.ts
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="JOVEM PAN HD" tvg-logo="https://i.ibb.co/pXLs2kF/B4-CC438-E-6-B28-49-A7-989-A-075427-AD39-AA.jpg" group-title="Canais | Noticias",JOVEM PAN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/438849.ts
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="JOVEM PAN FHD" tvg-logo="https://i.ibb.co/pXLs2kF/B4-CC438-E-6-B28-49-A7-989-A-075427-AD39-AA.jpg" group-title="Canais | Noticias",JOVEM PAN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/438850.ts
+#EXTINF:-1 tvg-name="CNN INTERNACIONAL HD" tvg-logo="https://imgur.com/mQpuTGf.jpeg" group-title="Canais | Noticias",CNN INTERNACIONAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/455183.ts
+#EXTINF:-1 tvg-name="CNN INTERNACIONAL SD" tvg-logo="https://imgur.com/mQpuTGf.jpeg" group-title="Canais | Noticias",CNN INTERNACIONAL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/455184.ts
+#EXTINF:-1 tvg-name="NHK WORLD SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/200px-NHK_World.svg.png" group-title="Canais | Noticias",NHK WORLD SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/1100398.ts
+#EXTINF:-1 tvg-name="NHK WORLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/200px-NHK_World.svg.png" group-title="Canais | Noticias",NHK WORLD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/1100399.ts
+#EXTINF:-1 tvg-id="jovempannews.br" tvg-name="JOVEM PAN FHD [H265]" tvg-logo="https://i.ibb.co/pXLs2kF/B4-CC438-E-6-B28-49-A7-989-A-075427-AD39-AA.jpg" group-title="Canais | Noticias",JOVEM PAN FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/1828826.ts
+#EXTINF:-1 tvg-id="jovempannews.br" tvg-name="JOVEM PAN SD" tvg-logo="https://i.ibb.co/pXLs2kF/B4-CC438-E-6-B28-49-A7-989-A-075427-AD39-AA.jpg" group-title="Canais | Noticias",JOVEM PAN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/1828827.ts
 
