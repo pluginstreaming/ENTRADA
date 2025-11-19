@@ -1,1 +1,46 @@
+#EXTM3U
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="br#telecine-action-hd" tvg-name="Telecine Action FHD" tvg-logo="http://logos.imperioapps.xyz/TCAction.png" group-title="♦️Canais | Telecine",Telecine Action FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/278578/260465/127014.ts
+#EXTINF:-1 tvg-id="br#telecine-action-hd" tvg-name="Telecine Action HD" tvg-logo="http://logos.imperioapps.xyz/TCAction.png" group-title="♦️Canais | Telecine",Telecine Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/278578/260465/127016.ts
+#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action SD" tvg-logo="http://logos.imperioapps.xyz/TCAction.png" group-title="♦️Canais | Telecine",Telecine Action SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/278578/260465/127017.ts
+#EXTINF:-1 tvg-id="br#telecine-cult-hd" tvg-name="Telecine Cult FHD" tvg-logo="https://logos.imperioapps.xyz/TCCult.png" group-title="♦️Canais | Telecine",Telecine Cult FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/278578/260465/127018.ts
+#EXTINF:-1 tvg-id="br#telecine-cult-hd" tvg-name="Telecine Cult HD" tvg-logo="https://logos.imperioapps.xyz/TCCult.png" group-title="♦️Canais | Telecine",Telecine Cult HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/278578/260465/127020.ts
+#EXTINF:-1 tvg-id="TelecineCult.br" tvg-name="Telecine Cult SD" tvg-logo="https://logos.imperioapps.xyz/TCCult.png" group-title="♦️Canais | Telecine",Telecine Cult SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/278578/260465/127022.ts
+#EXTINF:-1 tvg-id="br#telecine-fun-hd" tvg-name="Telecine Fun FHD" tvg-logo="https://logos.imperioapps.xyz/TCFun.png" group-title="♦️Canais | Telecine",Telecine Fun FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/278578/260465/127023.ts
+#EXTINF:-1 tvg-id="br#telecine-fun-hd" tvg-name="Telecine Fun HD" tvg-logo="https://logos.imperioapps.xyz/TCFun.png" group-title="♦️Canais | Telecine",Telecine Fun HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/278578/260465/127025.ts
+#EXTINF:-1 tvg-id="TelecineFun.br" tvg-name="Telecine Fun SD" tvg-logo="https://logos.imperioapps.xyz/TCFun.png" group-title="♦️Canais | Telecine",Telecine Fun SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/278578/260465/127028.ts
+#EXTINF:-1 tvg-id="br#telecine-pipoca-hd" tvg-name="Telecine Pipoca FHD" tvg-logo="https://logos.imperioapps.xyz/TCPipoca.png" group-title="♦️Canais | Telecine",Telecine Pipoca FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/278578/260465/127029.ts
+#EXTINF:-1 tvg-id="br#telecine-pipoca-hd" tvg-name="Telecine Pipoca HD" tvg-logo="https://logos.imperioapps.xyz/TCPipoca.png" group-title="♦️Canais | Telecine",Telecine Pipoca HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/278578/260465/127031.ts
+#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="Telecine Pipoca SD" tvg-logo="https://logos.imperioapps.xyz/TCPipoca.png" group-title="♦️Canais | Telecine",Telecine Pipoca SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/278578/260465/127032.ts
+#EXTINF:-1 tvg-id="br#telecine-premium-hd" tvg-name="Telecine Premium FHD" tvg-logo="https://logos.imperioapps.xyz/TCPremium.png" group-title="♦️Canais | Telecine",Telecine Premium FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/278578/260465/127033.ts
+#EXTINF:-1 tvg-id="br#telecine-premium-hd" tvg-name="Telecine Premium HD" tvg-logo="https://logos.imperioapps.xyz/TCPremium.png" group-title="♦️Canais | Telecine",Telecine Premium HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/278578/260465/127034.ts
+#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="Telecine Premium SD" tvg-logo="https://logos.imperioapps.xyz/TCPremium.png" group-title="♦️Canais | Telecine",Telecine Premium SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/278578/260465/127036.ts
+#EXTINF:-1 tvg-id="br#telecine-touch-hd" tvg-name="Telecine Touch FHD" tvg-logo="https://logos.imperioapps.xyz/TCTouch.png" group-title="♦️Canais | Telecine",Telecine Touch FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/278578/260465/127038.ts
+#EXTINF:-1 tvg-id="br#telecine-touch-hd" tvg-name="Telecine Touch HD" tvg-logo="https://logos.imperioapps.xyz/TCTouch.png" group-title="♦️Canais | Telecine",Telecine Touch HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/278578/260465/127039.ts
+#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="Telecine Touch SD" tvg-logo="https://logos.imperioapps.xyz/TCTouch.png" group-title="♦️Canais | Telecine",Telecine Touch SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/278578/260465/127041.ts
 
