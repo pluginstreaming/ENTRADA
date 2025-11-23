@@ -3,44 +3,829 @@
 
 
 
-
-
-
-
-#EXTINF:-1 tvg-id="br#telecine-action-hd" tvg-name="Telecine Action FHD" tvg-logo="http://logos.imperioapps.xyz/TCAction.png" group-title="♦️Canais | Telecine",Telecine Action FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/278578/260465/127014.ts
-#EXTINF:-1 tvg-id="br#telecine-action-hd" tvg-name="Telecine Action HD" tvg-logo="http://logos.imperioapps.xyz/TCAction.png" group-title="♦️Canais | Telecine",Telecine Action HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/278578/260465/127016.ts
-#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action SD" tvg-logo="http://logos.imperioapps.xyz/TCAction.png" group-title="♦️Canais | Telecine",Telecine Action SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/278578/260465/127017.ts
-#EXTINF:-1 tvg-id="br#telecine-cult-hd" tvg-name="Telecine Cult FHD" tvg-logo="https://logos.imperioapps.xyz/TCCult.png" group-title="♦️Canais | Telecine",Telecine Cult FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/278578/260465/127018.ts
-#EXTINF:-1 tvg-id="br#telecine-cult-hd" tvg-name="Telecine Cult HD" tvg-logo="https://logos.imperioapps.xyz/TCCult.png" group-title="♦️Canais | Telecine",Telecine Cult HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/278578/260465/127020.ts
-#EXTINF:-1 tvg-id="TelecineCult.br" tvg-name="Telecine Cult SD" tvg-logo="https://logos.imperioapps.xyz/TCCult.png" group-title="♦️Canais | Telecine",Telecine Cult SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/278578/260465/127022.ts
-#EXTINF:-1 tvg-id="br#telecine-fun-hd" tvg-name="Telecine Fun FHD" tvg-logo="https://logos.imperioapps.xyz/TCFun.png" group-title="♦️Canais | Telecine",Telecine Fun FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/278578/260465/127023.ts
-#EXTINF:-1 tvg-id="br#telecine-fun-hd" tvg-name="Telecine Fun HD" tvg-logo="https://logos.imperioapps.xyz/TCFun.png" group-title="♦️Canais | Telecine",Telecine Fun HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/278578/260465/127025.ts
-#EXTINF:-1 tvg-id="TelecineFun.br" tvg-name="Telecine Fun SD" tvg-logo="https://logos.imperioapps.xyz/TCFun.png" group-title="♦️Canais | Telecine",Telecine Fun SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/278578/260465/127028.ts
-#EXTINF:-1 tvg-id="br#telecine-pipoca-hd" tvg-name="Telecine Pipoca FHD" tvg-logo="https://logos.imperioapps.xyz/TCPipoca.png" group-title="♦️Canais | Telecine",Telecine Pipoca FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/278578/260465/127029.ts
-#EXTINF:-1 tvg-id="br#telecine-pipoca-hd" tvg-name="Telecine Pipoca HD" tvg-logo="https://logos.imperioapps.xyz/TCPipoca.png" group-title="♦️Canais | Telecine",Telecine Pipoca HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/278578/260465/127031.ts
-#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="Telecine Pipoca SD" tvg-logo="https://logos.imperioapps.xyz/TCPipoca.png" group-title="♦️Canais | Telecine",Telecine Pipoca SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/278578/260465/127032.ts
-#EXTINF:-1 tvg-id="br#telecine-premium-hd" tvg-name="Telecine Premium FHD" tvg-logo="https://logos.imperioapps.xyz/TCPremium.png" group-title="♦️Canais | Telecine",Telecine Premium FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/278578/260465/127033.ts
-#EXTINF:-1 tvg-id="br#telecine-premium-hd" tvg-name="Telecine Premium HD" tvg-logo="https://logos.imperioapps.xyz/TCPremium.png" group-title="♦️Canais | Telecine",Telecine Premium HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/278578/260465/127034.ts
-#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="Telecine Premium SD" tvg-logo="https://logos.imperioapps.xyz/TCPremium.png" group-title="♦️Canais | Telecine",Telecine Premium SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/278578/260465/127036.ts
-#EXTINF:-1 tvg-id="br#telecine-touch-hd" tvg-name="Telecine Touch FHD" tvg-logo="https://logos.imperioapps.xyz/TCTouch.png" group-title="♦️Canais | Telecine",Telecine Touch FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/278578/260465/127038.ts
-#EXTINF:-1 tvg-id="br#telecine-touch-hd" tvg-name="Telecine Touch HD" tvg-logo="https://logos.imperioapps.xyz/TCTouch.png" group-title="♦️Canais | Telecine",Telecine Touch HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/278578/260465/127039.ts
-#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="Telecine Touch SD" tvg-logo="https://logos.imperioapps.xyz/TCTouch.png" group-title="♦️Canais | Telecine",Telecine Touch SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/278578/260465/127041.ts
-
+#EXTINF:-1 tvg-name="O Grande Mestre 4 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBWuzMl3UBMVI8scmhHOPRNXPKT.jpg" ,O Grande Mestre 4 (2019)
+http://cdnrez.xyz:80/movie/42048671/18672923/1729704.mp4
+#EXTINF:-1 tvg-name="Martelo dos Deuses (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aq6FmHequTJ5ROda8SwdOX7e9LA.jpg" ,Martelo dos Deuses (2013)
+http://cdnrez.xyz:80/movie/42048671/18672923/1729417.mp4
+#EXTINF:-1 tvg-name="No Limite do Mundo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/50xw09y298bnEswMMfa1gUrXp3Z.jpg" ,No Limite do Mundo (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1729575.mp4
+#EXTINF:-1 tvg-name="Batalha dos Impérios (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jehJ5TlgBqfP6DkWqOjcCkMYxgd.jpg" ,Batalha dos Impérios (2015)
+http://cdnrez.xyz:80/movie/42048671/18672923/1728462.mp4
+#EXTINF:-1 tvg-name="Khutulun - A Princesa Guerreira (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1tgT77aMRnMstr3soizs0ALir.jpg" ,Khutulun - A Princesa Guerreira (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1729288.mp4
+#EXTINF:-1 tvg-name="Viking (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/70TrFB6gwBrfF5SVmrmMkD1i8St.jpg" ,Viking (2016)
+http://cdnrez.xyz:80/movie/42048671/18672923/1730702.mp4
+#EXTINF:-1 tvg-name="A Ascensão da Rainha Guerreira (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDxD2XrDmoFBtNiq69ko12O5Z98.jpg" ,A Ascensão da Rainha Guerreira (2019)
+http://cdnrez.xyz:80/movie/42048671/18672923/1728072.mp4
+#EXTINF:-1 tvg-name="O Conde de Monte Cristo (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjoMyKnMh0EY6o2IxT1aiM1xqpk.jpg" ,O Conde de Monte Cristo (2002)
+http://cdnrez.xyz:80/movie/42048671/18672923/1729684.mp4
+#EXTINF:-1 tvg-name="O Último Viking (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bEwVdxXvRP0xNcPoM8HyMpT2b87.jpg" ,O Último Viking (2018)
+http://cdnrez.xyz:80/movie/42048671/18672923/1729903.mp4
+#EXTINF:-1 tvg-name="O Anel do Rei: A Última Batalha (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iM0Qn26un9HaGoWyxwlOIyGDIHD.jpg" ,O Anel do Rei: A Última Batalha (2018)
+http://cdnrez.xyz:80/movie/42048671/18672923/1729571.mp4
+#EXTINF:-1 tvg-name="Ip Man: Nasce uma Lenda (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9mcQeONWX0VUOCfOw5Y9ALrEr7.jpg" ,Ip Man: Nasce uma Lenda (2010)
+http://cdnrez.xyz:80/movie/42048671/18672923/1729193.mp4
+#EXTINF:-1 tvg-name="Horas Decisivas (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8VTYz8SkU8DcBgKNprMjqPNZBgt.jpg" ,Horas Decisivas (2016)
+http://cdnrez.xyz:80/movie/42048671/18672923/1729121.mp4
+#EXTINF:-1 tvg-name="Espada da Vingança (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2grw6fJNoHSG0M8MDHDLJM1wSD.jpg" ,Espada da Vingança (2015)
+http://cdnrez.xyz:80/movie/42048671/18672923/1728983.mp4
+#EXTINF:-1 tvg-name="O Grande Mestre 2 (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A20NqGSIckV4jjkw62fSagJ21cA.jpg" ,O Grande Mestre 2 (2010)
+http://cdnrez.xyz:80/movie/42048671/18672923/1729742.mp4
+#EXTINF:-1 tvg-name="Missão no Mar Vermelho (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6M9BPXLIVvPNs0gZW4yNyGobuW.jpg" ,Missão no Mar Vermelho (2019)
+http://cdnrez.xyz:80/movie/42048671/18672923/1729451.mp4
+#EXTINF:-1 tvg-name="Rota Comando (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ujh6cy093HsPiKMiKrKtR7I1q0a.jpg" ,Rota Comando (2009)
+http://cdnrez.xyz:80/movie/42048671/18672923/1730263.mp4
+#EXTINF:-1 tvg-name="Evereste (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2PkYTktwBeaB7xbBatMJmAY67lD.jpg" ,Evereste (2015)
+http://cdnrez.xyz:80/movie/42048671/18672923/1729044.mp4
+#EXTINF:-1 tvg-name="Posto de Combate (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1LYcrHuYGUGFZwhOiAitapWHfl.jpg" ,Posto de Combate (2020)
+http://cdnrez.xyz:80/movie/42048671/18672923/1730103.mp4
+#EXTINF:-1 tvg-name="O Último Resgate (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9K2TuO2e0B3hzVKon1ODrIHPSV5.jpg" ,O Último Resgate (2020)
+http://cdnrez.xyz:80/movie/42048671/18672923/1729902.mp4
+#EXTINF:-1 tvg-name="O Castelo do Lobisomem (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/PsjLfJ0tdePq1whoSne7bddobp.jpg" ,O Castelo do Lobisomem (2022)
+http://cdnrez.xyz:80/movie/42048671/18672923/1729612.mp4
+#EXTINF:-1 tvg-name="Pearl Harbor (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y8A0Cvp8WQmZ3bjbnsL53lY0dsC.jpg" ,Pearl Harbor (2001)
+http://cdnrez.xyz:80/movie/42048671/18672923/1730044.mp4
+#EXTINF:-1 tvg-name="13 Horas: Os Soldados Secretos de Benghazi (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/K4lEgO47Axbidt5MJo5KljpP3G.jpg" ,13 Horas: Os Soldados Secretos de Benghazi (2016)
+http://cdnrez.xyz:80/movie/42048671/18672923/1727950.mp4
+#EXTINF:-1 tvg-name="Os 800 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mx0PP392PYCZ4x0xNryO5ry637X.jpg" ,Os 800 (2020)
+http://cdnrez.xyz:80/movie/42048671/18672923/1730001.mp4
+#EXTINF:-1 tvg-name="13 Dias Que Abalaram o Mundo (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZFsobB9BAPWXA07bwag7wwHfvG.jpg" ,13 Dias Que Abalaram o Mundo (2000)
+http://cdnrez.xyz:80/movie/42048671/18672923/1727975.mp4
+#EXTINF:-1 tvg-name="Apocalypto (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVTSNeqEymd0iZKByf68A5nLIGM.jpg" ,Apocalypto (2006)
+http://cdnrez.xyz:80/movie/42048671/18672923/1728340.mp4
+#EXTINF:-1 tvg-name="Deus da Guerra (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bj24DqgxSksdfpCZECOXRRcODnb.jpg" ,Deus da Guerra (2017)
+http://cdnrez.xyz:80/movie/42048671/18672923/1728828.mp4
+#EXTINF:-1 tvg-name="Amundsen: O Explorador (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOsYNGY9xdRe99jADqIyAp5QbBS.jpg" ,Amundsen: O Explorador (2019)
+http://cdnrez.xyz:80/movie/42048671/18672923/1728282.mp4
+#EXTINF:-1 tvg-name="Guerra Sob a Terra (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ndOvtUxWiCAF6QsVajGidQJeZTM.jpg" ,Guerra Sob a Terra (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1729130.mp4
+#EXTINF:-1 tvg-name="Spacewalker: Rumo ao Desconhecido (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdd6ZQK2yHACbtpWrMd5JSXsqk0.jpg" ,Spacewalker: Rumo ao Desconhecido (2017)
+http://cdnrez.xyz:80/movie/42048671/18672923/1730423.mp4
+#EXTINF:-1 tvg-name="O 13° Guerreiro (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pkfJhVfaWFZSHJP4ApGE69YReEy.jpg" ,O 13° Guerreiro (1999)
+http://cdnrez.xyz:80/movie/42048671/18672923/1729553.mp4
+#EXTINF:-1 tvg-name="A Assassina (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swAJD9Uejz1C2HzkjBAhfT5VUO7.jpg" ,A Assassina (2015)
+http://cdnrez.xyz:80/movie/42048671/18672923/1728043.mp4
+#EXTINF:-1 tvg-name="Segredos Oficiais (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oir3fmegKofO0VoADz5jDIYdYk4.jpg" ,Segredos Oficiais (2019)
+http://cdnrez.xyz:80/movie/42048671/18672923/1730342.mp4
+#EXTINF:-1 tvg-name="O Bombardeio (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u83WpSu9ke9yA3kZ9vXbM2HEGN2.jpg" ,O Bombardeio (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1729596.mp4
+#EXTINF:-1 tvg-name="Zoya (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/YznWGdh0NCe7JXEyQQqVHu03wr.jpg" ,Zoya (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1730785.mp4
+#EXTINF:-1 tvg-name="KV1 – Almas de Ferro (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uEnKbYMSp3u5QoqaPo1uH4LVPN.jpg" ,KV1 – Almas de Ferro (2018)
+http://cdnrez.xyz:80/movie/42048671/18672923/1729259.mp4
+#EXTINF:-1 tvg-name="6 Dias (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlyx6WtaO6QtFFGAAxQL2K403Pe.jpg" ,6 Dias (2017)
+http://cdnrez.xyz:80/movie/42048671/18672923/1728036.mp4
+#EXTINF:-1 tvg-name="O Patriota (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oe26GVJTIEFLW8WjGMj1K0MbWUJ.jpg" ,O Patriota (2000)
+http://cdnrez.xyz:80/movie/42048671/18672923/1729784.mp4
+#EXTINF:-1 tvg-name="Ong-Bak 3 (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTqDxtCULmqS3fCtFkLLYaJYseN.jpg" ,Ong-Bak 3 (2010)
+http://cdnrez.xyz:80/movie/42048671/18672923/1729926.mp4
+#EXTINF:-1 tvg-name="Harriet (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNmuY9vOx1AEh3G8G1IUppFKAgj.jpg" ,Harriet (2019)
+http://cdnrez.xyz:80/movie/42048671/18672923/1729085.mp4
+#EXTINF:-1 tvg-name="A Batalha dos Três Reinos (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uu3TD3YcCToxIvkWvIBRtw2OoJm.jpg" ,A Batalha dos Três Reinos (2008)
+http://cdnrez.xyz:80/movie/42048671/18672923/1727993.mp4
+#EXTINF:-1 tvg-name="A Grande Batalha (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/buZA2PJAIHxDBby6vYGgvcYpaxH.jpg" ,A Grande Batalha (2018)
+http://cdnrez.xyz:80/movie/42048671/18672923/1728033.mp4
+#EXTINF:-1 tvg-name="A Batalha Esquecida (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWbI2goToe3p1rJR3aq5zXuhRn5.jpg" ,A Batalha Esquecida (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1727990.mp4
+#EXTINF:-1 tvg-name="O Grande Mestre 3 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucm26uGLD6xcixWS68WMHtlJBuu.jpg" ,O Grande Mestre 3 (2015)
+http://cdnrez.xyz:80/movie/42048671/18672923/1729747.mp4
+#EXTINF:-1 tvg-name="Tróia (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKp2NxUkqPVSPN2FdXUn9gxj4Nn.jpg" ,Tróia (2004)
+http://cdnrez.xyz:80/movie/42048671/18672923/1730584.mp4
+#EXTINF:-1 tvg-name="Os Três Mosqueteiros: D’Artagnan (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tps40YlcyllmGLAOrAHUez72CQA.jpg" ,Os Três Mosqueteiros: D’Artagnan (2023)
+http://cdnrez.xyz:80/movie/42048671/18672923/1729976.mp4
+#EXTINF:-1 tvg-name="Ricardo Coração de Leão: A Rebelião (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mw7iZzZCbFM8ir1ktrCYODj3acM.jpg" ,Ricardo Coração de Leão: A Rebelião (2015)
+http://cdnrez.xyz:80/movie/42048671/18672923/1730369.mp4
+#EXTINF:-1 tvg-name="Pompeia (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ra0R68G73hjeKuN4MwalhHd5vK.jpg" ,Pompeia (2014)
+http://cdnrez.xyz:80/movie/42048671/18672923/1730075.mp4
+#EXTINF:-1 tvg-name="Assembléia - Sangue e Honra (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h49K8pcfoEJWoaKmg9vHm0oKeX8.jpg" ,Assembléia - Sangue e Honra (2007)
+http://cdnrez.xyz:80/movie/42048671/18672923/1728397.mp4
+#EXTINF:-1 tvg-name="100 Dias de Resistência (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/naG6PCVZupvYaOf9kGgKd2MVZRZ.jpg" ,100 Dias de Resistência (2019)
+http://cdnrez.xyz:80/movie/42048671/18672923/1727969.mp4
+#EXTINF:-1 tvg-name="Arthur & Merlin: Cavaleiros de Camelot (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ERu4fmY6N0J7NaTGPU0boJcy3X.jpg" ,Arthur & Merlin: Cavaleiros de Camelot (2020)
+http://cdnrez.xyz:80/movie/42048671/18672923/1728309.mp4
+#EXTINF:-1 tvg-name="Falcão Negro em Perigo (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwlZSgXxX0XrRGP7gMLdJxlrOTY.jpg" ,Falcão Negro em Perigo (2001)
+http://cdnrez.xyz:80/movie/42048671/18672923/1729001.mp4
+#EXTINF:-1 tvg-name="Oro - A Cidade Perdida (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5L8ni4ll8ZwYknpiocPgiapqbUt.jpg" ,Oro - A Cidade Perdida (2017)
+http://cdnrez.xyz:80/movie/42048671/18672923/1729944.mp4
+#EXTINF:-1 tvg-name="O Grande Mestre (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/54xbIKUeh1zvlwDZtBfuGexo3wq.jpg" ,O Grande Mestre (2008)
+http://cdnrez.xyz:80/movie/42048671/18672923/1729715.mp4
+#EXTINF:-1 tvg-name="Operação Chromite (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzMHYaEh5CiqaQDVSHz15X1H2tP.jpg" ,Operação Chromite (2016)
+http://cdnrez.xyz:80/movie/42048671/18672923/1729939.mp4
+#EXTINF:-1 tvg-name="Chen Zhen: A Lenda dos Punhos de Aço (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/anGK386aQicfwSW1wzYUjb4d58R.jpg" ,Chen Zhen: A Lenda dos Punhos de Aço (2010)
+http://cdnrez.xyz:80/movie/42048671/18672923/1728652.mp4
+#EXTINF:-1 tvg-name="Motorista de Táxi (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hx8KzQ9C1UoshyTGf094dCIDsfi.jpg" ,Motorista de Táxi (2017)
+http://cdnrez.xyz:80/movie/42048671/18672923/1729781.mp4
+#EXTINF:-1 tvg-name="Todo o Dinheiro do Mundo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hv78Iq8L9pfieAKQzaomeSJAu21.jpg" ,Todo o Dinheiro do Mundo (2017)
+http://cdnrez.xyz:80/movie/42048671/18672923/1731247.mp4
+#EXTINF:-1 tvg-name="Casa Gucci (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAPdK3L2STpHo4DFKwtL2gdo89L.jpg" ,Casa Gucci (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1730976.mp4
+#EXTINF:-1 tvg-name="Cassino (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/91rgHJJsBwlXDe2qNue74KwQfyY.jpg" ,Cassino (1995)
+http://cdnrez.xyz:80/movie/42048671/18672923/1730923.mp4
+#EXTINF:-1 tvg-name="A Viagem de Pedro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pW2wpWgb7DeKPbbrCsLG7bmju7B.jpg" ,A Viagem de Pedro (2022)
+http://cdnrez.xyz:80/movie/42048671/18672923/1734834.mp4
+#EXTINF:-1 tvg-name="Legalidade (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jyZZ2dYYoGC7NfhcW7SrFrZu9Jd.jpg" ,Legalidade (2019)
+http://cdnrez.xyz:80/movie/42048671/18672923/1734957.mp4
+#EXTINF:-1 tvg-name="O Tempo e o Vento (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kIxXO2dYXW4TqkUApiFdl1DzROM.jpg" ,O Tempo e o Vento (2013)
+http://cdnrez.xyz:80/movie/42048671/18672923/1735025.mp4
+#EXTINF:-1 tvg-name="Cazuza: O Tempo Não Pára (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ws9bdPeIE4Oq8JT4zsvC0BDmX9z.jpg" ,Cazuza: O Tempo Não Pára (2004)
+http://cdnrez.xyz:80/movie/42048671/18672923/1734868.mp4
+#EXTINF:-1 tvg-name="10 Segundos Para Vencer (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWumRwvDooeDAaXSxncyMfY3rFv.jpg" ,10 Segundos Para Vencer (2018)
+http://cdnrez.xyz:80/movie/42048671/18672923/1734810.mp4
+#EXTINF:-1 tvg-name="Doutor Gama (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rnQZz5SAHMB6DSEhM9bSZ6DdSw6.jpg" ,Doutor Gama (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1734894.mp4
+#EXTINF:-1 tvg-name="O Outro Lado do Paraíso (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLDfMzbXRTYI9GJ2q0MsCphCVfH.jpg" ,O Outro Lado do Paraíso (2014)
+http://cdnrez.xyz:80/movie/42048671/18672923/1735033.mp4
+#EXTINF:-1 tvg-name="Tim Maia (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVE2wZU3Xd4yQDKSOwIrLhGGoB3.jpg" ,Tim Maia (2014)
+http://cdnrez.xyz:80/movie/42048671/18672923/1735137.mp4
+#EXTINF:-1 tvg-name="Minha Fama de Mau (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyoeEQKLhhypfmHmppIFk8wC6Xl.jpg" ,Minha Fama de Mau (2019)
+http://cdnrez.xyz:80/movie/42048671/18672923/1734974.mp4
+#EXTINF:-1 tvg-name="Muitos Homens Num Só (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q7lDnhKKv2h5wZQGINAwEXs1RDP.jpg" ,Muitos Homens Num Só (2015)
+http://cdnrez.xyz:80/movie/42048671/18672923/1734972.mp4
+#EXTINF:-1 tvg-name="Paulo de Tarso e A História do Cristianismo Primitivo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rO7r7zgi5NU6I0pXf4jCSPRvHyU.jpg" ,Paulo de Tarso e A História do Cristianismo Primitivo (2019)
+http://cdnrez.xyz:80/movie/42048671/18672923/1735088.mp4
+#EXTINF:-1 tvg-name="A Ressurreição de Jesus (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUbGV1J50LmoZ91oHoRglfRVRL0.jpg" ,A Ressurreição de Jesus (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1735291.mp4
+#EXTINF:-1 tvg-name="Lutero (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gfNkXV9iXVhyHTPt5EVfpIBPPd.jpg" ,Lutero (2003)
+http://cdnrez.xyz:80/movie/42048671/18672923/1735315.mp4
+#EXTINF:-1 tvg-name="Barrabás (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zAZeJbVvAYGXXJEH8a1g1vvgv5p.jpg" ,Barrabás (2019)
+http://cdnrez.xyz:80/movie/42048671/18672923/1735276.mp4
+#EXTINF:-1 tvg-name="Apóstolo Pedro e a Última Ceia (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvZUgMS7fc2BIkLcvKqFaMJ9gVv.jpg" ,Apóstolo Pedro e a Última Ceia (2013)
+http://cdnrez.xyz:80/movie/42048671/18672923/1735321.mp4
+#EXTINF:-1 tvg-name="O Milagre em Cokeville (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMdxSIZrPdsCi4Q9XiOd1APMJKJ.jpg" ,O Milagre em Cokeville (2015)
+http://cdnrez.xyz:80/movie/42048671/18672923/1735272.mp4
+#EXTINF:-1 tvg-name="Homem de Fé (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqlgOum1SYccUYN9wVM5bcu6Hk7.jpg" ,Homem de Fé (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1735310.mp4
+#EXTINF:-1 tvg-name="O Pretendente (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPlPJn8ruIwovyYeKjghbnYJs5Y.jpg" ,O Pretendente (2022)
+http://cdnrez.xyz:80/movie/42048671/18672923/1735810.mp4
+#EXTINF:-1 tvg-name="Maria Antonieta (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNfj6VugXbMDijw9FGln3SHAyKV.jpg" ,Maria Antonieta (2006)
+http://cdnrez.xyz:80/movie/42048671/18672923/1735712.mp4
+#EXTINF:-1 tvg-name="Palmeiras na Neve (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8neXRJrngB5yuBvd39s82ZYMkIT.jpg" ,Palmeiras na Neve (2015)
+http://cdnrez.xyz:80/movie/42048671/18672923/1735807.mp4
+#EXTINF:-1 tvg-name="Duas Irmãs, Uma Paixão (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aa1Bl3tzuZqw6h9iQyF98VAWBvQ.jpg" , Uma Paixão (2014)
+http://cdnrez.xyz:80/movie/42048671/18672923/1735640.mp4
+#EXTINF:-1 tvg-name="Anna Karenina (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKI66eHbl8dBcF0p4BhBYg275jU.jpg" ,Anna Karenina (2012)
+http://cdnrez.xyz:80/movie/42048671/18672923/1735512.mp4
+#EXTINF:-1 tvg-name="Um Reino Unido (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bl13OXBp7Ss1rkpHA0Nh3Girkmu.jpg" ,Um Reino Unido (2016)
+http://cdnrez.xyz:80/movie/42048671/18672923/1735910.mp4
+#EXTINF:-1 tvg-name="Mandela: O Caminho para a Liberdade (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6bJOjVPE3FqJZrNWvJqFu6rnA6l.jpg" ,Mandela: O Caminho para a Liberdade (2013)
+http://cdnrez.xyz:80/movie/42048671/18672923/1735698.mp4
+#EXTINF:-1 tvg-name="Memórias de uma Gueixa (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6gOSVEaC2gXFLtwIZPyci8IL2b.jpg" ,Memórias de uma Gueixa (2005)
+http://cdnrez.xyz:80/movie/42048671/18672923/1735735.mp4
+#EXTINF:-1 tvg-name="O Novo Mundo (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iYgFu2vut9j00K5Jv3EBgjv6JfN.jpg" ,O Novo Mundo (2005)
+http://cdnrez.xyz:80/movie/42048671/18672923/1735781.mp4
+#EXTINF:-1 tvg-name="Os Miseráveis (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BNYPwiysQXdFdNy41PDDIIjW5D.jpg" ,Os Miseráveis (2012)
+http://cdnrez.xyz:80/movie/42048671/18672923/1735833.mp4
+#EXTINF:-1 tvg-name="Coco Antes de Chanel (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t5NEDjcTB75322aCiwtVTFbJMiX.jpg" ,Coco Antes de Chanel (2009)
+http://cdnrez.xyz:80/movie/42048671/18672923/1735609.mp4
+#EXTINF:-1 tvg-name="O Amante da Rainha (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cGbM2oCOliRYF05EBNT1mKqknD.jpg" ,O Amante da Rainha (2012)
+http://cdnrez.xyz:80/movie/42048671/18672923/1735766.mp4
+#EXTINF:-1 tvg-name="Curiosa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyJgh0oh73YZ63nJHOJxHkLatgb.jpg" ,Curiosa (2019)
+http://cdnrez.xyz:80/movie/42048671/18672923/1735622.mp4
+#EXTINF:-1 tvg-name="Bruno Mars: 24K Magic Live at the Apollo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/knH7m7zsPSkzxReDwzt5uOGhP6C.jpg" ,Bruno Mars: 24K Magic Live at the Apollo (2017)
+http://cdnrez.xyz:80/movie/42048671/18672923/1735975.mp4
+#EXTINF:-1 tvg-name="Gangubai Kathiawadi (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHPEKlzg7CaJFCjWlMdZKpCRIDl.jpg" ,Gangubai Kathiawadi (2022)
+http://cdnrez.xyz:80/movie/42048671/18672923/1736037.mp4
+#EXTINF:-1 tvg-name="Luzes, Câmera, Kung Fu (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qrLfn72d0ilXUBJXBFZBytYrcE6.jpg" , Kung Fu (2019)
+http://cdnrez.xyz:80/movie/42048671/18672923/1736074.mp4
+#EXTINF:-1 tvg-name="Ilusões Perdidas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ovwvY0NajegyC2xtwxD9GEhdFp.jpg" ,Ilusões Perdidas (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1736046.mp4
+#EXTINF:-1 tvg-name="Ronda da Noite (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMileNVPvRcAvNDnadub9kmp37o.jpg" ,Ronda da Noite (2007)
+http://cdnrez.xyz:80/movie/42048671/18672923/1736111.mp4
+#EXTINF:-1 tvg-name="Cinema Novo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKPqAg486tpjt0FlPoDRDzo85Tn.jpg" ,Cinema Novo (2016)
+http://cdnrez.xyz:80/movie/42048671/18672923/1736230.mp4
+#EXTINF:-1 tvg-name="#AnneFrank. Parallel Stories (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zqEb7CXzykYUU76deubBgz8VBt.jpg" ,#AnneFrank. Parallel Stories (2019)
+http://cdnrez.xyz:80/movie/42048671/18672923/1736204.mp4
+#EXTINF:-1 tvg-name="Guerra das Colas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYgwhIiUxYfh9MD2HR3BhYkYaLW.jpg" ,Guerra das Colas (2019)
+http://cdnrez.xyz:80/movie/42048671/18672923/1736256.mp4
+#EXTINF:-1 tvg-name="Mulheres de Cinema (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9O0lriLHJBe5FMbYlseljMyZsS.jpg" ,Mulheres de Cinema (1978)
+http://cdnrez.xyz:80/movie/42048671/18672923/1736303.mp4
+#EXTINF:-1 tvg-name="Apollo: Missão à Lua (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95cidi5gMHoLHWAdO7enr9ukAuC.jpg" ,Apollo: Missão à Lua (2019)
+http://cdnrez.xyz:80/movie/42048671/18672923/1736231.mp4
+#EXTINF:-1 tvg-name="As Hereges (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/or9QoOcHfsaypC7UiCEIFtls48N.jpg" ,As Hereges (2018)
+http://cdnrez.xyz:80/movie/42048671/18672923/1736690.mp4
+#EXTINF:-1 tvg-name="O Último Trem (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3BbMduMiJGZ38HQHXAhgpol42ta.jpg" ,O Último Trem (1973)
+http://cdnrez.xyz:80/movie/42048671/18672923/1737202.mp4
+#EXTINF:-1 tvg-name="A Maldição de Rose (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17fqc7EvBTAvc0xqrOwjgiuLa3p.jpg" ,A Maldição de Rose (2019)
+http://cdnrez.xyz:80/movie/42048671/18672923/1736607.mp4
+#EXTINF:-1 tvg-name="A Lenda do Rei Salomão (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i77MxQ2WA1zumrx8DIQMAyC54qZ.jpg" ,A Lenda do Rei Salomão (2017)
+http://cdnrez.xyz:80/movie/42048671/18672923/1737668.mp4
+#EXTINF:-1 tvg-name="Destemida (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JGAiwq6s43aKHlJrM0ka0iOZcu.jpg" ,Destemida (2023)
+http://cdnrez.xyz:80/movie/42048671/18672923/1737653.mp4
+#EXTINF:-1 tvg-name="O Resgate do Soldado Ryan (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMLxNLCXRDd62acfCBn6mIyW1HU.jpg" ,O Resgate do Soldado Ryan (1998)
+http://cdnrez.xyz:80/movie/42048671/18672923/1792463.mp4
+#EXTINF:-1 tvg-name="O Último Duelo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhrzzNauB1PKrwnqVbLQODNNTJN.jpg" ,O Último Duelo (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1793696.mp4
+#EXTINF:-1 tvg-name="Movimento de Jesus (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m96gOrdyL5jC3u3Znaqq4AG1V8T.jpg" ,Movimento de Jesus (2023)
+http://cdnrez.xyz:80/movie/42048671/18672923/1793777.mp4
+#EXTINF:-1 tvg-name="Atentados em Londres (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqwmWg0eH4qxkelrx9bNJahW6rU.jpg" ,Atentados em Londres (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1793807.mp4
+#EXTINF:-1 tvg-name="Medieval (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eeUNWsdoiOijOZAMaWFDA5Pb1n8.jpg" ,Medieval (2022)
+http://cdnrez.xyz:80/movie/42048671/18672923/1794056.mp4
+#EXTINF:-1 tvg-name="Amsterdam (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5FFYxjmWshMMcSAtuIMhvfdOQI.jpg" ,Amsterdam (2022)
+http://cdnrez.xyz:80/movie/42048671/18672923/1794002.mp4
+#EXTINF:-1 tvg-name="A Mulher Rei (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTXXXMwZ30LVf51nJvh2QGKPIY6.jpg" ,A Mulher Rei (2022)
+http://cdnrez.xyz:80/movie/42048671/18672923/1793973.mp4
+#EXTINF:-1 tvg-name="Air: A História Por Trás do Logo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8OGQCOp6BxwvekhZBQCzVd77Y6l.jpg" ,Air: A História Por Trás do Logo (2023)
+http://cdnrez.xyz:80/movie/42048671/18672923/1794253.mp4
+#EXTINF:-1 tvg-name="Mixed by Erry (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4eNtOleY02KXbYYyljwEE0YhdYb.jpg" ,Mixed by Erry (2023)
+http://cdnrez.xyz:80/movie/42048671/18672923/1794448.mp4
+#EXTINF:-1 tvg-name="Cara a Cara com o ETA (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUThEccecvgCERVJEUzZUBdqFO2.jpg" ,Cara a Cara com o ETA (2023)
+http://cdnrez.xyz:80/movie/42048671/18672923/1794284.mp4
+#EXTINF:-1 tvg-name="Movimento de Jesus (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m96gOrdyL5jC3u3Znaqq4AG1V8T.jpg" ,Movimento de Jesus (2023)
+http://cdnrez.xyz:80/movie/42048671/18672923/1794450.mp4
+#EXTINF:-1 tvg-name="A Milhões de Quilômetros (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gve64tTbxgo5NErRkwKeMdlHt5o.jpg" ,A Milhões de Quilômetros (2023)
+http://cdnrez.xyz:80/movie/42048671/18672923/1794216.mp4
+#EXTINF:-1 tvg-name="Oppenheimer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0DCmfC7Et2K3URnIJ4ahJpeXR2.jpg" ,Oppenheimer (2023)
+http://cdnrez.xyz:80/movie/42048671/18672923/1794537.mp4
+#EXTINF:-1 tvg-name="Mussum: O Filmis (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/olETegpIsLwrApT1ldOKIwFE8lY.jpg" ,Mussum: O Filmis (2023)
+http://cdnrez.xyz:80/movie/42048671/18672923/1794454.mp4
+#EXTINF:-1 tvg-name="Assassinos da Lua das Flores (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sz0HswdqLa6I5ialoyBvn5gm0r5.jpg" ,Assassinos da Lua das Flores (2023)
+http://cdnrez.xyz:80/movie/42048671/18672923/1794263.mp4
+#EXTINF:-1 tvg-name="Um Homem de Ação (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lMNgLp0LdUO6tLIUy43aSoIayxV.jpg" ,Um Homem de Ação (2022)
+http://cdnrez.xyz:80/movie/42048671/18672923/1794705.mp4
+#EXTINF:-1 tvg-name="Caminhos da Sobrevivência (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FSFhUQD96WlDLfYfheod05WOQo.jpg" ,Caminhos da Sobrevivência (2023)
+http://cdnrez.xyz:80/movie/42048671/18672923/1795032.mp4
+#EXTINF:-1 tvg-name="Nuremberg: As Fitas Perdidas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xobaJbWHEkX9032TdQeRJEIoD3f.jpg" ,Nuremberg: As Fitas Perdidas (2022)
+http://cdnrez.xyz:80/movie/42048671/18672923/1809257.mp4
+#EXTINF:-1 tvg-name="RedBad: A Invasão dos Francos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEtW1ldSynOwgPXesghxS7ntSXA.jpg" ,RedBad: A Invasão dos Francos (2018)
+http://cdnrez.xyz:80/movie/42048671/18672923/1825326.mp4
+#EXTINF:-1 tvg-name="Leopoldina - A Imperatriz do Brasil (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o2V29kR9G2GmwqhOivgva8yWRBC.jpg" ,Leopoldina - A Imperatriz do Brasil (2023)
+http://cdnrez.xyz:80/movie/42048671/18672923/1825369.mp4
+#EXTINF:-1 tvg-name="Remando para o Ouro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8ZNP4zUoDciL7n0Nsc2Abu10SP.jpg" ,Remando para o Ouro (2023)
+http://cdnrez.xyz:80/movie/42048671/18672923/1826691.mp4
+#EXTINF:-1 tvg-name="A Maldição da Torre (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jqzTf5VxtmJ3YMX6ScgWAQcwNTc.jpg" ,A Maldição da Torre (2024)
+http://cdnrez.xyz:80/movie/42048671/18672923/1826702.mp4
+#EXTINF:-1 tvg-name="Atletas Negros: Uma Luta pela Igualdade (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcDm9slR1QE4czkEkhcdBNaxlgk.jpg" ,Atletas Negros: Uma Luta pela Igualdade (2022)
+http://cdnrez.xyz:80/movie/42048671/18672923/1826703.mp4
+#EXTINF:-1 tvg-name="Grande História e Pequenas Coisas (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74fTOpoihlBxZCCVIgNQUNrnuUQ.jpg" ,Grande História e Pequenas Coisas (2011)
+http://cdnrez.xyz:80/movie/42048671/18672923/1834113.mp4
+#EXTINF:-1 tvg-name="A Morte de Stalin (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2cFqFJEG60iKX1Z9f5GD1bboHac.jpg" ,A Morte de Stalin (2017)
+http://cdnrez.xyz:80/movie/42048671/18672923/1839051.mp4
+#EXTINF:-1 tvg-name="Desventura do Verão (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o2GYdbshaBeWZn0V4tFLyiyg0BS.jpg" ,Desventura do Verão (2014)
+http://cdnrez.xyz:80/movie/42048671/18672923/1839435.mp4
+#EXTINF:-1 tvg-name="Mixed by Erry (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4eNtOleY02KXbYYyljwEE0YhdYb.jpg" ,Mixed by Erry (2023)
+http://cdnrez.xyz:80/movie/42048671/18672923/1839922.mp4
+#EXTINF:-1 tvg-name="A Ponte do Rio Kwai (1957)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z4NWsLsLogVh2XfLXbPaaGrX8Zz.jpg" ,A Ponte do Rio Kwai (1957)
+http://cdnrez.xyz:80/movie/42048671/18672923/1839030.mp4
+#EXTINF:-1 tvg-name="BlackBerry (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/neV35lK7em4rIY9QIoH1cruErPA.jpg" ,BlackBerry (2023)
+http://cdnrez.xyz:80/movie/42048671/18672923/1839308.mp4
+#EXTINF:-1 tvg-name="Elvis & Nixon (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4BoHyGQtdTK1ysypLnFlJcnhW5.jpg" ,Elvis & Nixon (2016)
+http://cdnrez.xyz:80/movie/42048671/18672923/1839527.mp4
+#EXTINF:-1 tvg-name="Sra. Harris Vai a Paris (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCp4P08sqOeazheX4GiRRyg5PMm.jpg" ,Sra. Harris Vai a Paris (2022)
+http://cdnrez.xyz:80/movie/42048671/18672923/1840538.mp4
+#EXTINF:-1 tvg-name="Kursk: A Última Missão (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2IfN9oSfu7n1raLplXx4hjRdUc.jpg" ,Kursk: A Última Missão (2018)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842027.mp4
+#EXTINF:-1 tvg-name="No Vale das Sombras (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MLfTwQ47FfYNyDDXk5sP4OWE1l.jpg" ,No Vale das Sombras (2007)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842295.mp4
+#EXTINF:-1 tvg-name="Spencer (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GcqdBKaMM9BWXWN07BirBMkcBF.jpg" ,Spencer (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842976.mp4
+#EXTINF:-1 tvg-name="Pixinguinha: Um Homem Carinhoso (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/35gRNG0qmmmdIoU2laBBK6ZBLs2.jpg" ,Pixinguinha: Um Homem Carinhoso (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842753.mp4
+#EXTINF:-1 tvg-name="Downton Abbey II: Uma Nova Era (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bbYN97IJhezFG9bGnSSG42Cz3lm.jpg" ,Downton Abbey II: Uma Nova Era (2022)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841710.mp4
+#EXTINF:-1 tvg-name="Shooting Stars: A Vida de Lebron James (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzOxUgqkQeKyhyuKZqIj87VqFUg.jpg" ,Shooting Stars: A Vida de Lebron James (2023)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842949.mp4
+#EXTINF:-1 tvg-name="Tesla: O Homem Elétrico (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xD6ytmowMxYcrPCh4oYhcWyuTF0.jpg" ,Tesla: O Homem Elétrico (2020)
+http://cdnrez.xyz:80/movie/42048671/18672923/1843048.mp4
+#EXTINF:-1 tvg-name="Che: O Argentino (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekUpkM5tStkZuzpIzg77PbkG6SM.jpg" ,Che: O Argentino (2008)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841511.mp4
+#EXTINF:-1 tvg-name="O Menino que Descobriu o Vento (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZofpz4gmiH7MQAYWrgvTtdIq3l.jpg" ,O Menino que Descobriu o Vento (2019)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842481.mp4
+#EXTINF:-1 tvg-name="O Zoológico de Varsóvia (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6hM1XynlvPHvRD5dIKE883YXBS2.jpg" ,O Zoológico de Varsóvia (2017)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842613.mp4
+#EXTINF:-1 tvg-name="Fukushima: Ameaça Nuclear (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aj9mQjMn5cL04ZXigG60gbLPNWO.jpg" ,Fukushima: Ameaça Nuclear (2020)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841869.mp4
+#EXTINF:-1 tvg-name="Wasp Network: Rede de Espiões (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vEJbGMflG58J7GXTfFlrD2XDmVo.jpg" ,Wasp Network: Rede de Espiões (2020)
+http://cdnrez.xyz:80/movie/42048671/18672923/1843294.mp4
+#EXTINF:-1 tvg-name="Malmkrog (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28CytTGQ7SidpWe7qE3ROuvJ5NY.jpg" ,Malmkrog (2020)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842118.mp4
+#EXTINF:-1 tvg-name="Um Ato de Liberdade (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0Q4lchbdAHNiaGFcijCY05HHKT.jpg" ,Um Ato de Liberdade (2008)
+http://cdnrez.xyz:80/movie/42048671/18672923/1843134.mp4
+#EXTINF:-1 tvg-name="Boa Noite e Boa Sorte. (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vCSvnpvQ6XHsebAinb8EYLDxFYw.jpg" ,Boa Noite e Boa Sorte. (2005)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841434.mp4
+#EXTINF:-1 tvg-name="Villa-Lobos: Uma Vida de Paixão (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0NM0jYMX8zilK1tkMrQb2DOAmI.jpg" ,Villa-Lobos: Uma Vida de Paixão (2000)
+http://cdnrez.xyz:80/movie/42048671/18672923/1843272.mp4
+#EXTINF:-1 tvg-name="Repórteres de Guerra (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyBDhcgxyffS7uomHDLIuvNwvd9.jpg" ,Repórteres de Guerra (2011)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842855.mp4
+#EXTINF:-1 tvg-name="Hostis (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncHc81uGBw4PmsKfkFTJNCSKWgc.jpg" ,Hostis (2017)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841964.mp4
+#EXTINF:-1 tvg-name="Mank (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4yzTcAtvzyZLLto4z04xobUK9el.jpg" ,Mank (2020)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842145.mp4
+#EXTINF:-1 tvg-name="Jesús de Nazareth (1942)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSsIs2zldC25pFlCHM7UOqNCYzu.jpg" ,Jesús de Nazareth (1942)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841991.mp4
+#EXTINF:-1 tvg-name="Safety (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRwRZYlqXkcCwx2yuqIhh7rzPcA.jpg" ,Safety (2020)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842875.mp4
+#EXTINF:-1 tvg-name="O Espião Inglês (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/et0OqqfYINGCFB76YTmdinuuGTn.jpg" ,O Espião Inglês (2020)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842471.mp4
+#EXTINF:-1 tvg-name="O Legado Kennedy (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uoXcF3kYK7Ai4UvgjV4Wz7xu5x0.jpg" ,O Legado Kennedy (2018)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842455.mp4
+#EXTINF:-1 tvg-name="A Duquesa (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RdxwvaLd9r7vW4tL47Ay3626hf.jpg" ,A Duquesa (2008)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841015.mp4
+#EXTINF:-1 tvg-name="22 de Julho (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fO1YmU5DvYdudmODO25PpRekiMX.jpg" ,22 de Julho (2018)
+http://cdnrez.xyz:80/movie/42048671/18672923/1840971.mp4
+#EXTINF:-1 tvg-name="Cavalo de Guerra (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KCu49IhGK5IpqKRO1i2UGLQt6A.jpg" ,Cavalo de Guerra (2011)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841486.mp4
+#EXTINF:-1 tvg-name="Miss Revolução (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTGC7rQR3YuTmBPDkxAS67q7unO.jpg" ,Miss Revolução (2020)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842194.mp4
+#EXTINF:-1 tvg-name="Apresentando os Ricardos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5zh7btwM8px4991ZMl5k1NQUHaI.jpg" ,Apresentando os Ricardos (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841313.mp4
+#EXTINF:-1 tvg-name="Últimos Dias no Deserto (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7PQ0DoAnR5OB2ZzaZrCiQ6dNo8.jpg" ,Últimos Dias no Deserto (2016)
+http://cdnrez.xyz:80/movie/42048671/18672923/1843130.mp4
+#EXTINF:-1 tvg-name="Anne Frank, Minha Melhor Amiga (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/720Hb1K6gZqPxWx16XtyUHPWfFd.jpg" , Minha Melhor Amiga (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841288.mp4
+#EXTINF:-1 tvg-name="Golda - A Mulher de uma Nação (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sDVD8YkzeRUfvslY7jMwodjDdnD.jpg" ,Golda - A Mulher de uma Nação (2023)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841890.mp4
+#EXTINF:-1 tvg-name="The 24th (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPEPNWdiwKRpSgTKY6Hl0HbqDAW.jpg" ,The 24th (2020)
+http://cdnrez.xyz:80/movie/42048671/18672923/1843059.mp4
+#EXTINF:-1 tvg-name="Maldito Futebol Clube (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftlbCma6QoRiZgiflVmLuPKHrkq.jpg" ,Maldito Futebol Clube (2009)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842120.mp4
+#EXTINF:-1 tvg-name="A Última Testemunha (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4AcC9CqCJeWXcswUoS3uGdw37F.jpg" ,A Última Testemunha (2018)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841176.mp4
+#EXTINF:-1 tvg-name="61*: A História de Um Recorde (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kwW3gNOMOftdAHZ9nBWN1H4Uyk5.jpg" ,61*: A História de Um Recorde (2001)
+http://cdnrez.xyz:80/movie/42048671/18672923/1840950.mp4
+#EXTINF:-1 tvg-name="Silenciadas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3pJRTOJiuRM3C7PKu9UOnmMzLyJ.jpg" ,Silenciadas (2020)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842961.mp4
+#EXTINF:-1 tvg-name="O Piloto - Uma Batalha Pela Sobrevivência (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRV9tKNpxRvN8ezShKkwaFBsrw5.jpg" ,O Piloto - Uma Batalha Pela Sobrevivência (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842529.mp4
+#EXTINF:-1 tvg-name="Círculo de Fogo (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4N60DrroHC0JFhn8CXgB1IJHrc.jpg" ,Círculo de Fogo (2001)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841504.mp4
+#EXTINF:-1 tvg-name="José do Egito - O Filme (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fGgFHlCmqgcvBc4RfvX90D7i0f.jpg" ,José do Egito - O Filme (2016)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842020.mp4
+#EXTINF:-1 tvg-name="Judas e o Messias Negro (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oA4Hsn1G0sBI8U61BpX05GsrrfF.jpg" ,Judas e o Messias Negro (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842023.mp4
+#EXTINF:-1 tvg-name="Snowden: Herói ou Traidor (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/glgKZrHcgsHJ8uBwWg8eeTNZQJk.jpg" ,Snowden: Herói ou Traidor (2016)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842955.mp4
+#EXTINF:-1 tvg-name="Esperando os Bárbaros (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n4rZH8kkE3fxPJbYJREXFXXePmq.jpg" ,Esperando os Bárbaros (2019)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841784.mp4
+#EXTINF:-1 tvg-name="The Visual Bible - Acts (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mesUnuLdigFfbY0awmj7rJoL8SY.jpg" ,The Visual Bible - Acts (1994)
+http://cdnrez.xyz:80/movie/42048671/18672923/1843067.mp4
+#EXTINF:-1 tvg-name="Apollo 13 - Do Desastre ao Triunfo (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/22dmzRXNULYaIllVAiIpa2bjmEY.jpg" ,Apollo 13 - Do Desastre ao Triunfo (1995)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841303.mp4
+#EXTINF:-1 tvg-name="O Oficial e o Espião (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62U5xODn11soKOnXj0s0zc3iTlJ.jpg" ,O Oficial e o Espião (2019)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842506.mp4
+#EXTINF:-1 tvg-name="Torturado por Cristo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ViMmECe04QwF6Sj4XGh6XDrsDQ.jpg" ,Torturado por Cristo (2018)
+http://cdnrez.xyz:80/movie/42048671/18672923/1843082.mp4
+#EXTINF:-1 tvg-name="A Voz da Resistência (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKNKpWSJBWyceOIdZjEl0yTzZt2.jpg" ,A Voz da Resistência (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841203.mp4
+#EXTINF:-1 tvg-name="As Legiões Emergentes (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgUoejL9fMVfXylBPekyEInOsnQ.jpg" ,As Legiões Emergentes (2019)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841334.mp4
+#EXTINF:-1 tvg-name="Conflito das Águas (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/844Rf5ln8QjRdf5ZEgt9dbHP9Mp.jpg" ,Conflito das Águas (2011)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841558.mp4
+#EXTINF:-1 tvg-name="I Wanna Dance with Somebody: A História de Whitney Houston (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vkOVROMEixrM87hMtopn3JD92Uv.jpg" ,I Wanna Dance with Somebody: A História de Whitney Houston (2022)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841937.mp4
+#EXTINF:-1 tvg-name="NYAD (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydSqUhKFvg5cZ5OwImmf3K1R6SS.jpg" ,NYAD (2023)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842255.mp4
+#EXTINF:-1 tvg-name="12 Anos de Escravidão (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RUTPOAB4rRlrRYFMGjvK6bm1x8.jpg" ,12 Anos de Escravidão (2013)
+http://cdnrez.xyz:80/movie/42048671/18672923/1840961.mp4
+#EXTINF:-1 tvg-name="Estrelas Além do Tempo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6A1Jn0tooQYgi2C8sNz5OaIW98C.jpg" ,Estrelas Além do Tempo (2016)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841786.mp4
+#EXTINF:-1 tvg-name="Orações para Bobby (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ryaJFI5adEgBB4H2ZuIgJCwa3ev.jpg" ,Orações para Bobby (2009)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842641.mp4
+#EXTINF:-1 tvg-name="Rustin (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCawCmTJhKT7c2ZOzLBTXDIR8JS.jpg" ,Rustin (2023)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842869.mp4
+#EXTINF:-1 tvg-name="Tempos de Escuridão (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2gaMXecjYs1F70fmsFCcuOjl5J.jpg" ,Tempos de Escuridão (2020)
+http://cdnrez.xyz:80/movie/42048671/18672923/1843024.mp4
+#EXTINF:-1 tvg-name="Mahalia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dwTafeO7kAtFiUXltCstiRu7k97.jpg" ,Mahalia (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842134.mp4
+#EXTINF:-1 tvg-name="Traição para Iniciantes (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gM5JdBdz2dGlooyFl2is8l4Ge6e.jpg" ,Traição para Iniciantes (2018)
+http://cdnrez.xyz:80/movie/42048671/18672923/1843092.mp4
+#EXTINF:-1 tvg-name="O Destino de uma Nação (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yj9XNxTztmjPs5cXAXpKbANZ9l2.jpg" ,O Destino de uma Nação (2017)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842396.mp4
+#EXTINF:-1 tvg-name="O Libertador (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNWzeK1nD9OBTBdlPaOkivG5iaK.jpg" ,O Libertador (2013)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842053.mp4
+#EXTINF:-1 tvg-name="Os Segredos que Guardamos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4WjqeW9Bg9pFmS1PDHz0h9gCHTP.jpg" ,Os Segredos que Guardamos (2020)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842668.mp4
+#EXTINF:-1 tvg-name="A Outra (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kViXw0u8iAeaT8WFpPNfCRDdH9z.jpg" ,A Outra (2008)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841142.mp4
+#EXTINF:-1 tvg-name="Napoleão (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oaUS0YJN3cHpvin1BMNmmnv0gRX.jpg" ,Napoleão (2023)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842268.mp4
+#EXTINF:-1 tvg-name="Morte a Pinochet (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4WHSNZi1nvyV5GfXtR9PbVsqJbl.jpg" ,Morte a Pinochet (2020)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842220.mp4
+#EXTINF:-1 tvg-name="Fome de Poder (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1YpHj6aV1yKWP20hKj1KUiLaIbi.jpg" ,Fome de Poder (2016)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841860.mp4
+#EXTINF:-1 tvg-name="Espada de Deus: A Última Cruzada (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sasYy2Hl5uplpT7jwQflFDANZXm.jpg" ,Espada de Deus: A Última Cruzada (2020)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841782.mp4
+#EXTINF:-1 tvg-name="Duas Rainhas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFw9yOMb8M7tPmXXXY2xkInmSkA.jpg" ,Duas Rainhas (2018)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841706.mp4
+#EXTINF:-1 tvg-name="The Doors (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1LM3dzGuG6xOz0aT2e71o11vhu.jpg" ,The Doors (1991)
+http://cdnrez.xyz:80/movie/42048671/18672923/1843074.mp4
+#EXTINF:-1 tvg-name="O Matemático (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrDBynsjlDjQ2KkXO69jn1SIAWw.jpg" ,O Matemático (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842457.mp4
+#EXTINF:-1 tvg-name="Quanto Vale? (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DUDQpsWYeUz3c2Jbr7LYUnsc9A.jpg" ,Quanto Vale? (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842798.mp4
+#EXTINF:-1 tvg-name="A Batalha das Correntes (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hXJRUdM785ogYuaOo0lXWjOCda.jpg" ,A Batalha das Correntes (2018)
+http://cdnrez.xyz:80/movie/42048671/18672923/1840967.mp4
+#EXTINF:-1 tvg-name="O Físico (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDd2AW6VlFtXUJa2ZqgdP7vVKKz.jpg" ,O Físico (2013)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842418.mp4
+#EXTINF:-1 tvg-name="Munique: No Limite da Guerra (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xTMTXj8cYGDhnawfKJzZTtp7Qmc.jpg" ,Munique: No Limite da Guerra (2022)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842240.mp4
+#EXTINF:-1 tvg-name="Um Homem de Ação (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lMNgLp0LdUO6tLIUy43aSoIayxV.jpg" ,Um Homem de Ação (2022)
+http://cdnrez.xyz:80/movie/42048671/18672923/1843140.mp4
+#EXTINF:-1 tvg-name="A Pura Verdade (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5FGJSYbldFT2vPhVf14UqBtVBim.jpg" ,A Pura Verdade (2018)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841146.mp4
+#EXTINF:-1 tvg-name="Hill: Amor Pelo Jogo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsdFM9euJikNyRPtFVO43pDpIGh.jpg" ,Hill: Amor Pelo Jogo (2023)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841923.mp4
+#EXTINF:-1 tvg-name="Dois Papas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZmD4lMCgZydh8vAkx7JsykfqcW.jpg" ,Dois Papas (2019)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841709.mp4
+#EXTINF:-1 tvg-name="A História Verdadeira (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhWW2Q7txmEpC0XxoUMAK8Ynnst.jpg" ,A História Verdadeira (2015)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841051.mp4
+#EXTINF:-1 tvg-name="A Conferência (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3xi46qJs9kGAgsPrUj8DgGjjhc.jpg" ,A Conferência (2022)
+http://cdnrez.xyz:80/movie/42048671/18672923/1840988.mp4
+#EXTINF:-1 tvg-name="O Caminho da Liberdade (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rh0kqC8Yemop4BXypCtOildGAvy.jpg" ,O Caminho da Liberdade (2009)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842359.mp4
+#EXTINF:-1 tvg-name="Um Broto Legal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jgKAAhnJ63nhrGrjrWl7cv7QFG7.jpg" ,Um Broto Legal (2022)
+http://cdnrez.xyz:80/movie/42048671/18672923/1843206.mp4
+#EXTINF:-1 tvg-name="Cadillac Records (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PqNPf57ojfh4zvOp3HjodogOKn.jpg" ,Cadillac Records (2008)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841447.mp4
+#EXTINF:-1 tvg-name="A Lista de Schindler (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tagKKnJLK8W5qKJW7Cl2GR2OPCs.jpg" ,A Lista de Schindler (1993)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841076.mp4
+#EXTINF:-1 tvg-name="Uma Vida Oculta (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oh5cKQgC54MAu62YCXNHVPiKIoY.jpg" ,Uma Vida Oculta (2019)
+http://cdnrez.xyz:80/movie/42048671/18672923/1843277.mp4
+#EXTINF:-1 tvg-name="Antonia: Uma Sinfonia (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gh1FUD47w65BkSd5JoAQcVvOjEF.jpg" ,Antonia: Uma Sinfonia (2018)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841306.mp4
+#EXTINF:-1 tvg-name="Elizabeth: A Era de Ouro (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3S63gYQB0yVl8bbCroYG15hx9WB.jpg" ,Elizabeth: A Era de Ouro (2007)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841777.mp4
+#EXTINF:-1 tvg-name="Green Book: O Guia (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9dldwRwQjTZGlIxKaAtAPLAjOv.jpg" ,Green Book: O Guia (2018)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841902.mp4
+#EXTINF:-1 tvg-name="Um Lindo Dia na Vizinhança (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qenbW0aWvW8bxNb0XVDPeIUwFVu.jpg" ,Um Lindo Dia na Vizinhança (2019)
+http://cdnrez.xyz:80/movie/42048671/18672923/1843159.mp4
+#EXTINF:-1 tvg-name="A Tabacaria (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4h717rbBuy78KgxtMKCZThWjF2.jpg" ,A Tabacaria (2018)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841164.mp4
+#EXTINF:-1 tvg-name="Até o Último Homem (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88sCL8OQMoieKpHClqRCCbcgH6w.jpg" ,Até o Último Homem (2016)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841374.mp4
+#EXTINF:-1 tvg-name="A Última Linha de Defesa (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qESC7AdyfqMwYl1ZhQpp5d5iJiG.jpg" ,A Última Linha de Defesa (2020)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841189.mp4
+#EXTINF:-1 tvg-name="Lamborghini: O Homem Por Trás da Lenda (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kchdd5IbZzUursmoDOB7ztn6CSs.jpg" ,Lamborghini: O Homem Por Trás da Lenda (2022)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842051.mp4
+#EXTINF:-1 tvg-name="Downton Abbey (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXoUmgHslfmC6kIhy814unBhptx.jpg" ,Downton Abbey (2019)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841700.mp4
+#EXTINF:-1 tvg-name="O Gênio e o Louco (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0gVckm4cPZADGIljCALidbP7nR.jpg" ,O Gênio e o Louco (2019)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842420.mp4
+#EXTINF:-1 tvg-name="Operação Final (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qrnR4wgltDepeWF2GFx9BifTkY.jpg" ,Operação Final (2018)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842643.mp4
+#EXTINF:-1 tvg-name="Munique (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCTk5AxrGWZ9bHl6UkL0SCebldw.jpg" ,Munique (2005)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842230.mp4
+#EXTINF:-1 tvg-name="Legítimo Rei (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LvYgoxdh3coBd69CxKJaoju9lv.jpg" ,Legítimo Rei (2018)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842043.mp4
+#EXTINF:-1 tvg-name="Mixed by Erry (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4eNtOleY02KXbYYyljwEE0YhdYb.jpg" ,Mixed by Erry (2023)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842218.mp4
+#EXTINF:-1 tvg-name="O Rei da Escócia (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KtPzJ1g9AighZMSkEzTMlte8tg.jpg" ,O Rei da Escócia (2019)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842550.mp4
+#EXTINF:-1 tvg-name="Frantz (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBCL7di8Y1BA9RAzQSoKOjtdPqj.jpg" ,Frantz (2016)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841858.mp4
+#EXTINF:-1 tvg-name="Ela Disse (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BNJjZRfNoD0bskwuY3Oekzz2Ih.jpg" ,Ela Disse (2022)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841735.mp4
+#EXTINF:-1 tvg-name="A Última Esperança Soviética (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYAIG6RxtSRPcge3Rzw9fxPSUzE.jpg" ,A Última Esperança Soviética (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841171.mp4
+#EXTINF:-1 tvg-name="O Senhor dos Mares (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mcxnwGPIeYsPm9ry4mN2zuARJj.jpg" ,O Senhor dos Mares (2011)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842577.mp4
+#EXTINF:-1 tvg-name="A Disputa (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYFaFJPg79ngwBrxjQw4aThzen4.jpg" ,A Disputa (2020)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841000.mp4
+#EXTINF:-1 tvg-name="A Cor Púrpura (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xMiXnyVOIM8ZXr1DlnsKKcwHuil.jpg" ,A Cor Púrpura (1985)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841009.mp4
+#EXTINF:-1 tvg-name="O Jogo da Imitação (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bwWCFjhwrs5my4FUoeWdTa2GYlB.jpg" ,O Jogo da Imitação (2014)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842445.mp4
+#EXTINF:-1 tvg-name="Filhos do Ódio (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbleajDCRJcCzn8vNUYxtKrSAvb.jpg" ,Filhos do Ódio (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841868.mp4
+#EXTINF:-1 tvg-name="George Foreman: Sua História (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/65k7FeAQfYCUXml5vT1vvHAYJoD.jpg" ,George Foreman: Sua História (2023)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841886.mp4
+#EXTINF:-1 tvg-name="Além das Águas (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gs7YE1aQRQLPl1U4EyLcAOiKhZK.jpg" ,Além das Águas (2016)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841268.mp4
+#EXTINF:-1 tvg-name="The Post: A Guerra Secreta (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOq5Pus5W2IwVcTdveu9tO6yYFB.jpg" ,The Post: A Guerra Secreta (2017)
+http://cdnrez.xyz:80/movie/42048671/18672923/1843066.mp4
+#EXTINF:-1 tvg-name="Somos Marshall (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Qf0jXym7ayEfkUHK4aMffALj2a.jpg" ,Somos Marshall (2006)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842977.mp4
+#EXTINF:-1 tvg-name="A Luta pela Esperança (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rztLamF4cfaPxvIzqllaxe9e3S.jpg" ,A Luta pela Esperança (2005)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841083.mp4
+#EXTINF:-1 tvg-name="Um estado de Liberdade (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PFXbrFejklRf2nW2d7DdGT0UKs.jpg" ,Um estado de Liberdade (2016)
+http://cdnrez.xyz:80/movie/42048671/18672923/1843183.mp4
+#EXTINF:-1 tvg-name="Troca de Rainhas (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQ4MwWwzImDXW45aunfcLp3An0g.jpg" ,Troca de Rainhas (2017)
+http://cdnrez.xyz:80/movie/42048671/18672923/1843096.mp4
+#EXTINF:-1 tvg-name="Ventos da Liberdade (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LTqnQf9Hj4o0izLeennonXqq5A.jpg" ,Ventos da Liberdade (2018)
+http://cdnrez.xyz:80/movie/42048671/18672923/1843239.mp4
+#EXTINF:-1 tvg-name="Walt nos Bastidores de Mary Poppins (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWvBOsWGpWlSpzeeNgtCBM6d0bO.jpg" ,Walt nos Bastidores de Mary Poppins (2013)
+http://cdnrez.xyz:80/movie/42048671/18672923/1843295.mp4
+#EXTINF:-1 tvg-name="Lincoln (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ah8nlXt06HTKfIbMQFGmuJmVIfq.jpg" ,Lincoln (2012)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842078.mp4
+#EXTINF:-1 tvg-name="Benedetta (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eWsDoicwFFYDxZsKayAD5eZUAW1.jpg" ,Benedetta (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841401.mp4
+#EXTINF:-1 tvg-name="Notorious B.I.G. - Nenhum Sonho é Grande Demais (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2GeTdc7Xxdkzr8wAEnQxFQKiFOG.jpg" ,Notorious B.I.G. - Nenhum Sonho é Grande Demais (2009)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842317.mp4
+#EXTINF:-1 tvg-name="Selena (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8xX3yBAFOayfSaImgLZPnAcdWz.jpg" ,Selena (1997)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842906.mp4
+#EXTINF:-1 tvg-name="Disque Jane (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qK2sx7wBd3bhkdh6S2fsfS0CuCd.jpg" ,Disque Jane (2022)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841675.mp4
+#EXTINF:-1 tvg-name="Os Olhos de Tammy Faye (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxb83Bf5jLLzAv2CsXdRrAtHPNI.jpg" ,Os Olhos de Tammy Faye (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842676.mp4
+#EXTINF:-1 tvg-name="Verdade e Justiça (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2SqUoj7kPpB8wYwVrw9wIzT3JnZ.jpg" ,Verdade e Justiça (2019)
+http://cdnrez.xyz:80/movie/42048671/18672923/1843249.mp4
+#EXTINF:-1 tvg-name="O Irlandês (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3GPn2W2UdzUE1bp1KtCrYvXiZFt.jpg" ,O Irlandês (2019)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842458.mp4
+#EXTINF:-1 tvg-name="Emancipation: Uma História de Liberdade (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/izTIOynukDcN9dp7uPlwBjHr8f5.jpg" ,Emancipation: Uma História de Liberdade (2022)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841740.mp4
+#EXTINF:-1 tvg-name="Cobaias (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gOXwwP4a9ABDuLeIrtYn2crltTg.jpg" ,Cobaias (1997)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841540.mp4
+#EXTINF:-1 tvg-name="A Revolução em Paris (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dgJAKz7eSNGNenjrI9Wbmi7MZeR.jpg" ,A Revolução em Paris (2018)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841157.mp4
+#EXTINF:-1 tvg-name="Seis Minutos para Meia-Noite (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w07xHq8aJwXNmymaYNkT8sNMSSs.jpg" ,Seis Minutos para Meia-Noite (2020)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842900.mp4
+#EXTINF:-1 tvg-name="Uma Cidade em Alerta (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sL2IpwdG1lE9H5U3EoRGx0BCi50.jpg" ,Uma Cidade em Alerta (2018)
+http://cdnrez.xyz:80/movie/42048671/18672923/1843202.mp4
+#EXTINF:-1 tvg-name="Minamata (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kq7LyaVDeGudN7LRhE3OOiOJk2R.jpg" ,Minamata (2020)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842195.mp4
+#EXTINF:-1 tvg-name="O Baile das Loucas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2PmxoTMHlqiSzqmKFef69htswW.jpg" ,O Baile das Loucas (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842342.mp4
+#EXTINF:-1 tvg-name="Dinheiro Fácil (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3pI4Nbe9vRC2cd7WsHtiMGZW0T.jpg" ,Dinheiro Fácil (2023)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841677.mp4
+#EXTINF:-1 tvg-name="Brexit (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKfYKQQMNARXOgyf5ieVeGWlNQU.jpg" ,Brexit (2019)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841428.mp4
+#EXTINF:-1 tvg-name="A Espiã Vermelha (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/patzx6JSth70QKEUqZ1fU4Hatkd.jpg" ,A Espiã Vermelha (2018)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841016.mp4
+#EXTINF:-1 tvg-name="O Compositor (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTUmWjp7DhARIfJLbw5DuWrD0Lb.jpg" ,O Compositor (2020)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842365.mp4
+#EXTINF:-1 tvg-name="Clube de Compras Dallas (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLSEfTUCaTZ55ltUSUeVgL4E2xt.jpg" ,Clube de Compras Dallas (2013)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841525.mp4
+#EXTINF:-1 tvg-name="Women Is Losers (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Q0nxmmRvCpUiO9HuUvFV4khIQa.jpg" ,Women Is Losers (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1843303.mp4
+#EXTINF:-1 tvg-name="A Vida Eletrizante de Louis Wain (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lihTkVk0yoS6wZTLBYqsAkKbpsz.jpg" ,A Vida Eletrizante de Louis Wain (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841201.mp4
+#EXTINF:-1 tvg-name="Luta Pela Liberdade (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4y5DCnVYjmT43jy56qYTERlcYih.jpg" ,Luta Pela Liberdade (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842091.mp4
+#EXTINF:-1 tvg-name="O Anjo do Mossad (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fieZM12MoNcOmbjhh3PXcAZ06gk.jpg" ,O Anjo do Mossad (2018)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842346.mp4
+#EXTINF:-1 tvg-name="Agnus Dei (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwomSb6j9dz0StCmPc535TmEaQi.jpg" ,Agnus Dei (2016)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841235.mp4
+#EXTINF:-1 tvg-name="Linhas de Wellington (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSqoOh0WlRnMbOG0cxqkvLjRtH2.jpg" ,Linhas de Wellington (2012)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842066.mp4
+#EXTINF:-1 tvg-name="Hamilton (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1B7tW0t399VDjAcWJh8m87469b.jpg" ,Hamilton (2020)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841904.mp4
+#EXTINF:-1 tvg-name="Caminho Para a Liberdade (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4c9rgq7pDR7R4i1H9UrUD9lWcce.jpg" ,Caminho Para a Liberdade (2022)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841442.mp4
+#EXTINF:-1 tvg-name="O Protocolo de Auschwitz (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTvodu8Jqq8C5uiEXbsFmto4GJI.jpg" ,O Protocolo de Auschwitz (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842544.mp4
+#EXTINF:-1 tvg-name="Till: A Busca por Justiça (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ogb70EGzxqdbH5p8mmWJ5CEYSp3.jpg" ,Till: A Busca por Justiça (2022)
+http://cdnrez.xyz:80/movie/42048671/18672923/1843069.mp4
+#EXTINF:-1 tvg-name="Jobs (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mOyZ0UAWaOJartFq2G3Cv0soFtQ.jpg" ,Jobs (2013)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841982.mp4
+#EXTINF:-1 tvg-name="O Fotógrafo de Mauthausen (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDNPB2D9tLxzJRnHnT5aJhffojw.jpg" ,O Fotógrafo de Mauthausen (2018)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842425.mp4
+#EXTINF:-1 tvg-name="Colette (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMJuocb1cguv63XIVY0Dy3tfBAN.jpg" ,Colette (2018)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841535.mp4
+#EXTINF:-1 tvg-name="Resistência (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jMPSL9R3TyGZC1lSItTDWqah89G.jpg" ,Resistência (2020)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842841.mp4
+#EXTINF:-1 tvg-name="Sully: O Herói do Rio Hudson (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b3jihGgsICgJbwJVvVwshoJ8TjJ.jpg" ,Sully: O Herói do Rio Hudson (2016)
+http://cdnrez.xyz:80/movie/42048671/18672923/1843003.mp4
+#EXTINF:-1 tvg-name="Juventudes Roubadas (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6aO9Noc9Cqu7V4LJlXYGP9Iu7I1.jpg" ,Juventudes Roubadas (2014)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842017.mp4
+#EXTINF:-1 tvg-name="Rei do Ringue: A História de Jem Belcher (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vi6VoqcsfmrwD0uXzyxXRsjcwU5.jpg" ,Rei do Ringue: A História de Jem Belcher (2022)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842835.mp4
+#EXTINF:-1 tvg-name="O Destino de Haffmann (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQ2s9RoFDJO6qFnv736aG6VbY7c.jpg" ,O Destino de Haffmann (2022)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842383.mp4
+#EXTINF:-1 tvg-name="O Menino do Pijama Listrado (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYRk58BJd7bLErTWlx3tVsUUbbV.jpg" ,O Menino do Pijama Listrado (2008)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842476.mp4
+#EXTINF:-1 tvg-name="Caminhos da Sobrevivência (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FSFhUQD96WlDLfYfheod05WOQo.jpg" ,Caminhos da Sobrevivência (2023)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841444.mp4
+#EXTINF:-1 tvg-name="Primeiro Mataram Meu Pai (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/umBuMm1xry8SfOdetIyaNX56hed.jpg" ,Primeiro Mataram Meu Pai (2017)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842769.mp4
+#EXTINF:-1 tvg-name="Luta por Justiça (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7Ze5yGU9jOQatTYgjCLd3u1VNl.jpg" ,Luta por Justiça (2019)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842093.mp4
+#EXTINF:-1 tvg-name="Oslo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j40H5hbbdOMrkbgyMZbOa1oijwj.jpg" ,Oslo (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842687.mp4
+#EXTINF:-1 tvg-name="Tetris (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg" ,Tetris (2023)
+http://cdnrez.xyz:80/movie/42048671/18672923/1843050.mp4
+#EXTINF:-1 tvg-name="Delorean - Do Motor ao Crime (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOjyC0eUa0PvyQYkigSjrjQwj2g.jpg" ,Delorean - Do Motor ao Crime (2019)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841629.mp4
+#EXTINF:-1 tvg-name="All Eyez on Me: A História de Tupac (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwsZmiLnwaG6vBOsd5vsVUaK10t.jpg" ,All Eyez on Me: A História de Tupac (2017)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841269.mp4
+#EXTINF:-1 tvg-name="Amadeus (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1n5VUlCqgmVax1adxGZm8oCFaKc.jpg" ,Amadeus (1984)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841275.mp4
+#EXTINF:-1 tvg-name="Contra o Gelo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ak7vO8UJS32bOub3aWXCYl7YaQx.jpg" ,Contra o Gelo (2022)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841559.mp4
+#EXTINF:-1 tvg-name="Fuga de Pretória (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCfbTvx2R0fZIeXN0UKC3gfXlvG.jpg" ,Fuga de Pretória (2020)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841882.mp4
+#EXTINF:-1 tvg-name="A Outra Face da Guerra (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/arlwPVSQg3fsBCDhwORpiHnZjYt.jpg" ,A Outra Face da Guerra (2019)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841119.mp4
+#EXTINF:-1 tvg-name="Coach Carter: Treino para a Vida (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5cC54gTj4BPMEA6BANSK3rLmc7Y.jpg" ,Coach Carter: Treino para a Vida (2005)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841517.mp4
+#EXTINF:-1 tvg-name="O Primeiro Homem (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRQ0CKECt5B3aE8YqW9r6DvaxRY.jpg" ,O Primeiro Homem (2018)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842538.mp4
+#EXTINF:-1 tvg-name="La grande noirceur (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVz1dASnIIQdJhYKe9ZcHEuQY9z.jpg" ,La grande noirceur (2019)
+http://cdnrez.xyz:80/movie/42048671/18672923/1843052.mp4
+#EXTINF:-1 tvg-name="Oppenheimer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0DCmfC7Et2K3URnIJ4ahJpeXR2.jpg" ,Oppenheimer (2023)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842653.mp4
+#EXTINF:-1 tvg-name="Steve Jobs (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7a6v7LduguBKAnVrGHt9lFH3mQ.jpg" ,Steve Jobs (2015)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842999.mp4
+#EXTINF:-1 tvg-name="O Favorito (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bmV2tuxB9uFRJdhfAh88ucQbml.jpg" ,O Favorito (2018)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842408.mp4
+#EXTINF:-1 tvg-name="Um Homem Contra a Máfia (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2upmtJmWD54gPEvaT3H281GwhFs.jpg" ,Um Homem Contra a Máfia (2020)
+http://cdnrez.xyz:80/movie/42048671/18672923/1843136.mp4
+#EXTINF:-1 tvg-name="Amistad (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QqNyIHKow0jngiQgTNBOBrLILM.jpg" ,Amistad (1997)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841274.mp4
+#EXTINF:-1 tvg-name="O Sorriso de Monalisa (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ImjEyKaxAspC5TcUslkeTYveHv.jpg" ,O Sorriso de Monalisa (2003)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842586.mp4
+#EXTINF:-1 tvg-name="A Milhões de Quilômetros (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gve64tTbxgo5NErRkwKeMdlHt5o.jpg" ,A Milhões de Quilômetros (2023)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841131.mp4
+#EXTINF:-1 tvg-name="Caminho da Liberdade (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJCkHUETeLWnEq53k4ZTp0ep2mX.jpg" ,Caminho da Liberdade (2010)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841457.mp4
+#EXTINF:-1 tvg-name="O Livro de Gênesis (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMq5QpK7erEKtDIMAcTshYKQyG4.jpg" ,O Livro de Gênesis (2016)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842522.mp4
+#EXTINF:-1 tvg-name="Padre Johnny (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbzkNNViy1dH2jCLMok2DmHX8e9.jpg" ,Padre Johnny (2022)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842674.mp4
+#EXTINF:-1 tvg-name="Chernobyl: O Filme (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnB2EkaY6HEdzwVkkH7dBHy6HmZ.jpg" ,Chernobyl: O Filme (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841505.mp4
+#EXTINF:-1 tvg-name="Os 33 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQbn2tfnjWmlMwWokz2qpeEYruA.jpg" ,Os 33 (2015)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842646.mp4
+#EXTINF:-1 tvg-name="A Trincheira Infinita (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4l28g28lT2yv1eIX0XNqNP4osPw.jpg" ,A Trincheira Infinita (2019)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841180.mp4
+#EXTINF:-1 tvg-name="The Runaways: Garotas do Rock (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1RoNYKoVvR1HqfBeiR0o7i7AWQ.jpg" ,The Runaways: Garotas do Rock (2010)
+http://cdnrez.xyz:80/movie/42048671/18672923/1843070.mp4
+#EXTINF:-1 tvg-name="O Lutador De Auschwitz (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dT9gLRbSHud53fENsqloMH6OUsu.jpg" ,O Lutador De Auschwitz (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842489.mp4
+#EXTINF:-1 tvg-name="Selma: Uma Luta pela Igualdade (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6DfW8p1U3Ej1r3OcwkpZ7RcA7ag.jpg" ,Selma: Uma Luta pela Igualdade (2014)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842902.mp4
+#EXTINF:-1 tvg-name="O Falsificador (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Es52cS0Cu44UxpeICzN1GxFmnF.jpg" ,O Falsificador (2022)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842409.mp4
+#EXTINF:-1 tvg-name="Respect: A História de Aretha Franklin (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1u672qYJpk2Ru4ejNo7eHl1zVws.jpg" ,Respect: A História de Aretha Franklin (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842847.mp4
+#EXTINF:-1 tvg-name="Radioactive (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/akHIQu8W3rOgT28r25ggXaKcQIr.jpg" ,Radioactive (2020)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842845.mp4
+#EXTINF:-1 tvg-name="O Bom Pastor (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ApS1M1YQXbz6JfDlLE2W3vpvpiP.jpg" ,O Bom Pastor (2006)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842347.mp4
+#EXTINF:-1 tvg-name="De Gaulle (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lfxs2YnuuLR037Ad4wesW5O9oUW.jpg" ,De Gaulle (2020)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841619.mp4
+#EXTINF:-1 tvg-name="Gangues de Nova York (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/19AomqCo1CJ3P4C9ieMwirixpNj.jpg" ,Gangues de Nova York (2002)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841873.mp4
+#EXTINF:-1 tvg-name="As Sufragistas (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNHonNhcFMNRvXKsiFWLouxmbFA.jpg" ,As Sufragistas (2015)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841372.mp4
+#EXTINF:-1 tvg-name="AK-47: A Arma Que Mudou o Mundo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4djODIhP8TZtjkG6w2xZjOuLk6.jpg" ,AK-47: A Arma Que Mudou o Mundo (2020)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841225.mp4
+#EXTINF:-1 tvg-name="A Grande Guerra (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8XjW4WTBq7aKvBqVqkUr3hjnfhx.jpg" ,A Grande Guerra (2019)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841047.mp4
+#EXTINF:-1 tvg-name="Madre Teresa & Eu (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8iPYXvAeUfuWU1bxgly02qmhwR7.jpg" ,Madre Teresa & Eu (2022)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842107.mp4
+#EXTINF:-1 tvg-name="As Nadadoras (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0s6z3GTRMyBs7ZBh8mKMP6QZ6V.jpg" ,As Nadadoras (2022)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841338.mp4
+#EXTINF:-1 tvg-name="O Soldado que Não Existiu (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJXW2GUJhNzpuftOp5yx1E6puEw.jpg" ,O Soldado que Não Existiu (2022)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842592.mp4
+#EXTINF:-1 tvg-name="O Fantasma Vermelho (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OpcrpuTSYOXd5IGfcPPPjbzNhm.jpg" ,O Fantasma Vermelho (2020)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842417.mp4
+#EXTINF:-1 tvg-name="A Noiva do Diabo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zW9EIz6usa57AVP5OmzToJewre.jpg" ,A Noiva do Diabo (2016)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841111.mp4
+#EXTINF:-1 tvg-name="Belfast (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mInLZyPOVLsZRsBwNHi3UJXXnm.jpg" ,Belfast (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841423.mp4
+#EXTINF:-1 tvg-name="Sertânia (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjyM34ftabA9wXZxnVezxLqjcA.jpg" ,Sertânia (2019)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842919.mp4
+#EXTINF:-1 tvg-name="Os 7 de Chicago (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvJJmdHVmOOn258tkCe6z83AYuP.jpg" ,Os 7 de Chicago (2020)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842663.mp4
+#EXTINF:-1 tvg-name="Chevalier (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5f9WgN9ZQ0rEdc2ywfLp8uJTt8.jpg" ,Chevalier (2023)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841513.mp4
+#EXTINF:-1 tvg-name="Coração Valente (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWBbNikf5ng7BuNGA55MkvhLrag.jpg" ,Coração Valente (1995)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841590.mp4
+#EXTINF:-1 tvg-name="Ford vs Ferrari (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8L9dqNMclXJHP0TesPsPS2RvB1.jpg" ,Ford vs Ferrari (2019)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841846.mp4
+#EXTINF:-1 tvg-name="O Direito de Viver (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/prC4sNzMAyxgK53po7IxJ4xKqVk.jpg" ,O Direito de Viver (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842389.mp4
+#EXTINF:-1 tvg-name="Herói da Liberdade (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nD3eegYICfOZmQTENopz8NXu4Ci.jpg" ,Herói da Liberdade (2020)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841921.mp4
+#EXTINF:-1 tvg-name="Flores do Oriente (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OBhpnPcL7kHX8KW8l5n603TNbC.jpg" ,Flores do Oriente (2011)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841847.mp4
+#EXTINF:-1 tvg-name="Estados Unidos vs. Billie Holiday (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zMgNepldhcB2oMHZDJFhyiaqu2.jpg" ,Estados Unidos vs. Billie Holiday (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841788.mp4
+#EXTINF:-1 tvg-name="Traidora Americana: O Julgamento de Axis Sally (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzP5J0fapBMm4WqOeevAUndql1B.jpg" ,Traidora Americana: O Julgamento de Axis Sally (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1843088.mp4
+#EXTINF:-1 tvg-name="Meu Nome é Dolemite (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZuQkwHEiXxWN3W2Z8cJelKWbRE.jpg" ,Meu Nome é Dolemite (2019)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842181.mp4
+#EXTINF:-1 tvg-name="King Richard: Criando Campeãs (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GzzYMqCUbx0RMY3yAdrKdKVonh.jpg" ,King Richard: Criando Campeãs (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842035.mp4
+#EXTINF:-1 tvg-name="Stonewall: Onde o Orgulho Começou (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuyq1iD8bMMoszWA6UI5NYJht9y.jpg" ,Stonewall: Onde o Orgulho Começou (2015)
+http://cdnrez.xyz:80/movie/42048671/18672923/1842991.mp4
+#EXTINF:-1 tvg-name="Caçadores de Obras-Primas (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPr0yONkXWA9GgX3PAoM1YA8P9W.jpg" ,Caçadores de Obras-Primas (2014)
+http://cdnrez.xyz:80/movie/42048671/18672923/1841489.mp4
+#EXTINF:-1 tvg-name="A Sociedade da Neve (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7fQTmvKgVGxifieVryqqlxohkoW.jpg" ,A Sociedade da Neve (2023)
+http://cdnrez.xyz:80/movie/42048671/18672923/1843317.mp4
+#EXTINF:-1 tvg-name="A Escavação (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ov6ES8aMntZJ6bbhOhhSwNoZbVf.jpg" ,A Escavação (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/1843316.mp4
+#EXTINF:-1 tvg-name="A Batalha de Haarlem (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ymR6acV1r6vbOxTwLUd8RNlVbip.jpg" ,A Batalha de Haarlem (2014)
+http://cdnrez.xyz:80/movie/42048671/18672923/1843401.mp4
+#EXTINF:-1 tvg-name="Buffalo Soldiers: O Exército Negro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9e4ICNKLbsWPrgxWtaVqZUd19nm.jpg" ,Buffalo Soldiers: O Exército Negro (2022)
+http://cdnrez.xyz:80/movie/42048671/18672923/1865314.mp4
+#EXTINF:-1 tvg-name="Bob Marley: One Love (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKWalirPreEdCKDJjc5TKeOP2xi.jpg" ,Bob Marley: One Love (2024)
+http://cdnrez.xyz:80/movie/42048671/18672923/2016403.mp4
+#EXTINF:-1 tvg-name="Shirley para Presidente (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nQebhPtuFAP7VOe8j0nzM4aHq79.jpg" ,Shirley para Presidente (2024)
+http://cdnrez.xyz:80/movie/42048671/18672923/2018465.mp4
+#EXTINF:-1 tvg-name="A Rainha (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kd9rMMLWZRIT00Yiphyjbjm32LH.jpg" ,A Rainha (2006)
+http://cdnrez.xyz:80/movie/42048671/18672923/2020986.mp4
+#EXTINF:-1 tvg-name="Zona de Interesse (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZlZ1hcmP6KkZfXxXcNngaFzMcS.jpg" ,Zona de Interesse (2023)
+http://cdnrez.xyz:80/movie/42048671/18672923/2020996.mp4
+#EXTINF:-1 tvg-name="Os Eleitos: Onde o Futuro Começa (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlklPwU7VNj799oGPNnE3Gl4l3p.jpg" ,Os Eleitos: Onde o Futuro Começa (1983)
+http://cdnrez.xyz:80/movie/42048671/18672923/2021184.mp4
+#EXTINF:-1 tvg-name="Caramuru: A Invenção do Brasil (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xgs9skiYyB8QdT7aWRJBQaqvnJ.jpg" ,Caramuru: A Invenção do Brasil (2001)
+http://cdnrez.xyz:80/movie/42048671/18672923/2021626.mp4
+#EXTINF:-1 tvg-name="2 Filhos de Francisco: A História de Zezé di Camargo & Luciano (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ub8vYfI1zgW4WItWDQ5mT6q5tzQ.jpg" ,2 Filhos de Francisco: A História de Zezé di Camargo & Luciano (2005)
+http://cdnrez.xyz:80/movie/42048671/18672923/2021627.mp4
+#EXTINF:-1 tvg-name="A Escolha (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJlrSiA7kVBjiOnWTKg2hDS6SfU.jpg" ,A Escolha (2022)
+http://cdnrez.xyz:80/movie/42048671/18672923/2021692.mp4
+#EXTINF:-1 tvg-name="Ataque à Colina 400 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZtIxZp4tf0Gp5JtVKV4iCShTrg.jpg" ,Ataque à Colina 400 (2023)
+http://cdnrez.xyz:80/movie/42048671/18672923/2023644.mp4
+#EXTINF:-1 tvg-name="Garra de Ferro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wzYxCgCsllrLwhMR4gbTk2gfFm6.jpg" ,Garra de Ferro (2023)
+http://cdnrez.xyz:80/movie/42048671/18672923/2023739.mp4
+#EXTINF:-1 tvg-name="Morte e Vida de Um Ativista Político (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhp9Y8fgHMsVsj1nqfOxKluQhQK.jpg" ,Morte e Vida de Um Ativista Político (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/2023735.mp4
+#EXTINF:-1 tvg-name="Ferrari (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwvIirDw4fKy491PpjSMda28SoN.jpg" ,Ferrari (2023)
+http://cdnrez.xyz:80/movie/42048671/18672923/2023728.mp4
+#EXTINF:-1 tvg-name="Perseguindo Demônios: O Herói de Nuremberg (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/PXo5oaPqJ7SFtSWQMl53OHlCSV.jpg" ,Perseguindo Demônios: O Herói de Nuremberg (2018)
+http://cdnrez.xyz:80/movie/42048671/18672923/2024407.mp4
+#EXTINF:-1 tvg-name="Bela e Rebelde (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icjLDiTzcXgzzbiAu6AFbWL8FmH.jpg" ,Bela e Rebelde (2024)
+http://cdnrez.xyz:80/movie/42048671/18672923/2024428.mp4
+#EXTINF:-1 tvg-name="A Batalha do Biscoito Pop-Tart (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzlOgNUz6qaBPFRSb9ixsg5b3yN.jpg" ,A Batalha do Biscoito Pop-Tart (2024)
+http://cdnrez.xyz:80/movie/42048671/18672923/2035156.mp4
+#EXTINF:-1 tvg-name="Uma Vida: A História de Nicholas Winton (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o65cLhzXPp9nBb5RvKRqLfZiMcH.jpg" ,Uma Vida: A História de Nicholas Winton (2023)
+http://cdnrez.xyz:80/movie/42048671/18672923/2035536.mp4
+#EXTINF:-1 tvg-name="Antes da Dinastia (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jLJchs0WUBDlH2yIh7zBHxtTd1g.jpg" ,Antes da Dinastia (2023)
+http://cdnrez.xyz:80/movie/42048671/18672923/2035851.mp4
+#EXTINF:-1 tvg-name="O Rei Guerreiro (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6XBvViXzWH1JRc5NW5WHNtyNmG.jpg" ,O Rei Guerreiro (2017)
+http://cdnrez.xyz:80/movie/42048671/18672923/2109900.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos (1956)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJI5sg5IOVAlxTmxbtT6nYdyiTk.jpg" ,Os Dez Mandamentos (1956)
+http://cdnrez.xyz:80/movie/42048671/18672923/2121585.mp4
+#EXTINF:-1 tvg-name="Guerra e Humanidade III: Uma Prece de Soldado (1961)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkRDYYEStn8Lb0MTMxVyl5bNvTP.jpg" ,Guerra e Humanidade III: Uma Prece de Soldado (1961)
+http://cdnrez.xyz:80/movie/42048671/18672923/2121357.mp4
+#EXTINF:-1 tvg-name="O Homem Que Não Vendeu Sua Alma (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlS8n2miCLdG0LSrxdZ9vyE68ea.jpg" ,O Homem Que Não Vendeu Sua Alma (1966)
+http://cdnrez.xyz:80/movie/42048671/18672923/2121489.mp4
+#EXTINF:-1 tvg-name="Entre Dois Amores (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9uVlbT7HSas74O792HGJm5Btnnx.jpg" ,Entre Dois Amores (1985)
+http://cdnrez.xyz:80/movie/42048671/18672923/2121316.mp4
+#EXTINF:-1 tvg-name="Meu Pecado Foi Nascer (1957)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/byuzNYdh41VK5YRVyi8W1VAvdYg.jpg" ,Meu Pecado Foi Nascer (1957)
+http://cdnrez.xyz:80/movie/42048671/18672923/2121449.mp4
+#EXTINF:-1 tvg-name="MacArthur, O General Rebelde (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yLgRA4vHvWkLKsH7k2rEPXaXMkm.jpg" , O General Rebelde (1977)
+http://cdnrez.xyz:80/movie/42048671/18672923/2121406.mp4
+#EXTINF:-1 tvg-name="Sede de Viver (1956)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzsydvH15z5EmeNPgunPb3GJgqh.jpg" ,Sede de Viver (1956)
+http://cdnrez.xyz:80/movie/42048671/18672923/2121639.mp4
+#EXTINF:-1 tvg-name="Chad Hanna (1940)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z0gOb25QyYb3zR8KPyG4xX46WZb.jpg" ,Chad Hanna (1940)
+http://cdnrez.xyz:80/movie/42048671/18672923/2121243.mp4
+#EXTINF:-1 tvg-name="Marketa Lazarová (1967)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wD5vjA8yImgeAgvxBN4lwWvWuQG.jpg" ,Marketa Lazarová (1967)
+http://cdnrez.xyz:80/movie/42048671/18672923/2121431.mp4
+#EXTINF:-1 tvg-name="A Ponte do Rio Kwai (1957)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z4NWsLsLogVh2XfLXbPaaGrX8Zz.jpg" ,A Ponte do Rio Kwai (1957)
+http://cdnrez.xyz:80/movie/42048671/18672923/2121162.mp4
+#EXTINF:-1 tvg-name="Diane (1956)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t61tZcGo4JG7arcCAdKIeL3qFKk.jpg" ,Diane (1956)
+http://cdnrez.xyz:80/movie/42048671/18672923/2121314.mp4
+#EXTINF:-1 tvg-name="O Massacre de Chicago (1967)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNESk6Y5ViKmbOHPocKkatGbNb5.jpg" ,O Massacre de Chicago (1967)
+http://cdnrez.xyz:80/movie/42048671/18672923/2121513.mp4
+#EXTINF:-1 tvg-name="O Caso dos Irmãos Naves (1967)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pdggceSOLnhvgmuzSJEI1yTfY3t.jpg" ,O Caso dos Irmãos Naves (1967)
+http://cdnrez.xyz:80/movie/42048671/18672923/2121474.mp4
+#EXTINF:-1 tvg-name="Os Intocáveis (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/koEvh0qJ2cYdHD2fPGK6UGw7mo5.jpg" ,Os Intocáveis (1987)
+http://cdnrez.xyz:80/movie/42048671/18672923/2121574.mp4
+#EXTINF:-1 tvg-name="Tempo de Glória (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGfE62Tzbwcumt4lgrnnALJsspO.jpg" ,Tempo de Glória (1989)
+http://cdnrez.xyz:80/movie/42048671/18672923/2121669.mp4
+#EXTINF:-1 tvg-name="O Eleito (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrOj10s3TQa01qRs7QXVnOqU3bd.jpg" ,O Eleito (2016)
+http://cdnrez.xyz:80/movie/42048671/18672923/2121578.mp4
+#EXTINF:-1 tvg-name="Sodoma e Gomorra (1962)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbb0WRKvLA7SCrUxG4ZS0PQA27S.jpg" ,Sodoma e Gomorra (1962)
+http://cdnrez.xyz:80/movie/42048671/18672923/2121791.mp4
+#EXTINF:-1 tvg-name="Coragem Sem Limites (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAB0Twce1wryIaUY1CC88Xj81N2.jpg" ,Coragem Sem Limites (2019)
+http://cdnrez.xyz:80/movie/42048671/18672923/2140394.mp4
+#EXTINF:-1 tvg-name="Comandante (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iIeiEDu6OKfMFFfyyxQ68EGhlS2.jpg" ,Comandante (2023)
+http://cdnrez.xyz:80/movie/42048671/18672923/2140438.mp4
+#EXTINF:-1 tvg-name="A Batalha de Midway (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/obkGwVljV9OCAsC8JTRMlzixp3I.jpg" ,A Batalha de Midway (1976)
+http://cdnrez.xyz:80/movie/42048671/18672923/2147088.mp4
+#EXTINF:-1 tvg-name="A Sombra de Stalin (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtzri2oD8C5h36nBvOJN9SAXqlA.jpg" ,A Sombra de Stalin (2019)
+http://cdnrez.xyz:80/movie/42048671/18672923/2147677.mp4
+#EXTINF:-1 tvg-name="O Rei do Povo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2BYYGAslVxE7AukTLJKUhmh5pc.jpg" ,O Rei do Povo (2024)
+http://cdnrez.xyz:80/movie/42048671/18672923/2147771.mp4
+#EXTINF:-1 tvg-name="Corporação Nazi (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xp2FO3znAZJHzJo0knNemvKr8FO.jpg" ,Corporação Nazi (2014)
+http://cdnrez.xyz:80/movie/42048671/18672923/2147895.mp4
+#EXTINF:-1 tvg-name="Ike: O Dia D (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/llOn9IMvneQBUrvYGq0g445CQ8x.jpg" ,Ike: O Dia D (2004)
+http://cdnrez.xyz:80/movie/42048671/18672923/2147901.mp4
+#EXTINF:-1 tvg-name="A Casa Mal-Assombrada (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Cgg401M3GtloeI6wJlTXWmKJfb.jpg" ,A Casa Mal-Assombrada (2021)
+http://cdnrez.xyz:80/movie/42048671/18672923/2148550.mp4
+#EXTINF:-1 tvg-name="The Beach Boys: Uma História de Sucesso (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kolGjaLwnZJGoHlS8tdeZnG6Z0.jpg" ,The Beach Boys: Uma História de Sucesso (2015)
+http://cdnrez.xyz:80/movie/42048671/18672923/2148572.mp4
+#EXTINF:-1 tvg-name="Acima das Linhas Inimigas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sUz7EJ0Ec9vw8g9i2BmymwvzJjo.jpg" ,Acima das Linhas Inimigas (2022)
+http://cdnrez.xyz:80/movie/42048671/18672923/2148596.mp4
+#EXTINF:-1 tvg-name="Shakespeare Apaixonado (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3wC7QCcjvT9vRMlWyXoJCbqIuXb.jpg" ,Shakespeare Apaixonado (1998)
+http://cdnrez.xyz:80/movie/42048671/18672923/2148607.mp4
+#EXTINF:-1 tvg-name="Quando os Sinos Tocam (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ja4VqlrXYS07EDnUUzfcXomP9cd.jpg" ,Quando os Sinos Tocam (2022)
+http://cdnrez.xyz:80/movie/42048671/18672923/2150703.mp4
+#EXTINF:-1 tvg-name="Ben-Hur (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9CoGrBA5yw8A7YBMz0hGzfzpNq.jpg" ,Ben-Hur (2016)
+http://cdnrez.xyz:80/movie/42048671/18672923/2151430.mp4
+#EXTINF:-1 tvg-name="A Jovem e o Mar (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6hPzV6sDDKfbnYMDSNMhksm3S2.jpg" ,A Jovem e o Mar (2024)
+http://cdnrez.xyz:80/movie/42048671/18672923/2151436.mp4
+#EXTINF:-1 tvg-name="Quando a Guerra Acabar (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zglxxVFyhiwwh0X3xfvXa8bPAve.jpg" ,Quando a Guerra Acabar (2023)
+http://cdnrez.xyz:80/movie/42048671/18672923/2151918.mp4
+#EXTINF:-1 tvg-name="A Musa de Bonnard (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3A7b85AzG3lSlXChil0fRI8hNt.jpg" ,A Musa de Bonnard (2024)
+http://cdnrez.xyz:80/movie/42048671/18672923/2151924.mp4
+#EXTINF:-1 tvg-name="Indestrutível (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9v0wdC26puWdVKafP7I21IQvCT.jpg" ,Indestrutível (2013)
+http://cdnrez.xyz:80/movie/42048671/18672923/2167657.mp4
+#EXTINF:-1 tvg-name="Back to Black (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgIH6pSFQkUuyrlKpKDqhH97Fra.jpg" ,Back to Black (2024)
+http://cdnrez.xyz:80/movie/42048671/18672923/2167690.mp4
+#EXTINF:-1 tvg-name="Casa de Ga’a (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtDAIoVst9Bj1VRcQKY2fj52VYe.jpg" ,Casa de Ga’a (2024)
+http://cdnrez.xyz:80/movie/42048671/18672923/2167688.mp4
+#EXTINF:-1 tvg-name="Os Túneis Secretos de Hitler (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FWokJyJoBRwzGVCScYi6lkLJIv.jpg" ,Os Túneis Secretos de Hitler (2018)
+http://cdnrez.xyz:80/movie/42048671/18672923/2167716.mp4
+#EXTINF:-1 tvg-name="E Agora? Lembra-me (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5TnxAZEAnFygCU49ajooNRdyef.jpg" ,E Agora? Lembra-me (2014)
+http://cdnrez.xyz:80/movie/42048671/18672923/2167706.mp4
+#EXTINF:-1 tvg-name="Melhores Docs da Crítica: Uma Noite em 67 (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uI4qingWiqISJvU5ZMPX79RHTK0.jpg" ,Melhores Docs da Crítica: Uma Noite em 67 (2010)
+http://cdnrez.xyz:80/movie/42048671/18672923/2167710.mp4
+#EXTINF:-1 tvg-name="Louco para ser Normal (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9j4FgzyPIoaGAWzC2qogmUvq6h.jpg" ,Louco para ser Normal (2017)
+http://cdnrez.xyz:80/movie/42048671/18672923/2167704.mp4
+#EXTINF:-1 tvg-name="Falklands War: The Forgotten Battle (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/roM5mPBNXkIrnHK1FMBt0szC1Zx.jpg" ,Falklands War: The Forgotten Battle (2022)
+http://cdnrez.xyz:80/movie/42048671/18672923/2168226.mp4
+#EXTINF:-1 tvg-name="O Brutalista (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsVRsCGJ4bZG1xWfQkUgt71ystL.jpg" ,O Brutalista (2024)
+http://cdnrez.xyz:80/movie/42048671/18672923/4595226.mp4
