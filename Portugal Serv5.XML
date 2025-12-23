@@ -3,925 +3,169 @@
 
 
 
-#EXTINF:-1 tvg-name="========== Filmes 24/7 ==========" ========== Filmes 24/7 ==========
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83019
-#EXTINF:-1 tvg-name="NETFLIX Ação 24/7 ( Exclusivo ) PT" NETFLIX Ação 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/89754
-#EXTINF:-1 tvg-name="NETFLIX Terror 24/7 ( Exclusivo ) PT" NETFLIX Terror 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/89755
-#EXTINF:-1 tvg-name="NETFLIX Drama 24/7 ( Exclusivo ) PT" NETFLIX Drama 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/89756
-#EXTINF:-1 tvg-name="NETFLIX Drama 2 24/7 ( Exclusivo ) PT" NETFLIX Drama 2 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/89757
-#EXTINF:-1 tvg-name="NETFLIX Comédia 24/7 ( Exclusivo ) PT" NETFLIX Comédia 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/89758
-#EXTINF:-1 tvg-name="Netflix Animacao 24/7 ( Exclusivo ) PT" Netflix Animacao 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/82407
-#EXTINF:-1 tvg-name="Netflix Animacao 2 24/7 ( Exclusivo ) PT" Netflix Animacao 2 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/82639
-#EXTINF:-1 tvg-name="Netflix Animacao 3 24/7 ( Exclusivo ) PT" Netflix Animacao 3 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83029
-#EXTINF:-1 tvg-name="Netflix Animacao 4 24/7 ( Exclusivo ) PT" Netflix Animacao 4 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96330
-#EXTINF:-1 tvg-name="Netflix Animacao 5 24/7 ( Exclusivo ) PT" Netflix Animacao 5 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103371
-#EXTINF:-1 tvg-name="Netflix Animacao 6 24/7 ( Exclusivo ) PT" Netflix Animacao 6 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103370
-#EXTINF:-1 tvg-name="Netflix Filmes 2022 24/7 ( Exclusivo ) PT" Netflix Filmes 2022 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/104950
-#EXTINF:-1 tvg-name="Netflix Filmes 2021 canal 1 24/7 ( Exclusivo ) PT" Netflix Filmes 2021 canal 1 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96332
-#EXTINF:-1 tvg-name="Netflix Filmes 2021 Canal 2 24/7 ( Exclusivo ) PT" Netflix Filmes 2021 Canal 2 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/97394
-#EXTINF:-1 tvg-name="Netflix Filmes 2021 Canal 3 24/7 ( Exclusivo ) PT" Netflix Filmes 2021 Canal 3 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/97393
-#EXTINF:-1 tvg-name="Netflix Filmes 2021 Canal 4 24/7 ( Exclusivo ) PT" Netflix Filmes 2021 Canal 4 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/97392
-#EXTINF:-1 tvg-name="Netflix Filmes 2021 Canal 5 24/7 ( Exclusivo ) PT" Netflix Filmes 2021 Canal 5 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103372
-#EXTINF:-1 tvg-name="Netflix Filmes 2021 Canal 6 24/7 ( Exclusivo ) PT" Netflix Filmes 2021 Canal 6 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/104952
-#EXTINF:-1 tvg-name="Netflix Filmes 2021 Canal 7 24/7 ( Exclusivo ) PT" Netflix Filmes 2021 Canal 7 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/104953
-#EXTINF:-1 tvg-name="Netflix Filmes 2021 Canal 8 24/7 ( Exclusivo ) PT" Netflix Filmes 2021 Canal 8 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/104954
-#EXTINF:-1 tvg-name="Netflix Documentarios 24/7 ( Exclusivo ) PT" Netflix Documentarios 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96331
-#EXTINF:-1 tvg-name="Netflix Filmes em Portugues 24/7 ( Exclusivo ) PT" Netflix Filmes em Portugues 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96329
-#EXTINF:-1 tvg-name="Netflix Filmes em Portugues Canal 2 24/7 ( Exclusivo ) PT" Netflix Filmes em Portugues Canal 2 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103441
-#EXTINF:-1 tvg-name="Combates UFC 24/7 ( Exclusivo ) PT" Combates UFC 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96328
-#EXTINF:-1 tvg-name="NetFlix Stand-up Comedy 24/7 ( Exclusivo ) PT" NetFlix Stand-up Comedy 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84764
-#EXTINF:-1 tvg-name="Filmes Portugueses 24/7 ( Exclusivo ) PT" Filmes Portugueses 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96372
-#EXTINF:-1 tvg-name="Filmes Balas e Bolinhos 24/7 ( Exclusivo ) PT" Filmes Balas e Bolinhos 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96371
-#EXTINF:-1 tvg-name="Filmes Revista A Portuguesa 24/7 ( Exclusivo ) PT" Filmes Revista A Portuguesa 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96369
-#EXTINF:-1 tvg-name="Filmes Teatro Portugues 24/7 ( Exclusivo ) PT" Filmes Teatro Portugues 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96368
-#EXTINF:-1 tvg-name="Filmes 007 24/7 ( Exclusivo ) PT" Filmes 007 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/82845
-#EXTINF:-1 tvg-name="Filmes Velocidade Furiosa 24/7 ( Exclusivo ) PT" Filmes Velocidade Furiosa 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/82846
-#EXTINF:-1 tvg-name="Filmes Harry Potter 24/7 ( Exclusivo ) PT" Filmes Harry Potter 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/82847
-#EXTINF:-1 tvg-name="Filmes Edie Murphy 24/7 ( Exclusivo ) PT" Filmes Edie Murphy 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83577
-#EXTINF:-1 tvg-name="Filmes Indiana Jones 24/7 ( Exclusivo ) PT" Filmes Indiana Jones 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83578
-#EXTINF:-1 tvg-name="Filmes Men in Black 24/7 ( Exclusivo ) PT" Filmes Men in Black 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83579
-#EXTINF:-1 tvg-name="Filmes Piratas das Caraibas 24/7 ( Exclusivo ) PT" Filmes Piratas das Caraibas 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83580
-#EXTINF:-1 tvg-name="Filmes Robocop 24/7 ( Exclusivo ) PT" Filmes Robocop 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83581
-#EXTINF:-1 tvg-name="Filmes Star Wars 24/7 ( Exclusivo ) PT" Filmes Star Wars 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83582
-#EXTINF:-1 tvg-name="Filmes Steven Seagal 24/7 ( Exclusivo ) PT" Filmes Steven Seagal 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83583
-#EXTINF:-1 tvg-name="Filmes Transformer 24/7 ( Exclusivo ) PT" Filmes Transformer 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83584
-#EXTINF:-1 tvg-name="Dragon Ball Filmes 24/7 ( Exclusivo ) PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Dragon_Ball_anime_logo.png" Dragon Ball Filmes 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/82640
-#EXTINF:-1 tvg-name="Filmes A Mumia 24/7 ( Exclusivo ) PT" Filmes A Mumia 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84110
-#EXTINF:-1 tvg-name="Filmes A Ressaca 24/7 ( Exclusivo ) PT" Filmes A Ressaca 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84111
-#EXTINF:-1 tvg-name="Filmes A Saga Twilight 24/7 ( Exclusivo ) PT" Filmes A Saga Twilight 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84112
-#EXTINF:-1 tvg-name="Filmes Academia de Policia 24/7 ( Exclusivo ) PT" Filmes Academia de Policia 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84113
-#EXTINF:-1 tvg-name="Filmes American Pie 24/7 ( Exclusivo ) PT" Filmes American Pie 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84114
-#EXTINF:-1 tvg-name="Filmes Arma Mortifera 24/7 ( Exclusivo ) PT" Filmes Arma Mortifera 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84115
-#EXTINF:-1 tvg-name="Filmes Beverly Hills Cop 24/7 ( Exclusivo ) PT" Filmes Beverly Hills Cop 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84116
-#EXTINF:-1 tvg-name="Filmes Blade 24/7 ( Exclusivo ) PT" Filmes Blade 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/97367
-#EXTINF:-1 tvg-name="Filmes Bourne 24/7 ( Exclusivo ) PT" Filmes Bourne 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/97366
-#EXTINF:-1 tvg-name="Filmes Capitao America 24/7 ( Exclusivo ) PT" Filmes Capitao America 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84117
-#EXTINF:-1 tvg-name="Filmes Da Vinci Code 24/7 ( Exclusivo ) PT" Filmes Da Vinci Code 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/97361
-#EXTINF:-1 tvg-name="Filmes Hellraiser 24/7 ( Exclusivo ) PT" Filmes Hellraiser 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84118
-#EXTINF:-1 tvg-name="Filmes Hannibal 24/7 ( Exclusivo ) PT" Filmes Hannibal 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/97370
-#EXTINF:-1 tvg-name="Filmes Hercules 24/7 ( Exclusivo ) PT" Filmes Hercules 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/97369
-#EXTINF:-1 tvg-name="Filmes Homem de Ferro 24/7 ( Exclusivo ) PT" Filmes Homem de Ferro 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84119
-#EXTINF:-1 tvg-name="Filmes Matrix 24/7 ( Exclusivo ) PT" Filmes Matrix 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84120
-#EXTINF:-1 tvg-name="FIlmes O Hobbit 24/7 ( Exclusivo ) PT" FIlmes O Hobbit 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84121
-#EXTINF:-1 tvg-name="Filmes O Padrinho 24/7 ( Exclusivo ) PT" Filmes O Padrinho 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84122
-#EXTINF:-1 tvg-name="Filmes O Predador 24/7 ( Exclusivo ) PT" Filmes O Predador 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84123
-#EXTINF:-1 tvg-name="Filmes O Senhor Dos Aneis 24/7 ( Exclusivo ) PT" Filmes O Senhor Dos Aneis 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84124
-#EXTINF:-1 tvg-name="Filmes Parque Jurassico 24/7 ( Exclusivo ) PT" Filmes Parque Jurassico 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84125
-#EXTINF:-1 tvg-name="Filmes Star Trek 24/7 ( Exclusivo ) PT" Filmes Star Trek 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84126
-#EXTINF:-1 tvg-name="Filmes Super-Homem 24/7 ( Exclusivo ) PT" Filmes Super-Homem 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84127
-#EXTINF:-1 tvg-name="Filmes Thor 24/7 ( Exclusivo ) PT" Filmes Thor 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84128
-#EXTINF:-1 tvg-name="Filmes Vingadores 24/7 ( Exclusivo ) PT" Filmes Vingadores 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84129
-#EXTINF:-1 tvg-name="Filmes Rambo 24/7 ( Exclusivo ) PT" Filmes Rambo 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84772
-#EXTINF:-1 tvg-name="Filmes Die Hard 24/7 ( Exclusivo ) PT" Filmes Die Hard 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/90115
-#EXTINF:-1 tvg-name="Filmes Batman 24/7 ( Exclusivo ) PT" Filmes Batman 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/90114
-#EXTINF:-1 tvg-name="Filmes King Kong 24/7 ( Exclusivo ) PT" Filmes King Kong 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/97363
-#EXTINF:-1 tvg-name="Filmes Karate Kid 24/7 ( Exclusivo ) PT" Filmes Karate Kid 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/97365
-#EXTINF:-1 tvg-name="Filmes Exterminador Implacavel 24/7 ( Exclusivo ) PT" Filmes Exterminador Implacavel 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/90113
-#EXTINF:-1 tvg-name="Filmes Missao Impossivel 24/7 ( Exclusivo ) PT" Filmes Missao Impossivel 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/90112
-#EXTINF:-1 tvg-name="Filmes Highlander 24/7 ( Exclusivo ) PT" Filmes Highlander 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/90102
-#EXTINF:-1 tvg-name="Filmes Ip Man 24/7 ( Exclusivo ) PT" Filmes Ip Man 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/97391
-#EXTINF:-1 tvg-name="Filmes Oceans 24/7 ( Exclusivo ) PT" Filmes Oceans 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/97362
-#EXTINF:-1 tvg-name="Filmes Scary.Movie 24/7 ( Exclusivo ) PT" Filmes Scary.Movie 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/97368
-#EXTINF:-1 tvg-name="Filmes Resident Evil 24/7 ( Exclusivo ) PT" Filmes Resident Evil 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/97390
-#EXTINF:-1 tvg-name="Filmes Triple X 24/7 ( Exclusivo ) PT" Filmes Triple X 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/97364
-#EXTINF:-1 tvg-name="Filmes The Mighty Ducks 24/7 ( Exclusivo ) PT" Filmes The Mighty Ducks 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/97371
-#EXTINF:-1 tvg-name="Filmes Adam Sandler 24/7 ( Exclusivo ) PT" Filmes Adam Sandler 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96251
-#EXTINF:-1 tvg-name="Filmes Angelina Jolie 24/7 ( Exclusivo ) PT" Filmes Angelina Jolie 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96250
-#EXTINF:-1 tvg-name="Filmes Anne Hathaway 24/7 ( Exclusivo ) PT" Filmes Anne Hathaway 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96249
-#EXTINF:-1 tvg-name="Filmes Brad Pitt 24/7 ( Exclusivo ) PT" Filmes Brad Pitt 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96248
-#EXTINF:-1 tvg-name="Filmes Bruce Willis 24/7 ( Exclusivo ) PT" Filmes Bruce Willis 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96370
-#EXTINF:-1 tvg-name="Filmes Jennifer Aniston 24/7 ( Exclusivo ) PT" Filmes Jennifer Aniston 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96247
-#EXTINF:-1 tvg-name="Filmes Jim Carrey 24/7 ( Exclusivo ) PT" Filmes Jim Carrey 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96246
-#EXTINF:-1 tvg-name="Filmes Johnny Deep 24/7 ( Exclusivo ) PT" Filmes Johnny Deep 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96245
-#EXTINF:-1 tvg-name="Filmes Leonardo DiCaprio 24/7 ( Exclusivo ) PT" Filmes Leonardo DiCaprio 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96244
-#EXTINF:-1 tvg-name="Filmes Morgan Freeman 24/7 ( Exclusivo ) PT" Filmes Morgan Freeman 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96243
-#EXTINF:-1 tvg-name="Filmes Robert Downey Jr. 24/7 ( Exclusivo ) PT" Filmes Robert Downey Jr. 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96242
-#EXTINF:-1 tvg-name="Filmes Sandra Bullock 24/7 ( Exclusivo ) PT" Filmes Sandra Bullock 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96241
-#EXTINF:-1 tvg-name="Filmes Tom Cruise 24/7 ( Exclusivo ) PT" Filmes Tom Cruise 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96240
-#EXTINF:-1 tvg-name="Filmes Tom Hanks 24/7 ( Exclusivo ) PT" Filmes Tom Hanks 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96239
-#EXTINF:-1 tvg-name="Filmes Will Smith 24/7 ( Exclusivo ) PT" Filmes Will Smith 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96238
-#EXTINF:-1 tvg-name="Filmes Nicolas Cage 24/7 ( Exclusivo ) PT" Filmes Nicolas Cage 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96831
-#EXTINF:-1 tvg-name="========== Séries 24/7 ==========" ========== Séries 24/7 ==========
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83054
-#EXTINF:-1 tvg-name="Squid Game (Ingles) 24/7 ( Exclusivo ) PT" Squid Game (Ingles) 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103354
-#EXTINF:-1 tvg-name="Squid Game (Original) 24/7 ( Exclusivo ) PT" Squid Game (Original) 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103353
-#EXTINF:-1 tvg-name="A Casa de Papel S01 24/7 ( Exclusivo ) PT" A Casa de Papel S01 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/82408
-#EXTINF:-1 tvg-name="A Casa de Papel S02 24/7 ( Exclusivo ) PT" A Casa de Papel S02 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/82409
-#EXTINF:-1 tvg-name="A Casa de Papel S03 24/7 ( Exclusivo ) PT" A Casa de Papel S03 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/82410
-#EXTINF:-1 tvg-name="A Casa de Papel S04 24/7 ( Exclusivo ) PT" A Casa de Papel S04 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/82411
-#EXTINF:-1 tvg-name="A Casa de Papel S05 24/7 ( Exclusivo ) PT" A Casa de Papel S05 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103345
-#EXTINF:-1 tvg-name="Game of Thrones S01 24/7 ( Exclusivo ) PT" Game of Thrones S01 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/82412
-#EXTINF:-1 tvg-name="Game of Thrones S02 24/7 ( Exclusivo ) PT" Game of Thrones S02 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/82413
-#EXTINF:-1 tvg-name="Game of Thrones S03 24/7 ( Exclusivo ) PT" Game of Thrones S03 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/82414
-#EXTINF:-1 tvg-name="Game of Thrones S04 24/7 ( Exclusivo ) PT" Game of Thrones S04 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/82415
-#EXTINF:-1 tvg-name="Game of Thrones S05 24/7 ( Exclusivo ) PT" Game of Thrones S05 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/82416
-#EXTINF:-1 tvg-name="Game of Thrones S06 24/7 ( Exclusivo ) PT" Game of Thrones S06 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/82417
-#EXTINF:-1 tvg-name="Game of Thrones S07 24/7 ( Exclusivo ) PT" Game of Thrones S07 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/82418
-#EXTINF:-1 tvg-name="Game of Thrones S08 24/7 ( Exclusivo ) PT" Game of Thrones S08 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/82419
-#EXTINF:-1 tvg-name="HBO Chernobyl 24/7 ( Exclusivo ) PT" HBO Chernobyl 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/82858
-#EXTINF:-1 tvg-name="The Outsider S01 24/7 ( Exclusivo ) PT" The Outsider S01 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/82852
-#EXTINF:-1 tvg-name="Narcos 24/7 ( Exclusivo ) PT" Narcos 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/82853
-#EXTINF:-1 tvg-name="Prison Break 24/7 ( Exclusivo ) PT" Prison Break 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96227
-#EXTINF:-1 tvg-name="Heroes 24/7 ( Exclusivo ) PT" Heroes 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96829
-#EXTINF:-1 tvg-name="Lost 24/7 ( Exclusivo ) PT" Lost 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96828
-#EXTINF:-1 tvg-name="Westworld S01-S03 24/7 ( Exclusivo ) PT" Westworld S01-S03 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/82856
-#EXTINF:-1 tvg-name="The Good Doctor S01 24/7 ( Exclusivo ) PT" The Good Doctor S01 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83585
-#EXTINF:-1 tvg-name="The Good Doctor S02 24/7 ( Exclusivo ) PT" The Good Doctor S02 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83586
-#EXTINF:-1 tvg-name="The Good Doctor S03 24/7 ( Exclusivo ) PT" The Good Doctor S03 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83587
-#EXTINF:-1 tvg-name="Vikings S01 24/7 ( Exclusivo ) PT" Vikings S01 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83588
-#EXTINF:-1 tvg-name="Vikings S02 24/7 ( Exclusivo ) PT" Vikings S02 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83589
-#EXTINF:-1 tvg-name="Vikings S03 24/7 ( Exclusivo ) PT" Vikings S03 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83590
-#EXTINF:-1 tvg-name="Vikings S04 24/7 ( Exclusivo ) PT" Vikings S04 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83591
-#EXTINF:-1 tvg-name="Vikings S05 24/7 ( Exclusivo ) PT" Vikings S05 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83592
-#EXTINF:-1 tvg-name="Vikings S06 24/7 ( Exclusivo ) PT" Vikings S06 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83593
-#EXTINF:-1 tvg-name="13 Reasons Why 24/7 ( Exclusivo ) PT" 13 Reasons Why 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84765
-#EXTINF:-1 tvg-name="Space Force 24/7 ( Exclusivo ) PT" Space Force 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84766
-#EXTINF:-1 tvg-name="Never Have I Ever 24/7 ( Exclusivo ) PT" Never Have I Ever 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84767
-#EXTINF:-1 tvg-name="Trying 24/7 ( Exclusivo ) PT" Trying 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84768
-#EXTINF:-1 tvg-name="The Witcher 24/7 ( Exclusivo ) PT" The Witcher 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84769
-#EXTINF:-1 tvg-name="White Lines 24/7 ( Exclusivo ) PT" White Lines 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84770
-#EXTINF:-1 tvg-name="Tiger King Murder Mayhem and Madness 24/7 ( Exclusivo ) PT" Tiger King Murder Mayhem and Madness 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84771
-#EXTINF:-1 tvg-name="Warrior Nun 24/7 ( Exclusivo ) PT" Warrior Nun 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/89931
-#EXTINF:-1 tvg-name="The Umbrella Academy 24/7 ( Exclusivo ) PT" The Umbrella Academy 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/89932
-#EXTINF:-1 tvg-name="The Business of Drugs 24/7 ( Exclusivo ) PT" The Business of Drugs 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/89933
-#EXTINF:-1 tvg-name="Street Food Latin America 24/7 ( Exclusivo ) PT" Street Food Latin America 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/89934
-#EXTINF:-1 tvg-name="How to Sell Drugs Online 24/7 ( Exclusivo ) PT" How to Sell Drugs Online 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/89935
-#EXTINF:-1 tvg-name="Fear City New York vs. The Mafia 24/7 ( Exclusivo ) PT" Fear City New York vs. The Mafia 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/89936
-#EXTINF:-1 tvg-name="Cursed (2020) 24/7 ( Exclusivo ) PT" Cursed (2020) 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/89937
-#EXTINF:-1 tvg-name="The Last Narc 24/7 ( Exclusivo ) PT" The Last Narc 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/90111
-#EXTINF:-1 tvg-name="Get Even 24/7 ( Exclusivo ) PT" Get Even 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/90110
-#EXTINF:-1 tvg-name="Immigration Nation 24/7 ( Exclusivo ) PT" Immigration Nation 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/90109
-#EXTINF:-1 tvg-name="Connected: The Hidden Science of Everything 24/7 ( Exclusivo ) PT" Connected: The Hidden Science of Everything 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/90108
-#EXTINF:-1 tvg-name="Mr. Bean 24/7 ( Exclusivo ) PT" tvg-logo="https://www.clipartmax.com/png/full/74-749810_the-animated-series-mr-bean-cartoon-png.png" Mr. Bean 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/90105
-#EXTINF:-1 tvg-name="Evil 24/7 ( Exclusivo ) PT" Evil 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/90104
-#EXTINF:-1 tvg-name="The Borgias 24/7 ( Exclusivo ) PT" The Borgias 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/90103
-#EXTINF:-1 tvg-name="The Mandalorian 24/7 ( Exclusivo ) PT" The Mandalorian 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/90107
-#EXTINF:-1 tvg-name="Survive 24/7 ( Exclusivo ) PT" Survive 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/90106
-#EXTINF:-1 tvg-name="Ted Lasso 24/7 ( Exclusivo ) PT" Ted Lasso 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/92763
-#EXTINF:-1 tvg-name="Shadow and Bone 24/7 ( Exclusivo ) PT" Shadow and Bone 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/97383
-#EXTINF:-1 tvg-name="Marvel- Luke Cage 24/7 ( Exclusivo ) PT" Marvel- Luke Cage 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/97378
-#EXTINF:-1 tvg-name="Jupiters Legacy 24/7 ( Exclusivo ) PT" Jupiters Legacy 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/97377
-#EXTINF:-1 tvg-name="O Falcao e o Soldado do Inverno 24/7 ( Exclusivo ) PT" O Falcao e o Soldado do Inverno 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/97385
-#EXTINF:-1 tvg-name="For All Mankind 24/7 ( Exclusivo ) PT" For All Mankind 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/97374
-#EXTINF:-1 tvg-name="Good Morning Veronica 24/7 ( Exclusivo ) PT" Good Morning Veronica 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/92762
-#EXTINF:-1 tvg-name="You Cannot Hide 24/7 ( Exclusivo ) PT" You Cannot Hide 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/92761
-#EXTINF:-1 tvg-name="On Pointe 24/7 ( Exclusivo ) PT" On Pointe 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/95051
-#EXTINF:-1 tvg-name="Ashley Garcia - A Equacao do Amor 24/7 ( Exclusivo ) PT" Ashley Garcia - A Equacao do Amor 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/95050
-#EXTINF:-1 tvg-name="Ratched 24/7 ( Exclusivo ) PT" Ratched 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/95049
-#EXTINF:-1 tvg-name="The Queens Gambit 24/7 ( Exclusivo ) PT" The Queens Gambit 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/95048
-#EXTINF:-1 tvg-name="Spyders 24/7 ( Exclusivo ) PT" Spyders 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/95047
-#EXTINF:-1 tvg-name="Earth to Ned 24/7 ( Exclusivo ) PT" Earth to Ned 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/95046
-#EXTINF:-1 tvg-name="Virgin River 24/7 ( Exclusivo ) PT" Virgin River 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/95045
-#EXTINF:-1 tvg-name="Bridgerton 24/7 ( Exclusivo ) PT" Bridgerton 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/95044
-#EXTINF:-1 tvg-name="3 Mulheres 24/7 ( Exclusivo ) PT" 3 Mulheres 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/95043
-#EXTINF:-1 tvg-name="Long Way Up 24/7 ( Exclusivo ) PT" Long Way Up 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/95042
-#EXTINF:-1 tvg-name="Little Voice 24/7 ( Exclusivo ) PT" Little Voice 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/95041
-#EXTINF:-1 tvg-name="Home Before Dark 24/7 ( Exclusivo ) PT" Home Before Dark 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/95040
-#EXTINF:-1 tvg-name="Defending Jacob 24/7 ( Exclusivo ) PT" Defending Jacob 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/95039
-#EXTINF:-1 tvg-name="O Bando dos Quatro 24/7 ( Exclusivo ) PT" O Bando dos Quatro 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/95038
-#EXTINF:-1 tvg-name="Amazing Stories 24/7 ( Exclusivo ) PT" Amazing Stories 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/95037
-#EXTINF:-1 tvg-name="The Gift (2019)  24/7 ( Exclusivo ) PT" The Gift (2019)  24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/95036
-#EXTINF:-1 tvg-name="As Arrepiantes Aventuras de Sabrina  24/7 ( Exclusivo ) PT" As Arrepiantes Aventuras de Sabrina  24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/95035
-#EXTINF:-1 tvg-name="Cobra Kai  24/7 ( Exclusivo ) PT" Cobra Kai  24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/95034
-#EXTINF:-1 tvg-name="Paulo Futre O Primeiro Portugues 24/7 ( Exclusivo ) PT" Paulo Futre O Primeiro Portugues 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/104951
-#EXTINF:-1 tvg-name="A Generala  24/7 ( Exclusivo ) PT" A Generala  24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/95032
-#EXTINF:-1 tvg-name="O Atentado 24/7 ( Exclusivo ) PT" O Atentado 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96341
-#EXTINF:-1 tvg-name="Malucos do Riso 24/7 ( Exclusivo ) PT" Malucos do Riso 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96342
-#EXTINF:-1 tvg-name="Invisible City 24/7 ( Exclusivo ) PT" Invisible City 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96340
-#EXTINF:-1 tvg-name="O Clube 24/7 ( Exclusivo ) PT" O Clube 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96339
-#EXTINF:-1 tvg-name="A Lista 24/7 ( Exclusivo ) PT" A Lista 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103369
-#EXTINF:-1 tvg-name="All Together Now (PT) 24/7 ( Exclusivo ) PT" All Together Now (PT) 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103368
-#EXTINF:-1 tvg-name="Auga Seca 24/7 ( Exclusivo ) PT" Auga Seca 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103367
-#EXTINF:-1 tvg-name="Doce (Serie) 24/7 ( Exclusivo ) PT" Doce (Serie) 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103363
-#EXTINF:-1 tvg-name="Gloria (Serie PT) 24/7 ( Exclusivo ) PT" Gloria (Serie PT) 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103362
-#EXTINF:-1 tvg-name="A Espia 24/7 ( Exclusivo ) PT" A Espia 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103432
-#EXTINF:-1 tvg-name="Pecado 24/7 ( Exclusivo ) PT" Pecado 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103431
-#EXTINF:-1 tvg-name="Chegar a Casa 24/7 ( Exclusivo ) PT" Chegar a Casa 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103430
-#EXTINF:-1 tvg-name="Tele Rural 24/7 ( Exclusivo ) PT" Tele Rural 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103429
-#EXTINF:-1 tvg-name="Terra Nossa 24/7 ( Exclusivo ) PT" Terra Nossa 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103428
-#EXTINF:-1 tvg-name="Prisao Domiciliaria 24/7 ( Exclusivo ) PT" Prisao Domiciliaria 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103361
-#EXTINF:-1 tvg-name="Terra Nova 24/7 ( Exclusivo ) PT" Terra Nova 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103358
-#EXTINF:-1 tvg-name="The Mighty Ducks- Game Changers 24/7 ( Exclusivo ) PT" The Mighty Ducks- Game Changers 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103357
-#EXTINF:-1 tvg-name="Team Kaylie 24/7 ( Exclusivo ) PT" Team Kaylie 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103356
-#EXTINF:-1 tvg-name="Reuniao De Familia 24/7 ( Exclusivo ) PT" Reuniao De Familia 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103355
-#EXTINF:-1 tvg-name="Os Amigos do Gaspar  24/7 ( Exclusivo ) PT" Os Amigos do Gaspar  24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/95030
-#EXTINF:-1 tvg-name="As Aventuras do Camilo 24/7 ( Exclusivo ) PT" As Aventuras do Camilo 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96237
-#EXTINF:-1 tvg-name="Camilo o Pendura 24/7 ( Exclusivo ) PT" Camilo o Pendura 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96236
-#EXTINF:-1 tvg-name="Camilo e Filhos LDA 24/7 ( Exclusivo ) PT" Camilo e Filhos LDA 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103366
-#EXTINF:-1 tvg-name="Camilo Em Sarailhos 24/7 ( Exclusivo ) PT" Camilo Em Sarailhos 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103365
-#EXTINF:-1 tvg-name="Camilo O Presidente 24/7 ( Exclusivo ) PT" Camilo O Presidente 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103364
-#EXTINF:-1 tvg-name="O Fura Vidas 24/7 ( Exclusivo ) PT" O Fura Vidas 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103360
-#EXTINF:-1 tvg-name="Os Andrades 24/7 ( Exclusivo ) PT" Os Andrades 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103359
-#EXTINF:-1 tvg-name="A Mascara (PT) 24/7 ( Exclusivo ) PT" A Mascara (PT) 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96384
-#EXTINF:-1 tvg-name="Medico De Familia 24/7 ( Exclusivo ) PT" Medico De Familia 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96383
-#EXTINF:-1 tvg-name="A Minha Familia e Uma Animacao 24/7 ( Exclusivo ) PT" A Minha Familia e Uma Animacao 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96382
-#EXTINF:-1 tvg-name="Uma Aventura 24/7 ( Exclusivo ) PT" Uma Aventura 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96381
-#EXTINF:-1 tvg-name="O Negocio 24/7 ( Exclusivo ) PT" O Negocio 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96373
-#EXTINF:-1 tvg-name="Esperanca 24/7 ( Exclusivo ) PT" Esperanca 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96338
-#EXTINF:-1 tvg-name="Pesadelo na Cozinha 24/7 ( Exclusivo ) PT" Pesadelo na Cozinha 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96229
-#EXTINF:-1 tvg-name="Hells Kitchen- Portugal 24/7 ( Exclusivo ) PT" Hells Kitchen- Portugal 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/97376
-#EXTINF:-1 tvg-name="Sara 24/7 ( Exclusivo ) PT" Sara 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96226
-#EXTINF:-1 tvg-name="Me Chama De Bruna 24/7 ( Exclusivo ) PT" Me Chama De Bruna 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96830
-#EXTINF:-1 tvg-name="WandaVision 24/7 ( Exclusivo ) PT" WandaVision 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96337
-#EXTINF:-1 tvg-name="Firefly Lane 24/7 ( Exclusivo ) PT" Firefly Lane 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96336
-#EXTINF:-1 tvg-name="The Boarding School: Las Cumbres 24/7 ( Exclusivo ) PT" The Boarding School: Las Cumbres 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96335
-#EXTINF:-1 tvg-name="Tribes Of Europe 24/7 ( Exclusivo ) PT" Tribes Of Europe 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96334
-#EXTINF:-1 tvg-name="Behing Her Eyes 24/7 ( Exclusivo ) PT" Behing Her Eyes 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96333
-#EXTINF:-1 tvg-name="Ghostwriter  24/7 ( Exclusivo ) PT" Ghostwriter  24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/95031
-#EXTINF:-1 tvg-name="Daughter From Another Mother 24/7 ( Exclusivo ) PT" Daughter From Another Mother 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96235
-#EXTINF:-1 tvg-name="Fate The Winx Saga 24/7 ( Exclusivo ) PT" Fate The Winx Saga 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96234
-#EXTINF:-1 tvg-name="Headspace Guide To Meditation 24/7 ( Exclusivo ) PT" Headspace Guide To Meditation 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96233
-#EXTINF:-1 tvg-name="History of Swear Words 24/7 ( Exclusivo ) PT" History of Swear Words 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96232
-#EXTINF:-1 tvg-name="Lupin 24/7 ( Exclusivo ) PT" Lupin 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96231
-#EXTINF:-1 tvg-name="Night Stalker The Hunt For A Serial Killer 24/7 ( Exclusivo ) PT" Night Stalker The Hunt For A Serial Killer 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96230
-#EXTINF:-1 tvg-name="Pretend Its a City 24/7 ( Exclusivo ) PT" Pretend Its a City 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96228
-#EXTINF:-1 tvg-name="Spycraft 24/7 ( Exclusivo ) PT" Spycraft 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96225
-#EXTINF:-1 tvg-name="Sweet Home (2020) 24/7 ( Exclusivo ) PT" Sweet Home (2020) 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96224
-#EXTINF:-1 tvg-name="Tiny Pretty Things 24/7 ( Exclusivo ) PT" Tiny Pretty Things 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96223
-#EXTINF:-1 tvg-name="Os Marretas 24/7 ( Exclusivo ) PT" Os Marretas 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96380
-#EXTINF:-1 tvg-name="The Tudors 24/7 ( Exclusivo ) PT" The Tudors 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96379
-#EXTINF:-1 tvg-name="Family Guy 24/7 ( Exclusivo ) PT" Family Guy 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96378
-#EXTINF:-1 tvg-name="The Crew 24/7 ( Exclusivo ) PT" The Crew 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96377
-#EXTINF:-1 tvg-name="Ginny & Georgia 24/7 ( Exclusivo ) PT" Ginny & Georgia 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96376
-#EXTINF:-1 tvg-name="Amend: The Fight For America 24/7 ( Exclusivo ) PT" Amend: The Fight For America 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96375
-#EXTINF:-1 tvg-name="Your Honor 24/7 ( Exclusivo ) PT" Your Honor 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96374
-#EXTINF:-1 tvg-name="Making Their Mark 24/7 ( Exclusivo ) PT" Making Their Mark 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96917
-#EXTINF:-1 tvg-name="The Serpent 24/7 ( Exclusivo ) PT" The Serpent 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96916
-#EXTINF:-1 tvg-name="Last Chance U: Basketball 24/7 ( Exclusivo ) PT" Last Chance U: Basketball 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96915
-#EXTINF:-1 tvg-name="The Irregulars 24/7 ( Exclusivo ) PT" The Irregulars 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96914
-#EXTINF:-1 tvg-name="The One 24/7 ( Exclusivo ) PT" The One 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96913
-#EXTINF:-1 tvg-name="Them 24/7 ( Exclusivo ) PT" Them 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96912
-#EXTINF:-1 tvg-name="Marriage Or Mortgage 24/7 ( Exclusivo ) PT" Marriage Or Mortgage 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96911
-#EXTINF:-1 tvg-name="The Lost Pirate Kingdom 24/7 ( Exclusivo ) PT" The Lost Pirate Kingdom 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96910
-#EXTINF:-1 tvg-name="Who Killed Sara 24/7 ( Exclusivo ) PT" Who Killed Sara 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96909
-#EXTINF:-1 tvg-name="Zero Chill 24/7 ( Exclusivo ) PT" Zero Chill 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96908
-#EXTINF:-1 tvg-name="Sky Rojo 24/7 ( Exclusivo ) PT" Sky Rojo 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96907
-#EXTINF:-1 tvg-name="Waffles + Mochi 24/7 ( Exclusivo ) PT" Waffles + Mochi 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96906
-#EXTINF:-1 tvg-name="Worn Stories 24/7 ( Exclusivo ) PT" Worn Stories 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96905
-#EXTINF:-1 tvg-name="Country Comfort 24/7 ( Exclusivo ) PT" Country Comfort 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96904
-#EXTINF:-1 tvg-name="Prank Encounters 24/7 ( Exclusivo ) PT" Prank Encounters 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96903
-#EXTINF:-1 tvg-name="Calls 24/7 ( Exclusivo ) PT" Calls 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96902
-#EXTINF:-1 tvg-name="Zero (2021) 24/7 ( Exclusivo ) PT" Zero (2021) 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/97389
-#EXTINF:-1 tvg-name="The Underground Railroad 24/7 ( Exclusivo ) PT" The Underground Railroad 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/97388
-#EXTINF:-1 tvg-name="The Sons of Sam- A Descent Into Darkness 24/7 ( Exclusivo ) PT" The Sons of Sam- A Descent Into Darkness 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/97387
-#EXTINF:-1 tvg-name="The Me You Cant See 24/7 ( Exclusivo ) PT" The Me You Cant See 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/97386
-#EXTINF:-1 tvg-name="Sisyphus- The Myth 24/7 ( Exclusivo ) PT" Sisyphus- The Myth 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/97384
-#EXTINF:-1 tvg-name="Sexify 24/7 ( Exclusivo ) PT" Sexify 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/97382
-#EXTINF:-1 tvg-name="Os Segredos das Baleias 24/7 ( Exclusivo ) PT" Os Segredos das Baleias 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/97381
-#EXTINF:-1 tvg-name="Panic (2021) 24/7 ( Exclusivo ) PT" Panic (2021) 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/97380
-#EXTINF:-1 tvg-name="Move To Heaven 24/7 ( Exclusivo ) PT" Move To Heaven 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/97379
-#EXTINF:-1 tvg-name="Halston (2021) 24/7 ( Exclusivo ) PT" Halston (2021) 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/97375
-#EXTINF:-1 tvg-name="Fatma (2021) 24/7 ( Exclusivo ) PT" Fatma (2021) 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/97373
-#EXTINF:-1 tvg-name="Dad Stop Embarrassing Me 24/7 ( Exclusivo ) PT" Dad Stop Embarrassing Me 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/97372
-#EXTINF:-1 tvg-name="Haunted: Latin America 24/7 ( Exclusivo ) PT" Haunted: Latin America 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96901
-#EXTINF:-1 tvg-name="Seinfeld 24/7 ( Exclusivo ) PT" Seinfeld 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103427
-#EXTINF:-1 tvg-name="The Beatles: Get Back 24/7 ( Exclusivo ) PT" The Beatles: Get Back 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103426
-#EXTINF:-1 tvg-name="Narcos Mexico 24/7 ( Exclusivo ) PT" Narcos Mexico 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103425
-#EXTINF:-1 tvg-name="Turner & Hooch 24/7 ( Exclusivo ) PT" Turner & Hooch 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103424
-#EXTINF:-1 tvg-name="A Costa do Mosquito 24/7 ( Exclusivo ) PT" A Costa do Mosquito 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103423
-#EXTINF:-1 tvg-name="Sex Life 24/7 ( Exclusivo ) PT" Sex Life 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103422
-#EXTINF:-1 tvg-name="Ragnarok 24/7 ( Exclusivo ) PT" Ragnarok 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103421
-#EXTINF:-1 tvg-name="Physical 24/7 ( Exclusivo ) PT" Physical 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103420
-#EXTINF:-1 tvg-name="Outer Banks 24/7 ( Exclusivo ) PT" Outer Banks 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103419
-#EXTINF:-1 tvg-name="Loki 24/7 ( Exclusivo ) PT" Loki 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103418
-#EXTINF:-1 tvg-name="Lisey's Story 24/7 ( Exclusivo ) PT" Lisey's Story 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103417
-#EXTINF:-1 tvg-name="Katla 24/7 ( Exclusivo ) PT" Katla 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103416
-#EXTINF:-1 tvg-name="Hit & Run 24/7 ( Exclusivo ) PT" Hit & Run 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103415
-#EXTINF:-1 tvg-name="Feel Good 24/7 ( Exclusivo ) PT" Feel Good 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103414
-#EXTINF:-1 tvg-name="Cruel Summer 24/7 ( Exclusivo ) PT" Cruel Summer 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103413
-#EXTINF:-1 tvg-name="Cocaine Cowboys: The Kings of Miami 24/7 ( Exclusivo ) PT" Cocaine Cowboys: The Kings of Miami 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103412
-#EXTINF:-1 tvg-name="Clarkson's Farm 24/7 ( Exclusivo ) PT" Clarkson's Farm 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103411
-#EXTINF:-1 tvg-name="Black Summer 24/7 ( Exclusivo ) PT" Black Summer 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103410
-#EXTINF:-1 tvg-name="Big Shot 24/7 ( Exclusivo ) PT" Big Shot 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103409
-#EXTINF:-1 tvg-name="Sweet Tooth 24/7 ( Exclusivo ) PT" Sweet Tooth 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103408
-#EXTINF:-1 tvg-name="Tu (You) 24/7 ( Exclusivo ) PT" Tu (You) 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103407
-#EXTINF:-1 tvg-name="A Escola do Além 24/7 ( Exclusivo ) PT" A Escola do Além 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103406
-#EXTINF:-1 tvg-name="A Mais Pura Verdade 24/7 ( Exclusivo ) PT" A Mais Pura Verdade 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103405
-#EXTINF:-1 tvg-name="The Morning Show 24/7 ( Exclusivo ) PT" The Morning Show 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103404
-#EXTINF:-1 tvg-name="Swagger 24/7 ( Exclusivo ) PT" Swagger 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103403
-#EXTINF:-1 tvg-name="Midnight Mass 24/7 ( Exclusivo ) PT" Midnight Mass 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103402
-#EXTINF:-1 tvg-name="Maid 24/7 ( Exclusivo ) PT" Maid 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103401
-#EXTINF:-1 tvg-name="Hellbound 24/7 ( Exclusivo ) PT" Hellbound 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103400
-#EXTINF:-1 tvg-name="Hawkeye - Gaviao Arqueiro 24/7 ( Exclusivo ) PT" Hawkeye - Gaviao Arqueiro 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103399
-#EXTINF:-1 tvg-name="Dr. Brain 24/7 ( Exclusivo ) PT" Dr. Brain 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103398
-#EXTINF:-1 tvg-name="Brand New Cherry Flavor 24/7 ( Exclusivo ) PT" Brand New Cherry Flavor 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103397
-#EXTINF:-1 tvg-name="The X-Files 24/7 ( Exclusivo ) PT" The X-Files 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/105203
-#EXTINF:-1 tvg-name="Worst Roommate Ever 24/7 ( Exclusivo ) PT" Worst Roommate Ever 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/105202
-#EXTINF:-1 tvg-name="Vikings Valhalla 24/7 ( Exclusivo ) PT" Vikings Valhalla 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/105201
-#EXTINF:-1 tvg-name="Stay Close 24/7 ( Exclusivo ) PT" Stay Close 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/105200
-#EXTINF:-1 tvg-name="Temporada de Verao 24/7 ( Exclusivo ) PT" Temporada de Verao 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/105199
-#EXTINF:-1 tvg-name="The Woman in the House Across the Street from the Girl in the Window 24/7 ( Exclusivo ) PT" The Woman in the House Across the Street from the Girl in the Window 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/105198
-#EXTINF:-1 tvg-name="Reacher 24/7 ( Exclusivo ) PT" Reacher 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/105197
-#EXTINF:-1 tvg-name="Inventing Anna 24/7 ( Exclusivo ) PT" Inventing Anna 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/105196
-#EXTINF:-1 tvg-name="Maradona Blessed Dream 24/7 ( Exclusivo ) PT" Maradona Blessed Dream 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/105195
-#EXTINF:-1 tvg-name="Archive 81 24/7 ( Exclusivo ) PT" Archive 81 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/105194
-#EXTINF:-1 tvg-name="I Am Georgina 24/7 ( Exclusivo ) PT" I Am Georgina 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/105193
-#EXTINF:-1 tvg-name="All of Us Are Dead 24/7 ( Exclusivo ) PT" All of Us Are Dead 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/105192
-#EXTINF:-1 tvg-name="========== Novelas 24/7 ==========" ========== Novelas 24/7 ==========
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83020
-#EXTINF:-1 tvg-name="O Clone 24/7 ( Exclusivo ) PT" O Clone 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83021
-#EXTINF:-1 tvg-name="A Casa das Sete Mulheres  24/7 ( Exclusivo ) PT" A Casa das Sete Mulheres  24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83022
-#EXTINF:-1 tvg-name="A Indomada 24/7 ( Exclusivo ) PT" A Indomada 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83023
-#EXTINF:-1 tvg-name="Agora É que São Elas 24/7 ( Exclusivo ) PT" Agora É que São Elas 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83024
-#EXTINF:-1 tvg-name="Araguaia 24/7 ( Exclusivo ) PT" Araguaia 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83025
-#EXTINF:-1 tvg-name="O Rei Do Gado 24/7 ( Exclusivo ) PT" O Rei Do Gado 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83026
-#EXTINF:-1 tvg-name="Tieta do Agreste 24/7 ( Exclusivo ) PT" Tieta do Agreste 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83027
-#EXTINF:-1 tvg-name="O Cravo e a Rosa 24/7 ( Exclusivo ) PT" O Cravo e a Rosa 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83028
-#EXTINF:-1 tvg-name="========== Animação Séries ==========" ========== Animação Séries ==========
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83018
-#EXTINF:-1 tvg-name="Dragon Ball 24/7 ( Exclusivo ) PT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Dragon_Ball_%281986-1989%29.png" Dragon Ball 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/82402
-#EXTINF:-1 tvg-name="Dragon Ball Z 24/7 ( Exclusivo ) PT" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Dragon-Ball-Logo.png" Dragon Ball Z 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/82403
-#EXTINF:-1 tvg-name="Dragon Ball GT 24/7 ( Exclusivo ) PT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Dragon_Ball_GT_FUNimation_logo02.png" Dragon Ball GT 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/82404
-#EXTINF:-1 tvg-name="Dragon Ball Super 24/7 ( Exclusivo ) PT" tvg-logo="https://e7.pngegg.com/pngimages/465/613/png-clipart-super-dragon-ball-heroes-logo-anime-super-dragon-ball-heroes-text-superhero.png" Dragon Ball Super 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/82405
-#EXTINF:-1 tvg-name="Os Teus Contos Classicos 24/7 ( Exclusivo ) PT" Os Teus Contos Classicos 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96343
-#EXTINF:-1 tvg-name="Filmes Barbie 24/7 ( Exclusivo ) PT" Filmes Barbie 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84773
-#EXTINF:-1 tvg-name="Abelha Maia 24/7 ( Exclusivo ) PT" Abelha Maia 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83030
-#EXTINF:-1 tvg-name="Os Simpsons S01-S06 24/7 ( Exclusivo ) PT" Os Simpsons S01-S06 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/89938
-#EXTINF:-1 tvg-name="Transformers: War For Cybertron Trilogy 24/7 ( Exclusivo ) PT" Transformers: War For Cybertron Trilogy 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/89939
-#EXTINF:-1 tvg-name="As Aventuras de Tom Sawyer 24/7 ( Exclusivo ) PT" As Aventuras de Tom Sawyer 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83031
-#EXTINF:-1 tvg-name="Captain Tsubasa 24/7 ( Exclusivo ) PT" Captain Tsubasa 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83032
-#EXTINF:-1 tvg-name="Captain Tsubasa Road To 2002 24/7 ( Exclusivo ) PT" Captain Tsubasa Road To 2002 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83033
-#EXTINF:-1 tvg-name="Dartacão e os Três Moscãoteiros 24/7 ( Exclusivo ) PT" Dartacão e os Três Moscãoteiros 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83034
-#EXTINF:-1 tvg-name="Sonic X 24/7 ( Exclusivo ) PT" Sonic X 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83035
-#EXTINF:-1 tvg-name="Tom & Jerry (2014) 24/7 ( Exclusivo ) PT" Tom & Jerry (2014) 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83036
-#EXTINF:-1 tvg-name="Velocidade Furiosa Espioes ao Volante 24/7 ( Exclusivo ) PT" Velocidade Furiosa Espioes ao Volante 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83037
-#EXTINF:-1 tvg-name="Aladdin 24/7 ( Exclusivo ) PT" Aladdin 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83038
-#EXTINF:-1 tvg-name="Pica-Pau 24/7 ( Exclusivo ) PT" Pica-Pau 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83039
-#EXTINF:-1 tvg-name="Noddy-O Detetive Do Pais Dos Brinquedo 24/7 ( Exclusivo ) PT" Noddy-O Detetive Do Pais Dos Brinquedo 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83040
-#EXTINF:-1 tvg-name="As Aventuras Do Gato Das Botas 24/7 ( Exclusivo ) PT" As Aventuras Do Gato Das Botas 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83041
-#EXTINF:-1 tvg-name="As Tres Irmas 24/7 ( Exclusivo ) PT" As Tres Irmas 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83042
-#EXTINF:-1 tvg-name="Ben 10 (2016) 24/7 ( Exclusivo ) PT" Ben 10 (2016) 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83043
-#EXTINF:-1 tvg-name="Festa Das Palavras 24/7 ( Exclusivo ) PT" Festa Das Palavras 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96918
-#EXTINF:-1 tvg-name="Caçadores de Dragões 24/7 ( Exclusivo ) PT" Caçadores de Dragões 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83044
-#EXTINF:-1 tvg-name="Clube Winx 24/7 ( Exclusivo ) PT" Clube Winx 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83045
-#EXTINF:-1 tvg-name="Conan o Rapaz do Futuro 24/7 ( Exclusivo ) PT" Conan o Rapaz do Futuro 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83046
-#EXTINF:-1 tvg-name="Cyberchase 24/7 ( Exclusivo ) PT" Cyberchase 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83047
-#EXTINF:-1 tvg-name="Homem-Aranha ( Animação) 24/7 ( Exclusivo ) PT" Homem-Aranha ( Animação) 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83048
-#EXTINF:-1 tvg-name="Homens de Negro 24/7 ( Exclusivo ) PT" Homens de Negro 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83049
-#EXTINF:-1 tvg-name="O Laboratório do Dexter 24/7 ( Exclusivo ) PT" O Laboratório do Dexter 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83050
-#EXTINF:-1 tvg-name="Scooby Doo - Mystery Incorporated 24/7 ( Exclusivo ) PT" Scooby Doo - Mystery Incorporated 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83051
-#EXTINF:-1 tvg-name="Spongebob Squarepants 24/7 ( Exclusivo ) PT" Spongebob Squarepants 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83052
-#EXTINF:-1 tvg-name="Tartarugas Ninja 24/7 ( Exclusivo ) PT" Tartarugas Ninja 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83053
-#EXTINF:-1 tvg-name="Calimero (2014) 24/7 ( Exclusivo ) PT" Calimero (2014) 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83595
-#EXTINF:-1 tvg-name="Caça Gosmas 24/7 ( Exclusivo ) PT" Caça Gosmas 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83596
-#EXTINF:-1 tvg-name="Bugs 24/7 ( Exclusivo ) PT" Bugs 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83597
-#EXTINF:-1 tvg-name="Brinken 24/7 ( Exclusivo ) PT" Brinken 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83598
-#EXTINF:-1 tvg-name="Brandy & Mr. Whiskers 24/7 ( Exclusivo ) PT" Brandy & Mr. Whiskers 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83599
-#EXTINF:-1 tvg-name="Boo Boom 24/7 ( Exclusivo ) PT" Boo Boom 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83600
-#EXTINF:-1 tvg-name="Blue Dragon 24/7 ( Exclusivo ) PT" Blue Dragon 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83601
-#EXTINF:-1 tvg-name="Beywheelz 24/7 ( Exclusivo ) PT" Beywheelz 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83602
-#EXTINF:-1 tvg-name="BeyBlade Shogun Steel 24/7 ( Exclusivo ) PT" BeyBlade Shogun Steel 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83603
-#EXTINF:-1 tvg-name="Beyblade Metal Master 24/7 ( Exclusivo ) PT" Beyblade Metal Master 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83604
-#EXTINF:-1 tvg-name="BeyBlade Metal Fusion 24/7 ( Exclusivo ) PT" BeyBlade Metal Fusion 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83605
-#EXTINF:-1 tvg-name="BeyBlade Metal Fury 24/7 ( Exclusivo ) PT" BeyBlade Metal Fury 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83606
-#EXTINF:-1 tvg-name="BEYBLADE 24/7 ( Exclusivo ) PT" BEYBLADE 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83607
-#EXTINF:-1 tvg-name="Batman: Os Valentes e Audazes 24/7 ( Exclusivo ) PT" Batman: Os Valentes e Audazes 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83608
-#EXTINF:-1 tvg-name="As Meninas SuperPoderosas 24/7 ( Exclusivo ) PT" As Meninas SuperPoderosas 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83609
-#EXTINF:-1 tvg-name="BeyRaiderz Shogun 24/7 ( Exclusivo ) PT" BeyRaiderz Shogun 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83610
-#EXTINF:-1 tvg-name="As Aventuras Do Max 24/7 ( Exclusivo ) PT" As Aventuras Do Max 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83611
-#EXTINF:-1 tvg-name="As Aventuras de Super Mario Bros 3 24/7 ( Exclusivo ) PT" As Aventuras de Super Mario Bros 3 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83612
-#EXTINF:-1 tvg-name="As Aventuras de Jackie Chan 24/7 ( Exclusivo ) PT" As Aventuras de Jackie Chan 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83614
-#EXTINF:-1 tvg-name="As Aventuras de Felix 24/7 ( Exclusivo ) PT" As Aventuras de Felix 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83615
-#EXTINF:-1 tvg-name="American Dragon 24/7 ( Exclusivo ) PT" American Dragon 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83616
-#EXTINF:-1 tvg-name="Alergia Monstra 24/7 ( Exclusivo ) PT" Alergia Monstra 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83617
-#EXTINF:-1 tvg-name="As Regras do Angelo 24/7 ( Exclusivo ) PT" As Regras do Angelo 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83618
-#EXTINF:-1 tvg-name="Air Gear 24/7 ( Exclusivo ) PT" Air Gear 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83619
-#EXTINF:-1 tvg-name="Aeroporto da Barafunda 24/7 ( Exclusivo ) PT" Aeroporto da Barafunda 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83620
-#EXTINF:-1 tvg-name="Adivinha o Quanto Eu Gosto de Ti 24/7 ( Exclusivo ) PT" Adivinha o Quanto Eu Gosto de Ti 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83621
-#EXTINF:-1 tvg-name="A Pequena Sereia 24/7 ( Exclusivo ) PT" A Pequena Sereia 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83622
-#EXTINF:-1 tvg-name="A Mumia 24/7 ( Exclusivo ) PT" A Mumia 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83624
-#EXTINF:-1 tvg-name="1001 Noites 24/7 ( Exclusivo ) PT" 1001 Noites 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83625
-#EXTINF:-1 tvg-name="Bakugan 24/7 ( Exclusivo ) PT" Bakugan 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83626
-#EXTINF:-1 tvg-name="Avatar A Lenda de Korra 24/7 ( Exclusivo ) PT" Avatar A Lenda de Korra 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83627
-#EXTINF:-1 tvg-name="Avatar 24/7 ( Exclusivo ) PT" Avatar 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83629
-#EXTINF:-1 tvg-name="B-Daman Fireblast 24/7 ( Exclusivo ) PT" B-Daman Fireblast 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83631
-#EXTINF:-1 tvg-name="Beyblade Burst 24/7 ( Exclusivo ) PT" Beyblade Burst 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83632
-#EXTINF:-1 tvg-name="Carmen Sandiego 24/7 ( Exclusivo ) PT" Carmen Sandiego 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84774
-#EXTINF:-1 tvg-name="Tarzan and Jane 24/7 ( Exclusivo ) PT" Tarzan and Jane 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84775
-#EXTINF:-1 tvg-name="Cao no Espaco 24/7 ( Exclusivo ) PT" Cao no Espaco 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84776
-#EXTINF:-1 tvg-name="The Busy World of Richard Scarry 24/7 ( Exclusivo ) PT" The Busy World of Richard Scarry 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84777
-#EXTINF:-1 tvg-name="Popples 24/7 ( Exclusivo ) PT" Popples 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84778
-#EXTINF:-1 tvg-name="Marco Antonio 24/7 ( Exclusivo ) PT" Marco Antonio 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84779
-#EXTINF:-1 tvg-name="Max Steel 24/7 ( Exclusivo ) PT" Max Steel 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84780
-#EXTINF:-1 tvg-name="Oban Star Racers 24/7 ( Exclusivo ) PT" Oban Star Racers 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84781
-#EXTINF:-1 tvg-name="Heidi 3D 24/7 ( Exclusivo ) PT" Heidi 3D 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84782
-#EXTINF:-1 tvg-name="Heidi Serie Original 24/7 ( Exclusivo ) PT" Heidi Serie Original 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103350
-#EXTINF:-1 tvg-name="Gormiti (2018) 24/7 ( Exclusivo ) PT" Gormiti (2018) 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84783
-#EXTINF:-1 tvg-name="OK K.O Lets Be Heroes 24/7 ( Exclusivo ) PT" OK K.O Lets Be Heroes 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84784
-#EXTINF:-1 tvg-name="Thundercats Roar 24/7 ( Exclusivo ) PT" Thundercats Roar 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84785
-#EXTINF:-1 tvg-name="Timon e Pumba 24/7 ( Exclusivo ) PT" Timon e Pumba 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84786
-#EXTINF:-1 tvg-name="A Porquinha Peppa 24/7 ( Exclusivo ) PT" tvg-logo="https://logodix.com/logo/574561.jpg" A Porquinha Peppa 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/84787
-#EXTINF:-1 tvg-name="Chico Caramelo e as Suas Ferramentas 24/7 ( Exclusivo ) PT" Chico Caramelo e as Suas Ferramentas 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/90101
-#EXTINF:-1 tvg-name="A Abadia de Redwall 24/7 ( Exclusivo ) PT" A Abadia de Redwall 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83630
-#EXTINF:-1 tvg-name="Astro Boy 24/7 ( Exclusivo ) PT" Astro Boy 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83628
-#EXTINF:-1 tvg-name="A Nova Escola do Imperador 24/7 ( Exclusivo ) PT" A Nova Escola do Imperador 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83623
-#EXTINF:-1 tvg-name="As Aventuras de Marco e Gina 24/7 ( Exclusivo ) PT" As Aventuras de Marco e Gina 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/83613
-#EXTINF:-1 tvg-name="Bunnicula - O Vampiro Coelho 24/7 ( Exclusivo ) PT" Bunnicula - O Vampiro Coelho 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/92781
-#EXTINF:-1 tvg-name="Star Contra as Forcas do Mal 24/7 ( Exclusivo ) PT" Star Contra as Forcas do Mal 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/92780
-#EXTINF:-1 tvg-name="Wow! Wow! Wubbzy! 24/7 ( Exclusivo ) PT" Wow! Wow! Wubbzy! 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/92779
-#EXTINF:-1 tvg-name="Mundo Jurassico- Acampamento Cretaceo 24/7 ( Exclusivo ) PT" Mundo Jurassico- Acampamento Cretaceo 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/92778
-#EXTINF:-1 tvg-name="Inazuma Eleven Ares 24/7 ( Exclusivo ) PT" Inazuma Eleven Ares 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/92777
-#EXTINF:-1 tvg-name="Capitao Cuecas 24/7 ( Exclusivo ) PT" Capitao Cuecas 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/92776
-#EXTINF:-1 tvg-name="As Historias Epicas do Capitao Cuecas no Espaco 24/7 ( Exclusivo ) PT" As Historias Epicas do Capitao Cuecas no Espaco 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/92775
-#EXTINF:-1 tvg-name="Mr. Magoo 24/7 ( Exclusivo ) PT" Mr. Magoo 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/92774
-#EXTINF:-1 tvg-name="Acampamento Magico 24/7 ( Exclusivo ) PT" Acampamento Magico 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/92773
-#EXTINF:-1 tvg-name="Yabba-Dabba Dino 24/7 ( Exclusivo ) PT" Yabba-Dabba Dino 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/92772
-#EXTINF:-1 tvg-name="Hubert and Takako 24/7 ( Exclusivo ) PT" Hubert and Takako 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/92771
-#EXTINF:-1 tvg-name="Mao Mao 24/7 ( Exclusivo ) PT" Mao Mao 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/92770
-#EXTINF:-1 tvg-name="Agente Binky 24/7 ( Exclusivo ) PT" Agente Binky 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/92769
-#EXTINF:-1 tvg-name="E o Ponei 24/7 ( Exclusivo ) PT" E o Ponei 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/92768
-#EXTINF:-1 tvg-name="Cacadores de Bugs 24/7 ( Exclusivo ) PT" Cacadores de Bugs 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/92767
-#EXTINF:-1 tvg-name="Alien TV 24/7 ( Exclusivo ) PT" Alien TV 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/92766
-#EXTINF:-1 tvg-name="StarBeam 24/7 ( Exclusivo ) PT" StarBeam 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/92765
-#EXTINF:-1 tvg-name="Jovens Justiceiros 24/7 ( Exclusivo ) PT" Jovens Justiceiros 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/92764
-#EXTINF:-1 tvg-name="As Novas Aventuras de Peter Pan 24/7 ( Exclusivo ) PT" As Novas Aventuras de Peter Pan 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/95029
-#EXTINF:-1 tvg-name="Seguranca Rodoviaria com o Poli 24/7 ( Exclusivo ) PT" Seguranca Rodoviaria com o Poli 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/95028
-#EXTINF:-1 tvg-name="Basquete com Tony Parker 24/7 ( Exclusivo ) PT" Basquete com Tony Parker 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/95027
-#EXTINF:-1 tvg-name="Rubbadubbers 24/7 ( Exclusivo ) PT" Rubbadubbers 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/95026
-#EXTINF:-1 tvg-name="Hank e o Camiao do Lixo 24/7 ( Exclusivo ) PT" Hank e o Camiao do Lixo 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/95025
-#EXTINF:-1 tvg-name="Cidade do Tra-La-La 24/7 ( Exclusivo ) PT" Cidade do Tra-La-La 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/95024
-#EXTINF:-1 tvg-name="Dino Girl Gauko 24/7 ( Exclusivo ) PT" Dino Girl Gauko 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/95023
-#EXTINF:-1 tvg-name="Amphibia  24/7 ( Exclusivo ) PT" Amphibia  24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/95022
-#EXTINF:-1 tvg-name="Henry Hugglemonster 24/7 ( Exclusivo ) PT" Henry Hugglemonster 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96256
-#EXTINF:-1 tvg-name="O Bocas 24/7 ( Exclusivo ) PT" O Bocas 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96255
-#EXTINF:-1 tvg-name="Vamos Caes Vamos 24/7 ( Exclusivo ) PT" Vamos Caes Vamos 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96254
-#EXTINF:-1 tvg-name="Bombeiro Sam 24/7 ( Exclusivo ) PT" Bombeiro Sam 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96253
-#EXTINF:-1 tvg-name="Starla e as Joias Encantadas  24/7 ( Exclusivo ) PT" Starla e as Joias Encantadas  24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/95021
-#EXTINF:-1 tvg-name="Chovem Almondegas 24/7 ( Exclusivo ) PT" Chovem Almondegas 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96390
-#EXTINF:-1 tvg-name="Marvel's Spider-Man 24/7 ( Exclusivo ) PT" Marvel's Spider-Man 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96389
-#EXTINF:-1 tvg-name="O Carrinho Poli 24/7 ( Exclusivo ) PT" O Carrinho Poli 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96388
-#EXTINF:-1 tvg-name="Os Marretas Bebes 24/7 ( Exclusivo ) PT" Os Marretas Bebes 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103352
-#EXTINF:-1 tvg-name="Centaurworld 24/7 ( Exclusivo ) PT" Centaurworld 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103351
-#EXTINF:-1 tvg-name="Mighty Express 24/7 ( Exclusivo ) PT" Mighty Express 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103349
-#EXTINF:-1 tvg-name="Mr. Bean A Serie Animada 24/7 ( Exclusivo ) PT" tvg-logo="https://www.clipartmax.com/png/full/74-749810_the-animated-series-mr-bean-cartoon-png.png" Mr. Bean A Serie Animada 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103348
-#EXTINF:-1 tvg-name="Star Wars O Lote Estragado 24/7 ( Exclusivo ) PT" Star Wars O Lote Estragado 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103347
-#EXTINF:-1 tvg-name="Tom Sawyer (2020) 24/7 ( Exclusivo ) PT" Tom Sawyer (2020) 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103346
-#EXTINF:-1 tvg-name="Monstrolandia 24/7 ( Exclusivo ) PT" Monstrolandia 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96387
-#EXTINF:-1 tvg-name="Alvinnn e os Esquilos 24/7 ( Exclusivo ) PT" Alvinnn e os Esquilos 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96386
-#EXTINF:-1 tvg-name="Bluey 24/7 ( Exclusivo ) PT" Bluey 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96385
-#EXTINF:-1 tvg-name="What If 24/7 ( Exclusivo ) PT" What If 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103440
-#EXTINF:-1 tvg-name="PatoAventuras (1987) 24/7 ( Exclusivo ) PT" PatoAventuras (1987) 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103439
-#EXTINF:-1 tvg-name="PatoAventuras (2017) 24/7 ( Exclusivo ) PT" PatoAventuras (2017) 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103438
-#EXTINF:-1 tvg-name="Turma Do Pateta 24/7 ( Exclusivo ) PT" Turma Do Pateta 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103437
-#EXTINF:-1 tvg-name="A Pantera Cor-de-Rosa 24/7 ( Exclusivo ) PT" A Pantera Cor-de-Rosa 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103436
-#EXTINF:-1 tvg-name="Titio Avo 24/7 ( Exclusivo ) PT" Titio Avo 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103435
-#EXTINF:-1 tvg-name="Moto Ratos de Marte 24/7 ( Exclusivo ) PT" Moto Ratos de Marte 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103434
-#EXTINF:-1 tvg-name="Gargulas 24/7 ( Exclusivo ) PT" Gargulas 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/103433
-#EXTINF:-1 tvg-name="Ella, Oscar e Hoo 24/7 ( Exclusivo ) PT"  Oscar e Hoo 24/7 ( Exclusivo ) PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://exyubalkan-iptv.com.streamtv.to:8080/9hUdY4gZ3Q/GeIfANjKz6/96252
+#EXTINF:-1 tvg-id="RTP.1.HD.pt" tvg-name="RTP 1 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/RTP%201.png" ,RTP 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1604
+#EXTINF:-1 tvg-id="RTP.1.HD.pt" tvg-name="RTP 1" tvg-logo="http://channelart.8b90287dn2.online/images/logos/RTP%201.png" ,RTP 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1600
+#EXTINF:-1 tvg-id="RTP.2.HD.pt" tvg-name="RTP 2 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/RTP%202.png" ,RTP 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1603
+#EXTINF:-1 tvg-id="RTP.2.HD.pt" tvg-name="RTP 2" tvg-logo="http://channelart.8b90287dn2.online/images/logos/RTP%202.png" ,RTP 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1599
+#EXTINF:-1 tvg-id="RTP.3.HD.pt" tvg-name="RTP 3 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/RTP%203.png" ,RTP 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1479
+#EXTINF:-1 tvg-id="RTP.3.HD.pt" tvg-name="RTP 3" tvg-logo="http://channelart.8b90287dn2.online/images/logos/RTP%203.png" ,RTP 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/899601
+#EXTINF:-1 tvg-name="RTP Acores" tvg-logo="https://prinplay.com.br/server/RTP%20A%C3%A7ores.png" ,RTP Acores
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1498
+#EXTINF:-1 tvg-name="RTP Africa" tvg-logo="https://prinplay.com.br/server/RTP%20%C3%81frica.png" ,RTP Africa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1501
+#EXTINF:-1 tvg-id="RTP MADEIRA" tvg-name="RTP Madeira" tvg-logo="http://channelart.8b90287dn2.online/images/logos/RTP%20Madeira.png" ,RTP Madeira
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1500
+#EXTINF:-1 tvg-name="RTP Memoria" tvg-logo="http://channelart.8b90287dn2.online/images/logos/RTP%20Memo%CC%81ria.png" ,RTP Memoria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1499
+#EXTINF:-1 tvg-name="SIC HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SIC.png" ,SIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/10224
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SIC.png" ,SIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1480
+#EXTINF:-1 tvg-name="TVI HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TVI.png" ,TVI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1483
+#EXTINF:-1 tvg-name="TVI" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TVI.png" ,TVI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1484
+#EXTINF:-1 tvg-name="SIC Noticias  HD" tvg-logo="https://prinplay.com.br/server/SIC%20Not%C3%ADcias.png" ,SIC Noticias  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/10226
+#EXTINF:-1 tvg-name="SIC Noticias" tvg-logo="https://prinplay.com.br/server/SIC%20Not%C3%ADcias.png" ,SIC Noticias
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1493
+#EXTINF:-1 tvg-id="CMTV.HD.pt" tvg-name="CMTV HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/CMTV.png" ,CMTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/10230
+#EXTINF:-1 tvg-name="CMTV" tvg-logo="http://channelart.8b90287dn2.online/images/logos/CMTV.png" ,CMTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1494
+#EXTINF:-1 tvg-id="CNN.Portugal.HD.pt" tvg-name="CNN Portugal HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/CNN.png" ,CNN Portugal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/899603
+#EXTINF:-1 tvg-id="CNN.Portugal.HD.pt" tvg-name="CNN Portugal " tvg-logo="http://channelart.8b90287dn2.online/images/logos/CNN.png" ,CNN Portugal 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/75838
+#EXTINF:-1 tvg-id="TCV.Internacional.pt" tvg-name="TCV Internacional " tvg-logo="http://channelart.8b90287dn2.online/images/logos/TCV%20Internacional.png" ,TCV Internacional 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/899602
+#EXTINF:-1 tvg-name="Globo Portugal" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20Portugal.png" ,Globo Portugal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/2433
+#EXTINF:-1 tvg-id="SIC.Caras.HD.pt" tvg-name="SIC Caras HD " tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sic%20Caras.png" ,SIC Caras HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/51991
+#EXTINF:-1 tvg-name="SIC Caras" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sic%20Caras.png" ,SIC Caras
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1491
+#EXTINF:-1 tvg-id="SIC.Mulher.HD.pt" tvg-name="SIC Mulher HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SIC%20Mulher.png" ,SIC Mulher HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/10227
+#EXTINF:-1 tvg-name="SIC Mulher" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SIC%20Mulher.png" ,SIC Mulher
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1490
+#EXTINF:-1 tvg-name="SIC Radical HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sic%20Radical.png" ,SIC Radical HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/10225
+#EXTINF:-1 tvg-id="SIC RADICAL HD" tvg-name="SIC Radical" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sic%20Radical.png" ,SIC Radical
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1492
+#EXTINF:-1 tvg-id="tvi.ficcao.pt" tvg-name="TVI Ficcao HD " tvg-logo="https://prinplay.com.br/server/TVI%20Fic%C3%A7%C3%A3o.png" ,TVI Ficcao HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/51992
+#EXTINF:-1 tvg-name="TVI Ficcao" tvg-logo="https://prinplay.com.br/server/TVI%20Fic%C3%A7%C3%A3o.png" ,TVI Ficcao
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1487
+#EXTINF:-1 tvg-id="TVI REALITY HD" tvg-name="TVI Reality HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TVI%20Reality.png" ,TVI Reality HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1489
+#EXTINF:-1 tvg-id="TVI REALITY" tvg-name="TVI Reality" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TVI%20Reality.png" ,TVI Reality
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1488
+#EXTINF:-1 tvg-id="GAMETOON HD" tvg-name="Gametoon HD" tvg-logo="https://iconape.com/wp-content/files/um/279516/png/gametoon-hd-logo.png" ,Gametoon HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/52023
+#EXTINF:-1 tvg-id="PORTO CANAL HD" tvg-name="Porto Canal" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Porto%20Canal.png" ,Porto Canal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1497
+#EXTINF:-1 tvg-id="TVCine TOP HD" tvg-name="TVCine Top HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TVCine%20Top.png" ,TVCine Top HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1544
+#EXTINF:-1 tvg-name="TVCine Top " tvg-logo="http://channelart.8b90287dn2.online/images/logos/TVCine%20Top.png" ,TVCine Top 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1545
+#EXTINF:-1 tvg-id="TVCine EDITION HD" tvg-name="TVCine Edition HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TVCine%20Edition.png" ,TVCine Edition HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1546
+#EXTINF:-1 tvg-id="TVCine EDITION HD" tvg-name="TVCine Edition" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TVCine%20Edition.png" ,TVCine Edition
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1547
+#EXTINF:-1 tvg-id="TVCine EMOTION HD" tvg-name="TVCine Emotion HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TVCine%20Emotion.png" ,TVCine Emotion HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1548
+#EXTINF:-1 tvg-id="TVCine.EDITION.HD.pt" tvg-name="TVCine Emotion " tvg-logo="http://channelart.8b90287dn2.online/images/logos/TVCine%20Emotion.png" ,TVCine Emotion 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1549
+#EXTINF:-1 tvg-id="TVCine.ACTION.HD.pt" tvg-name="TVCine Action HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TVCine%20Action.png" ,TVCine Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1550
+#EXTINF:-1 tvg-id="TVCine.ACTION.HD.pt" tvg-name="TVCine Action" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TVCine%20Action.png" ,TVCine Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1551
+#EXTINF:-1 tvg-name="AMC HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/AMC.png" ,AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1568
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/AXN.png" ,AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1553
+#EXTINF:-1 tvg-id="AXN MOVIES HD" tvg-name="AXN Movies HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/AXN.png" ,AXN Movies HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1554
+#EXTINF:-1 tvg-name="AXN White HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/AXN%20White.png" ,AXN White HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1557
+#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-name="AXN White" tvg-logo="http://channelart.8b90287dn2.online/images/logos/AXN%20White.png" ,AXN White
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1558
+#EXTINF:-1 tvg-id="STAR COMEDY HD" tvg-name="Star Comedy HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Fox%20Comedy.png" ,Star Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1563
+#EXTINF:-1 tvg-id="STAR CRIME HD" tvg-name="Star Crime HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Fox%20Crime.png" ,Star Crime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1564
+#EXTINF:-1 tvg-id="STAR CHANNEL HD" tvg-name="Star Channel HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Fox.png" ,Star Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1561
+#EXTINF:-1 tvg-name="Star Channel" tvg-logo="https://prinplay.com.br/server/Star%20Channel.png" ,Star Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1560
+#EXTINF:-1 tvg-id="STAR LIFE HD" tvg-name="Star Life HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Fox%20Life.png" ,Star Life HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1562
+#EXTINF:-1 tvg-id="STAR MOVIES HD" tvg-name="Star Movies HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Fox%20Movies.png" ,Star Movies HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1565
+#EXTINF:-1 tvg-name="Hollywood HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Canal%20Hollywood.png" ,Hollywood HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1566
+#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="Hollywood" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Canal%20Hollywood.png" ,Hollywood
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1567
+#EXTINF:-1 tvg-id="NOS.Studios.HD.pt" tvg-name="Nos Studios HD " tvg-logo="http://channelart.8b90287dn2.online/images/logos/Canal%20NOS.png" ,Nos Studios HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/45491
+#EXTINF:-1 tvg-id="SYFY LOW" tvg-name="Syfy HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Syfy.png" ,Syfy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1570
+#EXTINF:-1 tvg-name="Cinemundo HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Cine%20Mundo.png" ,Cinemundo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1569
+#EXTINF:-1 tvg-id="AMC.Crime.HD.pt" tvg-name="AMC Crime HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/AMC.png" ,AMC Crime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1571
+#EXTINF:-1 tvg-name="Canal Panda" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Canal%20Panda.png" ,Canal Panda
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1503
+#EXTINF:-1 tvg-name="Panda Kids" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Panda%20Biggs.png" ,Panda Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1504
+#EXTINF:-1 tvg-id="CART" tvg-name="Cartoon Network" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Cartoon%20Network.png" ,Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1505
+#EXTINF:-1 tvg-name="Baby TV" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Baby%20TV.png" ,Baby TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1508
+#EXTINF:-1 tvg-name="Discovery Channel HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Discovery%20Channel.png" ,Discovery Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1574
+#EXTINF:-1 tvg-name="Disney Channel³" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Disney%20Channel.png" ,Disney Channel³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1510
+#EXTINF:-1 tvg-name="Disney Junior HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Disney%20Jr..png" ,Disney Junior HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1511
+#EXTINF:-1 tvg-name="SIC K" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SIC%20Kids.png" ,SIC K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1509
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Nickelodeon.png" ,Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1506
+#EXTINF:-1 tvg-id="TLC HD" tvg-name="TLC" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TLC.png" ,TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1587
+#EXTINF:-1 tvg-name="24 Kitchen HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/24%20Kitchen.png" ,24 Kitchen HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1586
+#EXTINF:-1 tvg-id="24Kitchen.HD.pt" tvg-name="24 Kitchen" tvg-logo="http://channelart.8b90287dn2.online/images/logos/24%20Kitchen.png" ,24 Kitchen
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/12779
+#EXTINF:-1 tvg-id="E! ENTERTAINMENT HD" tvg-name="E! " tvg-logo="http://channelart.8b90287dn2.online/images/logos/E%21%20Entertainment.png" ,E! 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1588
+#EXTINF:-1 tvg-name="National Geographic Wild HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/National%20Geographic.png" ,National Geographic Wild HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1576
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-name="National Geographic HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Nat%20Geo%20Wild.png" ,National Geographic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1578
+#EXTINF:-1 tvg-id="ODISSEIA HD" tvg-name="Odisseia" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Odisseia.png" ,Odisseia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1579
+#EXTINF:-1 tvg-id="HISTÓRIA HD" tvg-name="Historia HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Canal%20Hist%C3%B3ria.png" ,Historia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1577
+#EXTINF:-1 tvg-name="Caça e Pesca" tvg-logo="https://prinplay.com.br/server/Ca%C3%A7a%20e%20Pesca.png" ,Caça e Pesca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1583
+#EXTINF:-1 tvg-name="Cacavision" tvg-logo="https://prinplay.com.br/server/Ca%C3%A7avision.png" ,Cacavision
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1584
+#EXTINF:-1 tvg-id="FUEL TV HD" tvg-name="Fuel TV" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Fuel%20TV.png" ,Fuel TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1596
+#EXTINF:-1 tvg-id="MTV PORTUGAL HD" tvg-name="MTV Portugal" tvg-logo="http://channelart.8b90287dn2.online/images/logos/MTV.png" ,MTV Portugal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1591
+#EXTINF:-1 tvg-id="MCM POP HD" tvg-name="MCM Pop" tvg-logo="http://channelart.8b90287dn2.online/images/logos/MCM%20Pop.png" ,MCM Pop
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/1593
+#EXTINF:-1 tvg-id="ZAP.Viva.HD.pt" tvg-name="ZAP Viva " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c6/Zap_Viva_%28logo%29.png" ,ZAP Viva 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/12778
+#EXTINF:-1 tvg-id="Trace.Brasil.pt" tvg-name="Trace Urban " tvg-logo="http://channelart.8b90287dn2.online/images/logos/Trace%20Urban.png" ,Trace Urban 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:8080/Felipe407/F14073462801/75839
