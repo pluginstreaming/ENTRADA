@@ -641,64 +641,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 
 
 
-#EXTINF:-1 tvg-id="br#bandnews-hd" tvg-name="Band News FHD" tvg-logo="https://logos.imperioapps.xyz/BAND_NEWS.png" group-title="♦️Canais | Notícias",Band News FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/400087118461/427705559174/151813.ts
-#EXTINF:-1 tvg-id="br#bandnews-hd" tvg-name="Band News HD" tvg-logo="https://logos.imperioapps.xyz/BAND_NEWS.png" group-title="♦️Canais | Notícias",Band News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/400087118461/427705559174/151814.ts
-#EXTINF:-1 tvg-id="BandNews.br" tvg-name="Band News SD" tvg-logo="https://logos.imperioapps.xyz/BAND_NEWS.png" group-title="♦️Canais | Notícias",Band News SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/400087118461/427705559174/151815.ts
-#EXTINF:-1 tvg-id="br#bloomberg" tvg-name="Bloomberg" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/images/c4bc97e87f82730e02c953f918b080ba.png" group-title="♦️Canais | Notícias",Bloomberg
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/400087118461/427705559174/151816.ts
-#EXTINF:-1 tvg-id="CNBC.br" tvg-name="CNBC Brasil" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/images/fa57227e4b15148807a275debd9962eb.png" group-title="♦️Canais | Notícias",CNBC Brasil
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/400087118461/427705559174/151823.ts
-#EXTINF:-1 tvg-id="br#cnn-brasil-1" tvg-name="CNN Brasil FHD" tvg-logo="https://logos.imperioapps.xyz/CNN_BRASIL.png" group-title="♦️Canais | Notícias",CNN Brasil FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/400087118461/427705559174/151826.ts
-#EXTINF:-1 tvg-id="br#cnn-brasil-1" tvg-name="CNN Brasil HD" tvg-logo="https://logos.imperioapps.xyz/CNN_BRASIL.png" group-title="♦️Canais | Notícias",CNN Brasil HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/400087118461/427705559174/151827.ts
-#EXTINF:-1 tvg-id="br#cnn-brasil-1" tvg-name="CNN Brasil SD" tvg-logo="https://logos.imperioapps.xyz/CNN_BRASIL.png" group-title="♦️Canais | Notícias",CNN Brasil SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/400087118461/427705559174/151828.ts
-#EXTINF:-1 tvg-id="br#cnn-en-espanol-hd" tvg-name="CNN Espanhol FHD" tvg-logo="https://cdn.crusoe.com.br/uploads/2022/09/CNN-espanhol.jpg" group-title="♦️Canais | Notícias",CNN Espanhol FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/400087118461/427705559174/151868.ts
-#EXTINF:-1 tvg-id="br#cnn-en-espanol-hd" tvg-name="CNN Espanhol HD" tvg-logo="https://cdn.crusoe.com.br/uploads/2022/09/CNN-espanhol.jpg" group-title="♦️Canais | Notícias",CNN Espanhol HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/400087118461/427705559174/151869.ts
-#EXTINF:-1 tvg-id="br#cnn-en-espanol-hd" tvg-name="CNN Espanhol SD" tvg-logo="https://cdn.crusoe.com.br/uploads/2022/09/CNN-espanhol.jpg" group-title="♦️Canais | Notícias",CNN Espanhol SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/400087118461/427705559174/151870.ts
-#EXTINF:-1 tvg-id="CNNInternationalAsiaPacific.hk" tvg-name="CNN Internacional FHD" tvg-logo="https://logos.imperioapps.xyz/CNN_INTERNACIONAL.png" group-title="♦️Canais | Notícias",CNN Internacional FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/400087118461/427705559174/151871.ts
-#EXTINF:-1 tvg-id="CNNInternationalAsiaPacific.hk" tvg-name="CNN Internacional HD" tvg-logo="https://logos.imperioapps.xyz/CNN_INTERNACIONAL.png" group-title="♦️Canais | Notícias",CNN Internacional HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/400087118461/427705559174/151872.ts
-#EXTINF:-1 tvg-id="CNNMoney.br" tvg-name="CNN Money" tvg-logo="http://www.fontedecanais.io/logos/canais/cnnmoney.png" group-title="♦️Canais | Notícias",CNN Money
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/400087118461/427705559174/151873.ts
-#EXTINF:-1 tvg-id="CNNInternationalAsiaPacific.hk" tvg-name="CNN Portugal" tvg-logo="https://logos.imperioapps.xyz/CNN_INTERNACIONAL.png" group-title="♦️Canais | Notícias",CNN Portugal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/400087118461/427705559174/151875.ts
-#EXTINF:-1 tvg-name="Euronews em espanhol" tvg-logo="http://dns.watchplay.top/images/K9-ECDCSRmaluSvxL8LpJ7Ycr4ZsrAdYf-oGBBPA_U3WB_72K0soQEEAIAj34PrQ.png" group-title="♦️Canais | Notícias",Euronews em espanhol
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/400087118461/427705559174/151877.ts
-#EXTINF:-1 tvg-name="Euronews English" tvg-logo="http://dns.watchplay.top/images/K9-ECDCSRmaluSvxL8LpJ7Ycr4ZsrAdYf-oGBBPA_U3WB_72K0soQEEAIAj34PrQ.png" group-title="♦️Canais | Notícias",Euronews English
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/400087118461/427705559174/151881.ts
-#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News FHD" tvg-logo="https://logos.imperioapps.xyz/GLOBO_NEWS.png" group-title="♦️Canais | Notícias",Globo News FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/400087118461/427705559174/151886.ts
-#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News HD" tvg-logo="https://logos.imperioapps.xyz/GLOBO_NEWS.png" group-title="♦️Canais | Notícias",Globo News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/400087118461/427705559174/151887.ts
-#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News SD" tvg-logo="https://logos.imperioapps.xyz/GLOBO_NEWS.png" group-title="♦️Canais | Notícias",Globo News SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/400087118461/427705559174/151888.ts
-#EXTINF:-1 tvg-id="JPNews.br" tvg-name="Jovem Pan News FHD" tvg-logo="https://logos.imperioapps.xyz/JOVEM_PAN.png" group-title="♦️Canais | Notícias",Jovem Pan News FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/400087118461/427705559174/151889.ts
-#EXTINF:-1 tvg-id="JPNews.br" tvg-name="Jovem Pan News HD" tvg-logo="https://logos.imperioapps.xyz/JOVEM_PAN.png" group-title="♦️Canais | Notícias",Jovem Pan News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/400087118461/427705559174/151890.ts
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News FHD" tvg-logo="https://logos.imperioapps.xyz/RECORD_NEWS.png" group-title="♦️Canais | Notícias",Record News FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/400087118461/427705559174/151892.ts
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News HD" tvg-logo="https://logos.imperioapps.xyz/RECORD_NEWS.png" group-title="♦️Canais | Notícias",Record News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/400087118461/427705559174/151893.ts
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News SD" tvg-logo="https://logos.imperioapps.top/RECORD_NEWS.png" group-title="♦️Canais | Notícias",Record News SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/400087118461/427705559174/151894.ts
-#EXTINF:-1 tvg-id="JPNews.br" tvg-name="Jovem Pan News SD" tvg-logo="https://logos.imperioapps.top/JOVEM_PAN.png" group-title="♦️Canais | Notícias",Jovem Pan News SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/400087118461/427705559174/236015.ts
-#EXTINF:-1 tvg-id="CNNInternationalAsiaPacific.hk" tvg-name="CNN Internacional SD" tvg-logo="https://logos.imperioapps.top/CNN_INTERNACIONAL.png" group-title="♦️Canais | Notícias",CNN Internacional SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/400087118461/427705559174/236016.ts
-#EXTINF:-1 tvg-name="C3 TV" tvg-logo="https://static.wixstatic.com/media/3144a3_fdf1dec494504d80adf3e34b112c59b3~mv2.png" group-title="♦️Canais | Notícias",C3 TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://aguacomgas.shop:80/400087118461/427705559174/2545918.ts
-
-
 
 
 
