@@ -3,75 +3,74 @@
 
 
 
-#EXTINF:-1 tvg-name="A Fazenda" tvg-logo="https://i.imgur.com/CiBLaIb.jpeg" group-title="Canais | A Fazenda 17",A Fazenda
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/4599502.ts
-#EXTINF:-1 tvg-name="A Fazenda Cam 01" tvg-logo="https://i.imgur.com/CiBLaIb.jpeg" group-title="Canais | A Fazenda 17",A Fazenda Cam 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/4599503.ts
-#EXTINF:-1 tvg-name="A Fazenda Cam 02" tvg-logo="https://i.imgur.com/CiBLaIb.jpeg" group-title="Canais | A Fazenda 17",A Fazenda Cam 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/4599504.ts
-#EXTINF:-1 tvg-name="A Fazenda Cam 03" tvg-logo="https://i.imgur.com/CiBLaIb.jpeg" group-title="Canais | A Fazenda 17",A Fazenda Cam 03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/4599505.ts
-#EXTINF:-1 tvg-name="A Fazenda Cam 04" tvg-logo="https://i.imgur.com/CiBLaIb.jpeg" group-title="Canais | A Fazenda 17",A Fazenda Cam 04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/4599506.ts
-#EXTINF:-1 tvg-name="A Fazenda Cam 05" tvg-logo="https://i.imgur.com/CiBLaIb.jpeg" group-title="Canais | A Fazenda 17",A Fazenda Cam 05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/4599507.ts
-#EXTINF:-1 tvg-name="A Fazenda Cam 06" tvg-logo="https://i.imgur.com/CiBLaIb.jpeg" group-title="Canais | A Fazenda 17",A Fazenda Cam 06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/4599508.ts
-#EXTINF:-1 tvg-name="A Fazenda Cam 07" tvg-logo="https://i.imgur.com/CiBLaIb.jpeg" group-title="Canais | A Fazenda 17",A Fazenda Cam 07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/4599509.ts
 
 
 
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BAND News FHD" tvg-logo="https://raphmx00.com/bandnews.png" group-title="CANAIS | NOTÍCIAS",BAND News FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://flowinbler.net:80/paulotaguatinga/171652629170/139115
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BAND News FHD [Alt]" tvg-logo="https://raphmx00.com/bandnews.png" group-title="CANAIS | NOTÍCIAS",BAND News FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://flowinbler.net:80/paulotaguatinga/171652629170/147444
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BAND News HD" tvg-logo="https://raphmx00.com/bandnews.png" group-title="CANAIS | NOTÍCIAS",BAND News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://flowinbler.net:80/paulotaguatinga/171652629170/83308
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BAND News HD [Alt]" tvg-logo="https://raphmx00.com/bandnews.png" group-title="CANAIS | NOTÍCIAS",BAND News HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://flowinbler.net:80/paulotaguatinga/171652629170/147445
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BAND News SD" tvg-logo="https://raphmx00.com/bandnews.png" group-title="CANAIS | NOTÍCIAS",BAND News SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://flowinbler.net:80/paulotaguatinga/171652629170/83528
+#EXTINF:-1 tvg-name="CNBC HD" tvg-logo="https://i.imgur.com/3Qzn9zx.png" group-title="CANAIS | NOTÍCIAS",CNBC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://flowinbler.net:80/paulotaguatinga/171652629170/342966
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN Brasil FHD" tvg-logo="https://raphmx00.com/cnnbrasil.png" group-title="CANAIS | NOTÍCIAS",CNN Brasil FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://flowinbler.net:80/paulotaguatinga/171652629170/83436
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN Brasil FHD [Alt]" tvg-logo="https://raphmx00.com/cnnbrasil.png" group-title="CANAIS | NOTÍCIAS",CNN Brasil FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://flowinbler.net:80/paulotaguatinga/171652629170/147464
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN Brasil HD" tvg-logo="https://raphmx00.com/cnnbrasil.png" group-title="CANAIS | NOTÍCIAS",CNN Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://flowinbler.net:80/paulotaguatinga/171652629170/83306
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN Brasil HD [Alt]" tvg-logo="https://raphmx00.com/cnnbrasil.png" group-title="CANAIS | NOTÍCIAS",CNN Brasil HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://flowinbler.net:80/paulotaguatinga/171652629170/147465
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN Brasil SD" tvg-logo="https://raphmx00.com/cnnbrasil.png" group-title="CANAIS | NOTÍCIAS",CNN Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://flowinbler.net:80/paulotaguatinga/171652629170/83669
+#EXTINF:-1 tvg-id="br#cnn" tvg-name="CNNi FHD [Alt]" tvg-logo="https://raphmx00.com/cnni.png" group-title="CANAIS | NOTÍCIAS",CNNi FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://flowinbler.net:80/paulotaguatinga/171652629170/147468
+#EXTINF:-1 tvg-id="br#cnn" tvg-name="CNNi HD [Alt]" tvg-logo="https://raphmx00.com/cnni.png" group-title="CANAIS | NOTÍCIAS",CNNi HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://flowinbler.net:80/paulotaguatinga/171652629170/147469
+#EXTINF:-1 tvg-name="France 24 FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/france24.png" group-title="CANAIS | NOTÍCIAS",France 24 FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://flowinbler.net:80/paulotaguatinga/171652629170/140895
+#EXTINF:-1 tvg-name="France 24 HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/france24.png" group-title="CANAIS | NOTÍCIAS",France 24 HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://flowinbler.net:80/paulotaguatinga/171652629170/147466
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News FHD" tvg-logo="https://raphmx00.com/globonews.png" group-title="CANAIS | NOTÍCIAS",Globo News FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://flowinbler.net:80/paulotaguatinga/171652629170/139102
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News FHD [Alt]" tvg-logo="https://raphmx00.com/globonews.png" group-title="CANAIS | NOTÍCIAS",Globo News FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://flowinbler.net:80/paulotaguatinga/171652629170/147572
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News HD" tvg-logo="https://raphmx00.com/globonews.png" group-title="CANAIS | NOTÍCIAS",Globo News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://flowinbler.net:80/paulotaguatinga/171652629170/83219
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News HD [Alt]" tvg-logo="https://raphmx00.com/globonews.png" group-title="CANAIS | NOTÍCIAS",Globo News HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://flowinbler.net:80/paulotaguatinga/171652629170/147573
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News SD" tvg-logo="https://raphmx00.com/globonews.png" group-title="CANAIS | NOTÍCIAS",Globo News SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://flowinbler.net:80/paulotaguatinga/171652629170/83566
+#EXTINF:-1 tvg-id="lch5573" tvg-name="Jovem Pan News FHD" tvg-logo="https://raphmx00.com/jovempannews.png" group-title="CANAIS | NOTÍCIAS",Jovem Pan News FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://flowinbler.net:80/paulotaguatinga/171652629170/152567
+#EXTINF:-1 tvg-id="lch5573" tvg-name="Jovem Pan News FHD [Alt]" tvg-logo="https://raphmx00.com/jovempannews.png" group-title="CANAIS | NOTÍCIAS",Jovem Pan News FHD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://flowinbler.net:80/paulotaguatinga/171652629170/183592
+#EXTINF:-1 tvg-id="lch5573" tvg-name="Jovem Pan News HD" tvg-logo="https://raphmx00.com/jovempannews.png" group-title="CANAIS | NOTÍCIAS",Jovem Pan News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://flowinbler.net:80/paulotaguatinga/171652629170/165441
+#EXTINF:-1 tvg-id="lch5573" tvg-name="Jovem Pan News HD [Alt]" tvg-logo="https://raphmx00.com/jovempannews.png" group-title="CANAIS | NOTÍCIAS",Jovem Pan News HD [Alt]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://flowinbler.net:80/paulotaguatinga/171652629170/183591
+#EXTINF:-1 tvg-id="lch5573" tvg-name="Jovem Pan News SD" tvg-logo="https://raphmx00.com/jovempannews.png" group-title="CANAIS | NOTÍCIAS",Jovem Pan News SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://flowinbler.net:80/paulotaguatinga/171652629170/147560
+#EXTINF:-1 tvg-id="br#nhk" tvg-name="NHK Japão FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/64/nhk.png" group-title="CANAIS | NOTÍCIAS",NHK Japão FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://flowinbler.net:80/paulotaguatinga/171652629170/183761
+#EXTINF:-1 tvg-id="br#record-news-hd" tvg-name="Record News FHD" tvg-logo="https://raphmx00.com/recordnews.png" group-title="CANAIS | NOTÍCIAS",Record News FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://flowinbler.net:80/paulotaguatinga/171652629170/139116
+#EXTINF:-1 tvg-id="br#record-news-hd" tvg-name="Record News HD" tvg-logo="https://raphmx00.com/recordnews.png" group-title="CANAIS | NOTÍCIAS",Record News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://flowinbler.net:80/paulotaguatinga/171652629170/83309
+#EXTINF:-1 tvg-id="br#record-news-hd" tvg-name="Record News SD" tvg-logo="https://raphmx00.com/recordnews.png" group-title="CANAIS | NOTÍCIAS",Record News SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://flowinbler.net:80/paulotaguatinga/171652629170/83612
+#EXTINF:-1 tvg-name="SBT News FHD" tvg-logo="https://raphmx00.com/sbtnews.png" group-title="CANAIS | NOTÍCIAS",SBT News FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://flowinbler.net:80/paulotaguatinga/171652629170/147564
+#EXTINF:-1 tvg-name="SBT News HD" tvg-logo="https://raphmx00.com/sbtnews.png" group-title="CANAIS | NOTÍCIAS",SBT News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://flowinbler.net:80/paulotaguatinga/171652629170/147570
+#EXTINF:-1 tvg-name="SBT News SD" tvg-logo="https://raphmx00.com/sbtnews.png" group-title="CANAIS | NOTÍCIAS",SBT News SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://flowinbler.net:80/paulotaguatinga/171652629170/147571
 
-
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News FHD" tvg-logo="https://imgur.com/QegcPKB.jpeg" group-title="Canais | Noticias",Band News FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/17598.ts
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News FHD [H265]" tvg-logo="https://imgur.com/QegcPKB.jpeg" group-title="Canais | Noticias",Band News FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/113206.ts
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News HD" tvg-logo="https://imgur.com/QegcPKB.jpeg" group-title="Canais | Noticias",Band News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/17600.ts
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News SD" tvg-logo="https://imgur.com/QegcPKB.jpeg" group-title="Canais | Noticias",Band News SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/17602.ts
-#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Brasil FHD" tvg-logo="https://imgur.com/mQpuTGf.jpeg" group-title="Canais | Noticias",CNN Brasil FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/17538.ts
-#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Brasil FHD [H265]" tvg-logo="https://imgur.com/mQpuTGf.jpeg" group-title="Canais | Noticias",CNN Brasil FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/113207.ts
-#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Brasil HD" tvg-logo="https://imgur.com/mQpuTGf.jpeg" group-title="Canais | Noticias",CNN Brasil HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/17540.ts
-#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Brasil SD" tvg-logo="https://imgur.com/mQpuTGf.jpeg" group-title="Canais | Noticias",CNN Brasil SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/17542.ts
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News FHD" tvg-logo="https://imgur.com/Ob8jjKR.jpeg" group-title="Canais | Noticias",Globo News FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/17782.ts
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News FHD [H265]" tvg-logo="https://imgur.com/Ob8jjKR.jpeg" group-title="Canais | Noticias",Globo News FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/113205.ts
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News HD" tvg-logo="https://imgur.com/Ob8jjKR.jpeg" group-title="Canais | Noticias",Globo News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/17784.ts
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News SD" tvg-logo="https://imgur.com/Ob8jjKR.jpeg" group-title="Canais | Noticias",Globo News SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/17786.ts
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News FHD" tvg-logo="https://imgur.com/7gyWZD2.jpeg" group-title="Canais | Noticias",Record News FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/17532.ts
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS FHD [H265]" tvg-logo="https://imgur.com/7gyWZD2.jpeg" group-title="Canais | Noticias",RECORD NEWS FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/113208.ts
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News HD" tvg-logo="https://imgur.com/7gyWZD2.jpeg" group-title="Canais | Noticias",Record News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/17534.ts
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News SD" tvg-logo="https://imgur.com/7gyWZD2.jpeg" group-title="Canais | Noticias",Record News SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/17535.ts
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="JOVEM PAN HD" tvg-logo="https://i.ibb.co/pXLs2kF/B4-CC438-E-6-B28-49-A7-989-A-075427-AD39-AA.jpg" group-title="Canais | Noticias",JOVEM PAN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/438849.ts
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="JOVEM PAN FHD" tvg-logo="https://i.ibb.co/pXLs2kF/B4-CC438-E-6-B28-49-A7-989-A-075427-AD39-AA.jpg" group-title="Canais | Noticias",JOVEM PAN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/438850.ts
-#EXTINF:-1 tvg-name="CNN INTERNACIONAL HD" tvg-logo="https://imgur.com/mQpuTGf.jpeg" group-title="Canais | Noticias",CNN INTERNACIONAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/455183.ts
-#EXTINF:-1 tvg-name="CNN INTERNACIONAL SD" tvg-logo="https://imgur.com/mQpuTGf.jpeg" group-title="Canais | Noticias",CNN INTERNACIONAL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/455184.ts
-#EXTINF:-1 tvg-name="NHK WORLD SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/200px-NHK_World.svg.png" group-title="Canais | Noticias",NHK WORLD SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/1100398.ts
-#EXTINF:-1 tvg-name="NHK WORLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/200px-NHK_World.svg.png" group-title="Canais | Noticias",NHK WORLD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/1100399.ts
-#EXTINF:-1 tvg-id="jovempannews.br" tvg-name="JOVEM PAN FHD [H265]" tvg-logo="https://i.ibb.co/pXLs2kF/B4-CC438-E-6-B28-49-A7-989-A-075427-AD39-AA.jpg" group-title="Canais | Noticias",JOVEM PAN FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/1828826.ts
-#EXTINF:-1 tvg-id="jovempannews.br" tvg-name="JOVEM PAN SD" tvg-logo="https://i.ibb.co/pXLs2kF/B4-CC438-E-6-B28-49-A7-989-A-075427-AD39-AA.jpg" group-title="Canais | Noticias",JOVEM PAN SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdnrez.xyz:80/42048671/18672923/1828827.ts
 
 
 
