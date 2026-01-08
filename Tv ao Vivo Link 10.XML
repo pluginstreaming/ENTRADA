@@ -657,7 +657,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 
 
 
-
+#EXTINF:-1 tvg-name="SBT NEWS FHD" tvg-logo="http://cddn.cddclox.store:80/images/8nM1KjqfjUKglXPsZCMX_CeFAP22KIrpcj5sq9LMrRqLLdlHa7r12iDPj4poPYB0qTmywoOxo6YFnDyGK_C_ow.png" group-title="CANAIS | NOTICIAS",Sbt News FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cddn.cddclox.store:80/Valdivino12frs/966657086yts/273443
 #EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS FHD" tvg-logo="https://lh3.googleusercontent.com/-2zKhIgG2QGA/YB60S40BVaI/AAAAAAAAJ_k/GqXLkvpbUV87r0-8FudkjaqFDFdtnP-KgCLcBGAsYHQ/BAND%2BNEWS.png" group-title="NOTICIAS ",BAND NEWS FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://d1212.com/08142650077/09806312907/168733
 #EXTINF:-1 tvg-id="São.Paulo/SP..Canal.Rural.br" tvg-name="BAND NEWS H265" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhonbKH5w0XLIk1EIxB_dZjc9sPIF3UaKGS5sw-NjABEPFy4EsJQClT5AbqBYuxh52GCmgJpA710-JuVdAT3rtt-GNsj7qBQLBzyJyfAHb-q6FCtdyGJBYeiCBYtpu9S1prEWtl125e4pO7KaeBtxHenlHjjYjvQJ8vox6U5j0rx9VLlC_VJbF3-kLx" group-title="NOTICIAS ",BAND NEWS H265
