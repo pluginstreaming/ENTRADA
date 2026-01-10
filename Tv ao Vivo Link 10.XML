@@ -3,6 +3,21 @@
 
 
 
+#EXTINF:-1 tvg-name="BBB 26 - Casa de Vidro AM" tvg-logo="https://raphmx00.com/bbb.jpg" group-title="Reality: BBB 26",BBB 26 - Casa de Vidro AM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://flowinbler.net:80/034534928959/682920997358/191635
+#EXTINF:-1 tvg-name="BBB 26 - Casa de Vidro BA" tvg-logo="https://raphmx00.com/bbb.jpg" group-title="Reality: BBB 26",BBB 26 - Casa de Vidro BA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://flowinbler.net:80/034534928959/682920997358/147453
+#EXTINF:-1 tvg-name="BBB 26 - Casa de Vidro DF" tvg-logo="https://raphmx00.com/bbb.jpg" group-title="Reality: BBB 26",BBB 26 - Casa de Vidro DF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://flowinbler.net:80/034534928959/682920997358/179431
+#EXTINF:-1 tvg-name="BBB 26 - Casa de Vidro SP" tvg-logo="https://raphmx00.com/bbb.jpg" group-title="Reality: BBB 26",BBB 26 - Casa de Vidro SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://flowinbler.net:80/034534928959/682920997358/179432
+#EXTINF:-1 tvg-name="BBB 26 - Casa de Vidro RS" tvg-logo="https://raphmx00.com/bbb.jpg" group-title="Reality: BBB 26",BBB 26 - Casa de Vidro RS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://flowinbler.net:80/034534928959/682920997358/179433
+
+
+
+
+
 #EXTINF:-1 tvg-name="24H 3 PALAVRINHAS" tvg-logo="https://images2.imgbox.com/b9/b6/aS8PJLEg_o.png" group-title="CANAIS | 24HRS",24H 3 PALAVRINHAS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://espetinhos.cdnjsplaytpp.online:80/SpdGVB6tqmC/SsFN9iCWmYE/96566
 #EXTINF:-1 tvg-name="24H 44 GATOS" tvg-logo="https://images2.imgbox.com/b9/b6/aS8PJLEg_o.png" group-title="CANAIS | 24HRS",24H 44 GATOS
