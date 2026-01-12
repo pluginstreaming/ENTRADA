@@ -3,6 +3,21 @@
 
 
 
+#EXTINF:-1 tvg-name="BBB 26 CAM 1" group-title="✨REALITY BBB 26",BBB 26 CAM 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/6475227.ts
+#EXTINF:-1 tvg-name="BBB 26 CAM 2" group-title="✨REALITY BBB 26",BBB 26 CAM 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/6475230.ts
+#EXTINF:-1 tvg-name="BBB 26 CAM 3" group-title="✨REALITY BBB 26",BBB 26 CAM 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/6475231.ts
+#EXTINF:-1 tvg-name="BBB 26 CAM 4" group-title="✨REALITY BBB 26",BBB 26 CAM 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/6475232.ts
+#EXTINF:-1 tvg-name="BBB 26 CAM 5" group-title="✨REALITY BBB 26",BBB 26 CAM 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/6475233.ts
+
+
+
+
+
 #EXTINF:-1 tvg-name="A FAZENDA 1" tvg-logo="http://ixi.paineluhd.club:80/images/bbfcce7306ed9296d458fc56813839be.jpg" group-title="✨REALITY A FAZENDA 17",A FAZENDA 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/6270787.ts
 #EXTINF:-1 tvg-name="A FAZENDA CAM 2" tvg-logo="http://ixi.paineluhd.club:80/images/bbfcce7306ed9296d458fc56813839be.jpg" group-title="✨REALITY A FAZENDA 17",A FAZENDA CAM 2
