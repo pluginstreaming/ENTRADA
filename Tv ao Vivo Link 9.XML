@@ -18,27 +18,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@
 
 
 
-#EXTINF:-1 tvg-name="A FAZENDA 1" tvg-logo="http://ixi.paineluhd.club:80/images/bbfcce7306ed9296d458fc56813839be.jpg" group-title="✨REALITY A FAZENDA 17",A FAZENDA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/6270787.ts
-#EXTINF:-1 tvg-name="A FAZENDA CAM 2" tvg-logo="http://ixi.paineluhd.club:80/images/bbfcce7306ed9296d458fc56813839be.jpg" group-title="✨REALITY A FAZENDA 17",A FAZENDA CAM 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/6290178.ts
-#EXTINF:-1 tvg-name="A FAZENDA CAM 3" tvg-logo="http://ixi.paineluhd.club:80/images/bbfcce7306ed9296d458fc56813839be.jpg" group-title="✨REALITY A FAZENDA 17",A FAZENDA CAM 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/6290179.ts
-#EXTINF:-1 tvg-name="A FAZENDA CAM 4" tvg-logo="http://ixi.paineluhd.club:80/images/bbfcce7306ed9296d458fc56813839be.jpg" group-title="✨REALITY A FAZENDA 17",A FAZENDA CAM 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/6290180.ts
-#EXTINF:-1 tvg-name="A FAZENDA CAM 5" tvg-logo="http://ixi.paineluhd.club:80/images/bbfcce7306ed9296d458fc56813839be.jpg" group-title="✨REALITY A FAZENDA 17",A FAZENDA CAM 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/6290181.ts
-#EXTINF:-1 tvg-name="A FAZENDA CAM 6" tvg-logo="http://ixi.paineluhd.club:80/images/bbfcce7306ed9296d458fc56813839be.jpg" group-title="✨REALITY A FAZENDA 17",A FAZENDA CAM 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/6290182.ts
-#EXTINF:-1 tvg-name="A FAZENDA CAM 7" tvg-logo="http://ixi.paineluhd.club:80/images/bbfcce7306ed9296d458fc56813839be.jpg" group-title="✨REALITY A FAZENDA 17",A FAZENDA CAM 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/6290183.ts
-#EXTINF:-1 tvg-name="A FAZENDA CAM 8" tvg-logo="http://ixi.paineluhd.club:80/images/bbfcce7306ed9296d458fc56813839be.jpg" group-title="✨REALITY A FAZENDA 17",A FAZENDA CAM 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/6290184.ts
-
-
-
-
-
 #EXTINF:-1 tvg-id="São.Paulo/SP..Agro.Mais.br" tvg-name="AGRO+ FHD" tvg-logo="http://ixi.paineluhd.club:80/images/0d1eb6c8a1bc30ba6454eb2ab48266ed.png" group-title="✨ABERTOS",AGRO+ FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/6.ts
 #EXTINF:-1 tvg-id="Canal Brasil SD" tvg-name="TV BRASIL FHD" tvg-logo="http://ixi.paineluhd.club:80/images/ae774b8cbf672f48bf845f9a8c20d2ef.png" group-title="✨ABERTOS",TV BRASIL FHD
