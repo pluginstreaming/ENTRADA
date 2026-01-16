@@ -3,28 +3,19 @@
 
 
 
-
-#EXTINF:-1 tvg-name="BBB CAM 1¹" tvg-logo="http://32q0d.xyz/images/logo-bbb-24.png" ,BBB CAM 1¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblue.site:80/56384415/59544886/1727085
-#EXTINF:-1 tvg-name="BBB CAM 2²" tvg-logo="http://32q0d.xyz/images/logo-bbb-24.png" ,BBB CAM 2²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblue.site:80/56384415/59544886/1727098
-#EXTINF:-1 tvg-name="BBB CAM 3¹" tvg-logo="http://32q0d.xyz/images/logo-bbb-24.png" ,BBB CAM 3¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblue.site:80/56384415/59544886/1727087
-#EXTINF:-1 tvg-name="BBB CAM 4²" tvg-logo="http://32q0d.xyz/images/logo-bbb-24.png" ,BBB CAM 4²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblue.site:80/56384415/59544886/1727100
-#EXTINF:-1 tvg-name="BBB CAM 4¹" tvg-logo="http://32q0d.xyz/images/logo-bbb-24.png" ,BBB CAM 4¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblue.site:80/56384415/59544886/1727088
-#EXTINF:-1 tvg-name="BBB CAM 5²" tvg-logo="http://32q0d.xyz/images/logo-bbb-24.png" ,BBB CAM 5²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblue.site:80/56384415/59544886/1727101
-#EXTINF:-1 tvg-name="BBB CAM 2¹" tvg-logo="http://32q0d.xyz/images/logo-bbb-24.png" ,BBB CAM 2¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblue.site:80/56384415/59544886/1727086
-#EXTINF:-1 tvg-name="BBB CAM 3²" tvg-logo="http://32q0d.xyz/images/logo-bbb-24.png" ,BBB CAM 3²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblue.site:80/56384415/59544886/1727099
-#EXTINF:-1 tvg-name="BBB CAM 5¹" tvg-logo="http://32q0d.xyz/images/logo-bbb-24.png" ,BBB CAM 5¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblue.site:80/56384415/59544886/1727089
-#EXTINF:-1 tvg-name="BBB CAM 6²" tvg-logo="http://32q0d.xyz/images/logo-bbb-24.png" ,BBB CAM 6²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblue.site:80/56384415/59544886/1727102
-
-
-
-
+#EXTINF:-1 tvg-name="BBB 26 CAM 1" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" ",BBB 26 CAM 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/6475227.ts
+#EXTINF:-1 tvg-name="BBB 26 CAM 2" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" ",BBB 26 CAM 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/6475230.ts
+#EXTINF:-1 tvg-name="BBB 26 CAM 3" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" ",BBB 26 CAM 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/6475231.ts
+#EXTINF:-1 tvg-name="BBB 26 CAM 4" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" ",BBB 26 CAM 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/6475232.ts
+#EXTINF:-1 tvg-name="BBB 26 CAM 5" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" ",BBB 26 CAM 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/6475233.ts
+#EXTINF:-1 tvg-name="BBB 26 CAM 6" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" ",BBB 26 CAM 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/6475238.ts
+#EXTINF:-1 tvg-name="BBB 26 CAM 7" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" ",BBB 26 CAM 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/6475239.ts
+#EXTINF:-1 tvg-name="BBB 26 MOSAICO" ",BBB 26 MOSAICO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/6475241.ts
