@@ -3,36 +3,29 @@
 
 
 
-
-
-#EXTINF:-1 tvg-name="BBB 01" tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" ,BBB 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ch.chevette.xyz:8080/EmersonFerreira/12857101/1271892
-#EXTINF:-1 tvg-name="BBB 02" tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" ,BBB 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ch.chevette.xyz:8080/EmersonFerreira/12857101/1271891
-#EXTINF:-1 tvg-name="BBB 03" tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" ,BBB 03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ch.chevette.xyz:8080/EmersonFerreira/12857101/1271890
-#EXTINF:-1 tvg-name="Quarto Sonho de Eternidade" tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" ,Quarto Sonho de Eternidade
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ch.chevette.xyz:8080/EmersonFerreira/12857101/1271889
-#EXTINF:-1 tvg-name="Quarto Sonho de Voar" tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" ,Quarto Sonho de Voar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ch.chevette.xyz:8080/EmersonFerreira/12857101/1271888
-#EXTINF:-1 tvg-name="Quarto Sonho do Grande Amor" tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" ,Quarto Sonho do Grande Amor
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ch.chevette.xyz:8080/EmersonFerreira/12857101/1271887
-#EXTINF:-1 tvg-name="Cozinha" tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" ,Cozinha
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ch.chevette.xyz:8080/EmersonFerreira/12857101/1278716
-#EXTINF:-1 tvg-name="Banheiro Super Cimed" tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" ,Banheiro Super Cimed
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ch.chevette.xyz:8080/EmersonFerreira/12857101/1278717
-#EXTINF:-1 tvg-name="Sala Sonho de Ser Milionário" tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" ,Sala Sonho de Ser Milionário
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ch.chevette.xyz:8080/EmersonFerreira/12857101/1278718
-#EXTINF:-1 tvg-name="Quarto Branco" tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" ,Quarto Branco
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ch.chevette.xyz:8080/EmersonFerreira/12857101/1278719
-#EXTINF:-1 tvg-name="Academia Nivea" tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" ,Academia Nivea
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ch.chevette.xyz:8080/EmersonFerreira/12857101/1278720
-#EXTINF:-1 tvg-name="Mosaico" tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" ,Mosaico
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ch.chevette.xyz:8080/EmersonFerreira/12857101/1278721
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-name="BBB 01" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" ,BBB 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/Peter1000/131689pet/4037455.ts
+#EXTINF:-1 tvg-name="BBB 02" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" ,BBB 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/Peter1000/131689pet/4037456.ts
+#EXTINF:-1 tvg-name="BBB 03" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" ,BBB 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/Peter1000/131689pet/4037457.ts
+#EXTINF:-1 tvg-name="BBB 04" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" ,BBB 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/Peter1000/131689pet/4037458.ts
+#EXTINF:-1 tvg-name="BBB 05" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" ,BBB 05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/Peter1000/131689pet/4037459.ts
+#EXTINF:-1 tvg-name="BBB 06" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" ,BBB 06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/Peter1000/131689pet/4037460.ts
+#EXTINF:-1 tvg-name="BBB 07" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" ,BBB 07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/Peter1000/131689pet/4037461.ts
+#EXTINF:-1 tvg-name="BBB 08" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" ,BBB 08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/Peter1000/131689pet/4037462.ts
+#EXTINF:-1 tvg-name="BBB 09" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" ,BBB 09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/Peter1000/131689pet/4037463.ts
+#EXTINF:-1 tvg-name="BBB 10" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" ,BBB 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/Peter1000/131689pet/4037464.ts
+#EXTINF:-1 tvg-name="BBB 11" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" ,BBB 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/Peter1000/131689pet/4037465.ts
+#EXTINF:-1 tvg-name="BBB 12" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" ,BBB 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/Peter1000/131689pet/4037466.ts
+#EXTINF:-1 tvg-name="BBB MOSAICO²" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" ,BBB MOSAICO²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/Peter1000/131689pet/4038945.ts
