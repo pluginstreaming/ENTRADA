@@ -3,295 +3,209 @@
 
 
 
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT: RTP 1 (4K)" tvg-logo="https://img-cdn.curl.pk/channels_icon/17804697521.png" ,PT: RTP 1 (4K)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/306921
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT: RTP 1 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/43939679791.png" ,PT: RTP 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307910
-#EXTINF:-1 tvg-name="PT: RTP 1 FHD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/43939679791.png" ,PT: RTP 1 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307233
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT: Rtp 1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/17804697521.png" ,PT: Rtp 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307909
-#EXTINF:-1 tvg-name="PT: RTP 2 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/22211805931.png" ,PT: RTP 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307912
-#EXTINF:-1 tvg-name="PT: RTP 2 FHD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/22211805931.png" ,PT: RTP 2 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307236
-#EXTINF:-1 tvg-name="PT: RTP 2" tvg-logo="https://img-cdn.curl.pk/channels_icon/13414514141.png" ,PT: RTP 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307911
-#EXTINF:-1 tvg-id="rtp3.pt" tvg-name="PT: RTP 3 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/23418126101.png" ,PT: RTP 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307245
-#EXTINF:-1 tvg-id="rtp3.pt" tvg-name="PT: RTP 3 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/23418126101.png" ,PT: RTP 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307246
-#EXTINF:-1 tvg-name="PT: Rtp Memoria HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/41006834241.png" ,PT: Rtp Memoria HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307922
-#EXTINF:-1 tvg-name="PT: Rtp Memoria" tvg-logo="https://img-cdn.curl.pk/channels_icon/15079158191.png" ,PT: Rtp Memoria
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307929
-#EXTINF:-1 tvg-name="PT: Rtp Acores" tvg-logo="https://img-cdn.curl.pk/channels_icon/26661114841.png" ,PT: Rtp Acores
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307930
-#EXTINF:-1 tvg-name="PT : Rtp Africa" tvg-logo="http://3.bp.blogspot.com/-kH1ArIrLYQk/Tyu5Y2UGmZI/AAAAAAAAECA/oYAkmG4Xts8/s500/RTP+%C3%81frica+logo+2012.png" ,PT : Rtp Africa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307931
-#EXTINF:-1 tvg-name="PT:  RTP AFRICA*" tvg-logo="http://3.bp.blogspot.com/-kH1ArIrLYQk/Tyu5Y2UGmZI/AAAAAAAAECA/oYAkmG4Xts8/s500/RTP+%C3%81frica+logo+2012.png" ,PT:  RTP AFRICA*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307175
-#EXTINF:-1 tvg-name="PT: RTP Madeira" tvg-logo="https://img-cdn.curl.pk/channels_icon/22947880041.png" ,PT: RTP Madeira
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307932
-#EXTINF:-1 tvg-name="PT: RTP MADEIRA*" tvg-logo="https://img-cdn.curl.pk/channels_icon/22947880041.png" ,PT: RTP MADEIRA*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307290
-#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="PT: CmTV FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/60915977351.png" ,PT: CmTV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307921
-#EXTINF:-1 tvg-name="PT: CmTV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/60915977351.png" ,PT: CmTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307920
-#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="PT: CMTV SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/60915977351.png" ,PT: CMTV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307256
-#EXTINF:-1 tvg-name="PT: TVi FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/22170395081.png" ,PT: TVi FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307916
-#EXTINF:-1 tvg-id="tvi.pt" tvg-name="PT | Tvi HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/42512950521.png" ,PT | Tvi HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/306930
-#EXTINF:-1 tvg-id="sic.pt" tvg-name="PT: SIC FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/86644693631.png" ,PT: SIC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307239
-#EXTINF:-1 tvg-id="sic.pt" tvg-name="PT: SIC HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/81407902831.png" ,PT: SIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/306928
-#EXTINF:-1 tvg-id="sic.pt" tvg-name="PT: SIC HD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/81407902831.png" ,PT: SIC HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307913
-#EXTINF:-1 tvg-id="sic.pt" tvg-name="PT: SIC SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/86644693631.png" ,PT: SIC SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307241
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="PT: SIC NOTICIAS FHD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/16448639021.png" ,PT: SIC NOTICIAS FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307248
-#EXTINF:-1 tvg-name="PT: Sic Noticias HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/16448639021.png" ,PT: Sic Noticias HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307917
-#EXTINF:-1 tvg-name="PT: Sic Mulher FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/74059577701.png" ,PT: Sic Mulher FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/306944
-#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="PT: Sic Mulher HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/74059577701.png" ,PT: Sic Mulher HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307923
-#EXTINF:-1 tvg-name="PT: Sic K" tvg-logo="https://img-cdn.curl.pk/channels_icon/56089926431.png" ,PT: Sic K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307980
-#EXTINF:-1 tvg-name="PT: Sic Caras TV" tvg-logo="https://img-cdn.curl.pk/channels_icon/68173814971.png" ,PT: Sic Caras TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308021
-#EXTINF:-1 tvg-name="PT: Sic Radical HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/57118826571.png" ,PT: Sic Radical HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308022
-#EXTINF:-1 tvg-name="PT: TV GLOBO HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/5cf47c581bc47e54c8ad60eb36905077.png" ,PT: TV GLOBO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307907
-#EXTINF:-1 tvg-name="PT: GLOBO" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/5cf47c581bc47e54c8ad60eb36905077.png" ,PT: GLOBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307060
-#EXTINF:-1 tvg-id="cnn.pt" tvg-name="PT: CNN FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/53676356811.png" ,PT: CNN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307251
-#EXTINF:-1 tvg-id="cnn.pt" tvg-name="PT: CNN HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/53676356811.png" ,PT: CNN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307252
-#EXTINF:-1 tvg-id="cnnportugal.pt" tvg-name="PT: Cnn HD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/53676356811.png" ,PT: Cnn HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307919
-#EXTINF:-1 tvg-name="PT : Globo Now" tvg-logo="https://img-cdn.curl.pk/channels_icon/39925561451.png" ,PT : Globo Now
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307924
-#EXTINF:-1 tvg-name="PT: Campo Pequeno HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/08b46795c81501edd370b990dc7220e3.png" ,PT: Campo Pequeno HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307908
-#EXTINF:-1 tvg-name="PT: TVi Ficcao HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/46248373441.png" ,PT: TVi Ficcao HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307926
-#EXTINF:-1 tvg-name="PT: Porto Canal HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/73667824231.png" ,PT: Porto Canal HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307928
-#EXTINF:-1 tvg-name="PT: Fuel TV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/90469150681.png" ,PT: Fuel TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307977
-#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="PT: DISNEY CHANNEL HD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/54765750151.png" ,PT: DISNEY CHANNEL HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307161
-#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="PT: Disney Channel" tvg-logo="https://img-cdn.curl.pk/channels_icon/54765750151.png" ,PT: Disney Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307979
-#EXTINF:-1 tvg-name="PT: Canal Panda" tvg-logo="https://img-cdn.curl.pk/chimg/3158357327.png" ,PT: Canal Panda
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307981
-#EXTINF:-1 tvg-name="PT: Biggs panda HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/22742066601.png" ,PT: Biggs panda HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307982
-#EXTINF:-1 tvg-name="PT: Biggs TV" tvg-logo="https://img-cdn.curl.pk/channels_icon/34803800881.png" ,PT: Biggs TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307983
-#EXTINF:-1 tvg-name="PT: Panda" tvg-logo="https://img-cdn.curl.pk/channels_icon/47162525621.png" ,PT: Panda
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307984
-#EXTINF:-1 tvg-name="PT: Panda Kids" tvg-logo="https://img-cdn.curl.pk/channels_icon/52434019501.png" ,PT: Panda Kids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307985
-#EXTINF:-1 tvg-name="PT: Disney Junior" tvg-logo="https://img-cdn.curl.pk/channels_icon/55899778191.png" ,PT: Disney Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307986
-#EXTINF:-1 tvg-name="PT: Baby TV" tvg-logo="https://img-cdn.curl.pk/channels_icon/66655447331.png" ,PT: Baby TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307987
-#EXTINF:-1 tvg-name="PT: Cartoon Network" tvg-logo="https://img-cdn.curl.pk/channels_icon/86188602831.png" ,PT: Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307988
-#EXTINF:-1 tvg-name="PT: Boomerang" tvg-logo="https://img-cdn.curl.pk/channels_icon/63092968721.png" ,PT: Boomerang
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307989
-#EXTINF:-1 tvg-name="PT: Nickelodeon" tvg-logo="https://img-cdn.curl.pk/channels_icon/92171401701.png" ,PT: Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307990
-#EXTINF:-1 tvg-name="PT: Nick Junior" tvg-logo="https://img-cdn.curl.pk/channels_icon/29017281861.png" ,PT: Nick Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307991
-#EXTINF:-1 tvg-id="tvcinetophd.pt" tvg-name="PT: TVCINE TOP HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/61630460641.png" ,PT: TVCINE TOP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307992
-#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT: TVCINE EDITION HD" tvg-logo="https://curl.pk/img/u/ca3d39221ad40dfc004455a4b786d7fc5314.png" ,PT: TVCINE EDITION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307993
-#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="PT | TVCINE EDITION HD*" tvg-logo="https://curl.pk/img/u/ca3d39221ad40dfc004455a4b786d7fc5314.png" ,PT | TVCINE EDITION HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307140
-#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="PT: TVCINE EMOTION HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/82230613441.png" ,PT: TVCINE EMOTION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307994
-#EXTINF:-1 tvg-name="PT: 	PT: TVCINE ACTION HD" tvg-logo="https://img-cdn.curl.pk/chimg/tvdd.jpg" ,PT: 	PT: TVCINE ACTION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307995
-#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TVCINE ACTION HD*" ,PT: TVCINE ACTION HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307144
-#EXTINF:-1 tvg-name="PT: Nos Studio HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/78918101611.png" ,PT: Nos Studio HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307996
-#EXTINF:-1 tvg-name="PT: Nos Studios HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/59575645571.png" ,PT: Nos Studios HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307997
-#EXTINF:-1 tvg-name="PT: Axn Movies HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/30526733641.png" ,PT: Axn Movies HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307998
-#EXTINF:-1 tvg-name="PT: Cinemundo HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/16246815381.png" ,PT: Cinemundo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307999
-#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="PT: HOLLYWOOD FHD" tvg-logo="https://curl.pk/img/u/be45e1383451d6a75773a06fe6c5f23f6649.png" ,PT: HOLLYWOOD FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307327
-#EXTINF:-1 tvg-id="amc.pt" tvg-name="PT: AMC FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/40666549701.png" ,PT: AMC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308001
-#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="PT: Hollywood HD" tvg-logo="https://curl.pk/img/u/be45e1383451d6a75773a06fe6c5f23f6649.png" ,PT: Hollywood HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308000
-#EXTINF:-1 tvg-id="amc.pt" tvg-name="PT | AMC HD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/40666549701.png" ,PT | AMC HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307010
-#EXTINF:-1 tvg-id="amc.pt" tvg-name="PT: AMC FHD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/40666549701.png" ,PT: AMC FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307357
-#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="PT: FOX MOVIES FHD" tvg-logo="https://curl.pk/img/u/9f13e852799059f723698e47590df1538500.png" ,PT: FOX MOVIES FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307372
-#EXTINF:-1 tvg-name="PT: Fox Movies HD" tvg-logo="https://curl.pk/img/u/9f13e852799059f723698e47590df1538500.png" ,PT: Fox Movies HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308002
-#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="PT: FOX MOVIES HD*" tvg-logo="https://curl.pk/img/u/9f13e852799059f723698e47590df1538500.png" ,PT: FOX MOVIES HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307148
-#EXTINF:-1 tvg-id="fox.pt" tvg-name="PT: FOX FHD" tvg-logo="https://curl.pk/img/u/ba14bcce17e7057aeaf9864947c467e97681.png" ,PT: FOX FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307369
-#EXTINF:-1 tvg-name="PT: Fox HD" tvg-logo="https://curl.pk/img/u/ba14bcce17e7057aeaf9864947c467e97681.png" ,PT: Fox HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308003
-#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="PT: FOX LIFE FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/89653555961.png" ,PT: FOX LIFE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307381
-#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="PT: Fox Life HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/89653555961.png" ,PT: Fox Life HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308004
-#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="PT: FOX LIFE SD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/89653555961.png" ,PT: FOX LIFE SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307383
-#EXTINF:-1 tvg-name="PT: Fox Crime HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/84144423851.png" ,PT: Fox Crime HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308005
-#EXTINF:-1 tvg-name="PT: Fox Comedy HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/75196109241.png" ,PT: Fox Comedy HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308006
-#EXTINF:-1 tvg-name="PT: Axn HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/97873457161.png" ,PT: Axn HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308007
-#EXTINF:-1 tvg-name="PT: Axn Movies" tvg-logo="https://img-cdn.curl.pk/channels_icon/81761198601.png" ,PT: Axn Movies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308008
-#EXTINF:-1 tvg-name="PT: Axn White HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/79266531791.png" ,PT: Axn White HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308009
-#EXTINF:-1 tvg-name="PT: Syfy" tvg-logo="https://img-cdn.curl.pk/channels_icon/50392196661.png" ,PT: Syfy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308010
-#EXTINF:-1 tvg-name="PT: Kuriakos tv" tvg-logo="https://img-cdn.curl.pk/channels_icon/26633587231.png" ,PT: Kuriakos tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308011
-#EXTINF:-1 tvg-name="PT: Zap Viva" tvg-logo="https://img-cdn.curl.pk/channels_icon/59375890121.png" ,PT: Zap Viva
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308012
-#EXTINF:-1 tvg-name="PT: Bbc Entertainement HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/28617623581.png" ,PT: Bbc Entertainement HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308013
-#EXTINF:-1 tvg-name="PT: Canal Nos" tvg-logo="https://img-cdn.curl.pk/channels_icon/88677490231.png" ,PT: Canal Nos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308014
-#EXTINF:-1 tvg-name="PT: Tpa" tvg-logo="https://img-cdn.curl.pk/channels_icon/20000658091.png" ,PT: Tpa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308015
-#EXTINF:-1 tvg-name="PT: Canal Q" tvg-logo="https://img-cdn.curl.pk/channels_icon/78497712031.png" ,PT: Canal Q
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308016
-#EXTINF:-1 tvg-name="PT: TVi Reality HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/86149968531.png" ,PT: TVi Reality HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308017
-#EXTINF:-1 tvg-name="PT: TVI REALITY CAM 1" tvg-logo="https://img-cdn.curl.pk/channels_icon/86149968531.png" ,PT: TVI REALITY CAM 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307403
-#EXTINF:-1 tvg-id="tvireality.pt" tvg-name="PT: TVI REALITY CAM 2" tvg-logo="https://img-cdn.curl.pk/channels_icon/86149968531.png" ,PT: TVI REALITY CAM 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307404
-#EXTINF:-1 tvg-name="PT: TVI REALITY CAM 3" tvg-logo="https://img-cdn.curl.pk/channels_icon/86149968531.png" ,PT: TVI REALITY CAM 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307405
-#EXTINF:-1 tvg-name="PT: TVI REALITY CAM 4" tvg-logo="https://img-cdn.curl.pk/channels_icon/86149968531.png" ,PT: TVI REALITY CAM 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307406
-#EXTINF:-1 tvg-name="PT: TVI REALITY MOSAICO" tvg-logo="https://img-cdn.curl.pk/channels_icon/19481596931.png" ,PT: TVI REALITY MOSAICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307402
-#EXTINF:-1 tvg-name="PT | TVI REALITY MOSAICO" tvg-logo="https://img-cdn.curl.pk/channels_icon/19481596931.png" ,PT | TVI REALITY MOSAICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307087
-#EXTINF:-1 tvg-name="PT: TVi Reality Mosaico" tvg-logo="https://img-cdn.curl.pk/channels_icon/19481596931.png" ,PT: TVi Reality Mosaico
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308018
-#EXTINF:-1 tvg-name="PT: MTV Portugal HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/70082929431.png" ,PT: MTV Portugal HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308019
-#EXTINF:-1 tvg-name="PT: E! Entertainement" tvg-logo="https://img-cdn.curl.pk/channels_icon/69450912331.png" ,PT: E! Entertainement
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308020
-#EXTINF:-1 tvg-name="PT: Tlc HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/69120615021.png" ,PT: Tlc HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308023
-#EXTINF:-1 tvg-name="PT: Break" tvg-logo="https://img-cdn.curl.pk/channels_icon/72035576531.png" ,PT: Break
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308024
-#EXTINF:-1 tvg-name="PT: Crime" tvg-logo="https://img-cdn.curl.pk/channels_icon/23442536161.png" ,PT: Crime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308025
-#EXTINF:-1 tvg-name="PT: Cbs Reality" tvg-logo="https://img-cdn.curl.pk/channels_icon/52629249451.png" ,PT: Cbs Reality
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308026
-#EXTINF:-1 tvg-id="investigationdiscovery.pt" tvg-name="PT: ID INVESTIGATION DISCOVERY HD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/28746553101.png" ,PT: ID INVESTIGATION DISCOVERY HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307294
-#EXTINF:-1 tvg-name="PT: Id Investigation Discovery" tvg-logo="https://img-cdn.curl.pk/channels_icon/28746553101.png" ,PT: Id Investigation Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308027
-#EXTINF:-1 tvg-name="PT: FTV" tvg-logo="https://img-cdn.curl.pk/channels_icon/77509115781.png" ,PT: FTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308028
-#EXTINF:-1 tvg-name="PT: Travel Channel HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/21020145101.png" ,PT: Travel Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308029
-#EXTINF:-1 tvg-name="PT: 24 Kitchen HD" tvg-logo="https://curl.pk/img/u/b0a6b33f8a6671b037ca508d61e8e25b7905.png" ,PT: 24 Kitchen HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308030
-#EXTINF:-1 tvg-name="PT: Casa E Cozinha FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/71640654511.png" ,PT: Casa E Cozinha FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308031
-#EXTINF:-1 tvg-name="PT: Food Network HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/44322432661.png" ,PT: Food Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308032
-#EXTINF:-1 tvg-id="discoverychannelhd.pt" tvg-name="PT: Discovery Channel FHD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/88410116651.png" ,PT: Discovery Channel FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/307050
-#EXTINF:-1 tvg-name="PT: Discovery Channel HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/88410116651.png" ,PT: Discovery Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308033
-#EXTINF:-1 tvg-name="PT: Historia" tvg-logo="https://img-cdn.curl.pk/channels_icon/27757584771.png" ,PT: Historia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308034
-#EXTINF:-1 tvg-name="PT: National Geographic HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/95796722021.png" ,PT: National Geographic HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308035
-#EXTINF:-1 tvg-name="PT: National Geographic Wild HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/11604061511.png" ,PT: National Geographic Wild HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308036
-#EXTINF:-1 tvg-name="PT: Odisseia HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/19749495821.png" ,PT: Odisseia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308037
-#EXTINF:-1 tvg-name="PT: Trace Urban" tvg-logo="https://img-cdn.curl.pk/channels_icon/43061905391.png" ,PT: Trace Urban
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308038
-#EXTINF:-1 tvg-name="PT: Trace Toca" tvg-logo="https://img-cdn.curl.pk/channels_icon/16833631491.png" ,PT: Trace Toca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308039
-#EXTINF:-1 tvg-name="PT: Lolly Kids" tvg-logo="https://img-cdn.curl.pk/channels_icon/32855311591.png" ,PT: Lolly Kids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308040
-#EXTINF:-1 tvg-name="PT: Mcm Pop TV" tvg-logo="https://img-cdn.curl.pk/channels_icon/49537779331.png" ,PT: Mcm Pop TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308041
-#EXTINF:-1 tvg-name="PT: Afro Music TV" tvg-logo="https://img-cdn.curl.pk/channels_icon/34137642891.png" ,PT: Afro Music TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308042
-#EXTINF:-1 tvg-name="PT: Mezzo" tvg-logo="https://img-cdn.curl.pk/channels_icon/69976061551.png" ,PT: Mezzo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308043
-#EXTINF:-1 tvg-name="PT: Caca Vision" tvg-logo="https://img-cdn.curl.pk/channels_icon/84940815531.png" ,PT: Caca Vision
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308044
-#EXTINF:-1 tvg-name="PT: Caca E Pesca" tvg-logo="https://img-cdn.curl.pk/channels_icon/16079708481.png" ,PT: Caca E Pesca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308045
-#EXTINF:-1 tvg-name="PT: Toros TV" tvg-logo="https://img-cdn.curl.pk/channels_icon/29190947471.png" ,PT: Toros TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308046
-#EXTINF:-1 tvg-name="PT: TV Record HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/41237829891.png" ,PT: TV Record HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308047
-#EXTINF:-1 tvg-name="PT: Cancao Nova TV" tvg-logo="https://img-cdn.curl.pk/chimg/5753674916.png" ,PT: Cancao Nova TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308048
-#EXTINF:-1 tvg-name="PT: Kuriakos TV" tvg-logo="https://img-cdn.curl.pk/channels_icon/82051773691.png" ,PT: Kuriakos TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308049
-#EXTINF:-1 tvg-name="PT: ArTV" tvg-logo="https://img-cdn.curl.pk/channels_icon/98755693151.png" ,PT: ArTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308050
-#EXTINF:-1 tvg-name="PT: Euronews" tvg-logo="https://img-cdn.curl.pk/channels_icon/62906044401.png" ,PT: Euronews
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308051
-#EXTINF:-1 tvg-name="PT: Sky News" tvg-logo="https://img-cdn.curl.pk/channels_icon/79953486561.png" ,PT: Sky News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308052
-#EXTINF:-1 tvg-name="PT: Bbc World News" tvg-logo="https://img-cdn.curl.pk/channels_icon/80350158131.png" ,PT: Bbc World News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308053
-#EXTINF:-1 tvg-name="PT: Cnbc" tvg-logo="https://img-cdn.curl.pk/channels_icon/60236946501.png" ,PT: Cnbc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308054
-#EXTINF:-1 tvg-name="PT: Bloomberg" tvg-logo="https://img-cdn.curl.pk/channels_icon/31401948611.png" ,PT: Bloomberg
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308055
-#EXTINF:-1 tvg-name="PT: TV Galicia" tvg-logo="https://img-cdn.curl.pk/channels_icon/38231385541.png" ,PT: TV Galicia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308056
-#EXTINF:-1 tvg-name="PT: TVe Internacional" tvg-logo="https://img-cdn.curl.pk/chimg/9067558444.png" ,PT: TVe Internacional
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308057
-#EXTINF:-1 tvg-name="PT: TVe 24h" tvg-logo="https://img-cdn.curl.pk/chimg/3637508939.png" ,PT: TVe 24h
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308058
-#EXTINF:-1 tvg-name="PT: TV5 Monde" tvg-logo="https://img-cdn.curl.pk/channels_icon/86732692671.png" ,PT: TV5 Monde
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308059
-#EXTINF:-1 tvg-name="PT: Nba TV" tvg-logo="https://img-cdn.curl.pk/channels_icon/15105191281.png" ,PT: Nba TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308060
-#EXTINF:-1 tvg-name="PT: Tpa Internacional" tvg-logo="https://img-cdn.curl.pk/channels_icon/82096436911.png" ,PT: Tpa Internacional
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308061
-#EXTINF:-1 tvg-name="PT: Nat Geo Wild" tvg-logo="https://img-cdn.curl.pk/channels_icon/65511860511.png" ,PT: Nat Geo Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308062
-#EXTINF:-1 tvg-name="PT: MTV Live HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/42769127461.png" ,PT: MTV Live HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308063
-#EXTINF:-1 tvg-name="PT: MCM TOP" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/72a5fc31f58b2a615db0735a2df3a2f5.png" ,PT: MCM TOP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308064
-#EXTINF:-1 tvg-name="PT: Tcv Internacional" tvg-logo="https://img-cdn.curl.pk/channels_icon/58481678341.png" ,PT: Tcv Internacional
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308065
-#EXTINF:-1 tvg-name="PT: Canal 180" tvg-logo="https://img-cdn.curl.pk/channels_icon/17061220331.png" ,PT: Canal 180
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://7smartvplayers.top:8080/hugo9109/ads590651/308066
+#EXTINF:-1 tvg-name="PT ● 24 Kitchen" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● 24 Kitchen
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549572.ts
+#EXTINF:-1 tvg-name="PT ● A Bola" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● A Bola
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549573.ts
+#EXTINF:-1 tvg-name="PT ● AMC" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549574.ts
+#EXTINF:-1 tvg-name="PT ● AMC Crime" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● AMC Crime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549575.ts
+#EXTINF:-1 tvg-name="PT ● ARTV" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● ARTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549576.ts
+#EXTINF:-1 tvg-name="PT ● AXN" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549577.ts
+#EXTINF:-1 tvg-name="PT ● AXN Movies" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● AXN Movies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549578.ts
+#EXTINF:-1 tvg-name="PT ● AXN White" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● AXN White
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549579.ts
+#EXTINF:-1 tvg-name="PT ● Al Jazeera" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Al Jazeera
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549580.ts
+#EXTINF:-1 tvg-name="PT ● Baby TV" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Baby TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549581.ts
+#EXTINF:-1 tvg-name="PT ● Benfica TV" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Benfica TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549582.ts
+#EXTINF:-1 tvg-name="PT ● Biggs" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Biggs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549583.ts
+#EXTINF:-1 tvg-name="PT ● AMC Break" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● AMC Break
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549585.ts
+#EXTINF:-1 tvg-name="PT ● CMTV" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● CMTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549586.ts
+#EXTINF:-1 tvg-name="PT ● CNBC" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● CNBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549588.ts
+#EXTINF:-1 tvg-name="PT ● CNN Internacional" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● CNN Internacional
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549589.ts
+#EXTINF:-1 tvg-name="PT ● CNN Portugal" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● CNN Portugal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549590.ts
+#EXTINF:-1 tvg-name="PT ● Canal 11" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Canal 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549591.ts
+#EXTINF:-1 tvg-name="PT ● Canal Historia" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Canal Historia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549592.ts
+#EXTINF:-1 tvg-name="PT ● Canal Hollywood" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Canal Hollywood
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549593.ts
+#EXTINF:-1 tvg-name="PT ● Canal Panda" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Canal Panda
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549594.ts
+#EXTINF:-1 tvg-name="PT ● Canal Q" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Canal Q
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549595.ts
+#EXTINF:-1 tvg-name="PT ● Cancao Nova" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Cancao Nova
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549596.ts
+#EXTINF:-1 tvg-name="PT ● Cartoon Network" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549597.ts
+#EXTINF:-1 tvg-name="PT ● Dizi Channel" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Dizi Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549598.ts
+#EXTINF:-1 tvg-name="PT ● Casa e Cozinha" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Casa e Cozinha
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549599.ts
+#EXTINF:-1 tvg-name="PT ● Cinemundo" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Cinemundo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549600.ts
+#EXTINF:-1 tvg-name="PT ● Discovery Channel" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Discovery Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549601.ts
+#EXTINF:-1 tvg-name="PT ● Disney Channel" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549602.ts
+#EXTINF:-1 tvg-name="PT ● Disney Junior" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549603.ts
+#EXTINF:-1 tvg-name="PT ● Fama TV" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Fama TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549604.ts
+#EXTINF:-1 tvg-name="PT ● E!" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● E!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549605.ts
+#EXTINF:-1 tvg-name="PT ● Dazn 1" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Dazn 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549606.ts
+#EXTINF:-1 tvg-name="PT ● Dazn 2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Dazn 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549607.ts
+#EXTINF:-1 tvg-name="PT ● Dazn 3" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Dazn 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549608.ts
+#EXTINF:-1 tvg-name="PT ● Dazn 4" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Dazn 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549609.ts
+#EXTINF:-1 tvg-name="PT ● Dazn 5" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Dazn 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549610.ts
+#EXTINF:-1 tvg-name="PT ● Dazn 6" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Dazn 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549611.ts
+#EXTINF:-1 tvg-name="PT ● Euro News" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Euro News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549612.ts
+#EXTINF:-1 tvg-name="PT ● Euro Sport 1" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Euro Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549613.ts
+#EXTINF:-1 tvg-name="PT ● Euro Sport 2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Euro Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549614.ts
+#EXTINF:-1 tvg-name="PT ● Star Life" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Star Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549615.ts
+#EXTINF:-1 tvg-name="PT ● Caca e Pesca" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Caca e Pesca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549616.ts
+#EXTINF:-1 tvg-name="PT ● Syfy" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Syfy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549617.ts
+#EXTINF:-1 tvg-name="PT ● Nos Studios" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Nos Studios
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549618.ts
+#EXTINF:-1 tvg-name="PT ● Aljazeera" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Aljazeera
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549619.ts
+#EXTINF:-1 tvg-name="PT ● V+ TVI" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● V+ TVI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549620.ts
+#EXTINF:-1 tvg-name="PT ● TVI Internacional" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● TVI Internacional
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549621.ts
+#EXTINF:-1 tvg-name="PT ● Fuel TV" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Fuel TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549622.ts
+#EXTINF:-1 tvg-name="PT ● Globo Internacional" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Globo Internacional
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549623.ts
+#EXTINF:-1 tvg-name="PT ● Kuriakos TV" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Kuriakos TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549624.ts
+#EXTINF:-1 tvg-name="PT ● Zap Viva" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Zap Viva
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549625.ts
+#EXTINF:-1 tvg-name="PT ● MCM TOP" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● MCM TOP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549627.ts
+#EXTINF:-1 tvg-name="PT ● MTV" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549628.ts
+#EXTINF:-1 tvg-name="PT ● Motorvision" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Motorvision
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549629.ts
+#EXTINF:-1 tvg-name="PT ● OneToro" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● OneToro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549630.ts
+#EXTINF:-1 tvg-name="PT ● Nat Geo Wild" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Nat Geo Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549631.ts
+#EXTINF:-1 tvg-name="PT ● National Geographic" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● National Geographic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549632.ts
+#EXTINF:-1 tvg-name="PT ● Nickelodeon" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549633.ts
+#EXTINF:-1 tvg-name="PT ● Odisseia" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Odisseia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549634.ts
+#EXTINF:-1 tvg-name="PT ● Panda Kids" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Panda Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549635.ts
+#EXTINF:-1 tvg-name="PT ● Porto Canal" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Porto Canal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549636.ts
+#EXTINF:-1 tvg-name="PT ● RTP 1" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● RTP 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549637.ts
+#EXTINF:-1 tvg-name="PT ● RTP 2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● RTP 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549638.ts
+#EXTINF:-1 tvg-name="PT ● RTP 3" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● RTP 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549639.ts
+#EXTINF:-1 tvg-name="PT ● RTP Acores" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● RTP Acores
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549640.ts
+#EXTINF:-1 tvg-name="PT ● RTP Memoria" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● RTP Memoria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549641.ts
+#EXTINF:-1 tvg-name="PT ● Record TV Internacional" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Record TV Internacional
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549642.ts
+#EXTINF:-1 tvg-name="PT ● BCU Kids+" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● BCU Kids+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549643.ts
+#EXTINF:-1 tvg-name="PT ● SIC" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● SIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549644.ts
+#EXTINF:-1 tvg-name="PT ● SIC Caras" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● SIC Caras
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549645.ts
+#EXTINF:-1 tvg-name="PT ● SIC K" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● SIC K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549646.ts
+#EXTINF:-1 tvg-name="PT ● SIC Mulher" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● SIC Mulher
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549647.ts
+#EXTINF:-1 tvg-name="PT ● SIC Noticias" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● SIC Noticias
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549648.ts
+#EXTINF:-1 tvg-name="PT ● SIC Radical" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● SIC Radical
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549649.ts
+#EXTINF:-1 tvg-name="PT ● TVI Reality Mosaico" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● TVI Reality Mosaico
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549650.ts
+#EXTINF:-1 tvg-name="PT ● Sport TV+" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Sport TV+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549651.ts
+#EXTINF:-1 tvg-name="PT ● Sport TV 1" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Sport TV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549652.ts
+#EXTINF:-1 tvg-name="PT ● Sport TV 2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Sport TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549653.ts
+#EXTINF:-1 tvg-name="PT ● Sport TV 3" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Sport TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549654.ts
+#EXTINF:-1 tvg-name="PT ● Sport TV 4" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Sport TV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549655.ts
+#EXTINF:-1 tvg-name="PT ● Sport TV 5" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Sport TV 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549656.ts
+#EXTINF:-1 tvg-name="PT ● Sport TV 6" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Sport TV 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549657.ts
+#EXTINF:-1 tvg-name="PT ● Sport TV NBA" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Sport TV NBA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549658.ts
+#EXTINF:-1 tvg-name="PT ● Sporting TV" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Sporting TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549659.ts
+#EXTINF:-1 tvg-name="PT ● Nick Jr" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Nick Jr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549660.ts
+#EXTINF:-1 tvg-name="PT ● TLC" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549661.ts
+#EXTINF:-1 tvg-name="PT ● TV Cine Action" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● TV Cine Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549662.ts
+#EXTINF:-1 tvg-name="PT ● TV Cine Edition" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● TV Cine Edition
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549663.ts
+#EXTINF:-1 tvg-name="PT ● TV Cine Emotion" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● TV Cine Emotion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549664.ts
+#EXTINF:-1 tvg-name="PT ● TV Cine TOP" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● TV Cine TOP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549665.ts
+#EXTINF:-1 tvg-name="PT ● TV5 Monde" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● TV5 Monde
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549666.ts
+#EXTINF:-1 tvg-name="PT ● Fatima" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Fatima
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549667.ts
+#EXTINF:-1 tvg-name="PT ● TVE" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● TVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549668.ts
+#EXTINF:-1 tvg-name="PT ● TVI" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● TVI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549669.ts
+#EXTINF:-1 tvg-name="PT ● CaçaVision" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● CaçaVision
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549670.ts
+#EXTINF:-1 tvg-name="PT ● TVI Reality" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● TVI Reality
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549671.ts
+#EXTINF:-1 tvg-name="PT ● Trace Toca" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Trace Toca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549672.ts
+#EXTINF:-1 tvg-name="PT ● Trace Urban" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Trace Urban
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549673.ts
+#EXTINF:-1 tvg-name="PT ● Travel Channel" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Travel Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549674.ts
+#EXTINF:-1 tvg-name="PT ● TPA Internacional" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● TPA Internacional
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/2549675.ts
+#EXTINF:-1 tvg-name="PT ● RTP Madeira" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● RTP Madeira
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/4030288.ts
+#EXTINF:-1 tvg-name="PT ● Sport TV 7" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Sport TV 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://199.245.234.35:80/52676990/18348687/4030770.ts
