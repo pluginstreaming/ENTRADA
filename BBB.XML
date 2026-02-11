@@ -3,25 +3,43 @@
 
 
 
-#EXTINF:-1 tvg-name="CAMERA 01" tvg-logo="http://img.observatoriodatv.com.br/wp-content/uploads/2017/01/BIG-BROTHER-17.jpg" group-title="Canais | BBB 2026",CAMERA 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=https://uniao.space:443/57828208/33142639/1865
-#EXTINF:-1 tvg-name="CAMERA 02" tvg-logo="http://img.observatoriodatv.com.br/wp-content/uploads/2017/01/BIG-BROTHER-17.jpg" group-title="Canais | BBB 2026",CAMERA 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=https://uniao.space:443/57828208/33142639/1866
-#EXTINF:-1 tvg-name="CAMERA 03 - PISCINA" tvg-logo="http://img.observatoriodatv.com.br/wp-content/uploads/2017/01/BIG-BROTHER-17.jpg" group-title="Canais | BBB 2026",CAMERA 03 - PISCINA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=https://uniao.space:443/57828208/33142639/1867
-#EXTINF:-1 tvg-name="CAMERA 04" tvg-logo="http://img.observatoriodatv.com.br/wp-content/uploads/2017/01/BIG-BROTHER-17.jpg" group-title="Canais | BBB 2026",CAMERA 04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=https://uniao.space:443/57828208/33142639/1868
-#EXTINF:-1 tvg-name="CAMERA 05" tvg-logo="http://img.observatoriodatv.com.br/wp-content/uploads/2017/01/BIG-BROTHER-17.jpg" group-title="Canais | BBB 2026",CAMERA 05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=https://uniao.space:443/57828208/33142639/1869
-#EXTINF:-1 tvg-name="CAMERA 06" tvg-logo="http://img.observatoriodatv.com.br/wp-content/uploads/2017/01/BIG-BROTHER-17.jpg" group-title="Canais | BBB 2026",CAMERA 06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=https://uniao.space:443/57828208/33142639/1870
-#EXTINF:-1 tvg-name="CAMERA 07" tvg-logo="http://img.observatoriodatv.com.br/wp-content/uploads/2017/01/BIG-BROTHER-17.jpg" group-title="Canais | BBB 2026",CAMERA 07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=https://uniao.space:443/57828208/33142639/1871
-#EXTINF:-1 tvg-name="CAMERA 08" tvg-logo="http://img.observatoriodatv.com.br/wp-content/uploads/2017/01/BIG-BROTHER-17.jpg" group-title="Canais | BBB 2026",CAMERA 08
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=https://uniao.space:443/57828208/33142639/1872
-#EXTINF:-1 tvg-name="CAMERA 09" tvg-logo="http://img.observatoriodatv.com.br/wp-content/uploads/2017/01/BIG-BROTHER-17.jpg" group-title="Canais | BBB 2026",CAMERA 09
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=https://uniao.space:443/57828208/33142639/1873
-#EXTINF:-1 tvg-name="CAMERA 10" tvg-logo="http://img.observatoriodatv.com.br/wp-content/uploads/2017/01/BIG-BROTHER-17.jpg" group-title="Canais | BBB 2026",CAMERA 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=https://uniao.space:443/57828208/33142639/1874
-#EXTINF:-1 tvg-name="MOSAICO BBB" tvg-logo="http://img.observatoriodatv.com.br/wp-content/uploads/2017/01/BIG-BROTHER-17.jpg" group-title="Canais | BBB 2026",MOSAICO BBB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=https://uniao.space:443/57828208/33142639/1875
+#EXTINF:-1 tvg-name="BBB Cam 01 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://digitalstore.vip/static/bbb/01.jpg" ,BBB Cam 01 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://digitalstore.vip:80/Assis85gzks/FN825fzxky/238604.ts
+#EXTINF:-1 tvg-name="BBB Cam 01 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://digitalstore.vip/static/bbb/01.jpg" ,BBB Cam 01 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://digitalstore.vip:80/Assis85gzks/FN825fzxky/238606.ts
+#EXTINF:-1 tvg-name="BBB Cam 03 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://digitalstore.vip/static/bbb/03.jpg" ,BBB Cam 03 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://digitalstore.vip:80/Assis85gzks/FN825fzxky/238639.ts
+#EXTINF:-1 tvg-name="BBB Cam 03 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://digitalstore.vip/static/bbb/03.jpg" ,BBB Cam 03 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://digitalstore.vip:80/Assis85gzks/FN825fzxky/238641.ts
+#EXTINF:-1 tvg-name="BBB Cam 03 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://digitalstore.vip/static/bbb/03.jpg" ,BBB Cam 03 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://digitalstore.vip:80/Assis85gzks/FN825fzxky/238693.ts
+#EXTINF:-1 tvg-name="BBB Cam 04 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://digitalstore.vip/static/bbb/04.jpg" ,BBB Cam 04 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://digitalstore.vip:80/Assis85gzks/FN825fzxky/238694.ts
+#EXTINF:-1 tvg-name="BBB Cam 04 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://digitalstore.vip/static/bbb/04.jpg" ,BBB Cam 04 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://digitalstore.vip:80/Assis85gzks/FN825fzxky/238695.ts
+#EXTINF:-1 tvg-name="BBB Cam 04 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://digitalstore.vip/static/bbb/04.jpg" ,BBB Cam 04 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://digitalstore.vip:80/Assis85gzks/FN825fzxky/238696.ts
+#EXTINF:-1 tvg-name="BBB Cam 05 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://digitalstore.vip/static/bbb/05.jpg" ,BBB Cam 05 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://digitalstore.vip:80/Assis85gzks/FN825fzxky/238697.ts
+#EXTINF:-1 tvg-name="BBB Cam 05 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://digitalstore.vip/static/bbb/05.jpg" ,BBB Cam 05 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://digitalstore.vip:80/Assis85gzks/FN825fzxky/238698.ts
+#EXTINF:-1 tvg-name="BBB Cam 05 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://digitalstore.vip/static/bbb/05.jpg" ,BBB Cam 05 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://digitalstore.vip:80/Assis85gzks/FN825fzxky/238699.ts
+#EXTINF:-1 tvg-name="BBB Cam 06 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://digitalstore.vip/static/bbb/06.jpg" ,BBB Cam 06 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://digitalstore.vip:80/Assis85gzks/FN825fzxky/238700.ts
+#EXTINF:-1 tvg-name="BBB Cam 06 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://digitalstore.vip/static/bbb/06.jpg" ,BBB Cam 06 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://digitalstore.vip:80/Assis85gzks/FN825fzxky/238701.ts
+#EXTINF:-1 tvg-name="BBB Cam 06 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://digitalstore.vip/static/bbb/06.jpg" ,BBB Cam 06 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://digitalstore.vip:80/Assis85gzks/FN825fzxky/238702.ts
+#EXTINF:-1 tvg-name="BBB Cam 08 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://digitalstore.vip/static/bbb/08.jpg" ,BBB Cam 08 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://digitalstore.vip:80/Assis85gzks/FN825fzxky/238706.ts
+#EXTINF:-1 tvg-name="BBB Cam 08 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://digitalstore.vip/static/bbb/08.jpg" ,BBB Cam 08 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://digitalstore.vip:80/Assis85gzks/FN825fzxky/238707.ts
+#EXTINF:-1 tvg-name="BBB Cam 08 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://digitalstore.vip/static/bbb/08.jpg" ,BBB Cam 08 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://digitalstore.vip:80/Assis85gzks/FN825fzxky/238708.ts
+#EXTINF:-1 tvg-name="BBB Cam 09 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://digitalstore.vip/static/bbb/09.jpg" ,BBB Cam 09 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://digitalstore.vip:80/Assis85gzks/FN825fzxky/238709.ts
+#EXTINF:-1 tvg-name="BBB Cam 09 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://digitalstore.vip/static/bbb/09.jpg" ,BBB Cam 09 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://digitalstore.vip:80/Assis85gzks/FN825fzxky/238710.ts
+#EXTINF:-1 tvg-name="BBB Cam 09 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://digitalstore.vip/static/bbb/09.jpg" ,BBB Cam 09 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://digitalstore.vip:80/Assis85gzks/FN825fzxky/238711.ts
