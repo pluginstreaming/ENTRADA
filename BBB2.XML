@@ -3,61 +3,15 @@
 
 
 
-#EXTINF:-1 tvg-name="BBB 26 - Academia Nivea FHD" tvg-logo="https://onebigforx.com/bbb.png" ,BBB 26 - Academia Nivea FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://osominfo.click:80/andrei1173/5596851173/1335.ts
-#EXTINF:-1 tvg-name="BBB 26 - Academia Nivea HD" tvg-logo="https://onebigforx.com/bbb.png" ,BBB 26 - Academia Nivea HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://osominfo.click:80/andrei1173/5596851173/1337.ts
-#EXTINF:-1 tvg-name="BBB 26 - Acompanhe a Casa 1 FHD" tvg-logo="https://onebigforx.com/bbb.png" ,BBB 26 - Acompanhe a Casa 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://osominfo.click:80/andrei1173/5596851173/1338.ts
-#EXTINF:-1 tvg-name="BBB 26 - Acompanhe a Casa 1 HD" tvg-logo="https://onebigforx.com/bbb.png" ,BBB 26 - Acompanhe a Casa 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://osominfo.click:80/andrei1173/5596851173/1624.ts
-#EXTINF:-1 tvg-name="BBB 26 - Acompanhe a Casa 2 FHD" tvg-logo="https://onebigforx.com/bbb.png" ,BBB 26 - Acompanhe a Casa 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://osominfo.click:80/andrei1173/5596851173/1625.ts
-#EXTINF:-1 tvg-id="Disney Junior" tvg-name="BBB 26 - Acompanhe a Casa 2 HD" tvg-logo="https://onebigforx.com/bbb.png" ,BBB 26 - Acompanhe a Casa 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://osominfo.click:80/andrei1173/5596851173/81853.ts
-#EXTINF:-1 tvg-name="BBB 26 - Banheiro Super Cimed FHD" tvg-logo="https://onebigforx.com/bbb.png" ,BBB 26 - Banheiro Super Cimed FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://osominfo.click:80/andrei1173/5596851173/81871.ts
-#EXTINF:-1 tvg-name="BBB 26 - Banheiro Super Cimed HD" tvg-logo="https://onebigforx.com/bbb.png" ,BBB 26 - Banheiro Super Cimed HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://osominfo.click:80/andrei1173/5596851173/81880.ts
-#EXTINF:-1 tvg-name="BBB 26 - Cozinha 1 FHD" tvg-logo="https://onebigforx.com/bbb.png" ,BBB 26 - Cozinha 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://osominfo.click:80/andrei1173/5596851173/81885.ts
-#EXTINF:-1 tvg-name="BBB 26 - Cozinha 1 HD" tvg-logo="https://onebigforx.com/bbb.png" ,BBB 26 - Cozinha 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://osominfo.click:80/andrei1173/5596851173/81886.ts
-#EXTINF:-1 tvg-name="BBB 26 - Cozinha 2 FHD" tvg-logo="https://onebigforx.com/bbb.png" ,BBB 26 - Cozinha 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://osominfo.click:80/andrei1173/5596851173/81889.ts
-#EXTINF:-1 tvg-name="BBB 26 - Cozinha 2 HD" tvg-logo="https://onebigforx.com/bbb.png" ,BBB 26 - Cozinha 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://osominfo.click:80/andrei1173/5596851173/85445.ts
-#EXTINF:-1 tvg-name="BBB 26 - Mosaico FHD" tvg-logo="https://onebigforx.com/bbb.png" ,BBB 26 - Mosaico FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://osominfo.click:80/andrei1173/5596851173/85446.ts
-#EXTINF:-1 tvg-name="BBB 26 - Mosaico HD" tvg-logo="https://onebigforx.com/bbb.png" ,BBB 26 - Mosaico HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://osominfo.click:80/andrei1173/5596851173/85447.ts
-#EXTINF:-1 tvg-name="BBB 26 - Piscina FHD" tvg-logo="https://onebigforx.com/bbb.png" ,BBB 26 - Piscina FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://osominfo.click:80/andrei1173/5596851173/85448.ts
-#EXTINF:-1 tvg-name="BBB 26 - Piscina HD" tvg-logo="https://onebigforx.com/bbb.png" ,BBB 26 - Piscina HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://osominfo.click:80/andrei1173/5596851173/85449.ts
-#EXTINF:-1 tvg-name="BBB 26 - Quarto Sonho de Eternidade FHD" tvg-logo="https://onebigforx.com/bbb.png" ,BBB 26 - Quarto Sonho de Eternidade FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://osominfo.click:80/andrei1173/5596851173/85450.ts
-#EXTINF:-1 tvg-name="BBB 26 - Quarto Sonho de Eternidade HD" tvg-logo="https://onebigforx.com/bbb.png" ,BBB 26 - Quarto Sonho de Eternidade HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://osominfo.click:80/andrei1173/5596851173/85451.ts
-#EXTINF:-1 tvg-name="BBB 26 - Quarto Sonho de Voar FHD" tvg-logo="https://onebigforx.com/bbb.png" ,BBB 26 - Quarto Sonho de Voar FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://osominfo.click:80/andrei1173/5596851173/85452.ts
-#EXTINF:-1 tvg-name="BBB 26 - Quarto Sonho de Voar HD" tvg-logo="https://onebigforx.com/bbb.png" ,BBB 26 - Quarto Sonho de Voar HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://osominfo.click:80/andrei1173/5596851173/85453.ts
-#EXTINF:-1 tvg-name="BBB 26 - Quarto Sonho do Grande Amor FHD" tvg-logo="https://onebigforx.com/bbb.png" ,BBB 26 - Quarto Sonho do Grande Amor FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://osominfo.click:80/andrei1173/5596851173/85454.ts
-#EXTINF:-1 tvg-name="BBB 26 - Quarto Sonho do Grande Amor HD" tvg-logo="https://onebigforx.com/bbb.png" ,BBB 26 - Quarto Sonho do Grande Amor HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://osominfo.click:80/andrei1173/5596851173/85455.ts
-#EXTINF:-1 tvg-name="BBB 26 - Sala Sonho de Ser Milionário FHD" tvg-logo="https://onebigforx.com/bbb.png" ,BBB 26 - Sala Sonho de Ser Milionário FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://osominfo.click:80/andrei1173/5596851173/85456.ts
-#EXTINF:-1 tvg-name="BBB 26 - Sala Sonho de Ser Milionário HD" tvg-logo="https://onebigforx.com/bbb.png" ,BBB 26 - Sala Sonho de Ser Milionário HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://osominfo.click:80/andrei1173/5596851173/85457.ts
-#EXTINF:-1 tvg-name="Big Brother Brasil 26 - Casa de Vidro AM" tvg-logo="https://onebigforx.com/bbb.jpg" ,Big Brother Brasil 26 - Casa de Vidro AM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://osominfo.click:80/andrei1173/5596851173/1620.ts
-#EXTINF:-1 tvg-name="Big Brother Brasil 26 - Casa de Vidro BA" tvg-logo="https://onebigforx.com/bbb.jpg" ,Big Brother Brasil 26 - Casa de Vidro BA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://osominfo.click:80/andrei1173/5596851173/1621.ts
-#EXTINF:-1 tvg-name="Big Brother Brasil 26 - Casa de Vidro DF" tvg-logo="https://onebigforx.com/bbb.jpg" ,Big Brother Brasil 26 - Casa de Vidro DF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://osominfo.click:80/andrei1173/5596851173/1328.ts
-#EXTINF:-1 tvg-name="Big Brother Brasil 26 - Casa de Vidro RS" tvg-logo="https://onebigforx.com/bbb.jpg" ,Big Brother Brasil 26 - Casa de Vidro RS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://osominfo.click:80/andrei1173/5596851173/1623.ts
-#EXTINF:-1 tvg-name="Big Brother Brasil 26 - Casa de Vidro SP" tvg-logo="https://onebigforx.com/bbb.jpg" ,Big Brother Brasil 26 - Casa de Vidro SP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://osominfo.click:80/andrei1173/5596851173/1622.ts
+#EXTINF:-1 tvg-name="BBB CAM 1" tvg-logo="https://i.imgur.com/p8uIzj8.png" ,BBB CAM 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://173.249.48.173:80/017869988/118882410/317659
+#EXTINF:-1 tvg-name="BBB CAM 2" tvg-logo="https://i.imgur.com/p8uIzj8.png" ,BBB CAM 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://173.249.48.173:80/017869988/118882410/317660
+#EXTINF:-1 tvg-name="BBB CAM 3" tvg-logo="https://i.imgur.com/p8uIzj8.png" ,BBB CAM 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://173.249.48.173:80/017869988/118882410/317661
+#EXTINF:-1 tvg-name="BBB CAM 4" tvg-logo="https://i.imgur.com/p8uIzj8.png" ,BBB CAM 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://173.249.48.173:80/017869988/118882410/317662
+#EXTINF:-1 tvg-name="BBB CAM 5" tvg-logo="https://i.imgur.com/p8uIzj8.png" ,BBB CAM 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://173.249.48.173:80/017869988/118882410/317663
+#EXTINF:-1 tvg-name="BBB CAM 6" tvg-logo="https://i.imgur.com/p8uIzj8.png" ,BBB CAM 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://173.249.48.173:80/017869988/118882410/317664
