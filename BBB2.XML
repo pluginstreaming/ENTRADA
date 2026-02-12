@@ -3,19 +3,27 @@
 
 
 
-#EXTINF:-1 tvg-name="BBB 26 CAM 1" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" ",BBB 26 CAM 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/6475227.ts
-#EXTINF:-1 tvg-name="BBB 26 CAM 2" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" ",BBB 26 CAM 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/6475230.ts
-#EXTINF:-1 tvg-name="BBB 26 CAM 3" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" ",BBB 26 CAM 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/6475231.ts
-#EXTINF:-1 tvg-name="BBB 26 CAM 4" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" ",BBB 26 CAM 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/6475232.ts
-#EXTINF:-1 tvg-name="BBB 26 CAM 5" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" ",BBB 26 CAM 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/6475233.ts
-#EXTINF:-1 tvg-name="BBB 26 CAM 6" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" ",BBB 26 CAM 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/6475238.ts
-#EXTINF:-1 tvg-name="BBB 26 CAM 7" tvg-logo="https://abcdoabc.com.br/wp-content/uploads/bbb_dcbc93f2-525x350.jpg" ",BBB 26 CAM 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/6475239.ts
-#EXTINF:-1 tvg-name="BBB 26 MOSAICO" ",BBB 26 MOSAICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://maxut.fun:80/816032972/896140496/6475241.ts
+#EXTINF:-1 tvg-name="Mosaico" tvg-logo="http://channelart.8b90287dn2.online/images/logos/bbbrasil.png" ,Mosaico
+hplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1278721
+#EXTINF:-1 tvg-name="BBB 01" tvg-logo="http://channelart.8b90287dn2.online/images/logos/bbbrasil.png" ,BBB 01
+hplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1271892
+#EXTINF:-1 tvg-name="BBB 02" tvg-logo="http://channelart.8b90287dn2.online/images/logos/bbbrasil.png" ,BBB 02
+hplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1271891
+#EXTINF:-1 tvg-name="BBB 03" tvg-logo="http://channelart.8b90287dn2.online/images/logos/bbbrasil.png" ,BBB 03
+hplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1271890
+#EXTINF:-1 tvg-name="Quarto Sonho de Eternidade" tvg-logo="http://channelart.8b90287dn2.online/images/logos/bbbrasil.png" ,Quarto Sonho de Eternidade
+hplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1271889
+#EXTINF:-1 tvg-name="Quarto Sonho de Voar" tvg-logo="http://channelart.8b90287dn2.online/images/logos/bbbrasil.png" ,Quarto Sonho de Voar
+hplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1271888
+#EXTINF:-1 tvg-name="Quarto Sonho do Grande Amor" tvg-logo="http://channelart.8b90287dn2.online/images/logos/bbbrasil.png" ,Quarto Sonho do Grande Amor
+hplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1271887
+#EXTINF:-1 tvg-name="Cozinha" tvg-logo="http://channelart.8b90287dn2.online/images/logos/bbbrasil.png" ,Cozinha
+hplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1278716
+#EXTINF:-1 tvg-name="Banheiro Super Cimed" tvg-logo="http://channelart.8b90287dn2.online/images/logos/bbbrasil.png" ,Banheiro Super Cimed
+hplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1278717
+#EXTINF:-1 tvg-name="Sala Sonho de Ser Milionário" tvg-logo="http://channelart.8b90287dn2.online/images/logos/bbbrasil.png" ,Sala Sonho de Ser Milionário
+hplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1278718
+#EXTINF:-1 tvg-name="Quarto Branco" tvg-logo="http://channelart.8b90287dn2.online/images/logos/bbbrasil.png" ,Quarto Branco
+hplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1278719
+#EXTINF:-1 tvg-name="Academia Nivea" tvg-logo="http://channelart.8b90287dn2.online/images/logos/bbbrasil.png" ,Academia Nivea
+hplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1278720
