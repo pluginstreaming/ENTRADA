@@ -3,15 +3,25 @@
 
 
 
-#EXTINF:-1 tvg-name="BBB CAM 1" tvg-logo="https://i.imgur.com/p8uIzj8.png" ,BBB CAM 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://173.249.48.173:80/017869988/118882410/317659
-#EXTINF:-1 tvg-name="BBB CAM 2" tvg-logo="https://i.imgur.com/p8uIzj8.png" ,BBB CAM 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://173.249.48.173:80/017869988/118882410/317660
-#EXTINF:-1 tvg-name="BBB CAM 3" tvg-logo="https://i.imgur.com/p8uIzj8.png" ,BBB CAM 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://173.249.48.173:80/017869988/118882410/317661
-#EXTINF:-1 tvg-name="BBB CAM 4" tvg-logo="https://i.imgur.com/p8uIzj8.png" ,BBB CAM 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://173.249.48.173:80/017869988/118882410/317662
-#EXTINF:-1 tvg-name="BBB CAM 5" tvg-logo="https://i.imgur.com/p8uIzj8.png" ,BBB CAM 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://173.249.48.173:80/017869988/118882410/317663
-#EXTINF:-1 tvg-name="BBB CAM 6" tvg-logo="https://i.imgur.com/p8uIzj8.png" ,BBB CAM 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://173.249.48.173:80/017869988/118882410/317664
+#EXTINF:-1 tvg-name="CAMERA 01" tvg-logo="http://img.observatoriodatv.com.br/wp-content/uploads/2017/01/BIG-BROTHER-17.jpg" Canais | BBB 2026",CAMERA 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniao.store:80/57828208/33142639/1865
+#EXTINF:-1 tvg-name="CAMERA 02" tvg-logo="http://img.observatoriodatv.com.br/wp-content/uploads/2017/01/BIG-BROTHER-17.jpg" Canais | BBB 2026",CAMERA 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniao.store:80/57828208/33142639/1866
+#EXTINF:-1 tvg-name="CAMERA 03 - PISCINA" tvg-logo="http://img.observatoriodatv.com.br/wp-content/uploads/2017/01/BIG-BROTHER-17.jpg" Canais | BBB 2026",CAMERA 03 - PISCINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniao.store:80/57828208/33142639/1867
+#EXTINF:-1 tvg-name="CAMERA 04" tvg-logo="http://img.observatoriodatv.com.br/wp-content/uploads/2017/01/BIG-BROTHER-17.jpg" Canais | BBB 2026",CAMERA 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniao.store:80/57828208/33142639/1868
+#EXTINF:-1 tvg-name="CAMERA 05" tvg-logo="http://img.observatoriodatv.com.br/wp-content/uploads/2017/01/BIG-BROTHER-17.jpg" Canais | BBB 2026",CAMERA 05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniao.store:80/57828208/33142639/1869
+#EXTINF:-1 tvg-name="CAMERA 06" tvg-logo="http://img.observatoriodatv.com.br/wp-content/uploads/2017/01/BIG-BROTHER-17.jpg" Canais | BBB 2026",CAMERA 06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniao.store:80/57828208/33142639/1870
+#EXTINF:-1 tvg-name="CAMERA 07" tvg-logo="http://img.observatoriodatv.com.br/wp-content/uploads/2017/01/BIG-BROTHER-17.jpg" Canais | BBB 2026",CAMERA 07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniao.store:80/57828208/33142639/1871
+#EXTINF:-1 tvg-name="CAMERA 08" tvg-logo="http://img.observatoriodatv.com.br/wp-content/uploads/2017/01/BIG-BROTHER-17.jpg" Canais | BBB 2026",CAMERA 08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniao.store:80/57828208/33142639/1872
+#EXTINF:-1 tvg-name="CAMERA 09" tvg-logo="http://img.observatoriodatv.com.br/wp-content/uploads/2017/01/BIG-BROTHER-17.jpg" Canais | BBB 2026",CAMERA 09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniao.store:80/57828208/33142639/1873
+#EXTINF:-1 tvg-name="CAMERA 10" tvg-logo="http://img.observatoriodatv.com.br/wp-content/uploads/2017/01/BIG-BROTHER-17.jpg" Canais | BBB 2026",CAMERA 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniao.store:80/57828208/33142639/1874
+#EXTINF:-1 tvg-name="MOSAICO BBB" tvg-logo="http://img.observatoriodatv.com.br/wp-content/uploads/2017/01/BIG-BROTHER-17.jpg" Canais | BBB 2026",MOSAICO BBB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://uniao.store:80/57828208/33142639/1875
