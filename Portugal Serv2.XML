@@ -3,111 +3,209 @@
 
 
 
-#EXTINF:-1 tvg-name="Sport TV + HD " tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%20%2B.png" ,Sport TV + HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/51993
-#EXTINF:-1 tvg-name="Sport TV +" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%20%2B.png" ,Sport TV +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/10795
-#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-name="Sport TV 1 UHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%201.png" ,Sport TV 1 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1237812
-#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-name="Sport TV 1 Full HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%201.png" ,Sport TV 1 Full HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1514
-#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-name="Sport TV 1 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%201.png" ,Sport TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1515
-#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-name="Sport TV 1" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%201.png" ,Sport TV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1516
-#EXTINF:-1 tvg-name="Sport TV 2 Full HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%202.png" ,Sport TV 2 Full HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1517
-#EXTINF:-1 tvg-name="Sport TV 2  HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%202.png" ,Sport TV 2  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1518
-#EXTINF:-1 tvg-id="SPORT TV 2 HD" tvg-name="Sport TV 2" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%202.png" ,Sport TV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1519
-#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" tvg-name="Sport TV 3 Full HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%203.png" ,Sport TV 3 Full HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1520
-#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" tvg-name="Sport TV 3  HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%203.png" ,Sport TV 3  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1521
-#EXTINF:-1 tvg-name="Sport TV 3" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%203.png" ,Sport TV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1522
-#EXTINF:-1 tvg-id="SPORT TV 4 HD" tvg-name="Sport TV 4 Full HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%204.png" ,Sport TV 4 Full HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1523
-#EXTINF:-1 tvg-id="SPORT TV 4 HD" tvg-name="Sport TV 4 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%204.png" ,Sport TV 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1524
-#EXTINF:-1 tvg-name="Sport TV 4" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%204.png" ,Sport TV 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1525
-#EXTINF:-1 tvg-name="Sport TV 5 Full HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%205.png" ,Sport TV 5 Full HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1526
-#EXTINF:-1 tvg-name="Sport TV 5 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%205.png" ,Sport TV 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1527
-#EXTINF:-1 tvg-name="Sport TV 5" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%205.png" ,Sport TV 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1528
-#EXTINF:-1 tvg-name="Sport TV 6 HD " tvg-logo="https://i.postimg.cc/d3NHk70d/Sport-TV.png" ,Sport TV 6 HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/68314
-#EXTINF:-1 tvg-id="Sport.TV.7.HD.pt" tvg-name="Sport TV 7 FHD" tvg-logo="https://i.postimg.cc/Px8Xz7cr/Sport-TV.png" ,Sport TV 7 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1271684
-#EXTINF:-1 tvg-id="Sport.TV.7.HD.pt" tvg-name="Sport TV 7 HD" tvg-logo="https://i.postimg.cc/Px8Xz7cr/Sport-TV.png" ,Sport TV 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1271685
-#EXTINF:-1 tvg-id="Sport.TV.7.HD.pt" tvg-name="Sport TV 7" tvg-logo="https://i.postimg.cc/Px8Xz7cr/Sport-TV.png" ,Sport TV 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1271686
-#EXTINF:-1 tvg-name="Sport TV NBA " tvg-logo="http://channelart.8b90287dn2.online/images/logos/NBA%20TV.png" ,Sport TV NBA 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/45258
-#EXTINF:-1 tvg-id="BTV1.HD.pt" tvg-name="BTV 4K" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Benfica%20TV.png" ,BTV 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1237811
-#EXTINF:-1 tvg-name="BTV FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Benfica%20TV.png" ,BTV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1529
-#EXTINF:-1 tvg-id="BTV HD" tvg-name="BTV TV HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Benfica%20TV.png" ,BTV TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1530
-#EXTINF:-1 tvg-name="BTV" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Benfica%20TV.png" ,BTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1531
-#EXTINF:-1 tvg-name="Sporting TV HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sporting%20TV.png" ,Sporting TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1533
-#EXTINF:-1 tvg-name="Eleven Sports 1 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" ,Eleven Sports 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/2377
-#EXTINF:-1 tvg-name="Eleven Sports 1 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" ,Eleven Sports 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/2375
-#EXTINF:-1 tvg-name="Eleven Sports 1" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" ,Eleven Sports 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/2373
-#EXTINF:-1 tvg-name="Eleven Sports 2 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" ,Eleven Sports 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/2385
-#EXTINF:-1 tvg-name="Eleven Sports 2 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" ,Eleven Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/2382
-#EXTINF:-1 tvg-name="Eleven Sports 2" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" ,Eleven Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/2381
-#EXTINF:-1 tvg-name="Eleven Sports 3 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" ,Eleven Sports 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/2391
-#EXTINF:-1 tvg-name="Eleven Sports 3 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" ,Eleven Sports 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/2390
-#EXTINF:-1 tvg-name="Eleven Sports 3" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" ,Eleven Sports 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/2387
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 4 HD" tvg-name="Eleven Sports 4 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" ,Eleven Sports 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/2398
-#EXTINF:-1 tvg-name="Eleven Sports 4 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" ,Eleven Sports 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/2396
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 4 HD" tvg-name="Eleven Sports 4" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" ,Eleven Sports 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/2395
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 5 HD" tvg-name="Eleven Sports 5 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" ,Eleven Sports 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/2405
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 5 HD" tvg-name="Eleven Sports 5 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" ,Eleven Sports 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/2402
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 5 HD" tvg-name="Eleven Sports 5" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" ,Eleven Sports 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/2401
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 6 HD" tvg-name="Eleven Sports 6 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" ,Eleven Sports 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/2411
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 6" tvg-name="Eleven Sports 6 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" ,Eleven Sports 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/2409
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 6 HD" tvg-name="Eleven Sports 6" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" ,Eleven Sports 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/2407
-#EXTINF:-1 tvg-name="A Bola TV HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/A%20Bola%20TV.png" ,A Bola TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1535
-#EXTINF:-1 tvg-id="CANAL 11 HD" tvg-name="Canal 11 HD" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2019/07/logo11.png" ,Canal 11 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/2623
-#EXTINF:-1 tvg-id="CANAL 11" tvg-name="Canal 11" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2019/07/logo11.png" ,Canal 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/911027
-#EXTINF:-1 tvg-name="Eurosport 1" tvg-logo="http://channelart.8b90287dn2.online/images/logos/EuroSport%201.png" ,Eurosport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1536
-#EXTINF:-1 tvg-name="Eurosport 2" tvg-logo="http://channelart.8b90287dn2.online/images/logos/EuroSport%202.png" ,Eurosport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1537
-#EXTINF:-1 tvg-name="Fight Sports HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Fight%20Network.png" ,Fight Sports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1538
-#EXTINF:-1 tvg-id="GINX ESPORTS" tvg-name="GINX Esports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Ginx_Esports_logo.png" ,GINX Esports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1540
-#EXTINF:-1 tvg-id="MOTORVISION HD" tvg-name="MotorVision TV" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Motorvision.png" ,MotorVision TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=ttp://site.poupadefrutas.shop:80/moab9002/86vjdb8bg79/1541
+#EXTINF:-1 tvg-name="PT ● 24 Kitchen" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● 24 Kitchen
+http://45.140.193.164:80/793668056690/374010715245/2549572.ts
+#EXTINF:-1 tvg-name="PT ● A Bola" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● A Bola
+http://45.140.193.164:80/793668056690/374010715245/2549573.ts
+#EXTINF:-1 tvg-name="PT ● AMC" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● AMC
+http://45.140.193.164:80/793668056690/374010715245/2549574.ts
+#EXTINF:-1 tvg-name="PT ● AMC Crime" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● AMC Crime
+http://45.140.193.164:80/793668056690/374010715245/2549575.ts
+#EXTINF:-1 tvg-name="PT ● ARTV" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● ARTV
+http://45.140.193.164:80/793668056690/374010715245/2549576.ts
+#EXTINF:-1 tvg-name="PT ● AXN" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● AXN
+http://45.140.193.164:80/793668056690/374010715245/2549577.ts
+#EXTINF:-1 tvg-name="PT ● AXN Movies" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● AXN Movies
+http://45.140.193.164:80/793668056690/374010715245/2549578.ts
+#EXTINF:-1 tvg-name="PT ● AXN White" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● AXN White
+http://45.140.193.164:80/793668056690/374010715245/2549579.ts
+#EXTINF:-1 tvg-name="PT ● Al Jazeera" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Al Jazeera
+http://45.140.193.164:80/793668056690/374010715245/2549580.ts
+#EXTINF:-1 tvg-name="PT ● Baby TV" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Baby TV
+http://45.140.193.164:80/793668056690/374010715245/2549581.ts
+#EXTINF:-1 tvg-name="PT ● Benfica TV" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Benfica TV
+http://45.140.193.164:80/793668056690/374010715245/2549582.ts
+#EXTINF:-1 tvg-name="PT ● Biggs" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Biggs
+http://45.140.193.164:80/793668056690/374010715245/2549583.ts
+#EXTINF:-1 tvg-name="PT ● AMC Break" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● AMC Break
+http://45.140.193.164:80/793668056690/374010715245/2549585.ts
+#EXTINF:-1 tvg-name="PT ● CMTV" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● CMTV
+http://45.140.193.164:80/793668056690/374010715245/2549586.ts
+#EXTINF:-1 tvg-name="PT ● CNBC" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● CNBC
+http://45.140.193.164:80/793668056690/374010715245/2549588.ts
+#EXTINF:-1 tvg-name="PT ● CNN Internacional" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● CNN Internacional
+http://45.140.193.164:80/793668056690/374010715245/2549589.ts
+#EXTINF:-1 tvg-name="PT ● CNN Portugal" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● CNN Portugal
+http://45.140.193.164:80/793668056690/374010715245/2549590.ts
+#EXTINF:-1 tvg-name="PT ● Canal 11" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Canal 11
+http://45.140.193.164:80/793668056690/374010715245/2549591.ts
+#EXTINF:-1 tvg-name="PT ● Canal Historia" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Canal Historia
+http://45.140.193.164:80/793668056690/374010715245/2549592.ts
+#EXTINF:-1 tvg-name="PT ● Canal Hollywood" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Canal Hollywood
+http://45.140.193.164:80/793668056690/374010715245/2549593.ts
+#EXTINF:-1 tvg-name="PT ● Canal Panda" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Canal Panda
+http://45.140.193.164:80/793668056690/374010715245/2549594.ts
+#EXTINF:-1 tvg-name="PT ● Canal Q" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Canal Q
+http://45.140.193.164:80/793668056690/374010715245/2549595.ts
+#EXTINF:-1 tvg-name="PT ● Cancao Nova" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Cancao Nova
+http://45.140.193.164:80/793668056690/374010715245/2549596.ts
+#EXTINF:-1 tvg-name="PT ● Cartoon Network" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Cartoon Network
+http://45.140.193.164:80/793668056690/374010715245/2549597.ts
+#EXTINF:-1 tvg-name="PT ● Dizi Channel" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Dizi Channel
+http://45.140.193.164:80/793668056690/374010715245/2549598.ts
+#EXTINF:-1 tvg-name="PT ● Casa e Cozinha" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Casa e Cozinha
+http://45.140.193.164:80/793668056690/374010715245/2549599.ts
+#EXTINF:-1 tvg-name="PT ● Cinemundo" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Cinemundo
+http://45.140.193.164:80/793668056690/374010715245/2549600.ts
+#EXTINF:-1 tvg-name="PT ● Discovery Channel" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Discovery Channel
+http://45.140.193.164:80/793668056690/374010715245/2549601.ts
+#EXTINF:-1 tvg-name="PT ● Disney Channel" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Disney Channel
+http://45.140.193.164:80/793668056690/374010715245/2549602.ts
+#EXTINF:-1 tvg-name="PT ● Disney Junior" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Disney Junior
+http://45.140.193.164:80/793668056690/374010715245/2549603.ts
+#EXTINF:-1 tvg-name="PT ● Fama TV" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Fama TV
+http://45.140.193.164:80/793668056690/374010715245/2549604.ts
+#EXTINF:-1 tvg-name="PT ● E!" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● E!
+http://45.140.193.164:80/793668056690/374010715245/2549605.ts
+#EXTINF:-1 tvg-name="PT ● Dazn 1" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Dazn 1
+http://45.140.193.164:80/793668056690/374010715245/2549606.ts
+#EXTINF:-1 tvg-name="PT ● Dazn 2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Dazn 2
+http://45.140.193.164:80/793668056690/374010715245/2549607.ts
+#EXTINF:-1 tvg-name="PT ● Dazn 3" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Dazn 3
+http://45.140.193.164:80/793668056690/374010715245/2549608.ts
+#EXTINF:-1 tvg-name="PT ● Dazn 4" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Dazn 4
+http://45.140.193.164:80/793668056690/374010715245/2549609.ts
+#EXTINF:-1 tvg-name="PT ● Dazn 5" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Dazn 5
+http://45.140.193.164:80/793668056690/374010715245/2549610.ts
+#EXTINF:-1 tvg-name="PT ● Dazn 6" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Dazn 6
+http://45.140.193.164:80/793668056690/374010715245/2549611.ts
+#EXTINF:-1 tvg-name="PT ● Euro News" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Euro News
+http://45.140.193.164:80/793668056690/374010715245/2549612.ts
+#EXTINF:-1 tvg-name="PT ● Euro Sport 1" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Euro Sport 1
+http://45.140.193.164:80/793668056690/374010715245/2549613.ts
+#EXTINF:-1 tvg-name="PT ● Euro Sport 2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Euro Sport 2
+http://45.140.193.164:80/793668056690/374010715245/2549614.ts
+#EXTINF:-1 tvg-name="PT ● Star Life" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Star Life
+http://45.140.193.164:80/793668056690/374010715245/2549615.ts
+#EXTINF:-1 tvg-name="PT ● Caca e Pesca" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Caca e Pesca
+http://45.140.193.164:80/793668056690/374010715245/2549616.ts
+#EXTINF:-1 tvg-name="PT ● Syfy" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Syfy
+http://45.140.193.164:80/793668056690/374010715245/2549617.ts
+#EXTINF:-1 tvg-name="PT ● Nos Studios" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Nos Studios
+http://45.140.193.164:80/793668056690/374010715245/2549618.ts
+#EXTINF:-1 tvg-name="PT ● Aljazeera" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Aljazeera
+http://45.140.193.164:80/793668056690/374010715245/2549619.ts
+#EXTINF:-1 tvg-name="PT ● V+ TVI" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● V+ TVI
+http://45.140.193.164:80/793668056690/374010715245/2549620.ts
+#EXTINF:-1 tvg-name="PT ● TVI Internacional" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● TVI Internacional
+http://45.140.193.164:80/793668056690/374010715245/2549621.ts
+#EXTINF:-1 tvg-name="PT ● Fuel TV" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Fuel TV
+http://45.140.193.164:80/793668056690/374010715245/2549622.ts
+#EXTINF:-1 tvg-name="PT ● Globo Internacional" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Globo Internacional
+http://45.140.193.164:80/793668056690/374010715245/2549623.ts
+#EXTINF:-1 tvg-name="PT ● Kuriakos TV" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Kuriakos TV
+http://45.140.193.164:80/793668056690/374010715245/2549624.ts
+#EXTINF:-1 tvg-name="PT ● Zap Viva" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Zap Viva
+http://45.140.193.164:80/793668056690/374010715245/2549625.ts
+#EXTINF:-1 tvg-name="PT ● MCM TOP" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● MCM TOP
+http://45.140.193.164:80/793668056690/374010715245/2549627.ts
+#EXTINF:-1 tvg-name="PT ● MTV" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● MTV
+http://45.140.193.164:80/793668056690/374010715245/2549628.ts
+#EXTINF:-1 tvg-name="PT ● Motorvision" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Motorvision
+http://45.140.193.164:80/793668056690/374010715245/2549629.ts
+#EXTINF:-1 tvg-name="PT ● OneToro" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● OneToro
+http://45.140.193.164:80/793668056690/374010715245/2549630.ts
+#EXTINF:-1 tvg-name="PT ● Nat Geo Wild" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Nat Geo Wild
+http://45.140.193.164:80/793668056690/374010715245/2549631.ts
+#EXTINF:-1 tvg-name="PT ● National Geographic" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● National Geographic
+http://45.140.193.164:80/793668056690/374010715245/2549632.ts
+#EXTINF:-1 tvg-name="PT ● Nickelodeon" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Nickelodeon
+http://45.140.193.164:80/793668056690/374010715245/2549633.ts
+#EXTINF:-1 tvg-name="PT ● Odisseia" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Odisseia
+http://45.140.193.164:80/793668056690/374010715245/2549634.ts
+#EXTINF:-1 tvg-name="PT ● Panda Kids" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Panda Kids
+http://45.140.193.164:80/793668056690/374010715245/2549635.ts
+#EXTINF:-1 tvg-name="PT ● Porto Canal" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Porto Canal
+http://45.140.193.164:80/793668056690/374010715245/2549636.ts
+#EXTINF:-1 tvg-name="PT ● RTP 1" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● RTP 1
+http://45.140.193.164:80/793668056690/374010715245/2549637.ts
+#EXTINF:-1 tvg-name="PT ● RTP 2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● RTP 2
+http://45.140.193.164:80/793668056690/374010715245/2549638.ts
+#EXTINF:-1 tvg-name="PT ● RTP 3" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● RTP 3
+http://45.140.193.164:80/793668056690/374010715245/2549639.ts
+#EXTINF:-1 tvg-name="PT ● RTP Acores" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● RTP Acores
+http://45.140.193.164:80/793668056690/374010715245/2549640.ts
+#EXTINF:-1 tvg-name="PT ● RTP Memoria" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● RTP Memoria
+http://45.140.193.164:80/793668056690/374010715245/2549641.ts
+#EXTINF:-1 tvg-name="PT ● Record TV Internacional" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Record TV Internacional
+http://45.140.193.164:80/793668056690/374010715245/2549642.ts
+#EXTINF:-1 tvg-name="PT ● BCU Kids+" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● BCU Kids+
+http://45.140.193.164:80/793668056690/374010715245/2549643.ts
+#EXTINF:-1 tvg-name="PT ● SIC" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● SIC
+http://45.140.193.164:80/793668056690/374010715245/2549644.ts
+#EXTINF:-1 tvg-name="PT ● SIC Caras" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● SIC Caras
+http://45.140.193.164:80/793668056690/374010715245/2549645.ts
+#EXTINF:-1 tvg-name="PT ● SIC K" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● SIC K
+http://45.140.193.164:80/793668056690/374010715245/2549646.ts
+#EXTINF:-1 tvg-name="PT ● SIC Mulher" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● SIC Mulher
+http://45.140.193.164:80/793668056690/374010715245/2549647.ts
+#EXTINF:-1 tvg-name="PT ● SIC Noticias" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● SIC Noticias
+http://45.140.193.164:80/793668056690/374010715245/2549648.ts
+#EXTINF:-1 tvg-name="PT ● SIC Radical" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● SIC Radical
+http://45.140.193.164:80/793668056690/374010715245/2549649.ts
+#EXTINF:-1 tvg-name="PT ● TVI Reality Mosaico" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● TVI Reality Mosaico
+http://45.140.193.164:80/793668056690/374010715245/2549650.ts
+#EXTINF:-1 tvg-name="PT ● Sport TV+" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Sport TV+
+http://45.140.193.164:80/793668056690/374010715245/2549651.ts
+#EXTINF:-1 tvg-name="PT ● Sport TV 1" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Sport TV 1
+http://45.140.193.164:80/793668056690/374010715245/2549652.ts
+#EXTINF:-1 tvg-name="PT ● Sport TV 2" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Sport TV 2
+http://45.140.193.164:80/793668056690/374010715245/2549653.ts
+#EXTINF:-1 tvg-name="PT ● Sport TV 3" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Sport TV 3
+http://45.140.193.164:80/793668056690/374010715245/2549654.ts
+#EXTINF:-1 tvg-name="PT ● Sport TV 4" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Sport TV 4
+http://45.140.193.164:80/793668056690/374010715245/2549655.ts
+#EXTINF:-1 tvg-name="PT ● Sport TV 5" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Sport TV 5
+http://45.140.193.164:80/793668056690/374010715245/2549656.ts
+#EXTINF:-1 tvg-name="PT ● Sport TV 6" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Sport TV 6
+http://45.140.193.164:80/793668056690/374010715245/2549657.ts
+#EXTINF:-1 tvg-name="PT ● Sport TV NBA" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Sport TV NBA
+http://45.140.193.164:80/793668056690/374010715245/2549658.ts
+#EXTINF:-1 tvg-name="PT ● Sporting TV" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Sporting TV
+http://45.140.193.164:80/793668056690/374010715245/2549659.ts
+#EXTINF:-1 tvg-name="PT ● Nick Jr" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Nick Jr
+http://45.140.193.164:80/793668056690/374010715245/2549660.ts
+#EXTINF:-1 tvg-name="PT ● TLC" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● TLC
+http://45.140.193.164:80/793668056690/374010715245/2549661.ts
+#EXTINF:-1 tvg-name="PT ● TV Cine Action" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● TV Cine Action
+http://45.140.193.164:80/793668056690/374010715245/2549662.ts
+#EXTINF:-1 tvg-name="PT ● TV Cine Edition" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● TV Cine Edition
+http://45.140.193.164:80/793668056690/374010715245/2549663.ts
+#EXTINF:-1 tvg-name="PT ● TV Cine Emotion" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● TV Cine Emotion
+http://45.140.193.164:80/793668056690/374010715245/2549664.ts
+#EXTINF:-1 tvg-name="PT ● TV Cine TOP" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● TV Cine TOP
+http://45.140.193.164:80/793668056690/374010715245/2549665.ts
+#EXTINF:-1 tvg-name="PT ● TV5 Monde" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● TV5 Monde
+http://45.140.193.164:80/793668056690/374010715245/2549666.ts
+#EXTINF:-1 tvg-name="PT ● Fatima" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Fatima
+http://45.140.193.164:80/793668056690/374010715245/2549667.ts
+#EXTINF:-1 tvg-name="PT ● TVE" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● TVE
+http://45.140.193.164:80/793668056690/374010715245/2549668.ts
+#EXTINF:-1 tvg-name="PT ● TVI" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● TVI
+http://45.140.193.164:80/793668056690/374010715245/2549669.ts
+#EXTINF:-1 tvg-name="PT ● CaçaVision" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● CaçaVision
+http://45.140.193.164:80/793668056690/374010715245/2549670.ts
+#EXTINF:-1 tvg-name="PT ● TVI Reality" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● TVI Reality
+http://45.140.193.164:80/793668056690/374010715245/2549671.ts
+#EXTINF:-1 tvg-name="PT ● Trace Toca" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Trace Toca
+http://45.140.193.164:80/793668056690/374010715245/2549672.ts
+#EXTINF:-1 tvg-name="PT ● Trace Urban" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Trace Urban
+http://45.140.193.164:80/793668056690/374010715245/2549673.ts
+#EXTINF:-1 tvg-name="PT ● Travel Channel" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Travel Channel
+http://45.140.193.164:80/793668056690/374010715245/2549674.ts
+#EXTINF:-1 tvg-name="PT ● TPA Internacional" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● TPA Internacional
+http://45.140.193.164:80/793668056690/374010715245/2549675.ts
+#EXTINF:-1 tvg-name="PT ● RTP Madeira" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● RTP Madeira
+http://45.140.193.164:80/793668056690/374010715245/4030288.ts
+#EXTINF:-1 tvg-name="PT ● Sport TV 7" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png" ,PT ● Sport TV 7
+http://45.140.193.164:80/793668056690/374010715245/4030770.ts
