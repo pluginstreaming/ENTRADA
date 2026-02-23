@@ -3,169 +3,160 @@
 
 
 
-#EXTINF:-1 tvg-id="RTP.1.HD.pt" tvg-name="RTP 1 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/RTP%201.png" ,RTP 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1604
-#EXTINF:-1 tvg-id="RTP.1.HD.pt" tvg-name="RTP 1" tvg-logo="http://channelart.8b90287dn2.online/images/logos/RTP%201.png" ,RTP 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1600
-#EXTINF:-1 tvg-id="RTP.2.HD.pt" tvg-name="RTP 2 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/RTP%202.png" ,RTP 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1603
-#EXTINF:-1 tvg-id="RTP.2.HD.pt" tvg-name="RTP 2" tvg-logo="http://channelart.8b90287dn2.online/images/logos/RTP%202.png" ,RTP 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1599
-#EXTINF:-1 tvg-id="RTP.3.HD.pt" tvg-name="RTP 3 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/RTP%203.png" ,RTP 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1479
-#EXTINF:-1 tvg-id="RTP.3.HD.pt" tvg-name="RTP 3" tvg-logo="http://channelart.8b90287dn2.online/images/logos/RTP%203.png" ,RTP 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/899601
-#EXTINF:-1 tvg-name="RTP Acores" tvg-logo="https://prinplay.com.br/server/RTP%20A%C3%A7ores.png" ,RTP Acores
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1498
-#EXTINF:-1 tvg-name="RTP Africa" tvg-logo="https://prinplay.com.br/server/RTP%20%C3%81frica.png" ,RTP Africa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1501
-#EXTINF:-1 tvg-id="RTP MADEIRA" tvg-name="RTP Madeira" tvg-logo="http://channelart.8b90287dn2.online/images/logos/RTP%20Madeira.png" ,RTP Madeira
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1500
-#EXTINF:-1 tvg-name="RTP Memoria" tvg-logo="http://channelart.8b90287dn2.online/images/logos/RTP%20Memo%CC%81ria.png" ,RTP Memoria
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1499
-#EXTINF:-1 tvg-name="SIC HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SIC.png" ,SIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/10224
-#EXTINF:-1 tvg-id="SIC" tvg-name="SIC" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SIC.png" ,SIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1480
-#EXTINF:-1 tvg-name="TVI HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TVI.png" ,TVI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1483
-#EXTINF:-1 tvg-name="TVI" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TVI.png" ,TVI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1484
-#EXTINF:-1 tvg-name="SIC Noticias  HD" tvg-logo="https://prinplay.com.br/server/SIC%20Not%C3%ADcias.png" ,SIC Noticias  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/10226
-#EXTINF:-1 tvg-name="SIC Noticias" tvg-logo="https://prinplay.com.br/server/SIC%20Not%C3%ADcias.png" ,SIC Noticias
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1493
-#EXTINF:-1 tvg-id="CMTV.HD.pt" tvg-name="CMTV HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/CMTV.png" ,CMTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/10230
-#EXTINF:-1 tvg-name="CMTV" tvg-logo="http://channelart.8b90287dn2.online/images/logos/CMTV.png" ,CMTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1494
-#EXTINF:-1 tvg-id="CNN.Portugal.HD.pt" tvg-name="CNN Portugal HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/CNN.png" ,CNN Portugal HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/899603
-#EXTINF:-1 tvg-id="CNN.Portugal.HD.pt" tvg-name="CNN Portugal " tvg-logo="http://channelart.8b90287dn2.online/images/logos/CNN.png" ,CNN Portugal 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/75838
-#EXTINF:-1 tvg-id="TCV.Internacional.pt" tvg-name="TCV Internacional " tvg-logo="http://channelart.8b90287dn2.online/images/logos/TCV%20Internacional.png" ,TCV Internacional 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/899602
-#EXTINF:-1 tvg-name="Globo Portugal" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20Portugal.png" ,Globo Portugal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/2433
-#EXTINF:-1 tvg-id="SIC.Caras.HD.pt" tvg-name="SIC Caras HD " tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sic%20Caras.png" ,SIC Caras HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/51991
-#EXTINF:-1 tvg-name="SIC Caras" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sic%20Caras.png" ,SIC Caras
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1491
-#EXTINF:-1 tvg-id="SIC.Mulher.HD.pt" tvg-name="SIC Mulher HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SIC%20Mulher.png" ,SIC Mulher HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/10227
-#EXTINF:-1 tvg-name="SIC Mulher" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SIC%20Mulher.png" ,SIC Mulher
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1490
-#EXTINF:-1 tvg-name="SIC Radical HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sic%20Radical.png" ,SIC Radical HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/10225
-#EXTINF:-1 tvg-id="SIC RADICAL HD" tvg-name="SIC Radical" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sic%20Radical.png" ,SIC Radical
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1492
-#EXTINF:-1 tvg-id="tvi.ficcao.pt" tvg-name="TVI Ficcao HD " tvg-logo="https://prinplay.com.br/server/TVI%20Fic%C3%A7%C3%A3o.png" ,TVI Ficcao HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/51992
-#EXTINF:-1 tvg-name="TVI Ficcao" tvg-logo="https://prinplay.com.br/server/TVI%20Fic%C3%A7%C3%A3o.png" ,TVI Ficcao
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1487
-#EXTINF:-1 tvg-id="TVI REALITY HD" tvg-name="TVI Reality HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TVI%20Reality.png" ,TVI Reality HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1489
-#EXTINF:-1 tvg-id="TVI REALITY" tvg-name="TVI Reality" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TVI%20Reality.png" ,TVI Reality
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1488
-#EXTINF:-1 tvg-id="GAMETOON HD" tvg-name="Gametoon HD" tvg-logo="https://iconape.com/wp-content/files/um/279516/png/gametoon-hd-logo.png" ,Gametoon HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/52023
-#EXTINF:-1 tvg-id="PORTO CANAL HD" tvg-name="Porto Canal" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Porto%20Canal.png" ,Porto Canal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1497
-#EXTINF:-1 tvg-id="TVCine TOP HD" tvg-name="TVCine Top HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TVCine%20Top.png" ,TVCine Top HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1544
-#EXTINF:-1 tvg-name="TVCine Top " tvg-logo="http://channelart.8b90287dn2.online/images/logos/TVCine%20Top.png" ,TVCine Top 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1545
-#EXTINF:-1 tvg-id="TVCine EDITION HD" tvg-name="TVCine Edition HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TVCine%20Edition.png" ,TVCine Edition HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1546
-#EXTINF:-1 tvg-id="TVCine EDITION HD" tvg-name="TVCine Edition" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TVCine%20Edition.png" ,TVCine Edition
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1547
-#EXTINF:-1 tvg-id="TVCine EMOTION HD" tvg-name="TVCine Emotion HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TVCine%20Emotion.png" ,TVCine Emotion HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1548
-#EXTINF:-1 tvg-id="TVCine.EDITION.HD.pt" tvg-name="TVCine Emotion " tvg-logo="http://channelart.8b90287dn2.online/images/logos/TVCine%20Emotion.png" ,TVCine Emotion 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1549
-#EXTINF:-1 tvg-id="TVCine.ACTION.HD.pt" tvg-name="TVCine Action HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TVCine%20Action.png" ,TVCine Action HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1550
-#EXTINF:-1 tvg-id="TVCine.ACTION.HD.pt" tvg-name="TVCine Action" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TVCine%20Action.png" ,TVCine Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1551
-#EXTINF:-1 tvg-name="AMC HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/AMC.png" ,AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1568
-#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/AXN.png" ,AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1553
-#EXTINF:-1 tvg-id="AXN MOVIES HD" tvg-name="AXN Movies HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/AXN.png" ,AXN Movies HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1554
-#EXTINF:-1 tvg-name="AXN White HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/AXN%20White.png" ,AXN White HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1557
-#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-name="AXN White" tvg-logo="http://channelart.8b90287dn2.online/images/logos/AXN%20White.png" ,AXN White
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1558
-#EXTINF:-1 tvg-id="STAR COMEDY HD" tvg-name="Star Comedy HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Fox%20Comedy.png" ,Star Comedy HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1563
-#EXTINF:-1 tvg-id="STAR CRIME HD" tvg-name="Star Crime HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Fox%20Crime.png" ,Star Crime HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1564
-#EXTINF:-1 tvg-id="STAR CHANNEL HD" tvg-name="Star Channel HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Fox.png" ,Star Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1561
-#EXTINF:-1 tvg-name="Star Channel" tvg-logo="https://prinplay.com.br/server/Star%20Channel.png" ,Star Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1560
-#EXTINF:-1 tvg-id="STAR LIFE HD" tvg-name="Star Life HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Fox%20Life.png" ,Star Life HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1562
-#EXTINF:-1 tvg-id="STAR MOVIES HD" tvg-name="Star Movies HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Fox%20Movies.png" ,Star Movies HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1565
-#EXTINF:-1 tvg-name="Hollywood HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Canal%20Hollywood.png" ,Hollywood HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1566
-#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="Hollywood" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Canal%20Hollywood.png" ,Hollywood
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1567
-#EXTINF:-1 tvg-id="NOS.Studios.HD.pt" tvg-name="Nos Studios HD " tvg-logo="http://channelart.8b90287dn2.online/images/logos/Canal%20NOS.png" ,Nos Studios HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/45491
-#EXTINF:-1 tvg-id="SYFY LOW" tvg-name="Syfy HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Syfy.png" ,Syfy HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1570
-#EXTINF:-1 tvg-name="Cinemundo HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Cine%20Mundo.png" ,Cinemundo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1569
-#EXTINF:-1 tvg-id="AMC.Crime.HD.pt" tvg-name="AMC Crime HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/AMC.png" ,AMC Crime HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1571
-#EXTINF:-1 tvg-name="Canal Panda" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Canal%20Panda.png" ,Canal Panda
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1503
-#EXTINF:-1 tvg-name="Panda Kids" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Panda%20Biggs.png" ,Panda Kids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1504
-#EXTINF:-1 tvg-id="CART" tvg-name="Cartoon Network" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Cartoon%20Network.png" ,Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1505
-#EXTINF:-1 tvg-name="Baby TV" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Baby%20TV.png" ,Baby TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1508
-#EXTINF:-1 tvg-name="Discovery Channel HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Discovery%20Channel.png" ,Discovery Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1574
-#EXTINF:-1 tvg-name="Disney Channel³" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Disney%20Channel.png" ,Disney Channel³
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1510
-#EXTINF:-1 tvg-name="Disney Junior HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Disney%20Jr..png" ,Disney Junior HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1511
-#EXTINF:-1 tvg-name="SIC K" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SIC%20Kids.png" ,SIC K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1509
-#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Nickelodeon.png" ,Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1506
-#EXTINF:-1 tvg-id="TLC HD" tvg-name="TLC" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TLC.png" ,TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1587
-#EXTINF:-1 tvg-name="24 Kitchen HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/24%20Kitchen.png" ,24 Kitchen HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1586
-#EXTINF:-1 tvg-id="24Kitchen.HD.pt" tvg-name="24 Kitchen" tvg-logo="http://channelart.8b90287dn2.online/images/logos/24%20Kitchen.png" ,24 Kitchen
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/12779
-#EXTINF:-1 tvg-id="E! ENTERTAINMENT HD" tvg-name="E! " tvg-logo="http://channelart.8b90287dn2.online/images/logos/E%21%20Entertainment.png" ,E! 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1588
-#EXTINF:-1 tvg-name="National Geographic Wild HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/National%20Geographic.png" ,National Geographic Wild HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1576
-#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-name="National Geographic HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Nat%20Geo%20Wild.png" ,National Geographic HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1578
-#EXTINF:-1 tvg-id="ODISSEIA HD" tvg-name="Odisseia" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Odisseia.png" ,Odisseia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1579
-#EXTINF:-1 tvg-id="HISTÓRIA HD" tvg-name="Historia HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Canal%20Hist%C3%B3ria.png" ,Historia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1577
-#EXTINF:-1 tvg-name="Caça e Pesca" tvg-logo="https://prinplay.com.br/server/Ca%C3%A7a%20e%20Pesca.png" ,Caça e Pesca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1583
-#EXTINF:-1 tvg-name="Cacavision" tvg-logo="https://prinplay.com.br/server/Ca%C3%A7avision.png" ,Cacavision
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1584
-#EXTINF:-1 tvg-id="FUEL TV HD" tvg-name="Fuel TV" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Fuel%20TV.png" ,Fuel TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1596
-#EXTINF:-1 tvg-id="MTV PORTUGAL HD" tvg-name="MTV Portugal" tvg-logo="http://channelart.8b90287dn2.online/images/logos/MTV.png" ,MTV Portugal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1591
-#EXTINF:-1 tvg-id="MCM POP HD" tvg-name="MCM Pop" tvg-logo="http://channelart.8b90287dn2.online/images/logos/MCM%20Pop.png" ,MCM Pop
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/1593
-#EXTINF:-1 tvg-id="ZAP.Viva.HD.pt" tvg-name="ZAP Viva " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c6/Zap_Viva_%28logo%29.png" ,ZAP Viva 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/12778
-#EXTINF:-1 tvg-id="Trace.Brasil.pt" tvg-name="Trace Urban " tvg-logo="http://channelart.8b90287dn2.online/images/logos/Trace%20Urban.png" ,Trace Urban 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartvtcl.site:80/860860/860860/75839
+#EXTINF:-1 tvg-name="24 Kitchen HD" tvg-logo="http://top-logos.xyz/pt/24kitchen.png" group-title="Portugal Abertos",24 Kitchen HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422415
+#EXTINF:-1 tvg-name="Canal  Q HD" tvg-logo="http://top-logos.xyz/pt/canalq.png" group-title="Portugal Abertos",Canal  Q HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422325
+#EXTINF:-1 tvg-name="Globo Portugall HD" tvg-logo="http://top-logos.xyz/pt/tvglobo.png" group-title="Portugal Abertos",Globo Portugall HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422329
+#EXTINF:-1 tvg-name="Rtp 1 FHD" tvg-logo="http://top-logos.xyz/pt/1rtp.png" group-title="Portugal Abertos",Rtp 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422283
+#EXTINF:-1 tvg-name="Rtp 1 HD" tvg-logo="http://top-logos.xyz/pt/1rtp.png" group-title="Portugal Abertos",Rtp 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422281
+#EXTINF:-1 tvg-name="Rtp 2 FHD" tvg-logo="http://top-logos.xyz/pt/2rtp.png" group-title="Portugal Abertos",Rtp 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422284
+#EXTINF:-1 tvg-name="Rtp 2 HD" tvg-logo="http://top-logos.xyz/pt/2rtp.png" group-title="Portugal Abertos",Rtp 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422285
+#EXTINF:-1 tvg-name="Rtp Acores HD" tvg-logo="http://top-logos.xyz/pt/rtpacores.png" group-title="Portugal Abertos",Rtp Acores HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422304
+#EXTINF:-1 tvg-name="Rtp Africa HD" tvg-logo="http://top-logos.xyz/pt/rtpafrica.png" group-title="Portugal Abertos",Rtp Africa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422303
+#EXTINF:-1 tvg-name="Rtp Madeira HD" tvg-logo="http://top-logos.xyz/pt/rtpmadeira.png" group-title="Portugal Abertos",Rtp Madeira HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422306
+#EXTINF:-1 tvg-name="Rtp Memória HD" tvg-logo="http://top-logos.xyz/pt/rtpmemoria.png" group-title="Portugal Abertos",Rtp Memória HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422305
+#EXTINF:-1 tvg-name="Sic FHD" tvg-logo="http://top-logos.xyz/pt/4sic.png" group-title="Portugal Abertos",Sic FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422288
+#EXTINF:-1 tvg-name="Sic HD" tvg-logo="http://top-logos.xyz/pt/4sic.png" group-title="Portugal Abertos",Sic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422287
+#EXTINF:-1 tvg-name="Sic Caras HD" tvg-logo="http://top-logos.xyz/pt/siccaras.png" group-title="Portugal Abertos",Sic Caras HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422315
+#EXTINF:-1 tvg-name="Sic K HD" tvg-logo="http://top-logos.xyz/pt/sick.png" group-title="Portugal Abertos",Sic K HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422403
+#EXTINF:-1 tvg-name="Sic Mulher FHD" tvg-logo="http://top-logos.xyz/pt/sicmulher.png" group-title="Portugal Abertos",Sic Mulher FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422314
+#EXTINF:-1 tvg-name="Sic Mulher HD" tvg-logo="http://top-logos.xyz/pt/sicmulher.png" group-title="Portugal Abertos",Sic Mulher HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422313
+#EXTINF:-1 tvg-name="Sic Novelas HD" tvg-logo="https://i.ibb.co/WkXDJ1h/sicnovelas.png" group-title="Portugal Abertos",Sic Novelas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422310
+#EXTINF:-1 tvg-name="Sic Radical FHD" tvg-logo="http://top-logos.xyz/pt/sicradical.png" group-title="Portugal Abertos",Sic Radical FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422317
+#EXTINF:-1 tvg-name="Sic Replay HD" tvg-logo="https://i.imgur.com/RmZ1sDG.jpeg" group-title="Portugal Abertos",Sic Replay HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422311
+#EXTINF:-1 tvg-name="Tvi FHD" tvg-logo="http://top-logos.xyz/pt/5tvi.png" group-title="Portugal Abertos",Tvi FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422291
+#EXTINF:-1 tvg-name="Tvi HD" tvg-logo="http://top-logos.xyz/pt/5tvi.png" group-title="Portugal Abertos",Tvi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422290
+#EXTINF:-1 tvg-name="Tvi Ficção HD" tvg-logo="http://top-logos.xyz/pt/7tvificcao.png" group-title="Portugal Abertos",Tvi Ficção HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422318
+#EXTINF:-1 tvg-name="Sic Rdical HD" tvg-logo="http://top-logos.xyz/pt/sicradical.png" group-title="Portugal Abertos",Sic Rdical HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422316
+
+
+
+
+
+#EXTINF:-1 tvg-name="Afro Music HD" tvg-logo="http://top-logos.xyz/pt/afromiosic.png" group-title="Portugal Variedades",Afro Music HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422429
+#EXTINF:-1 tvg-name="Alma Lusa HD" tvg-logo="http://top-logos.xyz/pt/almalusa.png" group-title="Portugal Variedades",Alma Lusa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422448
+#EXTINF:-1 tvg-name="Amc Break HD" tvg-logo="http://top-logos.xyz/pt/amcbreak.png" group-title="Portugal Variedades",Amc Break HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422333
+#EXTINF:-1 tvg-name="Amc Crime HD" tvg-logo="http://top-logos.xyz/pt/amccrime.png" group-title="Portugal Variedades",Amc Crime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422335
+#EXTINF:-1 tvg-name="Baby TV HD" tvg-logo="http://top-logos.xyz/pt/babytv.png" group-title="Portugal Variedades",Baby TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422399
+#EXTINF:-1 tvg-name="Caca e Pesca HD" tvg-logo="http://top-logos.xyz/pt/cacaepesca.png" group-title="Portugal Variedades",Caca e Pesca HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422337
+#EXTINF:-1 tvg-name="Caçavision HD" tvg-logo="http://top-logos.xyz/pt/cacavision.png" group-title="Portugal Variedades",Caçavision HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422338
+#EXTINF:-1 tvg-name="Casa e Cozinha HD" tvg-logo="http://top-logos.xyz/pt/casaecozinha.png" group-title="Portugal Variedades",Casa e Cozinha HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422416
+#EXTINF:-1 tvg-name="Discovery Channell HD" tvg-logo="http://top-logos.xyz/pt/discovery.png" group-title="Portugal Variedades",Discovery Channell HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422408
+#EXTINF:-1 tvg-name="Dog TV HD" tvg-logo="http://top-logos.xyz/pt/dogtv.png" group-title="Portugal Variedades",Dog TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422339
+#EXTINF:-1 tvg-name="Food  Network HD" tvg-logo="http://top-logos.xyz/pt/food.png" group-title="Portugal Variedades",Food  Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422421
+#EXTINF:-1 tvg-name="History HD" tvg-logo="http://top-logos.xyz/pt/historia.png" group-title="Portugal Variedades",History HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422409
+#EXTINF:-1 tvg-name="Hollyood HD" tvg-logo="http://top-logos.xyz/pt/canalhollywood.png" group-title="Portugal Variedades",Hollyood HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422389
+#EXTINF:-1 tvg-name="Id Iinvetigação Discovery HD" tvg-logo="http://top-logos.xyz/pt/id.png" group-title="Portugal Variedades",Id Iinvetigação Discovery HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422334
+#EXTINF:-1 tvg-name="Mcm Pop HD" tvg-logo="http://top-logos.xyz/pt/mcmpop.png" group-title="Portugal Variedades",Mcm Pop HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422427
+#EXTINF:-1 tvg-name="Mcm Top HD" tvg-logo="http://top-logos.xyz/pt/mcmtop.png" group-title="Portugal Variedades",Mcm Top HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422428
+#EXTINF:-1 tvg-name="Mtv 00´S" tvg-logo="http://top-logos.xyz/pt/mtv00s.png" group-title="Portugal Variedades",Mtv 00´S
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422426
+#EXTINF:-1 tvg-name="Mtv Live HD" tvg-logo="http://top-logos.xyz/pt/mtvlive.png" group-title="Portugal Variedades",Mtv Live HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422424
+#EXTINF:-1 tvg-name="Mtv Portugal HD" tvg-logo="http://top-logos.xyz/pt/mtvportugal.png" group-title="Portugal Variedades",Mtv Portugal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422423
+#EXTINF:-1 tvg-name="Nat Geo HD" tvg-logo="http://top-logos.xyz/pt/nationalgeografic.png" group-title="Portugal Variedades",Nat Geo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422406
+#EXTINF:-1 tvg-name="Nat Geo Wild HD" tvg-logo="http://top-logos.xyz/pt/nargeowild.png" group-title="Portugal Variedades",Nat Geo Wild HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422405
+#EXTINF:-1 tvg-name="Odisseia HD" tvg-logo="http://top-logos.xyz/pt/odisseia.png" group-title="Portugal Variedades",Odisseia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422411
+#EXTINF:-1 tvg-name="Tlc HD" tvg-logo="http://top-logos.xyz/pt/tlc.png" group-title="Portugal Variedades",Tlc HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422413
+#EXTINF:-1 tvg-name="Trace  Toca HD" tvg-logo="http://top-logos.xyz/pt/tracetoca.png" group-title="Portugal Variedades",Trace  Toca HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422430
+#EXTINF:-1 tvg-name="Trace Urban HD" tvg-logo="http://top-logos.xyz/pt/traceurban.png" group-title="Portugal Variedades",Trace Urban HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422431
+#EXTINF:-1 tvg-name="Travel Channell HD" tvg-logo="http://top-logos.xyz/pt/travel.png" group-title="Portugal Variedades",Travel Channell HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422414
+#EXTINF:-1 tvg-name="V+ Tvi HD" tvg-logo="https://i.imgur.com/rTwu0fQ.png" group-title="Portugal Variedades",V+ Tvi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422301
+#EXTINF:-1 tvg-name="Zap Viva HD" tvg-logo="http://top-logos.xyz/pt/zapvida.png" group-title="Portugal Variedades",Zap Viva HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422331
+
+
+
+
+
+#EXTINF:-1 tvg-name="Cmtv FHD" tvg-logo="http://top-logos.xyz/pt/cmtv.png" group-title="Portugal Notícias",Cmtv FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422299
+#EXTINF:-1 tvg-name="Cnbc Europe HD" tvg-logo="http://top-logos.xyz/pt/cnbc.png" group-title="Portugal Notícias",Cnbc Europe HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422450
+#EXTINF:-1 tvg-name="Cnn HD" tvg-logo="http://top-logos.xyz/pt/cnn.png" group-title="Portugal Notícias",Cnn HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422441
+#EXTINF:-1 tvg-name="Euro News HD" tvg-logo="http://top-logos.xyz/pt/euronews.png" group-title="Portugal Notícias",Euro News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422434
+#EXTINF:-1 tvg-id="24HAnimes" tvg-name="Record News HD" tvg-logo="http://top-logos.xyz/pt/recordnews.png" group-title="Portugal Notícias",Record News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422451
+#EXTINF:-1 tvg-name="Rtp Noticias HD" tvg-logo="https://i.imgur.com/ZtCm9wM.jpeg" group-title="Portugal Notícias",Rtp Noticias HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422302
+#EXTINF:-1 tvg-name="Sky News HD" tvg-logo="http://top-logos.xyz/pt/skynews.png" group-title="Portugal Notícias",Sky News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422440
+#EXTINF:-1 tvg-name="Sic Noticias FHD" tvg-logo="http://top-logos.xyz/pt/6sicnoticias.png" group-title="Portugal Notícias",Sic Noticias FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422293
+#EXTINF:-1 tvg-name="Sic Noticias HD" tvg-logo="http://top-logos.xyz/pt/6sicnoticias.png" group-title="Portugal Notícias",Sic Noticias HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422294
+#EXTINF:-1 tvg-name="Cnn Portugal HD" tvg-logo="http://top-logos.xyz/pt/cnnportugal.png" group-title="Portugal Notícias",Cnn Portugal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422296
+#EXTINF:-1 tvg-name="Cnn Portugall FHD" tvg-logo="http://top-logos.xyz/pt/cnnportugal.png" group-title="Portugal Notícias",Cnn Portugall FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422297
+#EXTINF:-1 tvg-name="Cmtv HD" tvg-logo="http://top-logos.xyz/pt/cmtv.png" group-title="Portugal Notícias",Cmtv HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422298
+#EXTINF:-1 tvg-name="News Now HD" tvg-logo="https://i.imgur.com/i8wWOtn.png" group-title="Portugal Notícias",News Now HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422300
+
+
+
+
+
+#EXTINF:-1 tvg-name="Tvi Reality HD" tvg-logo="http://top-logos.xyz/pt/tvireality.png" group-title="Portugal Reality",Tvi Reality HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422319
+#EXTINF:-1 tvg-name="Tvi Reality Camera 01" tvg-logo="http://top-logos.xyz/pt/tvireality.png" group-title="Portugal Reality",Tvi Reality Camera 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422321
+#EXTINF:-1 tvg-name="Tvi Reality Camera 02" tvg-logo="http://top-logos.xyz/pt/tvireality.png" group-title="Portugal Reality",Tvi Reality Camera 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422322
+#EXTINF:-1 tvg-name="Tvi Reality Camera 03" tvg-logo="http://top-logos.xyz/pt/tvireality.png" group-title="Portugal Reality",Tvi Reality Camera 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422323
+#EXTINF:-1 tvg-name="Tvi Reality Camera 04" tvg-logo="http://top-logos.xyz/pt/tvireality.png" group-title="Portugal Reality",Tvi Reality Camera 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422324
+#EXTINF:-1 tvg-name="Tvi Reality Mosaico HD" tvg-logo="http://top-logos.xyz/pt/tvireality.png" group-title="Portugal Reality",Tvi Reality Mosaico HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/4898461598/940566657/6422320
