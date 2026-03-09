@@ -3,326 +3,484 @@
 
 
 
-#EXTINF:-1 tvg-name="APPLE TV 1" tvg-logo="https://logospng.org/download/apple-tv/apple-tv-4096.png" group-title="⚽SPORTY NET | APPLE+",APPLE TV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/172891.ts
-#EXTINF:-1 tvg-name="APPLE TV 2" tvg-logo="https://logospng.org/download/apple-tv/apple-tv-4096.png" group-title="⚽SPORTY NET | APPLE+",APPLE TV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/172892.ts
-#EXTINF:-1 tvg-name="SPORTY NET  1" tvg-logo="https://i.imgur.com/xxhxdcY.jpeg" group-title="⚽SPORTY NET | APPLE+",SPORTY NET  1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/172915.ts
-#EXTINF:-1 tvg-name="SPORTY NET 2" tvg-logo="https://i.imgur.com/xxhxdcY.jpeg" group-title="⚽SPORTY NET | APPLE+",SPORTY NET 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/172916.ts
-#EXTINF:-1 tvg-name="NOSSO FUTEBOL 1" tvg-logo="https://i.imgur.com/5WtSBxq.png" group-title="⚽SPORTY NET | APPLE+",NOSSO FUTEBOL 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/172914.ts
-#EXTINF:-1 tvg-name="NOSSO FUTEBOL 2" tvg-logo="https://i.imgur.com/5WtSBxq.png" group-title="⚽SPORTY NET | APPLE+",NOSSO FUTEBOL 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/172917.ts
-#EXTINF:-1 tvg-name="SPORTY NET 3" tvg-logo="https://i.imgur.com/xxhxdcY.jpeg" group-title="⚽SPORTY NET | APPLE+",SPORTY NET 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/1544879.ts
+#EXTINF:-1 tvg-name="Band Sports 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/103525.ts
+#EXTINF:-1 tvg-name="Band Sports FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71801.ts
+#EXTINF:-1 tvg-name="Band Sports FHD [H265]" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71802.ts
+#EXTINF:-1 tvg-name="Band Sports HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71803.ts
+#EXTINF:-1 tvg-name="Band Sports SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71804.ts
+#EXTINF:-1 tvg-name="Combate 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/combate.png" group-title="Canais | Esportes",Combate 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71844.ts
+#EXTINF:-1 tvg-name="Combate FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/combate.png" group-title="Canais | Esportes",Combate FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71842.ts
+#EXTINF:-1 tvg-name="Combate FHD [H265]" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/combate.png" group-title="Canais | Esportes",Combate FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71843.ts
+#EXTINF:-1 tvg-name="Combate HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/combate.png" group-title="Canais | Esportes",Combate HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71845.ts
+#EXTINF:-1 tvg-name="Combate SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/combate.png" group-title="Canais | Esportes",Combate SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71846.ts
+#EXTINF:-1 tvg-name="X Sports FHD" group-title="Canais | Esportes",X Sports FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/340449.ts
+#EXTINF:-1 tvg-name="X Sports HD" group-title="Canais | Esportes",X Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/340450.ts
+#EXTINF:-1 tvg-name="X Sports SD" group-title="Canais | Esportes",X Sports SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/340451.ts
 
 
 
 
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Band.Sports.br" tvg-name="BAND SPORTS 4K" tvg-logo="https://i.imgur.com/jXSVsni.png" group-title="⚽ESPORTES",BAND SPORTS 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/369614.ts
-#EXTINF:-1 tvg-id="Band Sports HD" tvg-name="BAND SPORTS FHD" tvg-logo="https://i.imgur.com/jXSVsni.png" group-title="⚽ESPORTES",BAND SPORTS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/422.ts
-#EXTINF:-1 tvg-id="Band Sports SD" tvg-name="BAND SPORTS HD" tvg-logo="https://i.imgur.com/jXSVsni.png" group-title="⚽ESPORTES",BAND SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/423.ts
-#EXTINF:-1 tvg-id="Band Sports FHD H.265" tvg-name="BAND SPORTS SD" tvg-logo="https://i.imgur.com/jXSVsni.png" group-title="⚽ESPORTES",BAND SPORTS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/424.ts
-#EXTINF:-1 tvg-id="Fish TV HD" tvg-name="FISH TV 4K" tvg-logo="https://i.imgur.com/fSDUo6W.png" group-title="⚽ESPORTES",FISH TV 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/369645.ts
-#EXTINF:-1 tvg-id="Fish TV SD" tvg-name="FISH TV FHD" tvg-logo="https://i.imgur.com/fSDUo6W.png" group-title="⚽ESPORTES",FISH TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/444.ts
-#EXTINF:-1 tvg-id="Fish TV SD" tvg-name="FISH TV HD" tvg-logo="https://i.imgur.com/fSDUo6W.png" group-title="⚽ESPORTES",FISH TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/446.ts
-#EXTINF:-1 tvg-id="Fish TV SD" tvg-name="FISH TV SD" tvg-logo="https://i.imgur.com/fSDUo6W.png" group-title="⚽ESPORTES",FISH TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/447.ts
-#EXTINF:-1 tvg-id="BR - Off" tvg-name="OFF FHD" tvg-logo="https://i.imgur.com/on9YQ4Q.png" group-title="⚽ESPORTES",OFF FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/459.ts
-#EXTINF:-1 tvg-id="BR - Off" tvg-name="OFF HD" tvg-logo="https://i.imgur.com/on9YQ4Q.png" group-title="⚽ESPORTES",OFF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/460.ts
-#EXTINF:-1 tvg-id="BR - Off" tvg-name="OFF SD" tvg-logo="https://i.imgur.com/on9YQ4Q.png" group-title="⚽ESPORTES",OFF SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/171871.ts
-#EXTINF:-1 tvg-name="TVE BAHIA" tvg-logo="https://i.imgur.com/tCbSc3L.jpg" group-title="⚽ESPORTES",TVE BAHIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/172893.ts
-#EXTINF:-1 tvg-id="BR - WooHoo" tvg-name="WOOHOO FHD" tvg-logo="https://i.imgur.com/gdBzn5K.png" group-title="⚽ESPORTES",WOOHOO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/435.ts
-#EXTINF:-1 tvg-id="BR - WooHoo" tvg-name="WOOHOO HD" tvg-logo="https://i.imgur.com/gdBzn5K.png" group-title="⚽ESPORTES",WOOHOO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/436.ts
-#EXTINF:-1 tvg-id="BR - WooHoo" tvg-name="WOOHOO SD" tvg-logo="https://i.imgur.com/gdBzn5K.png" group-title="⚽ESPORTES",WOOHOO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/437.ts
-#EXTINF:-1 tvg-name="X-Sports HD" tvg-logo="http://ixi.paineluhd.club:80/images/7d4adb8aabb453f4c164be0b992e4182.png" group-title="⚽ESPORTES",X-Sports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/6271790.ts
-#EXTINF:-1 tvg-name="GE TV" group-title="⚽ESPORTES",GE TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/6286873.ts
-#EXTINF:-1 tvg-name="T VILA SPORTS HD" group-title="⚽ESPORTES",T VILA SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/6315234.ts
+#EXTINF:-1 tvg-name="BJJ STARS FHD" group-title="Canais | PPV",BJJ STARS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/159276.ts
+#EXTINF:-1 tvg-name="BJJ STARS HD" group-title="Canais | PPV",BJJ STARS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/159277.ts
+#EXTINF:-1 tvg-name="BJJ STARS SD" group-title="Canais | PPV",BJJ STARS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/159278.ts
+#EXTINF:-1 tvg-name="Caze TV FHD" group-title="Canais | PPV",Caze TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/76671.ts
+#EXTINF:-1 tvg-name="Formula 1 TV FHD" tvg-logo="https://imgur.com/a/jyyyawL" group-title="Canais | PPV",Formula 1 TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71947.ts
+#EXTINF:-1 tvg-name="Formula 1 TV HD" tvg-logo="https://imgur.com/a/jyyyawL" group-title="Canais | PPV",Formula 1 TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71949.ts
+#EXTINF:-1 tvg-name="Formula 1 TV SD" tvg-logo="https://imgur.com/a/jyyyawL" group-title="Canais | PPV",Formula 1 TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71950.ts
+#EXTINF:-1 tvg-name="OneFootball 1 FHD" group-title="Canais | PPV",OneFootball 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/185800.ts
+#EXTINF:-1 tvg-name="OneFootball 1 HD" group-title="Canais | PPV",OneFootball 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/185801.ts
+#EXTINF:-1 tvg-name="OneFootball 1 SD" group-title="Canais | PPV",OneFootball 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/185802.ts
+#EXTINF:-1 tvg-name="UFC Fight Pass FHD" group-title="Canais | PPV",UFC Fight Pass FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/184046.ts
+#EXTINF:-1 tvg-name="UFC Fight Pass HD" group-title="Canais | PPV",UFC Fight Pass HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/184047.ts
+#EXTINF:-1 tvg-name="UFC Fight Pass SD" group-title="Canais | PPV",UFC Fight Pass SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/184048.ts
+#EXTINF:-1 tvg-name="Furacao Live FHD" group-title="Canais | PPV",Furacao Live FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/192079.ts
+#EXTINF:-1 tvg-name="Furacao Live HD" group-title="Canais | PPV",Furacao Live HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/192080.ts
+#EXTINF:-1 tvg-name="Furacao Live SD" group-title="Canais | PPV",Furacao Live SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/192081.ts
+#EXTINF:-1 tvg-name="Canal Goat FHD" group-title="Canais | PPV",Canal Goat FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/218845.ts
+#EXTINF:-1 tvg-name="Canal Goat HD" group-title="Canais | PPV",Canal Goat HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/218846.ts
+#EXTINF:-1 tvg-name="Canal Goat SD" group-title="Canais | PPV",Canal Goat SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/218847.ts
+#EXTINF:-1 tvg-name="Canal Goat 2 FHD" group-title="Canais | PPV",Canal Goat 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/242172.ts
+#EXTINF:-1 tvg-name="Canal Goat 2 HD" group-title="Canais | PPV",Canal Goat 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/242173.ts
+#EXTINF:-1 tvg-name="Canal Goat 2 SD" group-title="Canais | PPV",Canal Goat 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/242174.ts
+#EXTINF:-1 tvg-name="FCF TV 1 FHD" group-title="Canais | PPV",FCF TV 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/247976.ts
+#EXTINF:-1 tvg-name="FCF TV 1 HD" group-title="Canais | PPV",FCF TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/247977.ts
+#EXTINF:-1 tvg-name="FCF TV 1 SD" group-title="Canais | PPV",FCF TV 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/247978.ts
+#EXTINF:-1 tvg-name="FCF TV 2 FHD" group-title="Canais | PPV",FCF TV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/247979.ts
+#EXTINF:-1 tvg-name="FCF TV 2 HD" group-title="Canais | PPV",FCF TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/247980.ts
+#EXTINF:-1 tvg-name="FCF TV 2 SD" group-title="Canais | PPV",FCF TV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/247981.ts
+#EXTINF:-1 tvg-name="Barretos 2025 FHD" group-title="Canais | PPV",Barretos 2025 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/281296.ts
+#EXTINF:-1 tvg-name="Barretos 2025 HD" group-title="Canais | PPV",Barretos 2025 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/281297.ts
+#EXTINF:-1 tvg-name="Barretos 2025 SD" group-title="Canais | PPV",Barretos 2025 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/281298.ts
+#EXTINF:-1 tvg-name="Mr. Olympia TV FHD" group-title="Canais | PPV",Mr. Olympia TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/289535.ts
+#EXTINF:-1 tvg-name="Mr. Olympia TV HD" group-title="Canais | PPV",Mr. Olympia TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/289536.ts
+#EXTINF:-1 tvg-name="Mr. Olympia TV SD" group-title="Canais | PPV",Mr. Olympia TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/289537.ts
+#EXTINF:-1 tvg-name="Netflix Live FHD" group-title="Canais | PPV",Netflix Live FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/294969.ts
+#EXTINF:-1 tvg-name="Netflix Live HD" group-title="Canais | PPV",Netflix Live HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/294970.ts
+#EXTINF:-1 tvg-name="Netflix Live SD" group-title="Canais | PPV",Netflix Live SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/294971.ts
 
 
 
 
 
-#EXTINF:-1 tvg-name="CAZÉ TV 1" tvg-logo="https://i.ibb.co/wcHxX8M/cazetv.jpg" group-title="⚽CAZÉ TV | GOAT",CAZÉ TV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/1186.ts
-#EXTINF:-1 tvg-name="CAZÉ TV 2" tvg-logo="https://i.ibb.co/wcHxX8M/cazetv.jpg" group-title="⚽CAZÉ TV | GOAT",CAZÉ TV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/173207.ts
-#EXTINF:-1 tvg-name="CAZÉ TV 3" tvg-logo="https://i.ibb.co/wcHxX8M/cazetv.jpg" group-title="⚽CAZÉ TV | GOAT",CAZÉ TV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/172882.ts
-#EXTINF:-1 tvg-name="GOAT 1" tvg-logo="http://69.197.159.50:80/images/9f2732188e1f9c5396f1c8b2cbd3a767.png" group-title="⚽CAZÉ TV | GOAT",GOAT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4919138.ts
-#EXTINF:-1 tvg-name="GOAT 2" tvg-logo="http://69.197.159.50:80/images/9f2732188e1f9c5396f1c8b2cbd3a767.png" group-title="⚽CAZÉ TV | GOAT",GOAT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4919139.ts
-#EXTINF:-1 tvg-name="GOAT 3" tvg-logo="http://69.197.159.50:80/images/b7e4b916f0ebe2d374d207e1c6b42180.png" group-title="⚽CAZÉ TV | GOAT",GOAT 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4919140.ts
+#EXTINF:-1 tvg-name="Copa do Brasil 1 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Prime Video",Copa do Brasil 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/150498.ts
+#EXTINF:-1 tvg-name="Copa do Brasil 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Prime Video",Copa do Brasil 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/150499.ts
+#EXTINF:-1 tvg-name="Copa do Brasil 1 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Prime Video",Copa do Brasil 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/150500.ts
+#EXTINF:-1 tvg-name="Copa do Brasil 2 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Prime Video",Copa do Brasil 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/150501.ts
+#EXTINF:-1 tvg-name="Copa do Brasil 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Prime Video",Copa do Brasil 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/150502.ts
+#EXTINF:-1 tvg-name="Copa do Brasil 2 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Prime Video",Copa do Brasil 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/150503.ts
+#EXTINF:-1 tvg-name="Copa do Brasil 3 FHD" group-title="Canais | Prime Video",Copa do Brasil 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/142040.ts
+#EXTINF:-1 tvg-name="Copa do Brasil 3 HD" group-title="Canais | Prime Video",Copa do Brasil 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/105789.ts
+#EXTINF:-1 tvg-name="Copa do Brasil 3 SD" group-title="Canais | Prime Video",Copa do Brasil 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/142041.ts
+#EXTINF:-1 tvg-name="Copa do Brasil 4 FHD" group-title="Canais | Prime Video",Copa do Brasil 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/193253.ts
+#EXTINF:-1 tvg-name="Copa do Brasil 4 HD" group-title="Canais | Prime Video",Copa do Brasil 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/193254.ts
+#EXTINF:-1 tvg-name="Copa do Brasil 4 SD" group-title="Canais | Prime Video",Copa do Brasil 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/193255.ts
+#EXTINF:-1 tvg-name="Brasileirao Serie A FHD" group-title="Canais | Prime Video",Brasileirao Serie A FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/317063.ts
+#EXTINF:-1 tvg-name="Brasileirao Serie A HD" group-title="Canais | Prime Video",Brasileirao Serie A HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/317064.ts
+#EXTINF:-1 tvg-name="Brasileirao Serie A SD" group-title="Canais | Prime Video",Brasileirao Serie A SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/317065.ts
 
 
 
 
 
-#EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE 1" tvg-logo="http://ixi.paineluhd.club:80/images/e656bfa70c31efbcf5a320467ddde196.png" group-title="⚡COMBATE | UFC",COMBATE 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/88.ts
-#EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE 2" tvg-logo="http://ixi.paineluhd.club:80/images/e656bfa70c31efbcf5a320467ddde196.png" group-title="⚡COMBATE | UFC",COMBATE 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/425.ts
-#EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE 3" tvg-logo="http://ixi.paineluhd.club:80/images/e656bfa70c31efbcf5a320467ddde196.png" group-title="⚡COMBATE | UFC",COMBATE 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/426.ts
-#EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE HD" tvg-logo="http://ixi.paineluhd.club:80/images/e656bfa70c31efbcf5a320467ddde196.png" group-title="⚡COMBATE | UFC",COMBATE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4776180.ts
-#EXTINF:-1 tvg-name="UFC FIGHT PASS 1" tvg-logo="https://i.imgur.com/wHro6eH.png" group-title="⚡COMBATE | UFC",UFC FIGHT PASS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/1206.ts
-#EXTINF:-1 tvg-name="UFC FIGHT PASS 2" tvg-logo="https://i.imgur.com/wHro6eH.png" group-title="⚡COMBATE | UFC",UFC FIGHT PASS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/1207.ts
-#EXTINF:-1 tvg-name="UFC FIGHT PASS 3" tvg-logo="https://i.imgur.com/wHro6eH.png" group-title="⚡COMBATE | UFC",UFC FIGHT PASS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/1551827.ts
+#EXTINF:-1 tvg-name="DAZN 1 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/dazn.png" group-title="Canais | DAZN",DAZN 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/184550.ts
+#EXTINF:-1 tvg-name="DAZN 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/dazn.png" group-title="Canais | DAZN",DAZN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/184551.ts
+#EXTINF:-1 tvg-name="DAZN 1 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/dazn.png" group-title="Canais | DAZN",DAZN 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/184552.ts
+#EXTINF:-1 tvg-name="DAZN 2 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/dazn.png" group-title="Canais | DAZN",DAZN 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/184553.ts
+#EXTINF:-1 tvg-name="DAZN 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/dazn.png" group-title="Canais | DAZN",DAZN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/184554.ts
+#EXTINF:-1 tvg-name="DAZN 2 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/dazn.png" group-title="Canais | DAZN",DAZN 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/184555.ts
 
 
 
 
 
-#EXTINF:-1 tvg-name="NSPORTS 1" tvg-logo="https://i.imgur.com/1qdK4KH.png" group-title="⚽ NSPORTS | DAZN",NSPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/173216.ts
-#EXTINF:-1 tvg-name="NSPORTS 3" tvg-logo="https://i.imgur.com/1qdK4KH.png" group-title="⚽ NSPORTS | DAZN",NSPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/173218.ts
-#EXTINF:-1 tvg-id="Dazn" tvg-name="DAZN 1" tvg-logo="https://i.imgur.com/7gZ8Ci7.jpeg" group-title="⚽ NSPORTS | DAZN",DAZN 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/5150782.ts
-#EXTINF:-1 tvg-id="Dazn" tvg-name="DAZN 2" tvg-logo="https://i.imgur.com/7gZ8Ci7.jpeg" group-title="⚽ NSPORTS | DAZN",DAZN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/5150783.ts
-#EXTINF:-1 tvg-id="Dazn" tvg-name="DAZN 3" tvg-logo="https://i.imgur.com/7gZ8Ci7.jpeg" group-title="⚽ NSPORTS | DAZN",DAZN 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/5150784.ts
-#EXTINF:-1 tvg-id="Dazn" tvg-name="DAZN 4" tvg-logo="https://i.imgur.com/7gZ8Ci7.jpeg" group-title="⚽ NSPORTS | DAZN",DAZN 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/5150785.ts
+#EXTINF:-1 tvg-name="ESPN 2 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71921.ts
+#EXTINF:-1 tvg-name="ESPN 2 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71919.ts
+#EXTINF:-1 tvg-name="ESPN 2 FHD [H265]" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71920.ts
+#EXTINF:-1 tvg-name="ESPN 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71922.ts
+#EXTINF:-1 tvg-name="ESPN 2 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71923.ts
+#EXTINF:-1 tvg-name="ESPN 3 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/espn.png" group-title="Canais | ESPN",ESPN 3 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/103504.ts
+#EXTINF:-1 tvg-name="ESPN 3 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/espn.png" group-title="Canais | ESPN",ESPN 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71907.ts
+#EXTINF:-1 tvg-name="ESPN 3 FHD [H265]" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/espn.png" group-title="Canais | ESPN",ESPN 3 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71908.ts
+#EXTINF:-1 tvg-name="ESPN 3 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/espn.png" group-title="Canais | ESPN",ESPN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71909.ts
+#EXTINF:-1 tvg-name="ESPN 3 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/espn.png" group-title="Canais | ESPN",ESPN 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71910.ts
+#EXTINF:-1 tvg-name="ESPN 4 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/foxsports1.png" group-title="Canais | ESPN",ESPN 4 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71959.ts
+#EXTINF:-1 tvg-name="ESPN 4 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/foxsports1.png" group-title="Canais | ESPN",ESPN 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71957.ts
+#EXTINF:-1 tvg-name="ESPN 4 FHD [H265]" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/foxsports1.png" group-title="Canais | ESPN",ESPN 4 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71958.ts
+#EXTINF:-1 tvg-name="ESPN 4 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/foxsports1.png" group-title="Canais | ESPN",ESPN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71960.ts
+#EXTINF:-1 tvg-name="ESPN 4 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/foxsports1.png" group-title="Canais | ESPN",ESPN 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71961.ts
+#EXTINF:-1 tvg-name="ESPN 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/espnbrasil.png" group-title="Canais | ESPN",ESPN 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/90640.ts
+#EXTINF:-1 tvg-name="ESPN 6 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/espnextra.png" group-title="Canais | ESPN",ESPN 6 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/103505.ts
+#EXTINF:-1 tvg-name="ESPN 6 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/espnextra.png" group-title="Canais | ESPN",ESPN 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71915.ts
+#EXTINF:-1 tvg-name="ESPN 6 FHD [H265]" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/espnextra.png" group-title="Canais | ESPN",ESPN 6 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71916.ts
+#EXTINF:-1 tvg-name="ESPN 6 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/espnextra.png" group-title="Canais | ESPN",ESPN 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71917.ts
+#EXTINF:-1 tvg-name="ESPN 6 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/espnextra.png" group-title="Canais | ESPN",ESPN 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71918.ts
+#EXTINF:-1 tvg-name="ESPN FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/0b9dad1ec9b996957e97803d52ac4aff.png" group-title="Canais | ESPN",ESPN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71911.ts
+#EXTINF:-1 tvg-name="ESPN FHD [H265]" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/espn.png" group-title="Canais | ESPN",ESPN FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71912.ts
+#EXTINF:-1 tvg-name="ESPN HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/0b9dad1ec9b996957e97803d52ac4aff.png" group-title="Canais | ESPN",ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71913.ts
+#EXTINF:-1 tvg-name="ESPN SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/0b9dad1ec9b996957e97803d52ac4aff.png" group-title="Canais | ESPN",ESPN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71914.ts
+#EXTINF:-1 tvg-name="ESPN 5 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/foxsports2.png" group-title="Canais | ESPN",ESPN 5 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71954.ts
+#EXTINF:-1 tvg-name="ESPN 5 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/foxsports2.png" group-title="Canais | ESPN",ESPN 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71952.ts
+#EXTINF:-1 tvg-name="ESPN 5 [H265]" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/foxsports2.png" group-title="Canais | ESPN",ESPN 5 [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71953.ts
+#EXTINF:-1 tvg-name="ESPN 5 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/foxsports2.png" group-title="Canais | ESPN",ESPN 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71955.ts
+#EXTINF:-1 tvg-name="ESPN 5 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/foxsports2.png" group-title="Canais | ESPN",ESPN 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71956.ts
 
 
 
 
 
-#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="PREMIERE CLUBES 4K" tvg-logo="https://i.imgur.com/vekQAab.png" group-title="⚽PREMIERE",PREMIERE CLUBES 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/1176.ts
-#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="PREMIERE CLUBES 4K²" tvg-logo="https://i.imgur.com/vekQAab.png" group-title="⚽PREMIERE",PREMIERE CLUBES 4K²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/369697.ts
-#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="PREMIERE CLUBES 4K¹" tvg-logo="https://i.imgur.com/vekQAab.png" group-title="⚽PREMIERE",PREMIERE CLUBES 4K¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/1177.ts
-#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="PREMIERE CLUBES FHD" tvg-logo="https://i.imgur.com/vekQAab.png" group-title="⚽PREMIERE",PREMIERE CLUBES FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/642.ts
-#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="PREMIERE CLUBES HD" tvg-logo="https://i.imgur.com/vekQAab.png" group-title="⚽PREMIERE",PREMIERE CLUBES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/645.ts
-#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="PREMIERE CLUBES SD" tvg-logo="https://i.imgur.com/vekQAab.png" group-title="⚽PREMIERE",PREMIERE CLUBES SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/647.ts
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIERE 2 4K" tvg-logo="https://i.imgur.com/vekQAab.png" group-title="⚽PREMIERE",PREMIERE 2 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/1171.ts
-#EXTINF:-1 tvg-id="BR - Premiere 2" tvg-name="PREMIERE 2 FHD" tvg-logo="https://i.imgur.com/vekQAab.png" group-title="⚽PREMIERE",PREMIERE 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/622.ts
-#EXTINF:-1 tvg-id="BR - Premiere 2" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.imgur.com/vekQAab.png" group-title="⚽PREMIERE",PREMIERE 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/623.ts
-#EXTINF:-1 tvg-id="BR - Premiere 2" tvg-name="PREMIERE 2 SD" tvg-logo="https://i.imgur.com/vekQAab.png" group-title="⚽PREMIERE",PREMIERE 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/624.ts
-#EXTINF:-1 tvg-name="PREMIERE 3 4K" tvg-logo="https://i.imgur.com/vekQAab.png" group-title="⚽PREMIERE",PREMIERE 3 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/369691.ts
-#EXTINF:-1 tvg-id="BR - Premiere 3" tvg-name="PREMIERE 3 FHD" tvg-logo="https://i.imgur.com/vekQAab.png" group-title="⚽PREMIERE",PREMIERE 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/626.ts
-#EXTINF:-1 tvg-id="BR - Premiere 3" tvg-name="PREMIERE 3 HD" tvg-logo="https://i.imgur.com/vekQAab.png" group-title="⚽PREMIERE",PREMIERE 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/627.ts
-#EXTINF:-1 tvg-id="BR - Premiere 3" tvg-name="PREMIERE 3 SD" tvg-logo="https://i.imgur.com/vekQAab.png" group-title="⚽PREMIERE",PREMIERE 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/628.ts
-#EXTINF:-1 tvg-name="PREMIERE 4 4K" tvg-logo="https://i.imgur.com/vekQAab.png" group-title="⚽PREMIERE",PREMIERE 4 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/369692.ts
-#EXTINF:-1 tvg-id="BR - Premiere 4" tvg-name="PREMIERE 4 FHD" tvg-logo="https://i.imgur.com/vekQAab.png" group-title="⚽PREMIERE",PREMIERE 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/630.ts
-#EXTINF:-1 tvg-id="BR - Premiere 4" tvg-name="PREMIERE 4 HD" tvg-logo="https://i.imgur.com/vekQAab.png" group-title="⚽PREMIERE",PREMIERE 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/631.ts
-#EXTINF:-1 tvg-id="BR - Premiere 4" tvg-name="PREMIERE 4 SD" tvg-logo="https://i.imgur.com/vekQAab.png" group-title="⚽PREMIERE",PREMIERE 4 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/632.ts
-#EXTINF:-1 tvg-name="PREMIERE 5 4K" tvg-logo="https://i.imgur.com/vekQAab.png" group-title="⚽PREMIERE",PREMIERE 5 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/369693.ts
-#EXTINF:-1 tvg-id="BR - Premiere 5 Brazil" tvg-name="PREMIERE 5 FHD" tvg-logo="https://i.imgur.com/vekQAab.png" group-title="⚽PREMIERE",PREMIERE 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/633.ts
-#EXTINF:-1 tvg-id="BR - Premiere 5 Brazil" tvg-name="PREMIERE 5 HD" tvg-logo="https://i.imgur.com/vekQAab.png" group-title="⚽PREMIERE",PREMIERE 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/634.ts
-#EXTINF:-1 tvg-id="BR - Premiere 5 Brazil" tvg-name="PREMIERE 5 SD" tvg-logo="https://i.imgur.com/vekQAab.png" group-title="⚽PREMIERE",PREMIERE 5 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/635.ts
-#EXTINF:-1 tvg-name="PREMIERE 6 4K" tvg-logo="https://i.imgur.com/vekQAab.png" group-title="⚽PREMIERE",PREMIERE 6 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/369694.ts
-#EXTINF:-1 tvg-id="BR - Premiere 6" tvg-name="PREMIERE 6 FHD" tvg-logo="https://i.imgur.com/vekQAab.png" group-title="⚽PREMIERE",PREMIERE 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/636.ts
-#EXTINF:-1 tvg-id="BR - Premiere 6" tvg-name="PREMIERE 6 HD" tvg-logo="https://i.imgur.com/vekQAab.png" group-title="⚽PREMIERE",PREMIERE 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/637.ts
-#EXTINF:-1 tvg-id="BR - Premiere 6" tvg-name="PREMIERE 6 SD" tvg-logo="https://i.imgur.com/vekQAab.png" group-title="⚽PREMIERE",PREMIERE 6 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/638.ts
-#EXTINF:-1 tvg-id="BR - Premiere 7" tvg-name="PREMIERE 7 FHD" tvg-logo="https://i.imgur.com/vekQAab.png" group-title="⚽PREMIERE",PREMIERE 7 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/639.ts
-#EXTINF:-1 tvg-id="BR - Premiere 7" tvg-name="PREMIERE 7 HD" tvg-logo="https://i.imgur.com/vekQAab.png" group-title="⚽PREMIERE",PREMIERE 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/640.ts
-#EXTINF:-1 tvg-id="BR - Premiere 7" tvg-name="PREMIERE 7 SD" tvg-logo="https://i.imgur.com/vekQAab.png" group-title="⚽PREMIERE",PREMIERE 7 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/641.ts
+#EXTINF:-1 tvg-name="Max 1 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg" group-title="Canais | Max",Max 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/140504.ts
+#EXTINF:-1 tvg-name="Max 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg" group-title="Canais | Max",Max 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71904.ts
+#EXTINF:-1 tvg-name="Max 1 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg" group-title="Canais | Max",Max 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/140510.ts
+#EXTINF:-1 tvg-name="Max 2 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg" group-title="Canais | Max",Max 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/140505.ts
+#EXTINF:-1 tvg-name="Max 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg" group-title="Canais | Max",Max 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71905.ts
+#EXTINF:-1 tvg-name="Max 2 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg" group-title="Canais | Max",Max 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/140511.ts
+#EXTINF:-1 tvg-name="Max 3 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg" group-title="Canais | Max",Max 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/140506.ts
+#EXTINF:-1 tvg-name="Max 3 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg" group-title="Canais | Max",Max 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/71906.ts
+#EXTINF:-1 tvg-name="Max 3 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg" group-title="Canais | Max",Max 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/140512.ts
+#EXTINF:-1 tvg-name="Max 4 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg" group-title="Canais | Max",Max 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/140507.ts
+#EXTINF:-1 tvg-name="Max 4 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg" group-title="Canais | Max",Max 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/76673.ts
+#EXTINF:-1 tvg-name="Max 4 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg" group-title="Canais | Max",Max 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/140513.ts
+#EXTINF:-1 tvg-name="Max 5 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg" group-title="Canais | Max",Max 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/140508.ts
+#EXTINF:-1 tvg-name="Max 5 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg" group-title="Canais | Max",Max 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/130196.ts
+#EXTINF:-1 tvg-name="Max 5 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg" group-title="Canais | Max",Max 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/140514.ts
+#EXTINF:-1 tvg-name="Max 6 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg" group-title="Canais | Max",Max 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/140509.ts
+#EXTINF:-1 tvg-name="Max 6 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg" group-title="Canais | Max",Max 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/130197.ts
+#EXTINF:-1 tvg-name="Max 6 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg" group-title="Canais | Max",Max 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/140515.ts
 
 
 
 
 
-#EXTINF:-1 tvg-id="SporTV FHD" tvg-name="SPORTV 1 4K" tvg-logo="https://i.imgur.com/fIn5l9L.png" group-title="⚽SPORTV",SPORTV 1 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/369706.ts
-#EXTINF:-1 tvg-id="SporTV FHD" tvg-name="SPORTV 1 FHD" tvg-logo="https://i.imgur.com/fIn5l9L.png" group-title="⚽SPORTV",SPORTV 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/804.ts
-#EXTINF:-1 tvg-id="SporTV FHD" tvg-name="SPORTV 1 HD" tvg-logo="https://i.imgur.com/fIn5l9L.png" group-title="⚽SPORTV",SPORTV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/805.ts
-#EXTINF:-1 tvg-id="SporTV FHD" tvg-name="SPORTV 1 SD" tvg-logo="https://i.imgur.com/fIn5l9L.png" group-title="⚽SPORTV",SPORTV 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4776173.ts
-#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="SPORTV 2 4K" tvg-logo="https://i.imgur.com/zzvpYN2.png" group-title="⚽SPORTV",SPORTV 2 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4776172.ts
-#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="SPORTV 2 FHD" tvg-logo="https://i.imgur.com/zzvpYN2.png" group-title="⚽SPORTV",SPORTV 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4776179.ts
-#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="SPORTV 2 HD" tvg-logo="https://i.imgur.com/zzvpYN2.png" group-title="⚽SPORTV",SPORTV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/799.ts
-#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="SPORTV 2 SD" tvg-logo="https://i.imgur.com/zzvpYN2.png" group-title="⚽SPORTV",SPORTV 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4776178.ts
-#EXTINF:-1 tvg-id="SporTV 3 HD" tvg-name="SPORTV 3 4K" tvg-logo="https://i.imgur.com/oENNdwD.png" group-title="⚽SPORTV",SPORTV 3 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4776171.ts
-#EXTINF:-1 tvg-id="SporTV 3 HD" tvg-name="SPORTV 3 FHD" tvg-logo="https://i.imgur.com/oENNdwD.png" group-title="⚽SPORTV",SPORTV 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4776177.ts
-#EXTINF:-1 tvg-id="SporTV 3 HD" tvg-name="SPORTV 3 HD" tvg-logo="https://i.imgur.com/oENNdwD.png" group-title="⚽SPORTV",SPORTV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4776175.ts
-#EXTINF:-1 tvg-id="SporTV 3 HD" tvg-name="SPORTV 3 SD" tvg-logo="https://i.imgur.com/oENNdwD.png" group-title="⚽SPORTV",SPORTV 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4776174.ts
+#EXTINF:-1 tvg-name="Paramount + 1 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 1 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/103524.ts
+#EXTINF:-1 tvg-name="Paramount + 1 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72977.ts
+#EXTINF:-1 tvg-name="Paramount + 1 FHD [H265]" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 1 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72978.ts
+#EXTINF:-1 tvg-name="Paramount + 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72979.ts
+#EXTINF:-1 tvg-name="Paramount + 1 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72980.ts
+#EXTINF:-1 tvg-name="Paramount + 2 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/103523.ts
+#EXTINF:-1 tvg-name="Paramount + 2 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72981.ts
+#EXTINF:-1 tvg-name="Paramount + 2 FHD [H265]" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 2 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72982.ts
+#EXTINF:-1 tvg-name="Paramount + 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72983.ts
+#EXTINF:-1 tvg-name="Paramount + 2 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72984.ts
+#EXTINF:-1 tvg-name="Paramount + 3 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 3 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/103522.ts
+#EXTINF:-1 tvg-name="Paramount + 3 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72985.ts
+#EXTINF:-1 tvg-name="Paramount + 3 FHD [H265]" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 3 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72986.ts
+#EXTINF:-1 tvg-name="Paramount + 3 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72987.ts
+#EXTINF:-1 tvg-name="Paramount + 3 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72988.ts
+#EXTINF:-1 tvg-name="Paramount + 4 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 4 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/103521.ts
+#EXTINF:-1 tvg-name="Paramount + 4 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72989.ts
+#EXTINF:-1 tvg-name="Paramount + 4 FHD [H265]" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 4 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72990.ts
+#EXTINF:-1 tvg-name="Paramount + 4 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72991.ts
+#EXTINF:-1 tvg-name="Paramount + 4 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72992.ts
 
 
 
 
 
-#EXTINF:-1 tvg-name="PARAMOUNT+ 1" tvg-logo="https://i.imgur.com/48UyhIr.jpeg" group-title="⚽PARAMOUNT+",PARAMOUNT+ 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4918787.ts
-#EXTINF:-1 tvg-name="PARAMOUNT+ 2" tvg-logo="https://i.imgur.com/48UyhIr.jpeg" group-title="⚽PARAMOUNT+",PARAMOUNT+ 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4918788.ts
-#EXTINF:-1 tvg-name="PARAMOUNT+ 3" tvg-logo="https://i.imgur.com/48UyhIr.jpeg" group-title="⚽PARAMOUNT+",PARAMOUNT+ 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4918789.ts
-#EXTINF:-1 tvg-name="PARAMOUNT+ 4" tvg-logo="https://i.imgur.com/48UyhIr.jpeg" group-title="⚽PARAMOUNT+",PARAMOUNT+ 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4918790.ts
-#EXTINF:-1 tvg-name="PARAMOUNT+ 5" tvg-logo="https://i.imgur.com/48UyhIr.jpeg" group-title="⚽PARAMOUNT+",PARAMOUNT+ 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4918791.ts
-#EXTINF:-1 tvg-name="PARAMOUNT+ 6" tvg-logo="https://i.imgur.com/48UyhIr.jpeg" group-title="⚽PARAMOUNT+",PARAMOUNT+ 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4918792.ts
-#EXTINF:-1 tvg-name="PARAMOUNT+ 7" tvg-logo="https://i.imgur.com/48UyhIr.jpeg" group-title="⚽PARAMOUNT+",PARAMOUNT+ 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4918793.ts
+#EXTINF:-1 tvg-name="Premiere 2 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/103482.ts
+#EXTINF:-1 tvg-name="Premiere 2 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72237.ts
+#EXTINF:-1 tvg-name="Premiere 2 FHD [H265]" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72238.ts
+#EXTINF:-1 tvg-name="Premiere 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72239.ts
+#EXTINF:-1 tvg-name="Premiere 2 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72240.ts
+#EXTINF:-1 tvg-name="Premiere 3 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/103481.ts
+#EXTINF:-1 tvg-name="Premiere 3 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72241.ts
+#EXTINF:-1 tvg-name="Premiere 3 FHD [H265]" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72242.ts
+#EXTINF:-1 tvg-name="Premiere 3 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72243.ts
+#EXTINF:-1 tvg-name="Premiere 3 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72244.ts
+#EXTINF:-1 tvg-name="Premiere 4 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/103480.ts
+#EXTINF:-1 tvg-name="Premiere 4 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72245.ts
+#EXTINF:-1 tvg-name="Premiere 4 FHD [H265]" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72246.ts
+#EXTINF:-1 tvg-name="Premiere 4 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72247.ts
+#EXTINF:-1 tvg-name="Premiere 4 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72248.ts
+#EXTINF:-1 tvg-name="Premiere 5 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/103479.ts
+#EXTINF:-1 tvg-name="Premiere 5 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72249.ts
+#EXTINF:-1 tvg-name="Premiere 5 FHD [H265]" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72250.ts
+#EXTINF:-1 tvg-name="Premiere 5 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72251.ts
+#EXTINF:-1 tvg-name="Premiere 5 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72252.ts
+#EXTINF:-1 tvg-name="Premiere 6 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/103478.ts
+#EXTINF:-1 tvg-name="Premiere 6 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72253.ts
+#EXTINF:-1 tvg-name="Premiere 6 FHD [H265]" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72254.ts
+#EXTINF:-1 tvg-name="Premiere 6 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72255.ts
+#EXTINF:-1 tvg-name="Premiere 6 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72256.ts
+#EXTINF:-1 tvg-name="Premiere 7 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/103477.ts
+#EXTINF:-1 tvg-name="Premiere 7 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72257.ts
+#EXTINF:-1 tvg-name="Premiere 7 FHD [H265]" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72258.ts
+#EXTINF:-1 tvg-name="Premiere 7 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72259.ts
+#EXTINF:-1 tvg-name="Premiere 7 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72260.ts
+#EXTINF:-1 tvg-name="Premiere 8 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/180162.ts
+#EXTINF:-1 tvg-name="Premiere 8 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/180158.ts
+#EXTINF:-1 tvg-name="Premiere 8 FHD [H265]" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/180161.ts
+#EXTINF:-1 tvg-name="Premiere 8 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/180159.ts
+#EXTINF:-1 tvg-name="Premiere 8 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/180160.ts
+#EXTINF:-1 tvg-name="Premiere Clubes 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72264.ts
+#EXTINF:-1 tvg-name="Premiere Clubes FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72262.ts
+#EXTINF:-1 tvg-name="Premiere Clubes FHD [H265]" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72263.ts
+#EXTINF:-1 tvg-name="Premiere Clubes HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72265.ts
+#EXTINF:-1 tvg-name="Premiere Clubes SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72266.ts
 
 
 
 
 
-#EXTINF:-1 tvg-id="ESPN 2 FHD" tvg-name="ESPN 2 FHD" tvg-logo="http://69.197.159.50:80/images/b994bbd56be7090e1e770d3483c658bc.png" group-title="⚽ESPN",ESPN 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4925545.ts
-#EXTINF:-1 tvg-id="ESPN 2 FHD" tvg-name="ESPN 2 HD" tvg-logo="http://69.197.159.50:80/images/b994bbd56be7090e1e770d3483c658bc.png" group-title="⚽ESPN",ESPN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4925546.ts
-#EXTINF:-1 tvg-id="ESPN 2 FHD" tvg-name="ESPN 2 SD" tvg-logo="http://69.197.159.50:80/images/b994bbd56be7090e1e770d3483c658bc.png" group-title="⚽ESPN",ESPN 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4925547.ts
-#EXTINF:-1 tvg-id="ESPN 3 FHD" tvg-name="ESPN 3 FHD" tvg-logo="http://69.197.159.50:80/images/099c7f0c731a267da95e9902f98f2281.png" group-title="⚽ESPN",ESPN 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4925548.ts
-#EXTINF:-1 tvg-id="ESPN 3 FHD" tvg-name="ESPN 3 HD" tvg-logo="http://69.197.159.50:80/images/c2188164c08a21a3818b6358ad7368ef.png" group-title="⚽ESPN",ESPN 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4925549.ts
-#EXTINF:-1 tvg-id="ESPN 3 FHD" tvg-name="ESPN 3 SD" tvg-logo="http://69.197.159.50:80/images/099c7f0c731a267da95e9902f98f2281.png" group-title="⚽ESPN",ESPN 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4925550.ts
-#EXTINF:-1 tvg-id="ESPN 4 FHD" tvg-name="ESPN 4 FHD" tvg-logo="http://69.197.159.50:80/images/d30beb7d1485fd9957546f4818193826.png" group-title="⚽ESPN",ESPN 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4925551.ts
-#EXTINF:-1 tvg-id="ESPN 4 FHD" tvg-name="ESPN 4 HD" tvg-logo="http://69.197.159.50:80/images/92e4d9b718a035df3eea83a9870b7e88.png" group-title="⚽ESPN",ESPN 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4925552.ts
-#EXTINF:-1 tvg-id="ESPN 4 FHD" tvg-name="ESPN 4 SD" tvg-logo="http://69.197.159.50:80/images/d30beb7d1485fd9957546f4818193826.png" group-title="⚽ESPN",ESPN 4 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4925553.ts
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="ESPN 5 FHD" tvg-logo="http://69.197.159.50:80/images/e005459ddb096992614a58b0b7dca6f9.png" group-title="⚽ESPN",ESPN 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4925554.ts
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="ESPN 5 HD" tvg-logo="http://69.197.159.50:80/images/e005459ddb096992614a58b0b7dca6f9.png" group-title="⚽ESPN",ESPN 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4925555.ts
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="ESPN 5 SD" tvg-logo="http://69.197.159.50:80/images/e005459ddb096992614a58b0b7dca6f9.png" group-title="⚽ESPN",ESPN 5 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4925556.ts
-#EXTINF:-1 tvg-id="ESPN Extra HD" tvg-name="ESPN EXTRA FHD" tvg-logo="http://69.197.159.50:80/images/8ccfb92ae4307c6174fbb590fad00cd8.png" group-title="⚽ESPN",ESPN EXTRA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4925557.ts
-#EXTINF:-1 tvg-id="ESPN Extra HD" tvg-name="ESPN EXTRA HD" tvg-logo="http://69.197.159.50:80/images/8ccfb92ae4307c6174fbb590fad00cd8.png" group-title="⚽ESPN",ESPN EXTRA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4925558.ts
-#EXTINF:-1 tvg-id="ESPN Extra HD" tvg-name="ESPN EXTRA SD" tvg-logo="http://69.197.159.50:80/images/8ccfb92ae4307c6174fbb590fad00cd8.png" group-title="⚽ESPN",ESPN EXTRA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4925559.ts
-#EXTINF:-1 tvg-id="ESPN FHD" tvg-name="ESPN FHD" tvg-logo="http://69.197.159.50:80/images/a0a64f53b6a078ef893a4f59b10b8f1c.png" group-title="⚽ESPN",ESPN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4925560.ts
-#EXTINF:-1 tvg-id="ESPN FHD" tvg-name="ESPN FHD¹" tvg-logo="http://69.197.159.50:80/images/a0a64f53b6a078ef893a4f59b10b8f1c.png" group-title="⚽ESPN",ESPN FHD¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4925561.ts
-#EXTINF:-1 tvg-id="ESPN FHD" tvg-name="ESPN HD" tvg-logo="http://69.197.159.50:80/images/a0a64f53b6a078ef893a4f59b10b8f1c.png" group-title="⚽ESPN",ESPN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4925562.ts
-#EXTINF:-1 tvg-id="ESPN FHD" tvg-name="ESPN HD¹" tvg-logo="http://69.197.159.50:80/images/a0a64f53b6a078ef893a4f59b10b8f1c.png" group-title="⚽ESPN",ESPN HD¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4925563.ts
-#EXTINF:-1 tvg-id="ESPN FHD" tvg-name="ESPN SD" tvg-logo="http://69.197.159.50:80/images/a0a64f53b6a078ef893a4f59b10b8f1c.png" group-title="⚽ESPN",ESPN SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4925564.ts
+#EXTINF:-1 tvg-name="SporTV 2 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/103472.ts
+#EXTINF:-1 tvg-name="SporTV 2 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72321.ts
+#EXTINF:-1 tvg-name="SporTV 2 FHD [H265]" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/131147.ts
+#EXTINF:-1 tvg-name="SporTV 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/131176.ts
+#EXTINF:-1 tvg-name="SporTV 2 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72324.ts
+#EXTINF:-1 tvg-name="SporTV 3 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72325.ts
+#EXTINF:-1 tvg-name="SporTV 3 FHD [H265]" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72326.ts
+#EXTINF:-1 tvg-name="SporTV 3 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/131113.ts
+#EXTINF:-1 tvg-name="SporTV 3 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/131108.ts
+#EXTINF:-1 tvg-name="SporTV 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/131188.ts
+#EXTINF:-1 tvg-name="SporTV FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72329.ts
+#EXTINF:-1 tvg-name="SporTV FHD [H265]" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72330.ts
+#EXTINF:-1 tvg-name="SporTV HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/72332.ts
+#EXTINF:-1 tvg-name="SporTV SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/131132.ts
+#EXTINF:-1 tvg-name="SporTV3 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV3 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/103471.ts
+#EXTINF:-1 tvg-name="SporTV 4 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/276089.ts
+#EXTINF:-1 tvg-name="SporTV 4 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/276090.ts
+#EXTINF:-1 tvg-name="SporTV 4 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/276091.ts
+#EXTINF:-1 tvg-name="SporTV 4 FHD [H265]" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 4 FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/276092.ts
+#EXTINF:-1 tvg-name="SporTV 4 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/static/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 4 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/276093.ts
 
 
 
 
 
-#EXTINF:-1 tvg-name="DISNEY+ 1" tvg-logo="https://i.imgur.com/1XmhEnA.jpeg" group-title="⚽DISNEY+ | HBO MAX",DISNEY+ 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4925565.ts
-#EXTINF:-1 tvg-name="DISNEY+ 2" tvg-logo="https://i.imgur.com/1XmhEnA.jpeg" group-title="⚽DISNEY+ | HBO MAX",DISNEY+ 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4925566.ts
-#EXTINF:-1 tvg-name="DISNEY+ 3" tvg-logo="https://i.imgur.com/1XmhEnA.jpeg" group-title="⚽DISNEY+ | HBO MAX",DISNEY+ 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4925567.ts
-#EXTINF:-1 tvg-name="DISNEY+ 4" tvg-logo="https://i.imgur.com/1XmhEnA.jpeg" group-title="⚽DISNEY+ | HBO MAX",DISNEY+ 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4925568.ts
-#EXTINF:-1 tvg-name="DISNEY+ 5" tvg-logo="https://i.imgur.com/1XmhEnA.jpeg" group-title="⚽DISNEY+ | HBO MAX",DISNEY+ 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4925569.ts
-#EXTINF:-1 tvg-name="DISNEY+ 6" tvg-logo="https://i.imgur.com/1XmhEnA.jpeg" group-title="⚽DISNEY+ | HBO MAX",DISNEY+ 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4925570.ts
-#EXTINF:-1 tvg-name="HBO MAX 01" tvg-logo="https://i.imgur.com/Ix1Yoc8.jpeg" group-title="⚽DISNEY+ | HBO MAX",HBO MAX 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4925952.ts
-#EXTINF:-1 tvg-name="HBO MAX 02" tvg-logo="https://i.imgur.com/Ix1Yoc8.jpeg" group-title="⚽DISNEY+ | HBO MAX",HBO MAX 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4925953.ts
-#EXTINF:-1 tvg-name="HBO MAX 03" tvg-logo="https://i.imgur.com/Ix1Yoc8.jpeg" group-title="⚽DISNEY+ | HBO MAX",HBO MAX 03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4925954.ts
-#EXTINF:-1 tvg-name="HBO MAX 04" tvg-logo="https://i.imgur.com/Ix1Yoc8.jpeg" group-title="⚽DISNEY+ | HBO MAX",HBO MAX 04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4925955.ts
-#EXTINF:-1 tvg-name="HBO MAX 05" tvg-logo="https://i.imgur.com/Ix1Yoc8.jpeg" group-title="⚽DISNEY+ | HBO MAX",HBO MAX 05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4925956.ts
-#EXTINF:-1 tvg-name="HBO MAX 06" tvg-logo="https://i.imgur.com/Ix1Yoc8.jpeg" group-title="⚽DISNEY+ | HBO MAX",HBO MAX 06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4925957.ts
-#EXTINF:-1 tvg-name="Disney+ 7" tvg-logo="https://i.imgur.com/1XmhEnA.jpeg" group-title="⚽DISNEY+ | HBO MAX",Disney+ 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/5067267.ts
-#EXTINF:-1 tvg-name="Disney+ 8" tvg-logo="https://i.imgur.com/1XmhEnA.jpeg" group-title="⚽DISNEY+ | HBO MAX",Disney+ 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/5067268.ts
-#EXTINF:-1 tvg-name="Disney+ 9" tvg-logo="https://i.imgur.com/1XmhEnA.jpeg" group-title="⚽DISNEY+ | HBO MAX",Disney+ 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/5067269.ts
+#EXTINF:-1 tvg-name="Disney + 1 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Disney +",Disney + 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/142032.ts
+#EXTINF:-1 tvg-name="Disney + 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Disney +",Disney + 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/128347.ts
+#EXTINF:-1 tvg-name="Disney + 1 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Disney +",Disney + 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/142033.ts
+#EXTINF:-1 tvg-name="Disney + 2 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Disney +",Disney + 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/142034.ts
+#EXTINF:-1 tvg-name="Disney + 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Disney +",Disney + 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/129345.ts
+#EXTINF:-1 tvg-name="Disney + 2 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Disney +",Disney + 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/142035.ts
+#EXTINF:-1 tvg-name="Disney + 3 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Disney +",Disney + 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/142036.ts
+#EXTINF:-1 tvg-name="Disney + 3 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Disney +",Disney + 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/129346.ts
+#EXTINF:-1 tvg-name="Disney + 3 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Disney +",Disney + 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/142037.ts
+#EXTINF:-1 tvg-name="Disney + 4 FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Disney +",Disney + 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/142038.ts
+#EXTINF:-1 tvg-name="Disney + 4 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Disney +",Disney + 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/129347.ts
+#EXTINF:-1 tvg-name="Disney + 4 SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Canais | Disney +",Disney + 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/142039.ts
 
 
 
 
 
-#EXTINF:-1 tvg-name="PRIME VIDEO 1" tvg-logo="http://69.197.159.50:80/images/02ad3a371e85dc837077f7ce13e312f4.png" group-title="⚽PRIME VIDEO",PRIME VIDEO 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4925571.ts
-#EXTINF:-1 tvg-name="PRIME VIDEO 2" tvg-logo="http://69.197.159.50:80/images/02ad3a371e85dc837077f7ce13e312f4.png" group-title="⚽PRIME VIDEO",PRIME VIDEO 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4925572.ts
-#EXTINF:-1 tvg-name="PRIME VIDEO 3" tvg-logo="http://69.197.159.50:80/images/02ad3a371e85dc837077f7ce13e312f4.png" group-title="⚽PRIME VIDEO",PRIME VIDEO 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4925573.ts
-#EXTINF:-1 tvg-name="PRIME VIDEO 4" tvg-logo="http://69.197.159.50:80/images/02ad3a371e85dc837077f7ce13e312f4.png" group-title="⚽PRIME VIDEO",PRIME VIDEO 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4925574.ts
-#EXTINF:-1 tvg-name="PRIME VIDEO 5" tvg-logo="http://69.197.159.50:80/images/c9fc25e8f4140216d11dd67527fd0224.png" group-title="⚽PRIME VIDEO",PRIME VIDEO 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4925575.ts
-#EXTINF:-1 tvg-name="PRIME VIDEO 6" tvg-logo="http://69.197.159.50:80/images/c9024942076e8016cb5146000eca8622.png" group-title="⚽PRIME VIDEO",PRIME VIDEO 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4925576.ts
-#EXTINF:-1 tvg-name="PRIME VIDEO 7" tvg-logo="http://69.197.159.50:80/images/02ad3a371e85dc837077f7ce13e312f4.png" group-title="⚽PRIME VIDEO",PRIME VIDEO 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4925577.ts
-#EXTINF:-1 tvg-name="PRIME VIDEO 8" tvg-logo="http://69.197.159.50:80/images/4dacd02eb735aca88efab5e3092d60e6.png" group-title="⚽PRIME VIDEO",PRIME VIDEO 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://lbmaispt.shop:80/816032972/896140496/4925578.ts
+#EXTINF:-1 tvg-name="League Cup FHD" group-title="Canais | Apple TV +",League Cup FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/203509.ts
+#EXTINF:-1 tvg-name="League Cup SD" group-title="Canais | Apple TV +",League Cup SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/203511.ts
+#EXTINF:-1 tvg-name="League Cup HD" group-title="Canais | Apple TV +",League Cup HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://tvclubmais.com:80/eliton11/d34WKp9918/203510.ts
 
 
 
