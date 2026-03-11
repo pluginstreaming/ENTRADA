@@ -3,288 +3,700 @@
 
 
 
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Apple TV 01 HD" tvg-logo="https://image.hotice.site/icones_channels/Apple_TV+.png" group-title="Apple TV",Apple TV 01 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5376198
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Apple TV 03 HD" tvg-logo="https://image.hotice.site/icones_channels/Apple_TV+.png" group-title="Apple TV",Apple TV 03 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5970217
+#EXTINF:-1 tvg-id="São.Paulo/SP..Band.Sports.HD.³.br" tvg-name="BAND SPORTS [FHD][H265]" tvg-logo="http://lgfp.one/VSW" group-title="Canais | Esportes",BAND SPORTS [FHD][H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/30275.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Band.Sports.HD.³.br" tvg-name="BAND SPORTS [FHD][HDR]" tvg-logo="http://lgfp.one/JYO9" group-title="Canais | Esportes",BAND SPORTS [FHD][HDR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/130175.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Band.Sports.br" tvg-name="BAND SPORTS [HD]" tvg-logo="http://lgfp.one/AOG" group-title="Canais | Esportes",BAND SPORTS [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/256.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Band.Sports.HD.³.br" tvg-name="BAND SPORTS [SD]" tvg-logo="http://lgfp.one/AOO" group-title="Canais | Esportes",BAND SPORTS [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/265.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Combate.HD.br" tvg-name="COMBATE [FHD][H265]" tvg-logo="http://lgfp.one/WJZ" group-title="Canais | Esportes",COMBATE [FHD][H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/30276.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Combate.HD.br" tvg-name="COMBATE [FHD][HDR]" tvg-logo="http://lgfp.one/JYP0" group-title="Canais | Esportes",COMBATE [FHD][HDR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/130176.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Combate.HD.br" tvg-name="COMBATE [HD]" tvg-logo="http://lgfp.one/AOH" group-title="Canais | Esportes",COMBATE [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/257.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Combate.HD.br" tvg-name="COMBATE [SD]" tvg-logo="http://lgfp.one/AOP" group-title="Canais | Esportes",COMBATE [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/266.ts
+#EXTINF:-1 tvg-name="DSports [FHD]" tvg-logo="http://lgfp.one/RBB2" group-title="Canais | Esportes",DSports [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/347182.ts
+#EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2 [FHD][H265]" tvg-logo="http://lgfp.one/WKE" group-title="Canais | Esportes",ESPN 2 [FHD][H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/30281.ts
+#EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2 [FHD][HDR]" tvg-logo="http://lgfp.one/JYP1" group-title="Canais | Esportes",ESPN 2 [FHD][HDR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/130177.ts
+#EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2 [HD]" tvg-logo="http://lgfp.one/AOL" group-title="Canais | Esportes",ESPN 2 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/261.ts
+#EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2 [SD]" tvg-logo="http://lgfp.one/AOQ" group-title="Canais | Esportes",ESPN 2 [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/267.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..ZooMoo.HD.br" tvg-name="ESPN 3 [FHD]" tvg-logo="http://lgfp.one/AOE" group-title="Canais | Esportes",ESPN 3 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/254.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..ESPN.3.HD.br" tvg-name="ESPN 3 [FHD][H265]" tvg-logo="http://lgfp.one/WKA" group-title="Canais | Esportes",ESPN 3 [FHD][H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/30277.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..ESPN.3.HD.br" tvg-name="ESPN 3 [FHD][HDR]" tvg-logo="http://lgfp.one/JYP2" group-title="Canais | Esportes",ESPN 3 [FHD][HDR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/130178.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..ESPN.3.HD.br" tvg-name="ESPN 3 [HD]" tvg-logo="http://lgfp.one/AOI" group-title="Canais | Esportes",ESPN 3 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/258.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..ESPN.3.HD.br" tvg-name="ESPN 3 [SD]" tvg-logo="http://lgfp.one/AOR" group-title="Canais | Esportes",ESPN 3 [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/268.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..ESPN.4.HD.br" tvg-name="ESPN 4 [FHD]" tvg-logo="http://lgfp.one/AOF" group-title="Canais | Esportes",ESPN 4 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/255.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..ESPN.4.HD.br" tvg-name="ESPN 4 [FHD][H265]" tvg-logo="http://lgfp.one/WKG" group-title="Canais | Esportes",ESPN 4 [FHD][H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/30283.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..ESPN.4.HD.br" tvg-name="ESPN 4 [FHD][HDR]" tvg-logo="http://lgfp.one/QAY1" group-title="Canais | Esportes",ESPN 4 [FHD][HDR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/330677.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Espn.4.br" tvg-name="ESPN 4 [HD]" tvg-logo="http://lgfp.one/AOM" group-title="Canais | Esportes",ESPN 4 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/262.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..ESPN.4.HD.br" tvg-name="ESPN 4 [SD]" tvg-logo="http://lgfp.one/AOU" group-title="Canais | Esportes",ESPN 4 [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/271.ts
+#EXTINF:-1 tvg-id="ESPN.5.br" tvg-name="ESPN 5 [FHD][H265]" tvg-logo="http://lgfp.one/QAZ7" group-title="Canais | Esportes",ESPN 5 [FHD][H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/330702.ts
+#EXTINF:-1 tvg-id="ESPN.5.br" tvg-name="ESPN 5 [HD]" tvg-logo="http://lgfp.one/QAZ5" group-title="Canais | Esportes",ESPN 5 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/330700.ts
+#EXTINF:-1 tvg-id="ESPN.5.br" tvg-name="ESPN 5 [SD]" tvg-logo="http://lgfp.one/QAZ8" group-title="Canais | Esportes",ESPN 5 [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/330703.ts
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA [FHD]" tvg-logo="http://lgfp.one/ANY" group-title="Canais | Esportes",ESPN EXTRA [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/248.ts
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA [FHD][H265]" tvg-logo="http://lgfp.one/QAZ4" group-title="Canais | Esportes",ESPN EXTRA [FHD][H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/330699.ts
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA [FHD][HDR]" tvg-logo="http://lgfp.one/JYP5" group-title="Canais | Esportes",ESPN EXTRA [FHD][HDR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/130181.ts
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA [HD]" tvg-logo="http://lgfp.one/AOK" group-title="Canais | Esportes",ESPN EXTRA [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/260.ts
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA [SD]" tvg-logo="http://lgfp.one/AOT" group-title="Canais | Esportes",ESPN EXTRA [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/270.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN [FHD]" tvg-logo="http://lgfp.one/AOA" group-title="Canais | Esportes",ESPN [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/250.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN [FHD][H265]" tvg-logo="http://lgfp.one/WKD" group-title="Canais | Esportes",ESPN [FHD][H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/30280.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN [FHD][HDR]" tvg-logo="http://lgfp.one/JYP4" group-title="Canais | Esportes",ESPN [FHD][HDR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/130180.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN [HD]" tvg-logo="http://lgfp.one/AOJ" group-title="Canais | Esportes",ESPN [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/259.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN [SD]" tvg-logo="http://lgfp.one/AOS" group-title="Canais | Esportes",ESPN [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/269.ts
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 [FHD]" tvg-logo="http://lgfp.one/AOC" group-title="Canais | Esportes",FOX SPORTS 2 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/252.ts
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 [FHD][H265]" tvg-logo="http://lgfp.one/WKF" group-title="Canais | Esportes",FOX SPORTS 2 [FHD][H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/30282.ts
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 [FHD][HDR]" tvg-logo="http://lgfp.one/JYP6" group-title="Canais | Esportes",FOX SPORTS 2 [FHD][HDR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/130182.ts
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 [HD]" tvg-logo="http://lgfp.one/AON" group-title="Canais | Esportes",FOX SPORTS 2 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/263.ts
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 [SD]" tvg-logo="http://lgfp.one/AOV" group-title="Canais | Esportes",FOX SPORTS 2 [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/272.ts
+#EXTINF:-1 tvg-name="GE TV [HD]" tvg-logo="http://lgfp.one/PXD3" group-title="Canais | Esportes",GE TV [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/328893.ts
+#EXTINF:-1 tvg-id="golf.br" tvg-name="GOLF CHANNEL [FHD]" tvg-logo="http://lgfp.one/WKN" group-title="Canais | Esportes",GOLF CHANNEL [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/124093.ts
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL [HD]" tvg-logo="http://lgfp.one/WKP" group-title="Canais | Esportes",NFL [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/126459.ts
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF [FHD]" tvg-logo="http://lgfp.one/AOD" group-title="Canais | Esportes",OFF [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/253.ts
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF [FHD][H265]" tvg-logo="http://lgfp.one/WKC" group-title="Canais | Esportes",OFF [FHD][H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/30279.ts
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF [FHD][HDR]" tvg-logo="http://lgfp.one/JYP7" group-title="Canais | Esportes",OFF [FHD][HDR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/130183.ts
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF [HD]" tvg-logo="http://lgfp.one/WJL" group-title="Canais | Esportes",OFF [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/264.ts
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF [SD]" tvg-logo="http://lgfp.one/AOW" group-title="Canais | Esportes",OFF [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/273.ts
+#EXTINF:-1 tvg-name="UFC FIGHT PASS 1" tvg-logo="http://lgfp.one/XRL" group-title="Canais | Esportes",UFC FIGHT PASS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/132344.ts
+#EXTINF:-1 tvg-name="UFC Fight Pass 2" tvg-logo="http://lgfp.one/DYS4" group-title="Canais | Esportes",UFC Fight Pass 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/204149.ts
+#EXTINF:-1 tvg-name="UFC FIGHT PASS 3" tvg-logo="http://lgfp.one/XRK" group-title="Canais | Esportes",UFC FIGHT PASS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/132343.ts
+#EXTINF:-1 tvg-name="Xsports [FHD]" tvg-logo="http://lgfp.one/PRM9" group-title="Canais | Esportes",Xsports [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/322392.ts
+#EXTINF:-1 tvg-name="Xsports [HD]" tvg-logo="http://lgfp.one/PRM8" group-title="Canais | Esportes",Xsports [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/322391.ts
+#EXTINF:-1 tvg-name="Xsports [SD]" tvg-logo="http://lgfp.one/PRM9" group-title="Canais | Esportes",Xsports [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/329737.ts
+#EXTINF:-1 tvg-name="Zapping Sports 2 [HD]" tvg-logo="http://lgfp.one/OOL5" group-title="Canais | Esportes",Zapping Sports 2 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/273617.ts
+#EXTINF:-1 tvg-name="Zapping Sports [HD]" tvg-logo="http://lgfp.one/OOL4" group-title="Canais | Esportes",Zapping Sports [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/273616.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Band.Sports.br" tvg-name="BAND SPORTS [FHD]" tvg-logo="http://lgfp.one/ANX" group-title="Canais | Esportes",BAND SPORTS [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/247.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Combate.HD.br" tvg-name="COMBATE [FHD]" tvg-logo="http://lgfp.one/ANZ" group-title="Canais | Esportes",COMBATE [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/249.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..ZooMoo.HD.br" tvg-name="ESPN 2 [FHD]" tvg-logo="http://lgfp.one/AOB" group-title="Canais | Esportes",ESPN 2 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/251.ts
+#EXTINF:-1 tvg-name="GE TV [FHD]" tvg-logo="http://lgfp.one/PXD3" group-title="Canais | Esportes",GE TV [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/327797.ts
+#EXTINF:-1 tvg-id="ESPN.5.br" tvg-name="ESPN 5 [FHD]" tvg-logo="http://lgfp.one/QAZ6" group-title="Canais | Esportes",ESPN 5 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/330701.ts
+#EXTINF:-1 tvg-name="ESPN 6 [FHD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png" group-title="Canais | Esportes",ESPN 6 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/356966.ts
+#EXTINF:-1 tvg-name="Unique Sports [HD]" group-title="Canais | Esportes",Unique Sports [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/357668.ts
+#EXTINF:-1 tvg-name="GOLF CHANNEL [HD]" tvg-logo="http://lgfp.one/WKN" group-title="Canais | Esportes",GOLF CHANNEL [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/364742.ts
+#EXTINF:-1 tvg-name="NSPORTS 24HRS [FHD]" tvg-logo="http://lgfp.one/SBS9" group-title="Canais | Esportes",NSPORTS 24HRS [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/371453.ts
+#EXTINF:-1 tvg-name="NSPORTS 24HRS [HD]" tvg-logo="http://lgfp.one/SBT0" group-title="Canais | Esportes",NSPORTS 24HRS [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/371454.ts
+#EXTINF:-1 tvg-name="FIGHT BOX [HD]" group-title="Canais | Esportes",FIGHT BOX [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/375051.ts
 
 
 
 
 
-#EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports FHD" tvg-logo="https://img.nnl.pw/draco/band-sports.png" group-title="Esportes",Band Sports FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/630972
-#EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports HD" tvg-logo="https://img.nnl.pw/draco/band-sports.png" group-title="Esportes",Band Sports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5375869
-#EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports SD" tvg-logo="https://img.nnl.pw/draco/band-sports.png" group-title="Esportes",Band Sports SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5375871
-#EXTINF:-1 tvg-id="Xsports.br" tvg-name="Xsports FHD" tvg-logo="https://img.nnl.pw/draco/x-sports.png" group-title="Esportes",Xsports FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5719733
-#EXTINF:-1 tvg-id="Xsports.br" tvg-name="Xsports HD" tvg-logo="https://img.nnl.pw/draco/x-sports.png" group-title="Esportes",Xsports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5788469
+#EXTINF:-1 tvg-name="Apple TV 01 [HD]" tvg-logo="http://lgfp.one/OMN7" group-title="Canais | Apple TV",Apple TV 01 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/300146.ts
+#EXTINF:-1 tvg-name="Apple TV 02 [HD]" tvg-logo="http://lgfp.one/OMN8" group-title="Canais | Apple TV",Apple TV 02 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/300147.ts
+#EXTINF:-1 tvg-name="Apple TV 03 [HD]" tvg-logo="http://lgfp.one/OMN9" group-title="Canais | Apple TV",Apple TV 03 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/300148.ts
+#EXTINF:-1 tvg-name="Apple TV 04 [HD]" tvg-logo="http://lgfp.one/OMO0" group-title="Canais | Apple TV",Apple TV 04 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/303988.ts
 
 
 
 
 
-#EXTINF:-1 tvg-name="Canal Goat 01 HD" tvg-logo="https://image.hotice.site/icones_channels/Canal_GOAT.png" group-title="Esportes PPV",Canal Goat 01 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5376120
-#EXTINF:-1 tvg-name="Canal Goat 02 HD" tvg-logo="https://image.hotice.site/icones_channels/Canal_GOAT_2.png" group-title="Esportes PPV",Canal Goat 02 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5376121
-#EXTINF:-1 tvg-name="Cazé TV (Youtube)" tvg-logo="https://image.hotice.site/icones_channels/CazeTV.png" group-title="Esportes PPV",Cazé TV (Youtube)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5436250
-#EXTINF:-1 tvg-name="Cazé TV 01 HD" tvg-logo="https://image.hotice.site/icones_channels/CazeTV.png" group-title="Esportes PPV",Cazé TV 01 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/3682479
-#EXTINF:-1 tvg-name="Cazé TV 02 HD" tvg-logo="https://image.hotice.site/icones_channels/CazeTV.png" group-title="Esportes PPV",Cazé TV 02 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5375883
-#EXTINF:-1 tvg-name="Cazé TV 03 HD" tvg-logo="https://image.hotice.site/icones_channels/CazeTV.png" group-title="Esportes PPV",Cazé TV 03 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5375885
-#EXTINF:-1 tvg-name="Ge TV HD" tvg-logo="https://img.nnl.pw/draco/ge-tv.png" group-title="Esportes PPV",Ge TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5559054
-#EXTINF:-1 tvg-name="Nosso Futebol 01 HD" tvg-logo="https://img.inboxbr.pro/icones_channels/nosso-futebol.png" group-title="Esportes PPV",Nosso Futebol 01 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5970218
-#EXTINF:-1 tvg-id="NSports.br" tvg-name="Nsports FHD" tvg-logo="https://image.hotice.site/icones_channels/TV_NSPORTS_1.png" group-title="Esportes PPV",Nsports FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/4723457
-#EXTINF:-1 tvg-id="NSports.br" tvg-name="Nsports HD" tvg-logo="https://image.hotice.site/icones_channels/TV_NSPORTS_1.png" group-title="Esportes PPV",Nsports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5375874
-#EXTINF:-1 tvg-id="Nosso Futebol 01 HD" tvg-name="Sportynet 01 HD" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/3348x902/Y2gwMTAwMDAwMDAwMTU1X2xpbmVhcl9jaGFubmVsX2Jy_11002_LOGO_3348x902.png?timestamp=1751958614345" group-title="Esportes PPV",Sportynet 01 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5376114
-#EXTINF:-1 tvg-id="Nosso Futebol 01 HD" tvg-name="Sportynet 02 HD" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/3348x902/Y2gwMTAwMDAwMDAwMTU1X2xpbmVhcl9jaGFubmVsX2Jy_11002_LOGO_3348x902.png?timestamp=1751958614345" group-title="Esportes PPV",Sportynet 02 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5376119
-#EXTINF:-1 tvg-name="Sportynet 03 HD" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/3348x902/Y2gwMTAwMDAwMDAwMTU1X2xpbmVhcl9jaGFubmVsX2Jy_11002_LOGO_3348x902.png" group-title="Esportes PPV",Sportynet 03 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5448698
+#EXTINF:-1 tvg-name="BJJ STAR [HD]" tvg-logo="http://lgfp.one/OOI7" group-title="Canais | Jogos & Eventos",BJJ STAR [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/127310.ts
+#EXTINF:-1 tvg-name="Caze TV 2 [HD]" tvg-logo="http://lgfp.one/VMB" group-title="Canais | Jogos & Eventos",Caze TV 2 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/300315.ts
+#EXTINF:-1 tvg-name="Caze TV 1 [HD]" tvg-logo="http://lgfp.one/VMB" group-title="Canais | Jogos & Eventos",Caze TV 1 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/300314.ts
+#EXTINF:-1 tvg-name="Caze TV 3 [HD]" tvg-logo="http://lgfp.one/VMB" group-title="Canais | Jogos & Eventos",Caze TV 3 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/300316.ts
+#EXTINF:-1 tvg-name="Caze TV 4 [HD]" tvg-logo="http://lgfp.one/VMB" group-title="Canais | Jogos & Eventos",Caze TV 4 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/300317.ts
+#EXTINF:-1 tvg-name="CAZE TV [FHD]" tvg-logo="http://lgfp.one/VMB" group-title="Canais | Jogos & Eventos",CAZE TV [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/55346.ts
+#EXTINF:-1 tvg-name="CAZE TV [HD]" tvg-logo="http://lgfp.one/JYX8" group-title="Canais | Jogos & Eventos",CAZE TV [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/134082.ts
+#EXTINF:-1 tvg-name="Eventos Netflix [FHD]" tvg-logo="http://lgfp.one/PYV5" group-title="Canais | Jogos & Eventos",Eventos Netflix [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/319469.ts
+#EXTINF:-1 tvg-name="FCF TV 1 [FHD]" tvg-logo="http://lgfp.one/AON1" group-title="Canais | Jogos & Eventos",FCF TV 1 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/197716.ts
+#EXTINF:-1 tvg-name="FCF TV 1 [HD]" tvg-logo="http://lgfp.one/AOM8" group-title="Canais | Jogos & Eventos",FCF TV 1 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/197713.ts
+#EXTINF:-1 tvg-name="FCF TV 1 [SD]" tvg-logo="http://lgfp.one/AOM7" group-title="Canais | Jogos & Eventos",FCF TV 1 [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/197712.ts
+#EXTINF:-1 tvg-name="FCF TV 2 [FHD]" tvg-logo="http://lgfp.one/AON0" group-title="Canais | Jogos & Eventos",FCF TV 2 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/197715.ts
+#EXTINF:-1 tvg-name="FCF TV 2 [HD]" tvg-logo="http://lgfp.one/AOM6" group-title="Canais | Jogos & Eventos",FCF TV 2 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/197711.ts
+#EXTINF:-1 tvg-name="FCF TV 2 [SD]" tvg-logo="http://lgfp.one/AOM5" group-title="Canais | Jogos & Eventos",FCF TV 2 [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/197710.ts
+#EXTINF:-1 tvg-name="FCF TV 3 [FHD]" tvg-logo="http://lgfp.one/AOM9" group-title="Canais | Jogos & Eventos",FCF TV 3 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/197714.ts
+#EXTINF:-1 tvg-name="FCF TV 3 [HD]" tvg-logo="http://lgfp.one/AOM4" group-title="Canais | Jogos & Eventos",FCF TV 3 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/197709.ts
+#EXTINF:-1 tvg-name="FCF TV 3 [SD]" tvg-logo="http://lgfp.one/AOM3" group-title="Canais | Jogos & Eventos",FCF TV 3 [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/197708.ts
+#EXTINF:-1 tvg-name="FIGHT NETWORK [HD]" tvg-logo="http://lgfp.one/PDG6" group-title="Canais | Jogos & Eventos",FIGHT NETWORK [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/316232.ts
+#EXTINF:-1 tvg-name="Kings League Brazil [HD]" tvg-logo="http://lgfp.one/NMX0" group-title="Canais | Jogos & Eventos",Kings League Brazil [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/299586.ts
+#EXTINF:-1 tvg-name="Lutas Exclusivas [FHD]" tvg-logo="http://lgfp.one/OOI8" group-title="Canais | Jogos & Eventos",Lutas Exclusivas [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/139221.ts
+#EXTINF:-1 tvg-name="Lutas Exclusivas [FHD]" tvg-logo="http://lgfp.one/OOI9" group-title="Canais | Jogos & Eventos",Lutas Exclusivas [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/205786.ts
+#EXTINF:-1 tvg-name="TV NSPORT 1 [HD]" tvg-logo="http://lgfp.one/VKZ" group-title="Canais | Jogos & Eventos",TV NSPORT 1 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/69076.ts
+#EXTINF:-1 tvg-name="TV NSPORT 2 [HD]" tvg-logo="http://lgfp.one/VLA" group-title="Canais | Jogos & Eventos",TV NSPORT 2 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/69077.ts
+#EXTINF:-1 tvg-name="TV NSPORT 3 [HD]" tvg-logo="http://lgfp.one/VLB" group-title="Canais | Jogos & Eventos",TV NSPORT 3 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/69078.ts
+#EXTINF:-1 tvg-name="UOL TV [FHD]" tvg-logo="http://lgfp.one/OOK1" group-title="Canais | Jogos & Eventos",UOL TV [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/258569.ts
+#EXTINF:-1 tvg-name="UOL TV [HD]" tvg-logo="http://lgfp.one/OOK0" group-title="Canais | Jogos & Eventos",UOL TV [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/258568.ts
+#EXTINF:-1 tvg-name="UOL TV - Jogo 1 [HD]" tvg-logo="http://lgfp.one/OOJ3" group-title="Canais | Jogos & Eventos",UOL TV - Jogo 1 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/258561.ts
+#EXTINF:-1 tvg-name="UOL TV - Jogo 2 [HD]" tvg-logo="http://lgfp.one/OOJ4" group-title="Canais | Jogos & Eventos",UOL TV - Jogo 2 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/258562.ts
+#EXTINF:-1 tvg-name="UOL TV - Jogo 3 [HD]" tvg-logo="http://lgfp.one/OOJ5" group-title="Canais | Jogos & Eventos",UOL TV - Jogo 3 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/258563.ts
+#EXTINF:-1 tvg-name="UOL TV - Jogo 4 [HD]" tvg-logo="http://lgfp.one/OOJ6" group-title="Canais | Jogos & Eventos",UOL TV - Jogo 4 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/258564.ts
+#EXTINF:-1 tvg-name="UOL TV - Jogo 5 [HD]" tvg-logo="http://lgfp.one/OOJ7" group-title="Canais | Jogos & Eventos",UOL TV - Jogo 5 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/258565.ts
+#EXTINF:-1 tvg-name="UOL TV - Jogo 6 [HD]" tvg-logo="http://lgfp.one/OOJ8" group-title="Canais | Jogos & Eventos",UOL TV - Jogo 6 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/258566.ts
+#EXTINF:-1 tvg-name="TVE BAHIA HD (JOGO 3 )" group-title="Canais | Jogos & Eventos",TVE BAHIA HD (JOGO 3 )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/352206.ts
+#EXTINF:-1 tvg-name="TVE BAHIA HD (JOGO 2)" group-title="Canais | Jogos & Eventos",TVE BAHIA HD (JOGO 2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/352207.ts
+#EXTINF:-1 tvg-name="TVE BAHIA HD (JOGO 1)" group-title="Canais | Jogos & Eventos",TVE BAHIA HD (JOGO 1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/352208.ts
+#EXTINF:-1 tvg-name="Eventos Netflix [HD]" tvg-logo="http://lgfp.one/PYV5" group-title="Canais | Jogos & Eventos",Eventos Netflix [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/355087.ts
+#EXTINF:-1 tvg-name="TVE ES (JOGO 1)" group-title="Canais | Jogos & Eventos",TVE ES (JOGO 1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/356549.ts
+#EXTINF:-1 tvg-name="Globo+ GE Futebol 1 [HD]" tvg-logo="http://lgfp.one/RNW8" group-title="Canais | Jogos & Eventos",Globo+ GE Futebol 1 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/357600.ts
+#EXTINF:-1 tvg-name="Globo+ GE Futebol 2" tvg-logo="http://lgfp.one/RNW9" group-title="Canais | Jogos & Eventos",Globo+ GE Futebol 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/357601.ts
+#EXTINF:-1 tvg-name="Outros Eventos | Esportes" tvg-logo="http://lgfp.one/RNZ0" group-title="Canais | Jogos & Eventos",Outros Eventos | Esportes
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/357637.ts
+#EXTINF:-1 tvg-name="Flograppling TV 01" tvg-logo="http://lgfp.one/ROD2" group-title="Canais | Jogos & Eventos",Flograppling TV 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/357677.ts
+#EXTINF:-1 tvg-name="Barça ONE TV" tvg-logo="http://lgfp.one/ROK2" group-title="Canais | Jogos & Eventos",Barça ONE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/357906.ts
+#EXTINF:-1 tvg-name="Manchester MUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="Canais | Jogos & Eventos",Manchester MUTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/357907.ts
+#EXTINF:-1 tvg-name="CBF TV" group-title="Canais | Jogos & Eventos",CBF TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/360857.ts
+#EXTINF:-1 tvg-name="FUTSAL 1 [HD]" tvg-logo="http://lgfp.one/RRS1" group-title="Canais | Jogos & Eventos",FUTSAL 1 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/360894.ts
+#EXTINF:-1 tvg-name="FUTSAL 2 [HD]" tvg-logo="http://lgfp.one/RRS2" group-title="Canais | Jogos & Eventos",FUTSAL 2 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/360895.ts
+#EXTINF:-1 tvg-name="NNPLAY 02" group-title="Canais | Jogos & Eventos",NNPLAY 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/365539.ts
+#EXTINF:-1 tvg-name="NNPLAY 01" group-title="Canais | Jogos & Eventos",NNPLAY 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/365540.ts
+#EXTINF:-1 tvg-name="RODEIO [HD]" group-title="Canais | Jogos & Eventos",RODEIO [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/375005.ts
+#EXTINF:-1 tvg-name="FIFA TV + [HD]" tvg-logo="http://lgfp.one/SEQ4" group-title="Canais | Jogos & Eventos",FIFA TV + [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/375011.ts
+#EXTINF:-1 tvg-name="FIFA TV + 2 [HD]" tvg-logo="http://lgfp.one/SEQ5" group-title="Canais | Jogos & Eventos",FIFA TV + 2 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/375012.ts
+#EXTINF:-1 tvg-name="FIFA TV + 3 [HD]" tvg-logo="http://lgfp.one/SEQ4" group-title="Canais | Jogos & Eventos",FIFA TV + 3 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/375048.ts
+#EXTINF:-1 tvg-name="TVE ES (JOGO 2)" tvg-logo="http://lgfp.one/SEU1" group-title="Canais | Jogos & Eventos",TVE ES (JOGO 2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/375050.ts
+#EXTINF:-1 tvg-name="VOLLEY 01 [HD]" tvg-logo="http://lgfp.one/PHD0" group-title="Canais | Jogos & Eventos",VOLLEY 01 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/317732.ts
 
 
 
 
 
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate FHD" tvg-logo="https://img.nnl.pw/draco/combate.png" group-title="Combate UFC",Combate FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/631019
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate HD" tvg-logo="https://img.nnl.pw/draco/combate.png" group-title="Combate UFC",Combate HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5376126
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate SD" tvg-logo="https://img.nnl.pw/draco/combate.png" group-title="Combate UFC",Combate SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5376128
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Ufc Fight Pass 01 HD" tvg-logo="https://image.hotice.site/icones_channels/UFC_Fight_Pass_2.png" group-title="Combate UFC",Ufc Fight Pass 01 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/4482315
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Ufc Fight Pass 02 HD" tvg-logo="https://image.hotice.site/icones_channels/UFC_Fight_Pass_2.png" group-title="Combate UFC",Ufc Fight Pass 02 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/1632894
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Ufc Fight Pass 03 HD" tvg-logo="https://image.hotice.site/icones_channels/UFC_Fight_Pass_2.png" group-title="Combate UFC",Ufc Fight Pass 03 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5427857
+#EXTINF:-1 tvg-name="Canal Goat 2 [FHD]" tvg-logo="http://lgfp.one/ORP7" group-title="Canais | GOAT",Canal Goat 2 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/246838.ts
+#EXTINF:-1 tvg-name="Canal Goat 2 [HD]" tvg-logo="http://lgfp.one/ORP6" group-title="Canais | GOAT",Canal Goat 2 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/246837.ts
+#EXTINF:-1 tvg-name="Canal Goat 2 [SD]" tvg-logo="http://lgfp.one/ORP5" group-title="Canais | GOAT",Canal Goat 2 [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/246836.ts
+#EXTINF:-1 tvg-name="Canal Goat [FHD]" tvg-logo="http://lgfp.one/ORP4" group-title="Canais | GOAT",Canal Goat [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/246835.ts
+#EXTINF:-1 tvg-name="Canal Goat [HD]" tvg-logo="http://lgfp.one/ORP3" group-title="Canais | GOAT",Canal Goat [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/246834.ts
+#EXTINF:-1 tvg-name="CANAL GOAT (JOGO 1)" tvg-logo="http://lgfp.one/ORQ9" group-title="Canais | GOAT",CANAL GOAT (JOGO 1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/247232.ts
+#EXTINF:-1 tvg-name="CANAL GOAT (JOGO 2)" tvg-logo="http://lgfp.one/ORR0" group-title="Canais | GOAT",CANAL GOAT (JOGO 2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/247233.ts
+#EXTINF:-1 tvg-name="CANAL GOAT (JOGO 3)" tvg-logo="http://lgfp.one/ORR1" group-title="Canais | GOAT",CANAL GOAT (JOGO 3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/247234.ts
+#EXTINF:-1 tvg-name="CANAL GOAT (JOGO 4)" tvg-logo="http://lgfp.one/ORR2" group-title="Canais | GOAT",CANAL GOAT (JOGO 4)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/247235.ts
+#EXTINF:-1 tvg-name="Canal Goat [SD]" tvg-logo="http://lgfp.one/ORP2" group-title="Canais | GOAT",Canal Goat [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/246833.ts
+#EXTINF:-1 tvg-name="CANAL GOAT (JOGO 5)" tvg-logo="http://lgfp.one/ORR2" group-title="Canais | GOAT",CANAL GOAT (JOGO 5)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/353836.ts
+#EXTINF:-1 tvg-name="CANAL GOAT (JOGO 6)" tvg-logo="http://lgfp.one/ORR2" group-title="Canais | GOAT",CANAL GOAT (JOGO 6)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/353837.ts
 
 
 
 
 
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Dazn 01 Br HD" tvg-logo="https://image.hotice.site/icones_channels/DAZN.png" group-title="Eleven Esports-DAZN",Dazn 01 Br HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/765728
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Dazn 01 Pt HD" tvg-logo="https://image.hotice.site/icones_channels/DAZN.png" group-title="Eleven Esports-DAZN",Dazn 01 Pt HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/34698
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Dazn 02 Br HD" tvg-logo="https://image.hotice.site/icones_channels/DAZN_2.png" group-title="Eleven Esports-DAZN",Dazn 02 Br HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5376179
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Dazn 02 Pt HD" tvg-logo="https://image.hotice.site/icones_channels/DAZN_2.png" group-title="Eleven Esports-DAZN",Dazn 02 Pt HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5376180
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Dazn 03 Br HD" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn3.png?resize=440%2C264&ssl=1" group-title="Eleven Esports-DAZN",Dazn 03 Br HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5437038
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Dazn 03 Pt HD" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn3.png?resize=440%2C264&ssl=1" group-title="Eleven Esports-DAZN",Dazn 03 Pt HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5437039
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Dazn 04 Br HD" tvg-logo="https://image.hotice.site/icones_channels/DAZN_4.png" group-title="Eleven Esports-DAZN",Dazn 04 Br HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5437040
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Dazn 04 Pt HD" tvg-logo="https://image.hotice.site/icones_channels/DAZN_4.png" group-title="Eleven Esports-DAZN",Dazn 04 Pt HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5437041
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Dazn Sports 03" tvg-logo="https://image.hotice.site/icones_channels/ELEVEN_SPORTS_3_PT.png" group-title="Eleven Esports-DAZN",Dazn Sports 03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/1233161
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Dazn Sports 04" tvg-logo="https://image.hotice.site/icones_channels/ELEVEN_SPORTS_4_PT.png" group-title="Eleven Esports-DAZN",Dazn Sports 04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/1233162
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Eleven Sports 01" tvg-logo="https://img.nnl.pw/draco/eleven-sports.png" group-title="Eleven Esports-DAZN",Eleven Sports 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/1233159
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Eleven Sports 02" tvg-logo="https://img.nnl.pw/draco/eleven-sports.png" group-title="Eleven Esports-DAZN",Eleven Sports 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/1233160
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Eleven Sports 03" tvg-logo="https://img.nnl.pw/draco/eleven-sports.png" group-title="Eleven Esports-DAZN",Eleven Sports 03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/1233163
+#EXTINF:-1 tvg-name="DAZN 01 [FHD]" tvg-logo="http://lgfp.one/XQU" group-title="Canais | DAZN",DAZN 01 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/132327.ts
+#EXTINF:-1 tvg-name="DAZN 01 [HD]" tvg-logo="http://lgfp.one/XQT" group-title="Canais | DAZN",DAZN 01 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/132326.ts
+#EXTINF:-1 tvg-name="DAZN 01 [SD]" tvg-logo="http://lgfp.one/XQS" group-title="Canais | DAZN",DAZN 01 [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/132325.ts
+#EXTINF:-1 tvg-name="DAZN 02 [FHD]" tvg-logo="http://lgfp.one/XQR" group-title="Canais | DAZN",DAZN 02 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/132324.ts
+#EXTINF:-1 tvg-name="DAZN 02 [HD]" tvg-logo="http://lgfp.one/XQQ" group-title="Canais | DAZN",DAZN 02 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/132323.ts
+#EXTINF:-1 tvg-name="DAZN 02 [SD]" tvg-logo="http://lgfp.one/XQP" group-title="Canais | DAZN",DAZN 02 [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/132322.ts
+#EXTINF:-1 tvg-name="DAZN 1 [HD]" tvg-logo="http://lgfp.one/XQV" group-title="Canais | DAZN",DAZN 1 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/132328.ts
+#EXTINF:-1 tvg-name="DAZN 2 [HD]" tvg-logo="http://lgfp.one/XQW" group-title="Canais | DAZN",DAZN 2 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/132329.ts
+#EXTINF:-1 tvg-name="DAZN 3 [HD]" tvg-logo="http://lgfp.one/XQX" group-title="Canais | DAZN",DAZN 3 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/132330.ts
+#EXTINF:-1 tvg-name="DAZN 4 [HD]" tvg-logo="http://lgfp.one/XQY" group-title="Canais | DAZN",DAZN 4 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/132331.ts
+#EXTINF:-1 tvg-name="DAZN 5 [HD]" tvg-logo="http://lgfp.one/XQY" group-title="Canais | DAZN",DAZN 5 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/375006.ts
+#EXTINF:-1 tvg-name="DAZN 6 [HD]" group-title="Canais | DAZN",DAZN 6 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/375007.ts
+#EXTINF:-1 tvg-name="DAZN 7 [HD]" tvg-logo="http://lgfp.one/XQY" group-title="Canais | DAZN",DAZN 7 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/375008.ts
+#EXTINF:-1 tvg-name="DAZN 8 [HD]" tvg-logo="http://lgfp.one/XQY" group-title="Canais | DAZN",DAZN 8 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/375009.ts
+#EXTINF:-1 tvg-name="DAZN 9 [HD]" tvg-logo="http://lgfp.one/XQY" group-title="Canais | DAZN",DAZN 9 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/375010.ts
 
 
 
 
 
-#EXTINF:-1 tvg-id="br#espn-hd" tvg-name="Espn 01 FHD" tvg-logo="https://img.nnl.pw/draco/espn.png" group-title="Espn",Espn 01 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/631064
-#EXTINF:-1 tvg-id="br#espn-hd" tvg-name="Espn 01 HD" tvg-logo="https://img.nnl.pw/draco/espn.png" group-title="Espn",Espn 01 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5365164
-#EXTINF:-1 tvg-id="br#espn-hd" tvg-name="Espn 01 SD" tvg-logo="https://img.nnl.pw/draco/espn.png" group-title="Espn",Espn 01 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5365179
-#EXTINF:-1 tvg-id="ESPN2.br" tvg-name="Espn 02 FHD" tvg-logo="https://img.nnl.pw/draco/espn-2.png" group-title="Espn",Espn 02 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5181930
-#EXTINF:-1 tvg-id="ESPN2.br" tvg-name="Espn 02 HD" tvg-logo="https://img.nnl.pw/draco/espn-2.png" group-title="Espn",Espn 02 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5365216
-#EXTINF:-1 tvg-id="ESPN2.br" tvg-name="Espn 02 SD" tvg-logo="https://img.nnl.pw/draco/espn-2.png" group-title="Espn",Espn 02 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5365231
-#EXTINF:-1 tvg-id="ESPN3.br" tvg-name="Espn 03 FHD" tvg-logo="https://img.nnl.pw/draco/espn-3.png" group-title="Espn",Espn 03 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/631061
-#EXTINF:-1 tvg-id="ESPN3.br" tvg-name="Espn 03 HD" tvg-logo="https://img.nnl.pw/draco/espn-3.png" group-title="Espn",Espn 03 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5365946
-#EXTINF:-1 tvg-id="ESPN3.br" tvg-name="Espn 03 SD" tvg-logo="https://img.nnl.pw/draco/espn-3.png" group-title="Espn",Espn 03 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5366032
-#EXTINF:-1 tvg-id="ESPN4.br" tvg-name="Espn 04 FHD" tvg-logo="https://img.nnl.pw/draco/espn-4.png" group-title="Espn",Espn 04 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/631082
-#EXTINF:-1 tvg-id="ESPN4.br" tvg-name="Espn 04 HD" tvg-logo="https://img.nnl.pw/draco/espn-4.png" group-title="Espn",Espn 04 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5366385
-#EXTINF:-1 tvg-id="ESPN4.br" tvg-name="Espn 04 SD" tvg-logo="https://img.nnl.pw/draco/espn-4.png" group-title="Espn",Espn 04 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5366461
-#EXTINF:-1 tvg-id="ESPN5.br" tvg-name="Espn 05 FHD" tvg-logo="https://img.nnl.pw/draco/espn-5.png" group-title="Espn",Espn 05 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/631079
-#EXTINF:-1 tvg-id="ESPN5.br" tvg-name="Espn 05 HD" tvg-logo="https://img.nnl.pw/draco/espn-5.png" group-title="Espn",Espn 05 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5366788
-#EXTINF:-1 tvg-id="ESPN5.br" tvg-name="Espn 05 SD" tvg-logo="https://img.nnl.pw/draco/espn-5.png" group-title="Espn",Espn 05 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5366938
-#EXTINF:-1 tvg-id="ESPN6.br" tvg-name="Espn 06 FHD" tvg-logo="https://img.nnl.pw/draco/espn-6.png" group-title="Espn",Espn 06 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/631067
-#EXTINF:-1 tvg-id="ESPN6.br" tvg-name="Espn 06 HD" tvg-logo="https://img.nnl.pw/draco/espn-6.png" group-title="Espn",Espn 06 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5368062
-#EXTINF:-1 tvg-id="ESPN6.br" tvg-name="Espn 06 SD" tvg-logo="https://img.nnl.pw/draco/espn-6.png" group-title="Espn",Espn 06 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5368127
+#EXTINF:-1 tvg-name="DISNEY+ 01 [FHD]" tvg-logo="http://lgfp.one/NOJ4" group-title="Canais | Disney Plus",DISNEY+ 01 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/300940.ts
+#EXTINF:-1 tvg-name="DISNEY+ 02 [FHD]" tvg-logo="http://lgfp.one/NOJ5" group-title="Canais | Disney Plus",DISNEY+ 02 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/300941.ts
+#EXTINF:-1 tvg-name="DISNEY+ 03 [FHD]" tvg-logo="http://lgfp.one/NOJ6" group-title="Canais | Disney Plus",DISNEY+ 03 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/300942.ts
+#EXTINF:-1 tvg-name="DISNEY+ 04 [FHD]" tvg-logo="http://lgfp.one/NOJ7" group-title="Canais | Disney Plus",DISNEY+ 04 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/300943.ts
+#EXTINF:-1 tvg-name="DISNEY+ 05 [FHD]" tvg-logo="http://lgfp.one/NOJ8" group-title="Canais | Disney Plus",DISNEY+ 05 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/300944.ts
+#EXTINF:-1 tvg-name="DISNEY+ 1 [HD]" tvg-logo="http://lgfp.one/NOJ9" group-title="Canais | Disney Plus",DISNEY+ 1 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/300945.ts
+#EXTINF:-1 tvg-name="DISNEY+ 10 [HD]" tvg-logo="http://lgfp.one/NOK6" group-title="Canais | Disney Plus",DISNEY+ 10 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/340204.ts
+#EXTINF:-1 tvg-name="DISNEY+ 2 [HD]" tvg-logo="http://lgfp.one/NOK0" group-title="Canais | Disney Plus",DISNEY+ 2 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/300946.ts
+#EXTINF:-1 tvg-name="DISNEY+ 3 [HD]" tvg-logo="http://lgfp.one/NOK1" group-title="Canais | Disney Plus",DISNEY+ 3 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/300947.ts
+#EXTINF:-1 tvg-name="DISNEY+ 4 [HD]" tvg-logo="http://lgfp.one/NOK2" group-title="Canais | Disney Plus",DISNEY+ 4 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/300948.ts
+#EXTINF:-1 tvg-name="DISNEY+ 5 [HD]" tvg-logo="http://lgfp.one/NOK3" group-title="Canais | Disney Plus",DISNEY+ 5 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/300949.ts
+#EXTINF:-1 tvg-name="DISNEY+ 6 [HD]" tvg-logo="http://lgfp.one/NOK4" group-title="Canais | Disney Plus",DISNEY+ 6 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/300950.ts
+#EXTINF:-1 tvg-name="DISNEY+ 7 [HD]" tvg-logo="http://lgfp.one/NOK5" group-title="Canais | Disney Plus",DISNEY+ 7 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/300951.ts
+#EXTINF:-1 tvg-name="DISNEY+ 8 [HD]" tvg-logo="http://lgfp.one/NOK6" group-title="Canais | Disney Plus",DISNEY+ 8 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/300952.ts
+#EXTINF:-1 tvg-name="DISNEY+ 9 [HD]" tvg-logo="http://lgfp.one/NOK6" group-title="Canais | Disney Plus",DISNEY+ 9 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/340202.ts
+#EXTINF:-1 tvg-name="Disney Plus 1 [FHD]" tvg-logo="http://lgfp.one/ORR3" group-title="Canais | Disney Plus",Disney Plus 1 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/286679.ts
+#EXTINF:-1 tvg-name="Disney Plus 1 [HD]" tvg-logo="http://lgfp.one/ORR7" group-title="Canais | Disney Plus",Disney Plus 1 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/286683.ts
+#EXTINF:-1 tvg-id="Disney.cl" tvg-name="Disney Plus 1 [HD] [ALTER]" tvg-logo="http://lgfp.one/DPP1" group-title="Canais | Disney Plus",Disney Plus 1 [HD] [ALTER]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/236857.ts
+#EXTINF:-1 tvg-name="Disney Plus 2 [FHD]" tvg-logo="http://lgfp.one/ORR4" group-title="Canais | Disney Plus",Disney Plus 2 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/286680.ts
+#EXTINF:-1 tvg-name="Disney Plus 2 [FHD] [ALTER]" tvg-logo="http://lgfp.one/DYT4" group-title="Canais | Disney Plus",Disney Plus 2 [FHD] [ALTER]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/241002.ts
+#EXTINF:-1 tvg-name="Disney Plus 2 [HD]" tvg-logo="http://lgfp.one/ORR8" group-title="Canais | Disney Plus",Disney Plus 2 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/286684.ts
+#EXTINF:-1 tvg-name="Disney Plus 3 [FHD]" tvg-logo="http://lgfp.one/ORR5" group-title="Canais | Disney Plus",Disney Plus 3 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/286681.ts
+#EXTINF:-1 tvg-name="Disney Plus 3 [HD]" tvg-logo="http://lgfp.one/ORR9" group-title="Canais | Disney Plus",Disney Plus 3 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/286685.ts
+#EXTINF:-1 tvg-name="Disney Plus 4 [FHD]" tvg-logo="http://lgfp.one/ORR6" group-title="Canais | Disney Plus",Disney Plus 4 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/286682.ts
+#EXTINF:-1 tvg-name="Disney Plus 4 [HD]" tvg-logo="http://lgfp.one/ORS0" group-title="Canais | Disney Plus",Disney Plus 4 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/286686.ts
+#EXTINF:-1 tvg-name="DISNEY plus 8 [HD]" tvg-logo="http://lgfp.one/NOK6" group-title="Canais | Disney Plus",DISNEY plus 8 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/340203.ts
+#EXTINF:-1 tvg-name="Disney Plus 5 [HD]" tvg-logo="http://lgfp.one/ORS0" group-title="Canais | Disney Plus",Disney Plus 5 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/360391.ts
 
 
 
 
 
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Hard Knocks HD" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2021/02/hard-knocks-logo-sml.png" group-title="Futebol Americano",Hard Knocks HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/1049179
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Pac 12 Insider HD" tvg-logo="https://www.svgeurope.org/wp-content/blogs.dir/17/files/2021/03/300x300.png" group-title="Futebol Americano",Pac 12 Insider HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/1049190
+#EXTINF:-1 tvg-name="FORMULA 1 TV TEMPORADA 2025" tvg-logo="http://lgfp.one/PLG6" group-title="Canais | Formula 1",FORMULA 1 TV TEMPORADA 2025
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/319468.ts
+#EXTINF:-1 tvg-name="Fórmula 1 TV [FHD]" tvg-logo="http://lgfp.one/VPK" group-title="Canais | Formula 1",Fórmula 1 TV [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/116348.ts
+#EXTINF:-1 tvg-name="Fórmula 1 TV [HD]" tvg-logo="http://lgfp.one/VPI" group-title="Canais | Formula 1",Fórmula 1 TV [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/116346.ts
 
 
 
 
 
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Nba League Pass 01 HD" tvg-logo="https://image.hotice.site/icones_channels/NBA.png" group-title="Nba-Basquete",Nba League Pass 01 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5175330
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Nba TV FHD" tvg-logo="https://image.hotice.site/icones_channels/NBA.png" group-title="Nba-Basquete",Nba TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5173720
+#EXTINF:-1 tvg-name="HBO Max 1 [FHD]" tvg-logo="http://lgfp.one/BJU8" group-title="Canais | HBO Max",HBO Max 1 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/195782.ts
+#EXTINF:-1 tvg-name="HBO Max 1 [HD]" tvg-logo="http://lgfp.one/OOF" group-title="Canais | HBO Max",HBO Max 1 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/92846.ts
+#EXTINF:-1 tvg-name="HBO Max 1 [HD]" tvg-logo="http://lgfp.one/BHZ2" group-title="Canais | HBO Max",HBO Max 1 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/195788.ts
+#EXTINF:-1 tvg-name="HBO Max 1 [HD] [ALTER]" tvg-logo="http://lgfp.one/BIO4" group-title="Canais | HBO Max",HBO Max 1 [HD] [ALTER]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/199969.ts
+#EXTINF:-1 tvg-name="HBO Max 1 [SD]" tvg-logo="http://lgfp.one/BHZ8" group-title="Canais | HBO Max",HBO Max 1 [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/195794.ts
+#EXTINF:-1 tvg-name="HBO Max 10 [HD] [ALTER]" tvg-logo="http://lgfp.one/MXP3" group-title="Canais | HBO Max",HBO Max 10 [HD] [ALTER]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/283807.ts
+#EXTINF:-1 tvg-name="HBO Max 11 [HD] [ALTER]" tvg-logo="http://lgfp.one/MXP4" group-title="Canais | HBO Max",HBO Max 11 [HD] [ALTER]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/283808.ts
+#EXTINF:-1 tvg-name="HBO Max 12 [HD] [ALTER]" tvg-logo="http://lgfp.one/MXP5" group-title="Canais | HBO Max",HBO Max 12 [HD] [ALTER]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/283809.ts
+#EXTINF:-1 tvg-name="HBO Max 2 [FHD]" tvg-logo="http://lgfp.one/BJU9" group-title="Canais | HBO Max",HBO Max 2 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/195783.ts
+#EXTINF:-1 tvg-name="HBO Max 2 [HD]" tvg-logo="http://lgfp.one/BHZ3" group-title="Canais | HBO Max",HBO Max 2 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/195789.ts
+#EXTINF:-1 tvg-name="HBO Max 2 [HD] [ALTER]" tvg-logo="http://lgfp.one/BIO3" group-title="Canais | HBO Max",HBO Max 2 [HD] [ALTER]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/199968.ts
+#EXTINF:-1 tvg-name="HBO Max 2 [SD]" tvg-logo="http://lgfp.one/BHZ9" group-title="Canais | HBO Max",HBO Max 2 [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/195795.ts
+#EXTINF:-1 tvg-name="HBO Max 3 [FHD]" tvg-logo="http://lgfp.one/BJV0" group-title="Canais | HBO Max",HBO Max 3 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/195784.ts
+#EXTINF:-1 tvg-name="HBO Max 3 [HD]" tvg-logo="http://lgfp.one/BHZ4" group-title="Canais | HBO Max",HBO Max 3 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/195790.ts
+#EXTINF:-1 tvg-name="HBO Max 3 [HD] [ALTER]" tvg-logo="http://lgfp.one/MXO6" group-title="Canais | HBO Max",HBO Max 3 [HD] [ALTER]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/283800.ts
+#EXTINF:-1 tvg-name="HBO Max 3 [SD]" tvg-logo="http://lgfp.one/BIA0" group-title="Canais | HBO Max",HBO Max 3 [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/195796.ts
+#EXTINF:-1 tvg-name="HBO Max 4 [FHD]" tvg-logo="http://lgfp.one/BJV1" group-title="Canais | HBO Max",HBO Max 4 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/195785.ts
+#EXTINF:-1 tvg-name="HBO Max 4 [HD]" tvg-logo="http://lgfp.one/BHZ5" group-title="Canais | HBO Max",HBO Max 4 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/195791.ts
+#EXTINF:-1 tvg-name="HBO Max 4 [HD] [ALTER]" tvg-logo="http://lgfp.one/MXO7" group-title="Canais | HBO Max",HBO Max 4 [HD] [ALTER]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/283801.ts
+#EXTINF:-1 tvg-name="HBO Max 4 [SD]" tvg-logo="http://lgfp.one/DPE2" group-title="Canais | HBO Max",HBO Max 4 [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/195797.ts
+#EXTINF:-1 tvg-name="HBO Max 5 [FHD]" tvg-logo="http://lgfp.one/BJV2" group-title="Canais | HBO Max",HBO Max 5 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/195786.ts
+#EXTINF:-1 tvg-name="HBO Max 5 [HD]" tvg-logo="http://lgfp.one/BHZ6" group-title="Canais | HBO Max",HBO Max 5 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/195792.ts
+#EXTINF:-1 tvg-name="HBO Max 5 [HD] [ALTER]" tvg-logo="http://lgfp.one/MXO5" group-title="Canais | HBO Max",HBO Max 5 [HD] [ALTER]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/283799.ts
+#EXTINF:-1 tvg-name="HBO Max 5 [SD]" tvg-logo="http://lgfp.one/DPE3" group-title="Canais | HBO Max",HBO Max 5 [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/195798.ts
+#EXTINF:-1 tvg-name="HBO Max 6 [FHD]" tvg-logo="http://lgfp.one/BJV3" group-title="Canais | HBO Max",HBO Max 6 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/195787.ts
+#EXTINF:-1 tvg-name="HBO Max 6 [HD]" tvg-logo="http://lgfp.one/BHZ7" group-title="Canais | HBO Max",HBO Max 6 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/195793.ts
+#EXTINF:-1 tvg-name="HBO Max 6 [HD] [ALTER]" tvg-logo="http://lgfp.one/MXO8" group-title="Canais | HBO Max",HBO Max 6 [HD] [ALTER]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/283802.ts
+#EXTINF:-1 tvg-name="HBO Max 6 [SD]" tvg-logo="http://lgfp.one/DPE4" group-title="Canais | HBO Max",HBO Max 6 [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/195799.ts
+#EXTINF:-1 tvg-name="HBO Max 7 [HD] [ALTER]" tvg-logo="http://lgfp.one/MXO9" group-title="Canais | HBO Max",HBO Max 7 [HD] [ALTER]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/283803.ts
+#EXTINF:-1 tvg-name="HBO Max 8 [HD] [ALTER]" tvg-logo="http://lgfp.one/MXP0" group-title="Canais | HBO Max",HBO Max 8 [HD] [ALTER]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/283804.ts
+#EXTINF:-1 tvg-name="HBO Max 9 [HD] [ALTER]" tvg-logo="http://lgfp.one/MXP2" group-title="Canais | HBO Max",HBO Max 9 [HD] [ALTER]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/283806.ts
+#EXTINF:-1 tvg-name="HBO Max MOSAICO DA CHAMPIONS [HD] [ALTER]" tvg-logo="http://lgfp.one/MXP1" group-title="Canais | HBO Max",HBO Max MOSAICO DA CHAMPIONS [HD] [ALTER]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/283805.ts
+#EXTINF:-1 tvg-name="HBO Max 13 [HD] [ALTER]" tvg-logo="http://lgfp.one/MXP5" group-title="Canais | HBO Max",HBO Max 13 [HD] [ALTER]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/356943.ts
+#EXTINF:-1 tvg-name="HBO Max 14 [HD] [ALTER]" tvg-logo="http://lgfp.one/MXP5" group-title="Canais | HBO Max",HBO Max 14 [HD] [ALTER]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/356944.ts
+#EXTINF:-1 tvg-name="HBO Max 15 [HD] [ALTER]" tvg-logo="http://lgfp.one/MXP5" group-title="Canais | HBO Max",HBO Max 15 [HD] [ALTER]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/356945.ts
+#EXTINF:-1 tvg-name="HBO Max 16 [HD] [ALTER]" tvg-logo="http://lgfp.one/MXP5" group-title="Canais | HBO Max",HBO Max 16 [HD] [ALTER]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/356946.ts
+#EXTINF:-1 tvg-name="HBO Max 17 [HD] [ALTER]" tvg-logo="http://lgfp.one/MXP5" group-title="Canais | HBO Max",HBO Max 17 [HD] [ALTER]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/356947.ts
+#EXTINF:-1 tvg-name="HBO Max 18 [HD] [ALTER]" tvg-logo="http://lgfp.one/MXP5" group-title="Canais | HBO Max",HBO Max 18 [HD] [ALTER]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/356948.ts
+#EXTINF:-1 tvg-name="HBO Max 7 [HD]" tvg-logo="http://lgfp.one/MXO9" group-title="Canais | HBO Max",HBO Max 7 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/356950.ts
+#EXTINF:-1 tvg-name="HBO Max 8 [HD]" tvg-logo="http://lgfp.one/MXO9" group-title="Canais | HBO Max",HBO Max 8 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/356951.ts
+#EXTINF:-1 tvg-name="HBO Max 9 [HD]" tvg-logo="http://lgfp.one/MXO9" group-title="Canais | HBO Max",HBO Max 9 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/356952.ts
+#EXTINF:-1 tvg-name="HBO Max 10 [HD]" tvg-logo="http://lgfp.one/MXO9" group-title="Canais | HBO Max",HBO Max 10 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/356953.ts
+#EXTINF:-1 tvg-name="HBO Max 11 [HD]" tvg-logo="http://lgfp.one/MXO9" group-title="Canais | HBO Max",HBO Max 11 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/356954.ts
+#EXTINF:-1 tvg-name="HBO Max 12 [HD]" tvg-logo="http://lgfp.one/MXO9" group-title="Canais | HBO Max",HBO Max 12 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/356955.ts
+#EXTINF:-1 tvg-name="HBO Max 13 [HD]" tvg-logo="http://lgfp.one/MXO9" group-title="Canais | HBO Max",HBO Max 13 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/356956.ts
+#EXTINF:-1 tvg-name="HBO Max 14 [HD]" tvg-logo="http://lgfp.one/MXO9" group-title="Canais | HBO Max",HBO Max 14 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/356957.ts
+#EXTINF:-1 tvg-name="HBO Max 15 [HD]" tvg-logo="http://lgfp.one/MXO9" group-title="Canais | HBO Max",HBO Max 15 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/356958.ts
+#EXTINF:-1 tvg-name="HBO Max 16 [HD]" tvg-logo="http://lgfp.one/MXO9" group-title="Canais | HBO Max",HBO Max 16 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/356959.ts
+#EXTINF:-1 tvg-name="HBO Max 17 [HD]" tvg-logo="http://lgfp.one/MXO9" group-title="Canais | HBO Max",HBO Max 17 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/356960.ts
+#EXTINF:-1 tvg-name="HBO Max 18 [HD]" tvg-logo="http://lgfp.one/MXO9" group-title="Canais | HBO Max",HBO Max 18 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/356961.ts
 
 
 
 
 
-#EXTINF:-1 tvg-id="CanalOff.br" tvg-name="Off FHD" tvg-logo="https://img.nnl.pw/draco/canal-off.png" group-title="Esportes Radical",Off FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5437042
-#EXTINF:-1 tvg-id="CanalOff.br" tvg-name="Off HD" tvg-logo="https://img.nnl.pw/draco/canal-off.png" group-title="Esportes Radical",Off HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/631338
-#EXTINF:-1 tvg-id="CanalOff.br" tvg-name="Off SD" tvg-logo="https://img.nnl.pw/draco/canal-off.png" group-title="Esportes Radical",Off SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5376181
-#EXTINF:-1 tvg-id="WooHoo.br" tvg-name="Woohoo FHD" tvg-logo="https://img.nnl.pw/draco/woohoo.png" group-title="Esportes Radical",Woohoo FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5376183
-#EXTINF:-1 tvg-id="WooHoo.br" tvg-name="Woohoo HD" tvg-logo="https://img.nnl.pw/draco/woohoo.png" group-title="Esportes Radical",Woohoo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5376187
-#EXTINF:-1 tvg-id="WooHoo.br" tvg-name="Woohoo SD" tvg-logo="https://img.nnl.pw/draco/woohoo.png" group-title="Esportes Radical",Woohoo SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5376190
+#EXTINF:-1 tvg-name="Paramount+ 01 [FHD]" tvg-logo="http://lgfp.one/NOI7" group-title="Canais | Paramount +",Paramount+ 01 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/300933.ts
+#EXTINF:-1 tvg-name="Paramount+ 02 [FHD]" tvg-logo="http://lgfp.one/NOI8" group-title="Canais | Paramount +",Paramount+ 02 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/300934.ts
+#EXTINF:-1 tvg-name="Paramount+ 03 [FHD]" tvg-logo="http://lgfp.one/NOI9" group-title="Canais | Paramount +",Paramount+ 03 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/300935.ts
+#EXTINF:-1 tvg-name="Paramount+ 04 [FHD]" tvg-logo="http://lgfp.one/NOJ0" group-title="Canais | Paramount +",Paramount+ 04 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/300936.ts
+#EXTINF:-1 tvg-name="Paramount Channel [FHD]" tvg-logo="http://lgfp.one/NOI4" group-title="Canais | Paramount +",Paramount Channel [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/300930.ts
+#EXTINF:-1 tvg-name="Paramount Channel [HD]" tvg-logo="http://lgfp.one/NOI5" group-title="Canais | Paramount +",Paramount Channel [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/300931.ts
+#EXTINF:-1 tvg-name="Paramount Channel [SD]" tvg-logo="http://lgfp.one/NOI6" group-title="Canais | Paramount +",Paramount Channel [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/300932.ts
+#EXTINF:-1 tvg-name="Paramount+ PLTF 01 [FHD]" tvg-logo="http://lgfp.one/NOJ1" group-title="Canais | Paramount +",Paramount+ PLTF 01 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/300937.ts
+#EXTINF:-1 tvg-name="Paramount+ PLTF 02 [FHD]" tvg-logo="http://lgfp.one/NOJ2" group-title="Canais | Paramount +",Paramount+ PLTF 02 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/300938.ts
+#EXTINF:-1 tvg-name="Paramount+ PLTF 03 [FHD]" tvg-logo="http://lgfp.one/NOJ3" group-title="Canais | Paramount +",Paramount+ PLTF 03 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/300939.ts
+#EXTINF:-1 tvg-name="Paramount+ 05 [FHD]" tvg-logo="http://lgfp.one/NOI7" group-title="Canais | Paramount +",Paramount+ 05 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/375003.ts
+#EXTINF:-1 tvg-name="Paramount+ 06 [FHD]" tvg-logo="http://lgfp.one/NOI7" group-title="Canais | Paramount +",Paramount+ 06 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/375004.ts
 
 
 
 
 
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Paramount+ 01 FHD" tvg-logo="https://image.hotice.site/icones_channels/Paramount+_1.png" group-title="Paramount+",Paramount+ 01 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/1632603
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Paramount+ 01 HD" tvg-logo="https://image.hotice.site/icones_channels/Paramount+_1.png" group-title="Paramount+",Paramount+ 01 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/1632604
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Paramount+ 02 FHD" tvg-logo="https://image.hotice.site/icones_channels/Paramount+_1.png" group-title="Paramount+",Paramount+ 02 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/1632605
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Paramount+ 02 HD" tvg-logo="https://image.hotice.site/icones_channels/Paramount+_1.png" group-title="Paramount+",Paramount+ 02 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5376122
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Paramount+ 03 FHD" tvg-logo="https://image.hotice.site/icones_channels/Paramount+_1.png" group-title="Paramount+",Paramount+ 03 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5376123
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Paramount+ 03 HD" tvg-logo="https://image.hotice.site/icones_channels/Paramount+_1.png" group-title="Paramount+",Paramount+ 03 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5376124
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Paramount+ 04 FHD" tvg-logo="https://image.hotice.site/icones_channels/Paramount+_1.png" group-title="Paramount+",Paramount+ 04 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5376125
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Paramount+ 04 HD" tvg-logo="https://image.hotice.site/icones_channels/Paramount+_1.png" group-title="Paramount+",Paramount+ 04 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5428366
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.2.br" tvg-name="PREMIERE 2 [FHD]" tvg-logo="http://lgfp.one/AXJ" group-title="Canais | Premiere",PREMIERE 2 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/525.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.2.br" tvg-name="PREMIERE 2 [FHD][H265]" tvg-logo="http://lgfp.one/VSX" group-title="Canais | Premiere",PREMIERE 2 [FHD][H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/30284.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.2.br" tvg-name="PREMIERE 2 [FHD][HDR]" tvg-logo="http://lgfp.one/JYU5" group-title="Canais | Premiere",PREMIERE 2 [FHD][HDR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/130234.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.2.br" tvg-name="PREMIERE 2 [HD]" tvg-logo="http://lgfp.one/AXP" group-title="Canais | Premiere",PREMIERE 2 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/531.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.2.br" tvg-name="PREMIERE 2 [SD]" tvg-logo="http://lgfp.one/AXU" group-title="Canais | Premiere",PREMIERE 2 [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/538.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.3.br" tvg-name="PREMIERE 3 [FHD]" tvg-logo="http://lgfp.one/AXK" group-title="Canais | Premiere",PREMIERE 3 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/526.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.3.br" tvg-name="PREMIERE 3 [FHD][H265]" tvg-logo="http://lgfp.one/VSY" group-title="Canais | Premiere",PREMIERE 3 [FHD][H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/30285.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.3.br" tvg-name="PREMIERE 3 [FHD][HDR]" tvg-logo="http://lgfp.one/JYU6" group-title="Canais | Premiere",PREMIERE 3 [FHD][HDR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/130235.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.3.br" tvg-name="PREMIERE 3 [HD]" tvg-logo="http://lgfp.one/AXQ" group-title="Canais | Premiere",PREMIERE 3 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/532.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.3.br" tvg-name="PREMIERE 3 [SD]" tvg-logo="http://lgfp.one/AXV" group-title="Canais | Premiere",PREMIERE 3 [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/539.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.4.br" tvg-name="PREMIERE 4 [FHD]" tvg-logo="http://lgfp.one/AXL" group-title="Canais | Premiere",PREMIERE 4 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/527.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.4.br" tvg-name="PREMIERE 4 [FHD][H265]" tvg-logo="http://lgfp.one/VTB" group-title="Canais | Premiere",PREMIERE 4 [FHD][H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/30288.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.4.br" tvg-name="PREMIERE 4 [FHD][HDR]" tvg-logo="http://lgfp.one/JYU7" group-title="Canais | Premiere",PREMIERE 4 [FHD][HDR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/130236.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.4.br" tvg-name="PREMIERE 4 [HD]" tvg-logo="http://lgfp.one/VSF" group-title="Canais | Premiere",PREMIERE 4 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/533.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.4.br" tvg-name="PREMIERE 4 [SD]" tvg-logo="http://lgfp.one/AXW" group-title="Canais | Premiere",PREMIERE 4 [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/540.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.5.br" tvg-name="PREMIERE 5 [FHD]" tvg-logo="http://lgfp.one/AXM" group-title="Canais | Premiere",PREMIERE 5 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/528.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.5.br" tvg-name="PREMIERE 5 [FHD][H265]" tvg-logo="http://lgfp.one/VSZ" group-title="Canais | Premiere",PREMIERE 5 [FHD][H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/30286.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.5.br" tvg-name="PREMIERE 5 [FHD][HDR]" tvg-logo="http://lgfp.one/JYU8" group-title="Canais | Premiere",PREMIERE 5 [FHD][HDR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/130237.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.5.br" tvg-name="PREMIERE 5 [HD]" tvg-logo="http://lgfp.one/AXR" group-title="Canais | Premiere",PREMIERE 5 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/534.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.5.br" tvg-name="PREMIERE 5 [SD]" tvg-logo="http://lgfp.one/AXX" group-title="Canais | Premiere",PREMIERE 5 [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/541.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.6.br" tvg-name="PREMIERE 6 [FHD]" tvg-logo="http://lgfp.one/AXN" group-title="Canais | Premiere",PREMIERE 6 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/529.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.6.br" tvg-name="PREMIERE 6 [FHD][H265]" tvg-logo="http://lgfp.one/VTC" group-title="Canais | Premiere",PREMIERE 6 [FHD][H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/30289.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.6.br" tvg-name="PREMIERE 6 [FHD][HDR]" tvg-logo="http://lgfp.one/JYU9" group-title="Canais | Premiere",PREMIERE 6 [FHD][HDR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/130238.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.6.br" tvg-name="PREMIERE 6 [HD]" tvg-logo="http://lgfp.one/AXS" group-title="Canais | Premiere",PREMIERE 6 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/535.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.6.br" tvg-name="PREMIERE 6 [SD]" tvg-logo="http://lgfp.one/AXY" group-title="Canais | Premiere",PREMIERE 6 [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/542.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.7.br" tvg-name="PREMIERE 7 [FHD]" tvg-logo="http://lgfp.one/AXO" group-title="Canais | Premiere",PREMIERE 7 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/530.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.7.br" tvg-name="PREMIERE 7 [FHD][H265]" tvg-logo="http://lgfp.one/VTD" group-title="Canais | Premiere",PREMIERE 7 [FHD][H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/30290.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.7.br" tvg-name="PREMIERE 7 [FHD][HDR]" tvg-logo="http://lgfp.one/JYV0" group-title="Canais | Premiere",PREMIERE 7 [FHD][HDR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/130239.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.7.br" tvg-name="PREMIERE 7 [HD]" tvg-logo="http://lgfp.one/VSG" group-title="Canais | Premiere",PREMIERE 7 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/536.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.7.br" tvg-name="PREMIERE 7 [SD]" tvg-logo="http://lgfp.one/AXZ" group-title="Canais | Premiere",PREMIERE 7 [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/543.ts
+#EXTINF:-1 tvg-id="premiere.8.br" tvg-name="Premiere 8 [FHD][H265]" tvg-logo="http://lgfp.one/JYV1" group-title="Canais | Premiere",Premiere 8 [FHD][H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/329731.ts
+#EXTINF:-1 tvg-id="premiere.8.br" tvg-name="PREMIERE 8 [FHD][HDR]" tvg-logo="http://lgfp.one/JYV1" group-title="Canais | Premiere",PREMIERE 8 [FHD][HDR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/130240.ts
+#EXTINF:-1 tvg-id="premiere.8.br" tvg-name="Premiere 8 [HD]" tvg-logo="http://lgfp.one/JYV1" group-title="Canais | Premiere",Premiere 8 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/300082.ts
+#EXTINF:-1 tvg-id="premiere.8.br" tvg-name="Premiere 8 [SD]" tvg-logo="http://lgfp.one/JYV1" group-title="Canais | Premiere",Premiere 8 [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/329729.ts
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES [FHD]" tvg-logo="http://lgfp.one/AXI" group-title="Canais | Premiere",PREMIERE CLUBES [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/524.ts
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES [FHD][H265]" tvg-logo="http://lgfp.one/VTA" group-title="Canais | Premiere",PREMIERE CLUBES [FHD][H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/30287.ts
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES [FHD][HDR]" tvg-logo="http://lgfp.one/JYU4" group-title="Canais | Premiere",PREMIERE CLUBES [FHD][HDR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/130233.ts
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES [HD]" tvg-logo="http://lgfp.one/AXT" group-title="Canais | Premiere",PREMIERE CLUBES [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/537.ts
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES [SD]" tvg-logo="http://lgfp.one/AYA" group-title="Canais | Premiere",PREMIERE CLUBES [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/544.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.Clubes.HD.br" tvg-name="Premiere Clubes [4K]" tvg-logo="http://lgfp.one/NNS7" group-title="Canais | Premiere",Premiere Clubes [4K]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/300477.ts
+#EXTINF:-1 tvg-id="premiere.8.br" tvg-name="Premiere 8 [FHD]" tvg-logo="http://lgfp.one/JYV1" group-title="Canais | Premiere",Premiere 8 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/329730.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Mosaico.Multijogos.br" tvg-name="PREMIERE MOSAICO [FHD]" tvg-logo="http://lgfp.one/AXJ" group-title="Canais | Premiere",PREMIERE MOSAICO [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/333838.ts
 
 
 
 
 
-#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere 01 Clubes FHD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere FC",Premiere 01 Clubes FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5365026
-#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere 01 Clubes HD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere FC",Premiere 01 Clubes HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5365030
-#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere 01 Clubes SD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere FC",Premiere 01 Clubes SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5365032
-#EXTINF:-1 tvg-id="br#premiere-2" tvg-name="Premiere 02 FHD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere FC",Premiere 02 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/631354
-#EXTINF:-1 tvg-id="br#premiere-2" tvg-name="Premiere 02 HD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere FC",Premiere 02 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5365039
-#EXTINF:-1 tvg-id="br#premiere-2" tvg-name="Premiere 02 SD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere FC",Premiere 02 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5365044
-#EXTINF:-1 tvg-id="br#premiere-3" tvg-name="Premiere 03 FHD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere FC",Premiere 03 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/631358
-#EXTINF:-1 tvg-id="br#premiere-3" tvg-name="Premiere 03 HD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere FC",Premiere 03 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5365049
-#EXTINF:-1 tvg-id="br#premiere-3" tvg-name="Premiere 03 SD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere FC",Premiere 03 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5365051
-#EXTINF:-1 tvg-id="br#premiere-4" tvg-name="Premiere 04 FHD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere FC",Premiere 04 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/631362
-#EXTINF:-1 tvg-id="br#premiere-4" tvg-name="Premiere 04 HD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere FC",Premiere 04 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5365055
-#EXTINF:-1 tvg-id="br#premiere-4" tvg-name="Premiere 04 SD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere FC",Premiere 04 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5365058
-#EXTINF:-1 tvg-id="br#premiere-5-brazil" tvg-name="Premiere 05 FHD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere FC",Premiere 05 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/631365
-#EXTINF:-1 tvg-id="br#premiere-5-brazil" tvg-name="Premiere 05 HD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere FC",Premiere 05 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5365066
-#EXTINF:-1 tvg-id="br#premiere-5-brazil" tvg-name="Premiere 05 SD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere FC",Premiere 05 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5365068
-#EXTINF:-1 tvg-id="br#premiere-6-hd" tvg-name="Premiere 06 FHD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere FC",Premiere 06 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/631368
-#EXTINF:-1 tvg-id="br#premiere-6-hd" tvg-name="Premiere 06 HD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere FC",Premiere 06 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5365073
-#EXTINF:-1 tvg-id="br#premiere-6-hd" tvg-name="Premiere 06 SD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere FC",Premiere 06 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5365075
-#EXTINF:-1 tvg-id="br#premiere-7" tvg-name="Premiere 07 FHD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere FC",Premiere 07 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/631371
-#EXTINF:-1 tvg-id="br#premiere-7" tvg-name="Premiere 07 HD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere FC",Premiere 07 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5365079
-#EXTINF:-1 tvg-id="br#premiere-7" tvg-name="Premiere 07 SD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere FC",Premiere 07 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5365082
-#EXTINF:-1 tvg-id="br#premiere-8" tvg-name="Premiere 08 FHD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere FC",Premiere 08 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/4476103
-#EXTINF:-1 tvg-id="br#premiere-8" tvg-name="Premiere 08 HD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere FC",Premiere 08 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5365088
-#EXTINF:-1 tvg-id="br#premiere-8" tvg-name="Premiere 08 SD" tvg-logo="https://img.nnl.pw/draco/premiere.png" group-title="Premiere FC",Premiere 08 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5365091
+#EXTINF:-1 tvg-name="Prime Video 1 [FHD]" tvg-logo="http://lgfp.one/DPF5" group-title="Canais | Amazon Prime Video",Prime Video 1 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/208972.ts
+#EXTINF:-1 tvg-name="Prime Video 2 [FHD]" tvg-logo="http://lgfp.one/DPF6" group-title="Canais | Amazon Prime Video",Prime Video 2 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/208973.ts
+#EXTINF:-1 tvg-name="Prime Video 3 [FHD]" tvg-logo="http://lgfp.one/DPF4" group-title="Canais | Amazon Prime Video",Prime Video 3 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/208971.ts
+#EXTINF:-1 tvg-name="Prime Video 4 [FHD]" tvg-logo="http://lgfp.one/DPF1" group-title="Canais | Amazon Prime Video",Prime Video 4 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/208968.ts
+#EXTINF:-1 tvg-name="Prime Video 5 [FHD]" tvg-logo="http://lgfp.one/DPF7" group-title="Canais | Amazon Prime Video",Prime Video 5 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/210171.ts
 
 
 
 
 
-#EXTINF:-1 tvg-id="SporTV.br" tvg-name="Sportv 01 FHD" tvg-logo="https://img.nnl.pw/draco/sportv.png" group-title="Sportv",Sportv 01 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/631418
-#EXTINF:-1 tvg-id="SporTV.br" tvg-name="Sportv 01 HD" tvg-logo="https://img.nnl.pw/draco/sportv.png" group-title="Sportv",Sportv 01 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5365103
-#EXTINF:-1 tvg-id="SporTV.br" tvg-name="Sportv 01 SD" tvg-logo="https://img.nnl.pw/draco/sportv.png" group-title="Sportv",Sportv 01 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5365106
-#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="Sportv 02 FHD" tvg-logo="https://img.nnl.pw/draco/sportv2.png" group-title="Sportv",Sportv 02 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/631421
-#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="Sportv 02 HD" tvg-logo="https://img.nnl.pw/draco/sportv2.png" group-title="Sportv",Sportv 02 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5428385
-#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="Sportv 02 SD" tvg-logo="https://img.nnl.pw/draco/sportv2.png" group-title="Sportv",Sportv 02 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5365113
-#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="Sportv 03 FHD" tvg-logo="https://img.nnl.pw/draco/sportv3.png" group-title="Sportv",Sportv 03 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5427855
-#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="Sportv 03 HD" tvg-logo="https://img.nnl.pw/draco/sportv3.png" group-title="Sportv",Sportv 03 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5365119
-#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="Sportv 03 SD" tvg-logo="https://img.nnl.pw/draco/sportv3.png" group-title="Sportv",Sportv 03 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/5365122
+#EXTINF:-1 tvg-id="São.Paulo/SP..SporTV.2.br" tvg-name="SPORTV 2 [FHD]" tvg-logo="http://lgfp.one/AYH" group-title="Canais | SporTV",SPORTV 2 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/553.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..SporTV.2.br" tvg-name="SPORTV 2 [FHD][H265]" tvg-logo="http://lgfp.one/WHV" group-title="Canais | SporTV",SPORTV 2 [FHD][H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/30291.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..SporTV.2.br" tvg-name="SPORTV 2 [FHD][HDR]" tvg-logo="http://lgfp.one/JYV3" group-title="Canais | SporTV",SPORTV 2 [FHD][HDR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/130242.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..SporTV.2.br" tvg-name="SPORTV 2 [HD]" tvg-logo="http://lgfp.one/AYK" group-title="Canais | SporTV",SPORTV 2 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/557.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..SporTV.2.br" tvg-name="SPORTV 2 [SD]" tvg-logo="http://lgfp.one/AYN" group-title="Canais | SporTV",SPORTV 2 [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/560.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..SporTV.3..br" tvg-name="SPORTV 3 [FHD]" tvg-logo="http://lgfp.one/WGW" group-title="Canais | SporTV",SPORTV 3 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/554.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..SporTV.3..br" tvg-name="SPORTV 3 [FHD][H265]" tvg-logo="http://lgfp.one/WHW" group-title="Canais | SporTV",SPORTV 3 [FHD][H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/30292.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..SporTV.3..br" tvg-name="SPORTV 3 [FHD][HDR]" tvg-logo="http://lgfp.one/JYV4" group-title="Canais | SporTV",SPORTV 3 [FHD][HDR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/130243.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..SporTV.3..br" tvg-name="SPORTV 3 [HD]" tvg-logo="http://lgfp.one/AYL" group-title="Canais | SporTV",SPORTV 3 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/558.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..SporTV.3..br" tvg-name="SPORTV 3 [SD]" tvg-logo="http://lgfp.one/AYO" group-title="Canais | SporTV",SPORTV 3 [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/561.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..SporTV.br" tvg-name="SPORTV [FHD]" tvg-logo="http://lgfp.one/AYI" group-title="Canais | SporTV",SPORTV [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/555.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..SporTV.br" tvg-name="SPORTV [FHD][H265]" tvg-logo="http://lgfp.one/WHX" group-title="Canais | SporTV",SPORTV [FHD][H265]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/30293.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..SporTV.br" tvg-name="SPORTV [FHD][HDR]" tvg-logo="http://lgfp.one/JYV2" group-title="Canais | SporTV",SPORTV [FHD][HDR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/130241.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..SporTV.br" tvg-name="SPORTV [HD]" tvg-logo="http://lgfp.one/AYJ" group-title="Canais | SporTV",SPORTV [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/556.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..SporTV.br" tvg-name="SPORTV [SD]" tvg-logo="http://lgfp.one/AYM" group-title="Canais | SporTV",SPORTV [SD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/559.ts
+#EXTINF:-1 tvg-name="SporTV 4 [HD]" tvg-logo="http://lgfp.one/AYI" group-title="Canais | SporTV",SporTV 4 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/364300.ts
+#EXTINF:-1 tvg-name="SporTV 4 [FHD]" tvg-logo="http://lgfp.one/AYI" group-title="Canais | SporTV",SporTV 4 [FHD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/364301.ts
+#EXTINF:-1 tvg-name="SporTV 4 [FHD] [HDR]" tvg-logo="http://lgfp.one/AYI" group-title="Canais | SporTV",SporTV 4 [FHD] [HDR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/364302.ts
+#EXTINF:-1 tvg-name="SporTV [UHD] [60FPS]" tvg-logo="http://lgfp.one/AYJ" group-title="Canais | SporTV",SporTV [UHD] [60FPS]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/364546.ts
 
 
 
 
 
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Tnt Sports 01 HD" tvg-logo="https://www.pitch.co.uk/wp-content/uploads/2023/12/TNT-Sports-Logo.png" group-title="Hbo Max-Tnt Sports",Tnt Sports 01 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/3666506
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Tnt Sports 02 HD" tvg-logo="https://www.pitch.co.uk/wp-content/uploads/2023/12/TNT-Sports-Logo.png" group-title="Hbo Max-Tnt Sports",Tnt Sports 02 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/3666507
-#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Tnt Sports 03 HD" tvg-logo="https://www.pitch.co.uk/wp-content/uploads/2023/12/TNT-Sports-Logo.png" group-title="Hbo Max-Tnt Sports",Tnt Sports 03 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://api.rapidez.sbs:80/igor07491/994407491/3666508
+#EXTINF:-1 tvg-name="SPORTYNET 1 [HD]" tvg-logo="http://lgfp.one/OOK2" group-title="Canais | SportyNET",SPORTYNET 1 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/283780.ts
+#EXTINF:-1 tvg-name="SPORTYNET 2 [HD]" tvg-logo="http://lgfp.one/OOJ2" group-title="Canais | SportyNET",SPORTYNET 2 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/234049.ts
+#EXTINF:-1 tvg-name="SPORTYNET 3 [HD]" tvg-logo="http://lgfp.one/OOJ1" group-title="Canais | SportyNET",SPORTYNET 3 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/234038.ts
+#EXTINF:-1 tvg-name="SPORTYNET 4 [HD]" tvg-logo="http://lgfp.one/OOJ0" group-title="Canais | SportyNET",SPORTYNET 4 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/234035.ts
+#EXTINF:-1 tvg-name="SPORTYNET 5 [HD]" tvg-logo="http://lgfp.one/OOJ0" group-title="Canais | SportyNET",SPORTYNET 5 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/356680.ts
+#EXTINF:-1 tvg-name="SPORTYNET 6 [HD]" tvg-logo="http://lgfp.one/OOK2" group-title="Canais | SportyNET",SPORTYNET 6 [HD]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn200.vip:80/0558542494/00627/375049.ts
 
 
 
