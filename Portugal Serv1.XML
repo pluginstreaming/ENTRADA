@@ -3,242 +3,218 @@
 
 
 
-#EXTINF:-1 tvg-name="Canal 11 HD" tvg-logo="http://top-logos.xyz/pt/canal11.png" group-title="Portugal Esportes",Canal 11 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422125
-#EXTINF:-1 tvg-name="Canal 11 FHD" tvg-logo="http://top-logos.xyz/pt/canal11.png" group-title="Portugal Esportes",Canal 11 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422126
-#EXTINF:-1 tvg-name="Porto Canal HD" tvg-logo="http://top-logos.xyz/pt/portocanal.png" group-title="Portugal Esportes",Porto Canal HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422128
-#EXTINF:-1 tvg-name="Sporting TV HD" tvg-logo="http://top-logos.xyz/pt/sportingtv.png" group-title="Portugal Esportes",Sporting TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422130
-#EXTINF:-1 tvg-name="Bola TV FHD" tvg-logo="http://top-logos.xyz/pt/abolatv.png" group-title="Portugal Esportes",Bola TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422131
-#EXTINF:-1 tvg-name="Dazn 05 HD" tvg-logo="http://top-logos.xyz/pt/eleven1.png" group-title="Portugal Esportes",Dazn 05 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422153
-#EXTINF:-1 tvg-name="Dazn 04 HD" tvg-logo="http://top-logos.xyz/pt/eleven1.png" group-title="Portugal Esportes",Dazn 04 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422154
-#EXTINF:-1 tvg-name="Dazn 03 HD" tvg-logo="http://top-logos.xyz/pt/eleven5.png" group-title="Portugal Esportes",Dazn 03 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422155
-#EXTINF:-1 tvg-name="Dazn 02 HD" tvg-logo="http://top-logos.xyz/pt/eleven5.png" group-title="Portugal Esportes",Dazn 02 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422156
-#EXTINF:-1 tvg-name="Dazn 01 HD" tvg-logo="http://top-logos.xyz/pt/eleven5.png" group-title="Portugal Esportes",Dazn 01 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422157
-#EXTINF:-1 tvg-name="Btv Multicâmeras" tvg-logo="https://i.imgur.com/Cn7dt9w.png" group-title="Portugal Esportes",Btv Multicâmeras
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422161
-#EXTINF:-1 tvg-name="Btv HD" tvg-logo="http://top-logos.xyz/pt/benficatv.png" group-title="Portugal Esportes",Btv HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422162
-#EXTINF:-1 tvg-name="Btv  FHD" tvg-logo="https://i.imgur.com/LKgrMqx.png" group-title="Portugal Esportes",Btv  FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422163
-#EXTINF:-1 tvg-name="Wwe Network HD" tvg-logo="http://top-logos.xyz/pt/wwe.png" group-title="Portugal Esportes",Wwe Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422166
-#EXTINF:-1 tvg-name="Red Bull TV HD" tvg-logo="http://top-logos.xyz/pt/redbulltv.png" group-title="Portugal Esportes",Red Bull TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422167
-#EXTINF:-1 tvg-name="Pfc HD" tvg-logo="http://top-logos.xyz/pt/pfc.png" group-title="Portugal Esportes",Pfc HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422168
-#EXTINF:-1 tvg-name="Motorvision HD" tvg-logo="http://top-logos.xyz/pt/motorvision.png" group-title="Portugal Esportes",Motorvision HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422169
-#EXTINF:-1 tvg-name="Rally Mania HD" tvg-logo="https://i.ibb.co/Q8KMFT2/Atj-Uwhtf-400x400.jpg" group-title="Portugal Esportes",Rally Mania HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422171
-#EXTINF:-1 tvg-name="Eurosport 01 HD" tvg-logo="http://top-logos.xyz/pt/eurosport1.png" group-title="Portugal Esportes",Eurosport 01 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422172
-#EXTINF:-1 tvg-name="Eurosport 01 FHD" tvg-logo="http://top-logos.xyz/pt/eurosport1.png" group-title="Portugal Esportes",Eurosport 01 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422173
-#EXTINF:-1 tvg-name="Eurosport 02 HD" tvg-logo="http://top-logos.xyz/pt/eurosport2.png" group-title="Portugal Esportes",Eurosport 02 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422174
-#EXTINF:-1 tvg-name="Kombat Sport HD" tvg-logo="https://i.imgur.com/Vey9HWZ.png" group-title="Portugal Esportes",Kombat Sport HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422175
-#EXTINF:-1 tvg-name="Fight Network HD" tvg-logo="http://top-logos.xyz/pt/fightnetwork.png" group-title="Portugal Esportes",Fight Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422176
-#EXTINF:-1 tvg-name="Real Madrid TV HD" tvg-logo="http://top-logos.xyz/pt/realmadridtv.png" group-title="Portugal Esportes",Real Madrid TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422178
 
-
-
-
-
-#EXTINF:-1 tvg-name="Sport TV + HD" tvg-logo="http://top-logos.xyz/pt/sportv.png" group-title="Portugal Sportv",Sport TV + HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422132
-#EXTINF:-1 tvg-name="Sport TV + FHD" tvg-logo="http://top-logos.xyz/pt/sportv.png" group-title="Portugal Sportv",Sport TV + FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422133
-#EXTINF:-1 tvg-name="Sport TV 01 HD" tvg-logo="http://top-logos.xyz/pt/sportv1.png" group-title="Portugal Sportv",Sport TV 01 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422137
-#EXTINF:-1 tvg-name="Sport TV 01 FHD" tvg-logo="http://top-logos.xyz/pt/sportv1.png" group-title="Portugal Sportv",Sport TV 01 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422138
-#EXTINF:-1 tvg-name="Sport TV 02 HD" tvg-logo="http://top-logos.xyz/pt/sportv2.png" group-title="Portugal Sportv",Sport TV 02 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422140
-#EXTINF:-1 tvg-name="Sport TV 02 FHD" tvg-logo="http://top-logos.xyz/pt/sportv2.png" group-title="Portugal Sportv",Sport TV 02 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422141
-#EXTINF:-1 tvg-name="Sport TV 03 HD" tvg-logo="http://top-logos.xyz/pt/sportv3.png" group-title="Portugal Sportv",Sport TV 03 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422143
-#EXTINF:-1 tvg-name="Sport TV 03 FHD" tvg-logo="http://top-logos.xyz/pt/sportv3.png" group-title="Portugal Sportv",Sport TV 03 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422144
-#EXTINF:-1 tvg-name="Sport TV 04 HD" tvg-logo="http://top-logos.xyz/pt/sportv4.png" group-title="Portugal Sportv",Sport TV 04 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422145
-#EXTINF:-1 tvg-name="Sport TV 04 FHD" tvg-logo="http://top-logos.xyz/pt/sportv4.png" group-title="Portugal Sportv",Sport TV 04 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422146
-#EXTINF:-1 tvg-name="Sport TV 05 HD" tvg-logo="http://top-logos.xyz/pt/sportv5.png" group-title="Portugal Sportv",Sport TV 05 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422148
-#EXTINF:-1 tvg-name="Sport TV 05 FHD" tvg-logo="http://top-logos.xyz/pt/sportv5.png" group-title="Portugal Sportv",Sport TV 05 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422149
-#EXTINF:-1 tvg-name="Sport TV 06 HD" tvg-logo="http://top-logos.xyz/pt/sportv6.png" group-title="Portugal Sportv",Sport TV 06 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422150
-
-
-
-
-
-#EXTINF:-1 tvg-name="Rtp 1 HD" tvg-logo="http://top-logos.xyz/pt/1rtp.png" group-title="Portugal Abertos",Rtp 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422281
-#EXTINF:-1 tvg-name="Rtp 1 FHD" tvg-logo="http://top-logos.xyz/pt/1rtp.png" group-title="Portugal Abertos",Rtp 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422283
-#EXTINF:-1 tvg-name="Rtp 2 FHD" tvg-logo="http://top-logos.xyz/pt/2rtp.png" group-title="Portugal Abertos",Rtp 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422284
-#EXTINF:-1 tvg-name="Rtp 2 HD" tvg-logo="http://top-logos.xyz/pt/2rtp.png" group-title="Portugal Abertos",Rtp 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422285
-#EXTINF:-1 tvg-name="Sic HD" tvg-logo="http://top-logos.xyz/pt/4sic.png" group-title="Portugal Abertos",Sic HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422287
-#EXTINF:-1 tvg-name="Sic FHD" tvg-logo="http://top-logos.xyz/pt/4sic.png" group-title="Portugal Abertos",Sic FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422288
-#EXTINF:-1 tvg-name="Tvi HD" tvg-logo="http://top-logos.xyz/pt/5tvi.png" group-title="Portugal Abertos",Tvi HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422290
-#EXTINF:-1 tvg-name="Tvi FHD" tvg-logo="http://top-logos.xyz/pt/5tvi.png" group-title="Portugal Abertos",Tvi FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422291
-#EXTINF:-1 tvg-name="Rtp Africa HD" tvg-logo="http://top-logos.xyz/pt/rtpafrica.png" group-title="Portugal Abertos",Rtp Africa HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422303
-#EXTINF:-1 tvg-name="Rtp Acores HD" tvg-logo="http://top-logos.xyz/pt/rtpacores.png" group-title="Portugal Abertos",Rtp Acores HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422304
-#EXTINF:-1 tvg-name="Rtp Memória HD" tvg-logo="http://top-logos.xyz/pt/rtpmemoria.png" group-title="Portugal Abertos",Rtp Memória HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422305
-#EXTINF:-1 tvg-name="Rtp Madeira HD" tvg-logo="http://top-logos.xyz/pt/rtpmadeira.png" group-title="Portugal Abertos",Rtp Madeira HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422306
-#EXTINF:-1 tvg-name="Sic Novelas HD" tvg-logo="https://i.ibb.co/WkXDJ1h/sicnovelas.png" group-title="Portugal Abertos",Sic Novelas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422310
-#EXTINF:-1 tvg-name="Sic Replay HD" tvg-logo="https://i.imgur.com/RmZ1sDG.jpeg" group-title="Portugal Abertos",Sic Replay HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422311
-#EXTINF:-1 tvg-name="Sic Mulher HD" tvg-logo="http://top-logos.xyz/pt/sicmulher.png" group-title="Portugal Abertos",Sic Mulher HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422313
-#EXTINF:-1 tvg-name="Sic Mulher FHD" tvg-logo="http://top-logos.xyz/pt/sicmulher.png" group-title="Portugal Abertos",Sic Mulher FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422314
-#EXTINF:-1 tvg-name="Sic Caras HD" tvg-logo="http://top-logos.xyz/pt/siccaras.png" group-title="Portugal Abertos",Sic Caras HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422315
-#EXTINF:-1 tvg-name="Sic Rdical HD" tvg-logo="http://top-logos.xyz/pt/sicradical.png" group-title="Portugal Abertos",Sic Rdical HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422316
-#EXTINF:-1 tvg-name="Sic Radical FHD" tvg-logo="http://top-logos.xyz/pt/sicradical.png" group-title="Portugal Abertos",Sic Radical FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422317
-#EXTINF:-1 tvg-name="Tvi Ficção HD" tvg-logo="http://top-logos.xyz/pt/7tvificcao.png" group-title="Portugal Abertos",Tvi Ficção HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422318
-#EXTINF:-1 tvg-name="Canal  Q HD" tvg-logo="http://top-logos.xyz/pt/canalq.png" group-title="Portugal Abertos",Canal  Q HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422325
-#EXTINF:-1 tvg-name="Globo Portugall HD" tvg-logo="http://top-logos.xyz/pt/tvglobo.png" group-title="Portugal Abertos",Globo Portugall HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422329
-#EXTINF:-1 tvg-name="Sic K HD" tvg-logo="http://top-logos.xyz/pt/sick.png" group-title="Portugal Abertos",Sic K HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422403
-#EXTINF:-1 tvg-name="24 Kitchen HD" tvg-logo="http://top-logos.xyz/pt/24kitchen.png" group-title="Portugal Abertos",24 Kitchen HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422415
-
-
-
-
-
-#EXTINF:-1 tvg-name="Sic Noticias FHD" tvg-logo="http://top-logos.xyz/pt/6sicnoticias.png" group-title="Portugal Notícias",Sic Noticias FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422293
-#EXTINF:-1 tvg-name="Sic Noticias HD" tvg-logo="http://top-logos.xyz/pt/6sicnoticias.png" group-title="Portugal Notícias",Sic Noticias HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422294
-#EXTINF:-1 tvg-name="Cnn Portugal HD" tvg-logo="http://top-logos.xyz/pt/cnnportugal.png" group-title="Portugal Notícias",Cnn Portugal HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422296
-#EXTINF:-1 tvg-name="Cnn Portugall FHD" tvg-logo="http://top-logos.xyz/pt/cnnportugal.png" group-title="Portugal Notícias",Cnn Portugall FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422297
-#EXTINF:-1 tvg-name="Cmtv HD" tvg-logo="http://top-logos.xyz/pt/cmtv.png" group-title="Portugal Notícias",Cmtv HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422298
-#EXTINF:-1 tvg-name="Cmtv FHD" tvg-logo="http://top-logos.xyz/pt/cmtv.png" group-title="Portugal Notícias",Cmtv FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422299
-#EXTINF:-1 tvg-name="News Now HD" tvg-logo="https://i.imgur.com/i8wWOtn.png" group-title="Portugal Notícias",News Now HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422300
-#EXTINF:-1 tvg-name="Rtp Noticias HD" tvg-logo="https://i.imgur.com/ZtCm9wM.jpeg" group-title="Portugal Notícias",Rtp Noticias HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422302
-#EXTINF:-1 tvg-name="Euro News HD" tvg-logo="http://top-logos.xyz/pt/euronews.png" group-title="Portugal Notícias",Euro News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422434
-#EXTINF:-1 tvg-name="Sky News HD" tvg-logo="http://top-logos.xyz/pt/skynews.png" group-title="Portugal Notícias",Sky News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422440
-#EXTINF:-1 tvg-name="Cnn HD" tvg-logo="http://top-logos.xyz/pt/cnn.png" group-title="Portugal Notícias",Cnn HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422441
-#EXTINF:-1 tvg-name="Cnbc Europe HD" tvg-logo="http://top-logos.xyz/pt/cnbc.png" group-title="Portugal Notícias",Cnbc Europe HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422450
-#EXTINF:-1 tvg-id="24HAnimes" tvg-name="Record News HD" tvg-logo="http://top-logos.xyz/pt/recordnews.png" group-title="Portugal Notícias",Record News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422451
-
-
-
-
-
-#EXTINF:-1 tvg-name="V+ Tvi HD" tvg-logo="https://i.imgur.com/rTwu0fQ.png" group-title="Portugal Variedades",V+ Tvi HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422301
-#EXTINF:-1 tvg-name="Zap Viva HD" tvg-logo="http://top-logos.xyz/pt/zapvida.png" group-title="Portugal Variedades",Zap Viva HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422331
-#EXTINF:-1 tvg-name="Amc Break HD" tvg-logo="http://top-logos.xyz/pt/amcbreak.png" group-title="Portugal Variedades",Amc Break HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422333
-#EXTINF:-1 tvg-name="Id Iinvetigação Discovery HD" tvg-logo="http://top-logos.xyz/pt/id.png" group-title="Portugal Variedades",Id Iinvetigação Discovery HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422334
-#EXTINF:-1 tvg-name="Amc Crime HD" tvg-logo="http://top-logos.xyz/pt/amccrime.png" group-title="Portugal Variedades",Amc Crime HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422335
-#EXTINF:-1 tvg-name="Caca e Pesca HD" tvg-logo="http://top-logos.xyz/pt/cacaepesca.png" group-title="Portugal Variedades",Caca e Pesca HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422337
-#EXTINF:-1 tvg-name="Caçavision HD" tvg-logo="http://top-logos.xyz/pt/cacavision.png" group-title="Portugal Variedades",Caçavision HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422338
-#EXTINF:-1 tvg-name="Dog TV HD" tvg-logo="http://top-logos.xyz/pt/dogtv.png" group-title="Portugal Variedades",Dog TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422339
-#EXTINF:-1 tvg-name="Hollyood HD" tvg-logo="http://top-logos.xyz/pt/canalhollywood.png" group-title="Portugal Variedades",Hollyood HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422389
-#EXTINF:-1 tvg-name="Baby TV HD" tvg-logo="http://top-logos.xyz/pt/babytv.png" group-title="Portugal Variedades",Baby TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422399
-#EXTINF:-1 tvg-name="Nat Geo Wild HD" tvg-logo="http://top-logos.xyz/pt/nargeowild.png" group-title="Portugal Variedades",Nat Geo Wild HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422405
-#EXTINF:-1 tvg-name="Nat Geo HD" tvg-logo="http://top-logos.xyz/pt/nationalgeografic.png" group-title="Portugal Variedades",Nat Geo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422406
-#EXTINF:-1 tvg-name="Discovery Channell HD" tvg-logo="http://top-logos.xyz/pt/discovery.png" group-title="Portugal Variedades",Discovery Channell HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422408
-#EXTINF:-1 tvg-name="History HD" tvg-logo="http://top-logos.xyz/pt/historia.png" group-title="Portugal Variedades",History HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422409
-#EXTINF:-1 tvg-name="Odisseia HD" tvg-logo="http://top-logos.xyz/pt/odisseia.png" group-title="Portugal Variedades",Odisseia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422411
-#EXTINF:-1 tvg-name="Tlc HD" tvg-logo="http://top-logos.xyz/pt/tlc.png" group-title="Portugal Variedades",Tlc HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422413
-#EXTINF:-1 tvg-name="Travel Channell HD" tvg-logo="http://top-logos.xyz/pt/travel.png" group-title="Portugal Variedades",Travel Channell HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422414
-#EXTINF:-1 tvg-name="Casa e Cozinha HD" tvg-logo="http://top-logos.xyz/pt/casaecozinha.png" group-title="Portugal Variedades",Casa e Cozinha HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422416
-#EXTINF:-1 tvg-name="Food  Network HD" tvg-logo="http://top-logos.xyz/pt/food.png" group-title="Portugal Variedades",Food  Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422421
-#EXTINF:-1 tvg-name="Mtv Portugal HD" tvg-logo="http://top-logos.xyz/pt/mtvportugal.png" group-title="Portugal Variedades",Mtv Portugal HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422423
-#EXTINF:-1 tvg-name="Mtv Live HD" tvg-logo="http://top-logos.xyz/pt/mtvlive.png" group-title="Portugal Variedades",Mtv Live HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422424
-#EXTINF:-1 tvg-name="Mcm Pop HD" tvg-logo="http://top-logos.xyz/pt/mcmpop.png" group-title="Portugal Variedades",Mcm Pop HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422427
-#EXTINF:-1 tvg-name="Mcm Top HD" tvg-logo="http://top-logos.xyz/pt/mcmtop.png" group-title="Portugal Variedades",Mcm Top HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422428
-#EXTINF:-1 tvg-name="Afro Music HD" tvg-logo="http://top-logos.xyz/pt/afromiosic.png" group-title="Portugal Variedades",Afro Music HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422429
-#EXTINF:-1 tvg-name="Trace  Toca HD" tvg-logo="http://top-logos.xyz/pt/tracetoca.png" group-title="Portugal Variedades",Trace  Toca HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422430
-#EXTINF:-1 tvg-name="Trace Urban HD" tvg-logo="http://top-logos.xyz/pt/traceurban.png" group-title="Portugal Variedades",Trace Urban HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422431
-#EXTINF:-1 tvg-name="Alma Lusa HD" tvg-logo="http://top-logos.xyz/pt/almalusa.png" group-title="Portugal Variedades",Alma Lusa HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422448
-
-
-
-
-
-#EXTINF:-1 tvg-name="Tvi Reality HD" tvg-logo="http://top-logos.xyz/pt/tvireality.png" group-title="Portugal Reality",Tvi Reality HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422319
-#EXTINF:-1 tvg-name="Tvi Reality Mosaico HD" tvg-logo="http://top-logos.xyz/pt/tvireality.png" group-title="Portugal Reality",Tvi Reality Mosaico HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422320
-#EXTINF:-1 tvg-name="Tvi Reality Camera 01" tvg-logo="http://top-logos.xyz/pt/tvireality.png" group-title="Portugal Reality",Tvi Reality Camera 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422321
-#EXTINF:-1 tvg-name="Tvi Reality Camera 02" tvg-logo="http://top-logos.xyz/pt/tvireality.png" group-title="Portugal Reality",Tvi Reality Camera 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422322
-#EXTINF:-1 tvg-name="Tvi Reality Camera 03" tvg-logo="http://top-logos.xyz/pt/tvireality.png" group-title="Portugal Reality",Tvi Reality Camera 03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422323
-#EXTINF:-1 tvg-name="Tvi Reality Camera 04" tvg-logo="http://top-logos.xyz/pt/tvireality.png" group-title="Portugal Reality",Tvi Reality Camera 04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://corelinkdns.sbs:80/4898461598/940566657/6422324
+#EXTINF:-1 tvg-id="" tvg-name="Canal 11 HD" tvg-logo="http://top-logos.xyz/pt/canal11.png" group-title="Portugal Esportes", Canal 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422125.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 11 FHD" tvg-logo="http://top-logos.xyz/pt/canal11.png" group-title="Portugal Esportes", Canal 11 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Porto Canal HD" tvg-logo="http://top-logos.xyz/pt/portocanal.png" group-title="Portugal Esportes", Porto Canal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sporting TV HD" tvg-logo="http://top-logos.xyz/pt/sportingtv.png" group-title="Portugal Esportes", Sporting TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bola TV FHD" tvg-logo="http://top-logos.xyz/pt/abolatv.png" group-title="Portugal Esportes", Bola TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV + HD" tvg-logo="http://top-logos.xyz/pt/sportv.png" group-title="Portugal Sportv", Sport TV + HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422132.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV + FHD" tvg-logo="http://top-logos.xyz/pt/sportv.png" group-title="Portugal Sportv", Sport TV + FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 01 HD" tvg-logo="http://top-logos.xyz/pt/sportv1.png" group-title="Portugal Sportv", Sport TV 01 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422137.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 01 FHD" tvg-logo="http://top-logos.xyz/pt/sportv1.png" group-title="Portugal Sportv", Sport TV 01 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422138.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 02 HD" tvg-logo="http://top-logos.xyz/pt/sportv2.png" group-title="Portugal Sportv", Sport TV 02 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422140.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 02 FHD" tvg-logo="http://top-logos.xyz/pt/sportv2.png" group-title="Portugal Sportv", Sport TV 02 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422141.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 03 HD" tvg-logo="http://top-logos.xyz/pt/sportv3.png" group-title="Portugal Sportv", Sport TV 03 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422143.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 03 FHD" tvg-logo="http://top-logos.xyz/pt/sportv3.png" group-title="Portugal Sportv", Sport TV 03 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422144.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 04 HD" tvg-logo="http://top-logos.xyz/pt/sportv4.png" group-title="Portugal Sportv", Sport TV 04 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422145.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 04 FHD" tvg-logo="http://top-logos.xyz/pt/sportv4.png" group-title="Portugal Sportv", Sport TV 04 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422146.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 05 HD" tvg-logo="http://top-logos.xyz/pt/sportv5.png" group-title="Portugal Sportv", Sport TV 05 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422148.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 05 FHD" tvg-logo="http://top-logos.xyz/pt/sportv5.png" group-title="Portugal Sportv", Sport TV 05 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422149.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 06 HD" tvg-logo="http://top-logos.xyz/pt/sportv6.png" group-title="Portugal Sportv", Sport TV 06 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422150.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 05 HD" tvg-logo="http://top-logos.xyz/pt/eleven1.png" group-title="Portugal Esportes", Dazn 05 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422153.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 04 HD" tvg-logo="http://top-logos.xyz/pt/eleven1.png" group-title="Portugal Esportes", Dazn 04 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422154.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 03 HD" tvg-logo="http://top-logos.xyz/pt/eleven5.png" group-title="Portugal Esportes", Dazn 03 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 02 HD" tvg-logo="http://top-logos.xyz/pt/eleven5.png" group-title="Portugal Esportes", Dazn 02 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 01 HD" tvg-logo="http://top-logos.xyz/pt/eleven5.png" group-title="Portugal Esportes", Dazn 01 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Btv Multicâmeras" tvg-logo="https://i.imgur.com/Cn7dt9w.png" group-title="Portugal Esportes", Btv Multicâmeras
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Btv HD" tvg-logo="http://top-logos.xyz/pt/benficatv.png" group-title="Portugal Esportes", Btv HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422162.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Btv  FHD" tvg-logo="https://i.imgur.com/LKgrMqx.png" group-title="Portugal Esportes", Btv  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422163.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Wwe Network HD" tvg-logo="http://top-logos.xyz/pt/wwe.png" group-title="Portugal Esportes", Wwe Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422166.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV HD" tvg-logo="http://top-logos.xyz/pt/redbulltv.png" group-title="Portugal Esportes", Red Bull TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pfc HD" tvg-logo="http://top-logos.xyz/pt/pfc.png" group-title="Portugal Esportes", Pfc HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Motorvision HD" tvg-logo="http://top-logos.xyz/pt/motorvision.png" group-title="Portugal Esportes", Motorvision HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422169.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rally Mania HD" tvg-logo="https://i.ibb.co/Q8KMFT2/Atj-Uwhtf-400x400.jpg" group-title="Portugal Esportes", Rally Mania HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422171.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 01 HD" tvg-logo="http://top-logos.xyz/pt/eurosport1.png" group-title="Portugal Esportes", Eurosport 01 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422172.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 01 FHD" tvg-logo="http://top-logos.xyz/pt/eurosport1.png" group-title="Portugal Esportes", Eurosport 01 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422173.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 02 HD" tvg-logo="http://top-logos.xyz/pt/eurosport2.png" group-title="Portugal Esportes", Eurosport 02 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422174.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kombat Sport HD" tvg-logo="https://i.imgur.com/Vey9HWZ.png" group-title="Portugal Esportes", Kombat Sport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422175.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fight Network HD" tvg-logo="http://top-logos.xyz/pt/fightnetwork.png" group-title="Portugal Esportes", Fight Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422176.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV HD" tvg-logo="http://top-logos.xyz/pt/realmadridtv.png" group-title="Portugal Esportes", Real Madrid TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422178.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rtp 1 HD" tvg-logo="http://top-logos.xyz/pt/1rtp.png" group-title="Portugal Abertos", Rtp 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422281.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rtp 1 FHD" tvg-logo="http://top-logos.xyz/pt/1rtp.png" group-title="Portugal Abertos", Rtp 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422283.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rtp 2 FHD" tvg-logo="http://top-logos.xyz/pt/2rtp.png" group-title="Portugal Abertos", Rtp 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422284.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rtp 2 HD" tvg-logo="http://top-logos.xyz/pt/2rtp.png" group-title="Portugal Abertos", Rtp 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422285.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sic HD" tvg-logo="http://top-logos.xyz/pt/4sic.png" group-title="Portugal Abertos", Sic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422287.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sic FHD" tvg-logo="http://top-logos.xyz/pt/4sic.png" group-title="Portugal Abertos", Sic FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422288.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tvi HD" tvg-logo="http://top-logos.xyz/pt/5tvi.png" group-title="Portugal Abertos", Tvi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422290.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tvi FHD" tvg-logo="http://top-logos.xyz/pt/5tvi.png" group-title="Portugal Abertos", Tvi FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422291.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sic Noticias FHD" tvg-logo="http://top-logos.xyz/pt/6sicnoticias.png" group-title="Portugal Notícias", Sic Noticias FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422293.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sic Noticias HD" tvg-logo="http://top-logos.xyz/pt/6sicnoticias.png" group-title="Portugal Notícias", Sic Noticias HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422294.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cnn Portugal HD" tvg-logo="http://top-logos.xyz/pt/cnnportugal.png" group-title="Portugal Notícias", Cnn Portugal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422296.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cnn Portugall FHD" tvg-logo="http://top-logos.xyz/pt/cnnportugal.png" group-title="Portugal Notícias", Cnn Portugall FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422297.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cmtv HD" tvg-logo="http://top-logos.xyz/pt/cmtv.png" group-title="Portugal Notícias", Cmtv HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422298.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cmtv FHD" tvg-logo="http://top-logos.xyz/pt/cmtv.png" group-title="Portugal Notícias", Cmtv FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422299.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News Now HD" tvg-logo="https://i.imgur.com/i8wWOtn.png" group-title="Portugal Notícias", News Now HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="V+ Tvi HD" tvg-logo="https://i.imgur.com/rTwu0fQ.png" group-title="Portugal Variedades", V+ Tvi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422301.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rtp Noticias HD" tvg-logo="https://i.imgur.com/ZtCm9wM.jpeg" group-title="Portugal Notícias", Rtp Noticias HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422302.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rtp Africa HD" tvg-logo="http://top-logos.xyz/pt/rtpafrica.png" group-title="Portugal Abertos", Rtp Africa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422303.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rtp Acores HD" tvg-logo="http://top-logos.xyz/pt/rtpacores.png" group-title="Portugal Abertos", Rtp Acores HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422304.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rtp Memória HD" tvg-logo="http://top-logos.xyz/pt/rtpmemoria.png" group-title="Portugal Abertos", Rtp Memória HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422305.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rtp Madeira HD" tvg-logo="http://top-logos.xyz/pt/rtpmadeira.png" group-title="Portugal Abertos", Rtp Madeira HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422306.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sic Novelas HD" tvg-logo="https://i.ibb.co/WkXDJ1h/sicnovelas.png" group-title="Portugal Abertos", Sic Novelas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422310.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sic Replay HD" tvg-logo="https://i.imgur.com/RmZ1sDG.jpeg" group-title="Portugal Abertos", Sic Replay HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422311.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sic Mulher HD" tvg-logo="http://top-logos.xyz/pt/sicmulher.png" group-title="Portugal Abertos", Sic Mulher HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422313.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sic Mulher FHD" tvg-logo="http://top-logos.xyz/pt/sicmulher.png" group-title="Portugal Abertos", Sic Mulher FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422314.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sic Caras HD" tvg-logo="http://top-logos.xyz/pt/siccaras.png" group-title="Portugal Abertos", Sic Caras HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422315.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sic Rdical HD" tvg-logo="http://top-logos.xyz/pt/sicradical.png" group-title="Portugal Abertos", Sic Rdical HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422316.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sic Radical FHD" tvg-logo="http://top-logos.xyz/pt/sicradical.png" group-title="Portugal Abertos", Sic Radical FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422317.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tvi Ficção HD" tvg-logo="http://top-logos.xyz/pt/7tvificcao.png" group-title="Portugal Abertos", Tvi Ficção HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422318.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tvi Reality HD" tvg-logo="http://top-logos.xyz/pt/tvireality.png" group-title="Portugal Reality", Tvi Reality HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422319.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tvi Reality Mosaico HD" tvg-logo="http://top-logos.xyz/pt/tvireality.png" group-title="Portugal Reality", Tvi Reality Mosaico HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422320.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tvi Reality Camera 01" tvg-logo="http://top-logos.xyz/pt/tvireality.png" group-title="Portugal Reality", Tvi Reality Camera 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422321.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tvi Reality Camera 02" tvg-logo="http://top-logos.xyz/pt/tvireality.png" group-title="Portugal Reality", Tvi Reality Camera 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422322.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tvi Reality Camera 03" tvg-logo="http://top-logos.xyz/pt/tvireality.png" group-title="Portugal Reality", Tvi Reality Camera 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422323.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tvi Reality Camera 04" tvg-logo="http://top-logos.xyz/pt/tvireality.png" group-title="Portugal Reality", Tvi Reality Camera 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422324.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal  Q HD" tvg-logo="http://top-logos.xyz/pt/canalq.png" group-title="Portugal Abertos", Canal  Q HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422325.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Portugall HD" tvg-logo="http://top-logos.xyz/pt/tvglobo.png" group-title="Portugal Abertos", Globo Portugall HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422329.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zap Viva HD" tvg-logo="http://top-logos.xyz/pt/zapvida.png" group-title="Portugal Variedades", Zap Viva HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422331.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Amc Break HD" tvg-logo="http://top-logos.xyz/pt/amcbreak.png" group-title="Portugal Variedades", Amc Break HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422333.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Id Iinvetigação Discovery HD" tvg-logo="http://top-logos.xyz/pt/id.png" group-title="Portugal Variedades", Id Iinvetigação Discovery HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422334.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Amc Crime HD" tvg-logo="http://top-logos.xyz/pt/amccrime.png" group-title="Portugal Variedades", Amc Crime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422335.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Caca e Pesca HD" tvg-logo="http://top-logos.xyz/pt/cacaepesca.png" group-title="Portugal Variedades", Caca e Pesca HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422337.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Caçavision HD" tvg-logo="http://top-logos.xyz/pt/cacavision.png" group-title="Portugal Variedades", Caçavision HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422338.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dog TV HD" tvg-logo="http://top-logos.xyz/pt/dogtv.png" group-title="Portugal Variedades", Dog TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422339.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hollyood HD" tvg-logo="http://top-logos.xyz/pt/canalhollywood.png" group-title="Portugal Variedades", Hollyood HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422389.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV HD" tvg-logo="http://top-logos.xyz/pt/babytv.png" group-title="Portugal Variedades", Baby TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422399.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sic K HD" tvg-logo="http://top-logos.xyz/pt/sick.png" group-title="Portugal Abertos", Sic K HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422403.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild HD" tvg-logo="http://top-logos.xyz/pt/nargeowild.png" group-title="Portugal Variedades", Nat Geo Wild HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422405.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo HD" tvg-logo="http://top-logos.xyz/pt/nationalgeografic.png" group-title="Portugal Variedades", Nat Geo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422406.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channell HD" tvg-logo="http://top-logos.xyz/pt/discovery.png" group-title="Portugal Variedades", Discovery Channell HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422408.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History HD" tvg-logo="http://top-logos.xyz/pt/historia.png" group-title="Portugal Variedades", History HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422409.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Odisseia HD" tvg-logo="http://top-logos.xyz/pt/odisseia.png" group-title="Portugal Variedades", Odisseia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422411.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tlc HD" tvg-logo="http://top-logos.xyz/pt/tlc.png" group-title="Portugal Variedades", Tlc HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422413.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Travel Channell HD" tvg-logo="http://top-logos.xyz/pt/travel.png" group-title="Portugal Variedades", Travel Channell HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422414.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24 Kitchen HD" tvg-logo="http://top-logos.xyz/pt/24kitchen.png" group-title="Portugal Abertos", 24 Kitchen HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422415.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Casa e Cozinha HD" tvg-logo="http://top-logos.xyz/pt/casaecozinha.png" group-title="Portugal Variedades", Casa e Cozinha HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422416.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Food  Network HD" tvg-logo="http://top-logos.xyz/pt/food.png" group-title="Portugal Variedades", Food  Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422421.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mtv Portugal HD" tvg-logo="http://top-logos.xyz/pt/mtvportugal.png" group-title="Portugal Variedades", Mtv Portugal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422423.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mtv Live HD" tvg-logo="http://top-logos.xyz/pt/mtvlive.png" group-title="Portugal Variedades", Mtv Live HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422424.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mcm Pop HD" tvg-logo="http://top-logos.xyz/pt/mcmpop.png" group-title="Portugal Variedades", Mcm Pop HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422427.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mcm Top HD" tvg-logo="http://top-logos.xyz/pt/mcmtop.png" group-title="Portugal Variedades", Mcm Top HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422428.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Afro Music HD" tvg-logo="http://top-logos.xyz/pt/afromiosic.png" group-title="Portugal Variedades", Afro Music HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422429.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trace  Toca HD" tvg-logo="http://top-logos.xyz/pt/tracetoca.png" group-title="Portugal Variedades", Trace  Toca HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422430.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trace Urban HD" tvg-logo="http://top-logos.xyz/pt/traceurban.png" group-title="Portugal Variedades", Trace Urban HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422431.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Euro News HD" tvg-logo="http://top-logos.xyz/pt/euronews.png" group-title="Portugal Notícias", Euro News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422434.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky News HD" tvg-logo="http://top-logos.xyz/pt/skynews.png" group-title="Portugal Notícias", Sky News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422440.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cnn HD" tvg-logo="http://top-logos.xyz/pt/cnn.png" group-title="Portugal Notícias", Cnn HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422441.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alma Lusa HD" tvg-logo="http://top-logos.xyz/pt/almalusa.png" group-title="Portugal Variedades", Alma Lusa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422448.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cnbc Europe HD" tvg-logo="http://top-logos.xyz/pt/cnbc.png" group-title="Portugal Notícias", Cnbc Europe HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422450.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Record News HD" tvg-logo="http://top-logos.xyz/pt/recordnews.png" group-title="Portugal Notícias", Record News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://blablabla.sbs/live/268628424/692479168/6422451.m3u8
