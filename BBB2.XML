@@ -3,27 +3,28 @@
 
 
 
-#EXTINF:-1 tvg-name="Mosaico" tvg-logo="http://channelart.8b90287dn2.online/images/logos/bbbrasil.png" ,Mosaico
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1278721
-#EXTINF:-1 tvg-name="BBB 01" tvg-logo="http://channelart.8b90287dn2.online/images/logos/bbbrasil.png" ,BBB 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1271892
-#EXTINF:-1 tvg-name="BBB 02" tvg-logo="http://channelart.8b90287dn2.online/images/logos/bbbrasil.png" ,BBB 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1271891
-#EXTINF:-1 tvg-name="BBB 03" tvg-logo="http://channelart.8b90287dn2.online/images/logos/bbbrasil.png" ,BBB 03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1271890
-#EXTINF:-1 tvg-name="Quarto Sonho de Eternidade" tvg-logo="http://channelart.8b90287dn2.online/images/logos/bbbrasil.png" ,Quarto Sonho de Eternidade
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1271889
-#EXTINF:-1 tvg-name="Quarto Sonho de Voar" tvg-logo="http://channelart.8b90287dn2.online/images/logos/bbbrasil.png" ,Quarto Sonho de Voar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1271888
-#EXTINF:-1 tvg-name="Quarto Sonho do Grande Amor" tvg-logo="http://channelart.8b90287dn2.online/images/logos/bbbrasil.png" ,Quarto Sonho do Grande Amor
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1271887
-#EXTINF:-1 tvg-name="Cozinha" tvg-logo="http://channelart.8b90287dn2.online/images/logos/bbbrasil.png" ,Cozinha
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1278716
-#EXTINF:-1 tvg-name="Banheiro Super Cimed" tvg-logo="http://channelart.8b90287dn2.online/images/logos/bbbrasil.png" ,Banheiro Super Cimed
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1278717
-#EXTINF:-1 tvg-name="Sala Sonho de Ser Milionário" tvg-logo="http://channelart.8b90287dn2.online/images/logos/bbbrasil.png" ,Sala Sonho de Ser Milionário
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1278718
-#EXTINF:-1 tvg-name="Quarto Branco" tvg-logo="http://channelart.8b90287dn2.online/images/logos/bbbrasil.png" ,Quarto Branco
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1278719
-#EXTINF:-1 tvg-name="Academia Nivea" tvg-logo="http://channelart.8b90287dn2.online/images/logos/bbbrasil.png" ,Academia Nivea
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1278720
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 01" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="♦️Canais | BBB 26", BBB 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://coringa86.top/live/949500704935/150881410184/4037455.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 02" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="♦️Canais | BBB 26", BBB 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://coringa86.top/live/949500704935/150881410184/4037456.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 03" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="♦️Canais | BBB 26", BBB 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://coringa86.top/live/949500704935/150881410184/4037457.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 04" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="♦️Canais | BBB 26", BBB 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://coringa86.top/live/949500704935/150881410184/4037458.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 05" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="♦️Canais | BBB 26", BBB 05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://coringa86.top/live/949500704935/150881410184/4037459.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 06" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="♦️Canais | BBB 26", BBB 06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://coringa86.top/live/949500704935/150881410184/4037460.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 07" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="♦️Canais | BBB 26", BBB 07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://coringa86.top/live/949500704935/150881410184/4037461.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 08" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="♦️Canais | BBB 26", BBB 08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://coringa86.top/live/949500704935/150881410184/4037462.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 09" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="♦️Canais | BBB 26", BBB 09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://coringa86.top/live/949500704935/150881410184/4037463.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 10" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="♦️Canais | BBB 26", BBB 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://coringa86.top/live/949500704935/150881410184/4037464.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 11" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="♦️Canais | BBB 26", BBB 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://coringa86.top/live/949500704935/150881410184/4037465.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 12" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" group-title="♦️Canais | BBB 26", BBB 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://coringa86.top/live/949500704935/150881410184/4037466.m3u8
