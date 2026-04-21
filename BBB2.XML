@@ -4,29 +4,27 @@
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB MOSAICO" tvg-logo="https://i.imgur.com/xzP7aW8.png" , BBB MOSAICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ouropreto.top/live/313761359/709326080/8905504.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 1" tvg-logo="https://i.imgur.com/xzP7aW8.png" , BBB CAM 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ouropreto.top/live/313761359/709326080/8905505.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 2" tvg-logo="https://i.imgur.com/xzP7aW8.png" , BBB CAM 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ouropreto.top/live/313761359/709326080/8905506.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 3" tvg-logo="https://i.imgur.com/xzP7aW8.png" , BBB CAM 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ouropreto.top/live/313761359/709326080/8905507.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 4" tvg-logo="https://i.imgur.com/xzP7aW8.png" , BBB CAM 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ouropreto.top/live/313761359/709326080/8905508.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 5" tvg-logo="https://i.imgur.com/xzP7aW8.png" , BBB CAM 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ouropreto.top/live/313761359/709326080/8905509.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 6" tvg-logo="https://i.imgur.com/xzP7aW8.png" , BBB CAM 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ouropreto.top/live/313761359/709326080/8905510.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 7" tvg-logo="https://i.imgur.com/xzP7aW8.png" , BBB CAM 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ouropreto.top/live/313761359/709326080/8905511.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 8" tvg-logo="https://i.imgur.com/xzP7aW8.png" , BBB CAM 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ouropreto.top/live/313761359/709326080/8905512.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 9" tvg-logo="https://i.imgur.com/xzP7aW8.png" , BBB CAM 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ouropreto.top/live/313761359/709326080/8905513.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 10" tvg-logo="https://i.imgur.com/xzP7aW8.png" , BBB CAM 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ouropreto.top/live/313761359/709326080/8905514.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 11" tvg-logo="https://i.imgur.com/xzP7aW8.png" , BBB CAM 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ouropreto.top/live/313761359/709326080/8905515.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 12" tvg-logo="https://i.imgur.com/xzP7aW8.png" , BBB CAM 12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ouropreto.top/live/313761359/709326080/8905516.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 01" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" ", BBB 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ip10.cfd/live/949500704935/150881410184/4037455.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 02" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" ", BBB 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ip10.cfd/live/949500704935/150881410184/4037456.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 03" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" ", BBB 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ip10.cfd/live/949500704935/150881410184/4037457.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 04" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" ", BBB 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ip10.cfd/live/949500704935/150881410184/4037458.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 05" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" ", BBB 05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ip10.cfd/live/949500704935/150881410184/4037459.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 06" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" ", BBB 06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ip10.cfd/live/949500704935/150881410184/4037460.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 07" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" ", BBB 07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ip10.cfd/live/949500704935/150881410184/4037461.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 08" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" ", BBB 08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ip10.cfd/live/949500704935/150881410184/4037462.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 09" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" ", BBB 09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ip10.cfd/live/949500704935/150881410184/4037463.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 10" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" ", BBB 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ip10.cfd/live/949500704935/150881410184/4037464.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 11" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" ", BBB 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ip10.cfd/live/949500704935/150881410184/4037465.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 12" tvg-logo="http://www.fontedecanais.tv/logos/canais/bbb.png" ", BBB 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ip10.cfd/live/949500704935/150881410184/4037466.m3u8
