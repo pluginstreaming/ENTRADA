@@ -1,1 +1,20 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Casa do Patrao HD" tvg-logo="http://32q0d.xyz/images/casapatrao/casadopatraomulticam1.png" , Casa do Patrao HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newpros.cloud/live/Meli2026666/313367812/5309147.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Casa do Patrão Multicam 2" tvg-logo="http://32q0d.xyz/images/casapatrao/casadopatraomulticam2.png" , Casa do Patrão Multicam 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newpros.cloud/live/Meli2026666/313367812/5309151.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Casa do Patrão Sala e Cozinha (Casa Trampo)" tvg-logo="http://32q0d.xyz/images/casapatrao/casadopatraosalacozinha.png" , Casa do Patrão Sala e Cozinha (Casa Trampo)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newpros.cloud/live/Meli2026666/313367812/5309152.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Casa do Patrão Quarto Coletivo (Casa Trampo)" tvg-logo="http://32q0d.xyz/images/casapatrao/casadopatraoquartocoletivo.png" , Casa do Patrão Quarto Coletivo (Casa Trampo)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newpros.cloud/live/Meli2026666/313367812/5309153.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Casa do Patrão Suíte do Patrão" tvg-logo="http://32q0d.xyz/images/casapatrao/casadopatraosuitedopatrao.png" , Casa do Patrão Suíte do Patrão
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newpros.cloud/live/Meli2026666/313367812/5309154.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Casa do Patrão Quarto dos Parças" tvg-logo="http://32q0d.xyz/images/casapatrao/casadopatraoquartodosparcas.png" , Casa do Patrão Quarto dos Parças
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newpros.cloud/live/Meli2026666/313367812/5309155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Casa do Patrão Casa Convivência" tvg-logo="http://32q0d.xyz/images/casapatrao/casadopatraoconvivencia.png" , Casa do Patrão Casa Convivência
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newpros.cloud/live/Meli2026666/313367812/5309156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Casa do Patrão Piscina" tvg-logo="http://32q0d.xyz/images/casapatrao/casadopatraopiscina.png" , Casa do Patrão Piscina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newpros.cloud/live/Meli2026666/313367812/5309157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Casa do Patrão Multicam 1" tvg-logo="http://32q0d.xyz/images/casapatrao/casadopatraomulticam1.png" , Casa do Patrão Multicam 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newpros.cloud/live/Meli2026666/313367812/5309158.m3u8
 
