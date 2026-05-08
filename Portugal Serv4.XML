@@ -1,111 +1,107 @@
 #EXTM3U
-
-
-
-
-#EXTINF:-1 tvg-name="Sport TV + HD " tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%20%2B.png" ,Sport TV + HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/51993
-#EXTINF:-1 tvg-name="Sport TV +" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%20%2B.png" ,Sport TV +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/10795
-#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-name="Sport TV 1 UHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%201.png" ,Sport TV 1 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1237812
-#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-name="Sport TV 1 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%201.png" ,Sport TV 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1514
-#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-name="Sport TV 1 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%201.png" ,Sport TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1515
-#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-name="Sport TV 1" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%201.png" ,Sport TV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1516
-#EXTINF:-1 tvg-name="Sport TV 2 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%202.png" ,Sport TV 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1517
-#EXTINF:-1 tvg-name="Sport TV 2  HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%202.png" ,Sport TV 2  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1518
-#EXTINF:-1 tvg-id="SPORT TV 2 HD" tvg-name="Sport TV 2" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%202.png" ,Sport TV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1519
-#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" tvg-name="Sport TV 3 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%203.png" ,Sport TV 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1520
-#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" tvg-name="Sport TV 3  HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%203.png" ,Sport TV 3  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1521
-#EXTINF:-1 tvg-name="Sport TV 3" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%203.png" ,Sport TV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1522
-#EXTINF:-1 tvg-name="Sport TV 4 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%204.png" ,Sport TV 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1523
-#EXTINF:-1 tvg-name="Sport TV 4 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%204.png" ,Sport TV 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1524
-#EXTINF:-1 tvg-name="Sport TV 4" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%204.png" ,Sport TV 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1525
-#EXTINF:-1 tvg-name="Sport TV 5 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%205.png" ,Sport TV 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1526
-#EXTINF:-1 tvg-name="Sport TV 5 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%205.png" ,Sport TV 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1527
-#EXTINF:-1 tvg-name="Sport TV 5" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%205.png" ,Sport TV 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1528
-#EXTINF:-1 tvg-name="Sport TV 6 HD " tvg-logo="https://i.postimg.cc/d3NHk70d/Sport-TV.png" ,Sport TV 6 HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/68314
-#EXTINF:-1 tvg-id="Sport.TV.7.HD.pt" tvg-name="Sport TV 7 FHD" tvg-logo="https://i.postimg.cc/Px8Xz7cr/Sport-TV.png" ,Sport TV 7 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1271684
-#EXTINF:-1 tvg-id="Sport.TV.7.HD.pt" tvg-name="Sport TV 7 HD" tvg-logo="https://i.postimg.cc/Px8Xz7cr/Sport-TV.png" ,Sport TV 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1271685
-#EXTINF:-1 tvg-id="Sport.TV.7.HD.pt" tvg-name="Sport TV 7" tvg-logo="https://i.postimg.cc/Px8Xz7cr/Sport-TV.png" ,Sport TV 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1271686
-#EXTINF:-1 tvg-id="BTV1.HD.pt" tvg-name="BTV 4K" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Benfica%20TV.png" ,BTV 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1237811
-#EXTINF:-1 tvg-name="BTV FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Benfica%20TV.png" ,BTV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1529
-#EXTINF:-1 tvg-id="BTV HD" tvg-name="BTV TV HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Benfica%20TV.png" ,BTV TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1530
-#EXTINF:-1 tvg-name="BTV" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Benfica%20TV.png" ,BTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1531
-#EXTINF:-1 tvg-name="Sporting TV HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sporting%20TV.png" ,Sporting TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1533
-#EXTINF:-1 tvg-name="DAZN 1 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" ,DAZN 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/2377
-#EXTINF:-1 tvg-name="DAZN 1 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" ,DAZN 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/2375
-#EXTINF:-1 tvg-name="DAZN 1" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" ,DAZN 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/2373
-#EXTINF:-1 tvg-name="DAZN 2 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" ,DAZN 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/2385
-#EXTINF:-1 tvg-name="DAZN 2 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" ,DAZN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/2382
-#EXTINF:-1 tvg-name="DAZN 2" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" ,DAZN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/2381
-#EXTINF:-1 tvg-name="DAZN 3 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" ,DAZN 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/2391
-#EXTINF:-1 tvg-name="DAZN 3 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" ,DAZN 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/2390
-#EXTINF:-1 tvg-name="DAZN 3" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" ,DAZN 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/2387
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 4 HD" tvg-name="DAZN 4 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" ,DAZN 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/2398
-#EXTINF:-1 tvg-name="DAZN 4 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" ,DAZN 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/2396
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 4 HD" tvg-name="DAZN 4" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" ,DAZN 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/2395
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 5 HD" tvg-name="DAZN 5 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" ,DAZN 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/2405
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 5 HD" tvg-name="DAZN 5 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" ,DAZN 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/2402
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 5 HD" tvg-name="DAZN 5" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" ,DAZN 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/2401
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 6 HD" tvg-name="DAZN 6 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" ,DAZN 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/2411
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 6" tvg-name="DAZN 6 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" ,DAZN 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/2409
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 6 HD" tvg-name="DAZN 6" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" ,DAZN 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/2407
-#EXTINF:-1 tvg-name="A Bola TV HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/A%20Bola%20TV.png" ,A Bola TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1535
-#EXTINF:-1 tvg-id="CANAL 11 HD" tvg-name="Canal 11 HD" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2019/07/logo11.png" ,Canal 11 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/2623
-#EXTINF:-1 tvg-id="CANAL 11" tvg-name="Canal 11" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2019/07/logo11.png" ,Canal 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/911027
-#EXTINF:-1 tvg-name="Eurosport 1" tvg-logo="http://channelart.8b90287dn2.online/images/logos/EuroSport%201.png" ,Eurosport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1536
-#EXTINF:-1 tvg-name="Eurosport 2" tvg-logo="http://channelart.8b90287dn2.online/images/logos/EuroSport%202.png" ,Eurosport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1537
-#EXTINF:-1 tvg-name="Fight Sports HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Fight%20Network.png" ,Fight Sports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1538
-#EXTINF:-1 tvg-id="GINX ESPORTS" tvg-name="GINX Esports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Ginx_Esports_logo.png" ,GINX Esports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1540
-#EXTINF:-1 tvg-id="MOTORVISION HD" tvg-name="MotorVision TV" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Motorvision.png" ,MotorVision TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://m000003.lat:80/984784702/casa8478470/1541
+#EXTINF:-1 tvg-id="" tvg-name="AR TV" tvg-logo="" group-title=", AR TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354647.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title=", AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354648.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera English" tvg-logo="" group-title=", Al Jazeera English
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354649.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD" tvg-logo="" group-title=", BBC WORLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354650.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="" group-title=", Bloomberg
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354651.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C Music" tvg-logo="" group-title=", C Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354652.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 11 HD" tvg-logo="" group-title=", CANAL 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354653.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMUNDO HD" tvg-logo="" group-title=", CINEMUNDO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354654.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CMTV HD" tvg-logo="" group-title=", CMTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354655.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNBC" tvg-logo="" group-title=", CNBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354656.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN HD" tvg-logo="" group-title=", CNN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354657.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title=", Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354658.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Euronews ENG" tvg-logo="" group-title=", Euronews ENG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354659.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Euronews PT" tvg-logo="" group-title=", Euronews PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354660.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Euronews PT aac" tvg-logo="" group-title=", Euronews PT aac
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354661.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="" group-title=", FASHION TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354662.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="" group-title=", FOOD NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354663.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FUEL TV HD" tvg-logo="" group-title=", FUEL TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354664.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="France 24 Fr" tvg-logo="" group-title=", France 24 Fr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354665.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo HD" tvg-logo="" group-title=", Globo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354666.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD HD" tvg-logo="" group-title=", HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354667.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MCM TOP HD" tvg-logo="" group-title=", MCM TOP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354668.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PANDA" tvg-logo="" group-title=", PANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354669.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PANDA BIGGS" tvg-logo="" group-title=", PANDA BIGGS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354670.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Porto Canal HD" tvg-logo="" group-title=", Porto Canal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354671.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RAI Uno" tvg-logo="" group-title=", RAI Uno
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354672.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTP 2 HD" tvg-logo="" group-title=", RTP 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354673.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTP 3 HD" tvg-logo="" group-title=", RTP 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354674.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTP1 HD" tvg-logo="" group-title=", RTP1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354675.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Record News" tvg-logo="" group-title=", Record News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354676.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC CARAS SD" tvg-logo="" group-title=", SIC CARAS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354677.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC HD" tvg-logo="" group-title=", SIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354678.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC K" tvg-logo="" group-title=", SIC K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354679.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC M HD" tvg-logo="" group-title=", SIC M HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354680.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC N HD" tvg-logo="" group-title=", SIC N HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354681.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC R HD" tvg-logo="" group-title=", SIC R HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354682.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY NEWS" tvg-logo="" group-title=", SKY NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354683.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV+ HD" tvg-logo="" group-title=", SPORTV+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354684.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SRT HALLO_BRASIL" tvg-logo="" group-title=", SRT HALLO_BRASIL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354685.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SRT HALLO_CLASSIC" tvg-logo="" group-title=", SRT HALLO_CLASSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354686.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR HD" tvg-logo="" group-title=", STAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354687.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR Movies HD" tvg-logo="" group-title=", STAR Movies HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354688.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL" tvg-logo="" group-title=", TRAVEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354689.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Galicia" tvg-logo="" group-title=", TV Galicia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354690.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Record HD" tvg-logo="" group-title=", TV Record HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354691.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV5 Monde" tvg-logo="" group-title=", TV5 Monde
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354692.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVC NEWS" tvg-logo="" group-title=", TVC NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354693.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVE 24h" tvg-logo="" group-title=", TVE 24h
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354694.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVEi" tvg-logo="" group-title=", TVEi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354695.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVI HD" tvg-logo="" group-title=", TVI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354696.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVe 24h srt test" tvg-logo="" group-title=", TVe 24h srt test
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354697.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVe 24h test" tvg-logo="" group-title=", TVe 24h test
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354698.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tv Natal" tvg-logo="" group-title=", Tv Natal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/422399402064/584419838695/7354699.m3u8
