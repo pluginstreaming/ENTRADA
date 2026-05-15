@@ -1,137 +1,107 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="RTP ACORES" tvg-logo="http://top-logos.xyz/pt/rtpacores.png" , RTP ACORES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492132.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTP MEMÓRIA" tvg-logo="http://top-logos.xyz/pt/rtpmemoria.png" , RTP MEMÓRIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492133.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTP MADEIRA" tvg-logo="http://top-logos.xyz/pt/rtpmadeira.png" , RTP MADEIRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492134.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR TV" tvg-logo="http://top-logos.xyz/pt/artv.png" , AR TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492135.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SIC MULHER" tvg-logo="http://top-logos.xyz/pt/sicmulher.png" , SIC MULHER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492136.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SIC CARAS" tvg-logo="http://top-logos.xyz/pt/siccaras.png" , SIC CARAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492137.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SIC RADICAL" tvg-logo="http://top-logos.xyz/pt/sicradical.png" , SIC RADICAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492138.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVI FICÇÃO" tvg-logo="http://top-logos.xyz/pt/7tvificcao.png" , TVI FICÇÃO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492139.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVI REALITY" tvg-logo="http://top-logos.xyz/pt/tvireality.png" , TVI REALITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492140.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL Q" tvg-logo="http://top-logos.xyz/pt/canalq.png" , CANAL Q
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492141.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV RECORD" tvg-logo="https://i.ibb.co/DDn35v7/Novo-rederecord.png" , TV RECORD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492142.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO PORTUGAL" tvg-logo="http://top-logos.xyz/pt/tvglobo.png" , GLOBO PORTUGAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492143.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMC CRIME" tvg-logo="http://top-logos.xyz/pt/amccrime.png" , AMC CRIME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492144.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT" tvg-logo="http://top-logos.xyz/pt/e.png" , E! ENTERTAINMENT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492145.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="S+" tvg-logo="https://i.imgur.com/y39rALn.png" , S+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492146.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 11" tvg-logo="http://top-logos.xyz/pt/canal11.png" , CANAL 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492147.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PORTO CANAL" tvg-logo="http://top-logos.xyz/pt/portocanal.png" , PORTO CANAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492148.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTING TV" tvg-logo="http://top-logos.xyz/pt/sportingtv.png" , SPORTING TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492149.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOLA TV" tvg-logo="http://top-logos.xyz/pt/abolatv.png" , BOLA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492150.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV NBA" tvg-logo="http://top-logos.xyz/pt/sportvnba.png" , SPORT TV NBA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492151.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FUEL TV" tvg-logo="http://top-logos.xyz/pt/fuel.png" , FUEL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492152.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Real Madrid Tv" tvg-logo="http://top-logos.xyz/pt/realmadridtv.png" , Real Madrid Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492153.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV CINE TOP" tvg-logo="http://top-logos.xyz/pt/tvcinetop.png" , TV CINE TOP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492154.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV CINE EDITION" tvg-logo="http://top-logos.xyz/pt/tvcineedition.png" , TV CINE EDITION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492155.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV CINE EMOTION" tvg-logo="http://top-logos.xyz/pt/tvcineemotion.png" , TV CINE EMOTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492156.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV CINE ACTION" tvg-logo="http://top-logos.xyz/pt/tvcineaction.png" , TV CINE ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492157.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE" tvg-logo="http://top-logos.xyz/pt/axnwhite.png" , AXN WHITE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492158.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXN MOVIES" tvg-logo="http://top-logos.xyz/pt/axnmovies.png" , AXN MOVIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492159.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ST★R CHANNEL" tvg-logo="https://i.imgur.com/Wno2xJ4.png" , ST★R CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492160.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ST★R LIFE" tvg-logo="https://i.imgur.com/cv8K4Jg.png" , ST★R LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492161.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ST★R MOVIES" tvg-logo="https://i.imgur.com/k1l4YfV.png" , ST★R MOVIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492162.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ST★R COMEDY" tvg-logo="https://i.imgur.com/0ZvhYdt.png" , ST★R COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492163.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ST★R CRIME" tvg-logo="https://i.imgur.com/RTmKide.png" , ST★R CRIME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492164.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="http://top-logos.xyz/pt/syfy.png" , SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492165.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="http://top-logos.xyz/pt/disneychanel.png" , DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492166.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JÚNIOR" tvg-logo="http://top-logos.xyz/pt/disneyjunior.png" , DISNEY JÚNIOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492167.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PANDA KIDS" tvg-logo="http://top-logos.xyz/pt/pandakids.png" , PANDA KIDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492168.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL PANDA" tvg-logo="http://top-logos.xyz/pt/canalpanda.png" , CANAL PANDA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492169.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SIC K" tvg-logo="http://top-logos.xyz/pt/sick.png" , SIC K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492170.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="http://top-logos.xyz/pt/nargeowild.png" , NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492171.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="http://top-logos.xyz/pt/nationalgeografic.png" , NAT GEO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492172.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ODISSEIA" tvg-logo="http://top-logos.xyz/pt/odisseia.png" , ODISSEIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492173.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRAVEL CHANNEL" tvg-logo="http://top-logos.xyz/pt/travel.png" , TRAVEL CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492174.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24 KITCHEN" tvg-logo="http://top-logos.xyz/pt/24kitchen.png" , 24 KITCHEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492175.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CASA E COZINHA" tvg-logo="http://top-logos.xyz/pt/casaecozinha.png" , CASA E COZINHA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492176.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KURIAKOS" tvg-logo="http://top-logos.xyz/pt/kuriatoatv.png" , KURIAKOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492177.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="http://top-logos.xyz/pt/fashiiontv.png" , FASHION TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492178.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV PORTUGAL" tvg-logo="http://top-logos.xyz/pt/mtvportugal.png" , MTV PORTUGAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492179.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MCM TOP" tvg-logo="http://top-logos.xyz/pt/mcmtop.png" , MCM TOP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492180.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRACE TOCA" tvg-logo="http://top-logos.xyz/pt/tracetoca.png" , TRACE TOCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492181.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN" tvg-logo="http://top-logos.xyz/pt/traceurban.png" , TRACE URBAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492182.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EURONEWS" tvg-logo="http://top-logos.xyz/pt/euronews.png" , EURONEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492183.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CBS REALITY" tvg-logo="http://top-logos.xyz/pt/cbsreality.png" , CBS REALITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492184.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE" tvg-logo="http://top-logos.xyz/pt/tv5monde.png" , TV5 MONDE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492185.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVE 24h" tvg-logo="http://top-logos.xyz/pt/24tve.png" , TVE 24h
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492186.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVE Internacional" tvg-logo="http://top-logos.xyz/pt/tve.png" , TVE Internacional
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492187.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky News" tvg-logo="http://top-logos.xyz/pt/skynews.png" , Sky News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492188.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LOCALVISAO TV" tvg-logo="http://top-logos.xyz/pt/localvisao.png" , LOCALVISAO TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492189.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNBC EUROPE" tvg-logo="http://top-logos.xyz/pt/cnbc.png" , CNBC EUROPE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492190.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTP 1" tvg-logo="http://top-logos.xyz/pt/1rtp.png" , RTP 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492191.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTP 2" tvg-logo="http://top-logos.xyz/pt/2rtp.png" , RTP 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492192.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SIC" tvg-logo="http://top-logos.xyz/pt/4sic.png" , SIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492193.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVI" tvg-logo="http://top-logos.xyz/pt/5tvi.png" , TVI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492194.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNN PORTUGAL" tvg-logo="http://top-logos.xyz/pt/cnnportugal.png" , CNN PORTUGAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492195.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CMTV" tvg-logo="http://top-logos.xyz/pt/cmtv.png" , CMTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492196.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NEWS NOW" tvg-logo="https://i.imgur.com/i8wWOtn.png" , NEWS NOW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492197.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTP 3" tvg-logo="http://top-logos.xyz/pt/3rtp.png" , RTP 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492198.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTP AFRICA" tvg-logo="http://top-logos.xyz/pt/rtpafrica.png" , RTP AFRICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://prd.blc-atena.com/live/36560817264/73001551197/492199.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR TV" tvg-logo="" ", AR TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354647.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" ", AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354648.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera English" tvg-logo="" ", Al Jazeera English
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354649.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD" tvg-logo="" ", BBC WORLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354650.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="" ", Bloomberg
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354651.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C Music" tvg-logo="" ", C Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354652.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 11 HD" tvg-logo="" ", CANAL 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354653.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMUNDO HD" tvg-logo="" ", CINEMUNDO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354654.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CMTV HD" tvg-logo="" ", CMTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354655.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNBC" tvg-logo="" ", CNBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354656.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN HD" tvg-logo="" ", CNN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354657.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" ", Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354658.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Euronews ENG" tvg-logo="" ", Euronews ENG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354659.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Euronews PT" tvg-logo="" ", Euronews PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354660.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Euronews PT aac" tvg-logo="" ", Euronews PT aac
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354661.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="" ", FASHION TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354662.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="" ", FOOD NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354663.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FUEL TV HD" tvg-logo="" ", FUEL TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354664.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="France 24 Fr" tvg-logo="" ", France 24 Fr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354665.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo HD" tvg-logo="" ", Globo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354666.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD HD" tvg-logo="" ", HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354667.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MCM TOP HD" tvg-logo="" ", MCM TOP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354668.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PANDA" tvg-logo="" ", PANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354669.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PANDA BIGGS" tvg-logo="" ", PANDA BIGGS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354670.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Porto Canal HD" tvg-logo="" ", Porto Canal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354671.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RAI Uno" tvg-logo="" ", RAI Uno
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354672.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTP 2 HD" tvg-logo="" ", RTP 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354673.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTP 3 HD" tvg-logo="" ", RTP 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354674.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTP1 HD" tvg-logo="" ", RTP1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354675.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Record News" tvg-logo="" ", Record News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354676.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC CARAS SD" tvg-logo="" ", SIC CARAS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354677.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC HD" tvg-logo="" ", SIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354678.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC K" tvg-logo="" ", SIC K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354679.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC M HD" tvg-logo="" ", SIC M HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354680.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC N HD" tvg-logo="" ", SIC N HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354681.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC R HD" tvg-logo="" ", SIC R HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354682.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY NEWS" tvg-logo="" ", SKY NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354683.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV+ HD" tvg-logo="" ", SPORTV+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354684.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SRT HALLO_BRASIL" tvg-logo="" ", SRT HALLO_BRASIL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354685.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SRT HALLO_CLASSIC" tvg-logo="" ", SRT HALLO_CLASSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354686.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR HD" tvg-logo="" ", STAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354687.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR Movies HD" tvg-logo="" ", STAR Movies HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354688.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL" tvg-logo="" ", TRAVEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354689.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Galicia" tvg-logo="" ", TV Galicia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354690.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Record HD" tvg-logo="" ", TV Record HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354691.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV5 Monde" tvg-logo="" ", TV5 Monde
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354692.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVC NEWS" tvg-logo="" ", TVC NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354693.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVE 24h" tvg-logo="" ", TVE 24h
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354694.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVEi" tvg-logo="" ", TVEi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354695.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVI HD" tvg-logo="" ", TVI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354696.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVe 24h srt test" tvg-logo="" ", TVe 24h srt test
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354697.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVe 24h test" tvg-logo="" ", TVe 24h test
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354698.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tv Natal" tvg-logo="" ", Tv Natal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://minastv.shop/live/netinho10/Ballack1/7354699.m3u8
