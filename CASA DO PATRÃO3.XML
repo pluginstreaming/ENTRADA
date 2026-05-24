@@ -1,17 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="01 A CASA DO PATRÃO" tvg-logo="https://i.postimg.cc/BvhWX9J2/Chat-GPT-Image-27-de-abr-de-2026-14-11-46.png" , 01 A CASA DO PATRÃO
-hplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ledb.shop/live/Anderson0950/An99870950/7462345.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02 A CASA DO PATRÃO" tvg-logo="https://i.postimg.cc/BvhWX9J2/Chat-GPT-Image-27-de-abr-de-2026-14-11-46.png" , 02 A CASA DO PATRÃO
-hplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ledb.shop/live/Anderson0950/An99870950/7462346.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="03 A CASA DO PATRÃO" tvg-logo="https://i.postimg.cc/BvhWX9J2/Chat-GPT-Image-27-de-abr-de-2026-14-11-46.png" , 03 A CASA DO PATRÃO
-hplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ledb.shop/live/Anderson0950/An99870950/7462347.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="04 A CASA DO PATRÃO" tvg-logo="https://i.postimg.cc/BvhWX9J2/Chat-GPT-Image-27-de-abr-de-2026-14-11-46.png" , 04 A CASA DO PATRÃO
-hplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ledb.shop/live/Anderson0950/An99870950/7462348.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="05 A CASA DO PATRÃO" tvg-logo="https://i.postimg.cc/BvhWX9J2/Chat-GPT-Image-27-de-abr-de-2026-14-11-46.png" , 05 A CASA DO PATRÃO
-hplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ledb.shop/live/Anderson0950/An99870950/7462349.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="06 A CASA DO PATRÃO" tvg-logo="https://i.postimg.cc/BvhWX9J2/Chat-GPT-Image-27-de-abr-de-2026-14-11-46.png" , 06 A CASA DO PATRÃO
-hplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ledb.shop/live/Anderson0950/An99870950/7462350.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07 A CASA DO PATRÃO" tvg-logo="https://i.postimg.cc/BvhWX9J2/Chat-GPT-Image-27-de-abr-de-2026-14-11-46.png" , 07 A CASA DO PATRÃO
-hplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ledb.shop/live/Anderson0950/An99870950/7462351.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="08 A CASA DO PATRÃO" tvg-logo="https://i.postimg.cc/BvhWX9J2/Chat-GPT-Image-27-de-abr-de-2026-14-11-46.png" , 08 A CASA DO PATRÃO
-hplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ledb.shop/live/Anderson0950/An99870950/7462352.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO SINAL 01 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/casa-do-patrao.png" , CASA DO PATRÃO SINAL 01 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartflix.fun/live/Tatianegbplay/812043/1191439.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO SINAL 02 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/casa-do-patrao.png" , CASA DO PATRÃO SINAL 02 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartflix.fun/live/Tatianegbplay/812043/1191440.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO SINAL 03 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/casa-do-patrao.png" , CASA DO PATRÃO SINAL 03 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartflix.fun/live/Tatianegbplay/812043/1191441.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO SINAL 04 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/casa-do-patrao.png" , CASA DO PATRÃO SINAL 04 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartflix.fun/live/Tatianegbplay/812043/1191442.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO SINAL 05 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/casa-do-patrao.png" , CASA DO PATRÃO SINAL 05 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartflix.fun/live/Tatianegbplay/812043/1191443.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO SINAL 06 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/casa-do-patrao.png" , CASA DO PATRÃO SINAL 06 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartflix.fun/live/Tatianegbplay/812043/1191444.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO SINAL 07 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/casa-do-patrao.png" , CASA DO PATRÃO SINAL 07 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://smartflix.fun/live/Tatianegbplay/812043/1191445.m3u8
