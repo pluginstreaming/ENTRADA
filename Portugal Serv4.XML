@@ -1,27 +1,71 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV + FHD" tvg-logo="http://top-logos.xyz/pt/sportv.png" , Sport TV + FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ledb.shop/live/Anderson0950/An99870950/7321443.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV + HD" tvg-logo="http://top-logos.xyz/pt/sportv.png" , Sport TV + HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ledb.shop/live/Anderson0950/An99870950/7321444.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 01 FHD" tvg-logo="http://top-logos.xyz/pt/sportv1.png" , Sport TV 01 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ledb.shop/live/Anderson0950/An99870950/7321445.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 01 HD" tvg-logo="http://top-logos.xyz/pt/sportv1.png" , Sport TV 01 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ledb.shop/live/Anderson0950/An99870950/7321446.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 02 FHD" tvg-logo="http://top-logos.xyz/pt/sportv2.png" , Sport TV 02 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ledb.shop/live/Anderson0950/An99870950/7321447.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 02 HD" tvg-logo="http://top-logos.xyz/pt/sportv2.png" , Sport TV 02 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ledb.shop/live/Anderson0950/An99870950/7321448.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 03 FHD" tvg-logo="http://top-logos.xyz/pt/sportv3.png" , Sport TV 03 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ledb.shop/live/Anderson0950/An99870950/7321449.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 03 HD" tvg-logo="http://top-logos.xyz/pt/sportv3.png" , Sport TV 03 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ledb.shop/live/Anderson0950/An99870950/7321450.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 04 FHD" tvg-logo="http://top-logos.xyz/pt/sportv4.png" , Sport TV 04 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ledb.shop/live/Anderson0950/An99870950/7321451.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 04 HD" tvg-logo="http://top-logos.xyz/pt/sportv4.png" , Sport TV 04 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ledb.shop/live/Anderson0950/An99870950/7321452.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 05 FHD" tvg-logo="http://top-logos.xyz/pt/sportv5.png" , Sport TV 05 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ledb.shop/live/Anderson0950/An99870950/7321453.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 05 HD" tvg-logo="http://top-logos.xyz/pt/sportv5.png" , Sport TV 05 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ledb.shop/live/Anderson0950/An99870950/7321454.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 06 HD" tvg-logo="http://top-logos.xyz/pt/sportv6.png" , Sport TV 06 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://ledb.shop/live/Anderson0950/An99870950/7321455.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A BOLA HD" tvg-logo="https://dc527.4shared.com/img/MOk59VRDku/s24/196f746a7c8/image?async&rand=0.9996157594265412" , A BOLA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://super.rondas.top/live/34366464/49756071/2155508.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A BOLA TV FHD" tvg-logo="https://dc527.4shared.com/img/MOk59VRDku/s24/196f746a7c8/image?async&rand=0.9996157594265412" , A BOLA TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://super.rondas.top/live/34366464/49756071/2155509.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 HD" tvg-logo="https://dc589.4shared.com/img/NMRafg18ge/s24/198eafe7750/sportv?async&rand=0.4873777975497243" , SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://super.rondas.top/live/34366464/49756071/2155510.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 FHD" tvg-logo="https://dc589.4shared.com/img/NMRafg18ge/s24/198eafe7750/sportv?async&rand=0.4873777975497243" , SPORT TV 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://super.rondas.top/live/34366464/49756071/2155511.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2 HD" tvg-logo="https://dc589.4shared.com/img/NMRafg18ge/s24/198eafe7750/sportv?async&rand=0.4873777975497243" , SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://super.rondas.top/live/34366464/49756071/2155512.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2 FHD" tvg-logo="https://dc589.4shared.com/img/NMRafg18ge/s24/198eafe7750/sportv?async&rand=0.4873777975497243" , SPORT TV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://super.rondas.top/live/34366464/49756071/2155513.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3 HD" tvg-logo="https://dc589.4shared.com/img/NMRafg18ge/s24/198eafe7750/sportv?async&rand=0.4873777975497243" , SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://super.rondas.top/live/34366464/49756071/2155514.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3 FHD" tvg-logo="https://dc589.4shared.com/img/NMRafg18ge/s24/198eafe7750/sportv?async&rand=0.4873777975497243" , SPORT TV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://super.rondas.top/live/34366464/49756071/2155515.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4 HD" tvg-logo="https://dc589.4shared.com/img/NMRafg18ge/s24/198eafe7750/sportv?async&rand=0.4873777975497243" , SPORT TV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://super.rondas.top/live/34366464/49756071/2155516.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4 FHD" tvg-logo="https://dc589.4shared.com/img/NMRafg18ge/s24/198eafe7750/sportv?async&rand=0.4873777975497243" , SPORT TV 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://super.rondas.top/live/34366464/49756071/2155517.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5 HD" tvg-logo="https://dc589.4shared.com/img/NMRafg18ge/s24/198eafe7750/sportv?async&rand=0.4873777975497243" , SPORT TV 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://super.rondas.top/live/34366464/49756071/2155518.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5 FHD" tvg-logo="https://dc589.4shared.com/img/NMRafg18ge/s24/198eafe7750/sportv?async&rand=0.4873777975497243" , SPORT TV 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://super.rondas.top/live/34366464/49756071/2155519.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 6 HD" tvg-logo="https://dc589.4shared.com/img/NMRafg18ge/s24/198eafe7750/sportv?async&rand=0.4873777975497243" , SPORT TV 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://super.rondas.top/live/34366464/49756071/2155520.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 7 HD" tvg-logo="https://dc589.4shared.com/img/NMRafg18ge/s24/198eafe7750/sportv?async&rand=0.4873777975497243" , SPORT TV 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://super.rondas.top/live/34366464/49756071/2155521.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV + FHD" tvg-logo="https://dc589.4shared.com/img/NMRafg18ge/s24/198eafe7750/sportv?async&rand=0.4873777975497243" , SPORT TV + FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://super.rondas.top/live/34366464/49756071/2155522.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="https://dc737.4shared.com/img/w1yFcf0Uge/s24/196f8784610/dazn1?async&rand=0.25678417516937646" , DAZN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://super.rondas.top/live/34366464/49756071/2155523.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 FHD" tvg-logo="https://dc737.4shared.com/img/w1yFcf0Uge/s24/196f8784610/dazn1?async&rand=0.25678417516937646" , DAZN 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://super.rondas.top/live/34366464/49756071/2155524.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="https://dc593.4shared.com/img/xr5uxAbeku/s24/196f8796ef0/dazn2?async&rand=0.857255497703274" , DAZN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://super.rondas.top/live/34366464/49756071/2155525.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 FHD" tvg-logo="https://dc593.4shared.com/img/xr5uxAbeku/s24/196f8796ef0/dazn2?async&rand=0.857255497703274" , DAZN 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://super.rondas.top/live/34366464/49756071/2155526.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="https://dc730.4shared.com/img/7Ab2jSPGjq/s24/196f8798e30/dazn3?async&rand=0.0647581828975411" , DAZN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://super.rondas.top/live/34366464/49756071/2155527.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 FHD" tvg-logo="https://dc730.4shared.com/img/7Ab2jSPGjq/s24/196f8798e30/dazn3?async&rand=0.0647581828975411" , DAZN 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://super.rondas.top/live/34366464/49756071/2155528.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="https://dc771.4shared.com/img/L3KFSeuPku/s24/196f879b158/dazn4?async&rand=0.25031938409962673" , DAZN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://super.rondas.top/live/34366464/49756071/2155529.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 FHD" tvg-logo="https://dc771.4shared.com/img/L3KFSeuPku/s24/196f879b158/dazn4?async&rand=0.25031938409962673" , DAZN 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://super.rondas.top/live/34366464/49756071/2155530.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 5 HD" tvg-logo="https://dc763.4shared.com/img/T8q0DmPLge/s24/196f87d3b98/dazn5?async&rand=0.9657880513061797" , DAZN 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://super.rondas.top/live/34366464/49756071/2155531.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 5 FHD" tvg-logo="https://dc763.4shared.com/img/T8q0DmPLge/s24/196f87d3b98/dazn5?async&rand=0.9657880513061797" , DAZN 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://super.rondas.top/live/34366464/49756071/2155532.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BTV HD" tvg-logo="https://dc586.4shared.com/img/fz0TeIx_fa/s24/196f8a41100/btv?async&rand=0.4718394037832786" , BTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://super.rondas.top/live/34366464/49756071/2155533.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BTV FHD" tvg-logo="https://dc586.4shared.com/img/fz0TeIx_fa/s24/196f8a41100/btv?async&rand=0.4718394037832786" , BTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://super.rondas.top/live/34366464/49756071/2155534.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PORTO CANAL HD" tvg-logo="https://dc737.4shared.com/img/AKn8u_Iqjq/s24/198f06f5588/portocanal__1_?async&rand=0.07792806629291149" , PORTO CANAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://super.rondas.top/live/34366464/49756071/2155537.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PORTO CANAL FHD" tvg-logo="https://dc737.4shared.com/img/AKn8u_Iqjq/s24/198f06f5588/portocanal__1_?async&rand=0.07792806629291149" , PORTO CANAL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://super.rondas.top/live/34366464/49756071/2155538.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTING TV FHD" tvg-logo="https://dc593.4shared.com/img/q0j2XDX3ku/s24/198f077f490/sporting?async&rand=0.6214642813235169" , SPORTING TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://super.rondas.top/live/34366464/49756071/2155540.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="eXtreme Sports" tvg-logo="" , eXtreme Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://super.rondas.top/live/34366464/49756071/2155544.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FIGHT SPORTS" tvg-logo="http://lbalugado.store:80/images/B1RpWnq1nLG2vigHokkn4LTIEHSIH0Xhoo4TRuT4hXUR13vaUIqBlkM8DpwTmp9aJPNweZ9tjT334BY1TZ9Vg6FHch0EhqYhggbphBfJ89k.png" , FIGHT SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://super.rondas.top/live/34366464/49756071/2155545.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="W-Sport FHD" tvg-logo="http://lbalugado.store:80/images/bymwHCUjH9UVLlyw08n5oPasgtaYl99RpAscVS3mkBr5NCvuGIEWIsUqPfGmDQC_jbxIfCX4nqnMR52aw89zCTU5KT4a8Qd_chHwj4ZTVSz_RMct9-VGnKVhy8bGAY2i.png" , W-Sport FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://super.rondas.top/live/34366464/49756071/2155546.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WRC" tvg-logo="http://lbalugado.store:80/images/KyVLJXyYnsabslG2OgYV6jgNCYK89ueOdzMVdOLQpBuHAiV44J4s1CCYhZ1G24So3A31--3wCsD6KP4YVpNNQhJv3WCsU5lqXuwvvuIUyzQ.png" , WRC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://super.rondas.top/live/34366464/49756071/2155547.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FightBox" tvg-logo="https://dc686.4shared.com/img/r3DVTqPPjq/s24/196f747efe8/fightbox?async&rand=0.45771122628499683" , FightBox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://super.rondas.top/live/34366464/49756071/2155548.m3u8
