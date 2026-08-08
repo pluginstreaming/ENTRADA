@@ -1,251 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] RTP1" tvg-logo=", [Vodafone] RTP1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967429.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Cartoon Network" tvg-logo=", [Vodafone] Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967430.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Disney Channel" tvg-logo=", [Vodafone] Disney Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967431.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] SIC" tvg-logo=", [Vodafone] SIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967432.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] TVI" tvg-logo=", [Vodafone] TVI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967433.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] RTP2" tvg-logo=", [Vodafone] RTP2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967434.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] SIC Noticias" tvg-logo=", [Vodafone] SIC Noticias
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967435.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] RTP3" tvg-logo=", [Vodafone] RTP3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967436.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] CNN Portugal" tvg-logo=", [Vodafone] CNN Portugal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967437.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] CMTV" tvg-logo=", [Vodafone] CMTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967438.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Now Canal" tvg-logo=", [Vodafone] Now Canal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967439.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Globo" tvg-logo=", [Vodafone] Globo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967440.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Canal 11" tvg-logo=", [Vodafone] Canal 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967441.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] V+TVI" tvg-logo=", [Vodafone] V+TVI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967442.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Porto Canal" tvg-logo=", [Vodafone] Porto Canal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967443.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] SIC Caras" tvg-logo=", [Vodafone] SIC Caras
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967444.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] SIC Radical" tvg-logo=", [Vodafone] SIC Radical
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967445.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] SIC Mulher" tvg-logo=", [Vodafone] SIC Mulher
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967446.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] RTP Memória" tvg-logo=", [Vodafone] RTP Memória
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967447.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Sport TV+" tvg-logo=", [Vodafone] Sport TV+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967448.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] A BOLA" tvg-logo=", [Vodafone] A BOLA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967449.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Sporting TV" tvg-logo=", [Vodafone] Sporting TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967450.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Fight Network" tvg-logo=", [Vodafone] Fight Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967451.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Fight Box" tvg-logo=", [Vodafone] Fight Box
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967452.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Nautical Channel" tvg-logo=", [Vodafone] Nautical Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967453.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Fuel TV" tvg-logo=", [Vodafone] Fuel TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967454.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Disney Jr" tvg-logo=", [Vodafone] Disney Jr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967455.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Panda Kids" tvg-logo=", [Vodafone] Panda Kids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967456.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Canal Panda" tvg-logo=", [Vodafone] Canal Panda
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967457.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Baby TV" tvg-logo=", [Vodafone] Baby TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967458.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] SIC K" tvg-logo=", [Vodafone] SIC K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967459.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Cartoonito" tvg-logo=", [Vodafone] Cartoonito
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967460.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Nickelodeon" tvg-logo=", [Vodafone] Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967461.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Super RTL" tvg-logo=", [Vodafone] Super RTL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967462.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Biggs" tvg-logo=", [Vodafone] Biggs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967463.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Dizi" tvg-logo=", [Vodafone] Dizi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967464.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] SIC Novelas" tvg-logo=", [Vodafone] SIC Novelas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967465.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Canal Hollywood" tvg-logo=", [Vodafone] Canal Hollywood
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967466.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Cinemundo" tvg-logo=", [Vodafone] Cinemundo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967467.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Star Movies" tvg-logo=", [Vodafone] Star Movies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967468.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Star Channel" tvg-logo=", [Vodafone] Star Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967469.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] AXN" tvg-logo=", [Vodafone] AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967470.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Star Life" tvg-logo=", [Vodafone] Star Life
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967471.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Star Crime" tvg-logo=", [Vodafone] Star Crime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967472.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Star Comedy" tvg-logo=", [Vodafone] Star Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967473.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] AXN White" tvg-logo=", [Vodafone] AXN White
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967474.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] AXN Movies" tvg-logo=", [Vodafone] AXN Movies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967475.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] SYFY" tvg-logo=", [Vodafone] SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967476.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] SYFY" tvg-logo=", [Vodafone] SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967477.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] AMC" tvg-logo=", [Vodafone] AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967478.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Canal Q" tvg-logo=", [Vodafone] Canal Q
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967479.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] MTV" tvg-logo=", [Vodafone] MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967480.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] MTV 00s" tvg-logo=", [Vodafone] MTV 00s
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967481.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] MCM Top" tvg-logo=", [Vodafone] MCM Top
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967482.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Music TV" tvg-logo=", [Vodafone] Music TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967483.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] MEZZO" tvg-logo=", [Vodafone] MEZZO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967484.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Trace Urban" tvg-logo=", [Vodafone] Trace Urban
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967485.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Trace Toca" tvg-logo=", [Vodafone] Trace Toca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967486.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] MEZZO Live" tvg-logo=", [Vodafone] MEZZO Live
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967487.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] 24Kitchen" tvg-logo=", [Vodafone] 24Kitchen
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967488.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Casa e Cozinha" tvg-logo=", [Vodafone] Casa e Cozinha
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967489.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Food Network" tvg-logo=", [Vodafone] Food Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967490.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Discovery Channel" tvg-logo=", [Vodafone] Discovery Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967491.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] National Geographic" tvg-logo=", [Vodafone] National Geographic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967492.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Nat Geo Wild" tvg-logo=", [Vodafone] Nat Geo Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967493.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] História" tvg-logo=", [Vodafone] História
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967494.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Odisseia" tvg-logo=", [Vodafone] Odisseia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967495.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] DocuBox" tvg-logo=", [Vodafone] DocuBox
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967496.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] AMC Crime" tvg-logo=", [Vodafone] AMC Crime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967497.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Saudemais" tvg-logo=", [Vodafone] Saudemais
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967498.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Discovery ID" tvg-logo=", [Vodafone] Discovery ID
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967499.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] TVI Reality" tvg-logo=", [Vodafone] TVI Reality
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967500.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Record TV" tvg-logo=", [Vodafone] Record TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967501.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] AMC Break" tvg-logo=", [Vodafone] AMC Break
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967502.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] TLC" tvg-logo=", [Vodafone] TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967503.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Canal E" tvg-logo=", [Vodafone] Canal E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967504.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Travel Channel" tvg-logo=", [Vodafone] Travel Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967505.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Fashion TV" tvg-logo=", [Vodafone] Fashion TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967506.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] HGTV" tvg-logo=", [Vodafone] HGTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967507.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] M6" tvg-logo=", [Vodafone] M6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967508.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Fast&Fun Box" tvg-logo=", [Vodafone] Fast&Fun Box
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967509.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Ginx eSports TV" tvg-logo=", [Vodafone] Ginx eSports TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967510.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] LUXE TV" tvg-logo=", [Vodafone] LUXE TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967511.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Insight TV" tvg-logo=", [Vodafone] Insight TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967512.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] MyZen TV" tvg-logo=", [Vodafone] MyZen TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967513.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Gametoon" tvg-logo=", [Vodafone] Gametoon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967514.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] ARTV" tvg-logo=", [Vodafone] ARTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967515.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Record News" tvg-logo=", [Vodafone] Record News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967516.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] CNN" tvg-logo=", [Vodafone] CNN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967517.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Euronews Português" tvg-logo=", [Vodafone] Euronews Português
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967518.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Euronews" tvg-logo=", [Vodafone] Euronews
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967519.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Bloomberg" tvg-logo=", [Vodafone] Bloomberg
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967520.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] SKY News" tvg-logo=", [Vodafone] SKY News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967521.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] BBC World News" tvg-logo=", [Vodafone] BBC World News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967522.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] CNBC" tvg-logo=", [Vodafone] CNBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967523.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Al Jazeera" tvg-logo=", [Vodafone] Al Jazeera
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967524.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] RAI News" tvg-logo=", [Vodafone] RAI News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967525.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] 24h" tvg-logo=", [Vodafone] 24h
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967526.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] DW" tvg-logo=", [Vodafone] DW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967527.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] FRANCE24" tvg-logo=", [Vodafone] FRANCE24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967528.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] FRANCE24 English" tvg-logo=", [Vodafone] FRANCE24 English
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967529.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] TVC News" tvg-logo=", [Vodafone] TVC News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967530.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] RTP Madeira" tvg-logo=", [Vodafone] RTP Madeira
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967531.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] RTP Açores" tvg-logo=", [Vodafone] RTP Açores
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967532.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] LocalVisão TV" tvg-logo=", [Vodafone] LocalVisão TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967533.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] RTP Africa" tvg-logo=", [Vodafone] RTP Africa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967534.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] TPA" tvg-logo=", [Vodafone] TPA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967535.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Canal180" tvg-logo=", [Vodafone] Canal180
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967536.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] AGalega" tvg-logo=", [Vodafone] AGalega
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967537.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] TVE" tvg-logo=", [Vodafone] TVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967538.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] TV5MONDE" tvg-logo=", [Vodafone] TV5MONDE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967539.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] RAI1" tvg-logo=", [Vodafone] RAI1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967540.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Vox" tvg-logo=", [Vodafone] Vox
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967541.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] RTL" tvg-logo=", [Vodafone] RTL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967542.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Pro TV International" tvg-logo=", [Vodafone] Pro TV International
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967543.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] KBS World" tvg-logo=", [Vodafone] KBS World
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967544.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Arirang" tvg-logo=", [Vodafone] Arirang
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967545.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] NHK WORLD" tvg-logo=", [Vodafone] NHK WORLD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967546.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Cubavision" tvg-logo=", [Vodafone] Cubavision
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967547.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Freedom" tvg-logo=", [Vodafone] Freedom
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967548.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Cancao Nova" tvg-logo=", [Vodafone] Cancao Nova
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967549.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] UNIFETV" tvg-logo=", [Vodafone] UNIFETV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967550.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Kuriakos TV" tvg-logo=", [Vodafone] Kuriakos TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967551.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Phoenix InfoNews" tvg-logo=", [Vodafone] Phoenix InfoNews
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967552.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Vodafone] Afro Music Channel" tvg-logo=", [Vodafone] Afro Music Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://hoststrsrv.com/live/VctD3r2y/HCG7Y6TU/3967553.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV + FHD" tvg-logo="http://top-logos.xyz/pt/sportv.png" , Sport TV + FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topoplay.online/live/85988806685/726142697/7321443.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV + HD" tvg-logo="http://top-logos.xyz/pt/sportv.png" , Sport TV + HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topoplay.online/live/85988806685/726142697/7321444.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 01 FHD" tvg-logo="http://top-logos.xyz/pt/sportv1.png" , Sport TV 01 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topoplay.online/live/85988806685/726142697/7321445.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 01 HD" tvg-logo="http://top-logos.xyz/pt/sportv1.png" , Sport TV 01 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topoplay.online/live/85988806685/726142697/7321446.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 02 FHD" tvg-logo="http://top-logos.xyz/pt/sportv2.png" , Sport TV 02 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topoplay.online/live/85988806685/726142697/7321447.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 02 HD" tvg-logo="http://top-logos.xyz/pt/sportv2.png" , Sport TV 02 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topoplay.online/live/85988806685/726142697/7321448.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 03 FHD" tvg-logo="http://top-logos.xyz/pt/sportv3.png" , Sport TV 03 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topoplay.online/live/85988806685/726142697/7321449.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 03 HD" tvg-logo="http://top-logos.xyz/pt/sportv3.png" , Sport TV 03 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topoplay.online/live/85988806685/726142697/7321450.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 04 FHD" tvg-logo="http://top-logos.xyz/pt/sportv4.png" , Sport TV 04 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topoplay.online/live/85988806685/726142697/7321451.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 04 HD" tvg-logo="http://top-logos.xyz/pt/sportv4.png" , Sport TV 04 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topoplay.online/live/85988806685/726142697/7321452.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 05 FHD" tvg-logo="http://top-logos.xyz/pt/sportv5.png" , Sport TV 05 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topoplay.online/live/85988806685/726142697/7321453.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 05 HD" tvg-logo="http://top-logos.xyz/pt/sportv5.png" , Sport TV 05 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topoplay.online/live/85988806685/726142697/7321454.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 06 HD" tvg-logo="http://top-logos.xyz/pt/sportv6.png" , Sport TV 06 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://topoplay.online/live/85988806685/726142697/7321455.m3u8
