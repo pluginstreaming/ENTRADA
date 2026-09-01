@@ -1,21 +1,135 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="#### PORTUGAL #### " tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" , #### PORTUGAL #### 
-hplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vca.easy747.com/live/JZ8S9XFBP03X4QL/0g1QALfKu0/1032044.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT -  Gil Vicente Vs Casa Pia 20:15 CET" tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" , PT -  Gil Vicente Vs Casa Pia 20:15 CET
-hplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vca.easy747.com/live/JZ8S9XFBP03X4QL/0g1QALfKu0/1150149.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT - NO EVENT" tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" , PT - NO EVENT
-hplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vca.easy747.com/live/JZ8S9XFBP03X4QL/0g1QALfKu0/1127869.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT - NO EVENT" tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" , PT - NO EVENT
-hplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vca.easy747.com/live/JZ8S9XFBP03X4QL/0g1QALfKu0/1100841.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT - NO EVENT" tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" , PT - NO EVENT
-hplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vca.easy747.com/live/JZ8S9XFBP03X4QL/0g1QALfKu0/1100840.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT - NO EVENT" tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" , PT - NO EVENT
-hplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vca.easy747.com/live/JZ8S9XFBP03X4QL/0g1QALfKu0/1100839.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT - NO EVENT" tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" , PT - NO EVENT
-hplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vca.easy747.com/live/JZ8S9XFBP03X4QL/0g1QALfKu0/1029297.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT - NO EVENT" tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" , PT - NO EVENT
-hplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vca.easy747.com/live/JZ8S9XFBP03X4QL/0g1QALfKu0/1029296.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT - NO EVENT" tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" , PT - NO EVENT
-hplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vca.easy747.com/live/JZ8S9XFBP03X4QL/0g1QALfKu0/1029295.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT - NO EVENT" tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" , PT - NO EVENT
-hplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://vca.easy747.com/live/JZ8S9XFBP03X4QL/0g1QALfKu0/1029294.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTP 1 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/RTP%201.png" , RTP 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1604.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTP 1" tvg-logo="http://channelart.8b90287dn2.online/images/logos/RTP%201.png" , RTP 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1600.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTP 2 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/RTP%202.png" , RTP 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1603.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTP 2" tvg-logo="http://channelart.8b90287dn2.online/images/logos/RTP%202.png" , RTP 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1599.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTP 3 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/RTP%203.png" , RTP 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1479.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTP 3" tvg-logo="http://channelart.8b90287dn2.online/images/logos/RTP%203.png" , RTP 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/899601.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTP Acores" tvg-logo="https://prinplay.com.br/server/RTP%20A%C3%A7ores.png" , RTP Acores
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1498.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTP Madeira" tvg-logo="http://channelart.8b90287dn2.online/images/logos/RTP%20Madeira.png" , RTP Madeira
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTP Memoria" tvg-logo="http://channelart.8b90287dn2.online/images/logos/RTP%20Memo%CC%81ria.png" , RTP Memoria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1499.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SIC.png" , SIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/10224.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SIC.png" , SIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVI HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TVI.png" , TVI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1483.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVI" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TVI.png" , TVI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1484.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC Noticias  HD" tvg-logo="https://prinplay.com.br/server/SIC%20Not%C3%ADcias.png" , SIC Noticias  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/10226.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC Noticias" tvg-logo="https://prinplay.com.br/server/SIC%20Not%C3%ADcias.png" , SIC Noticias
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1493.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CMTV HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/CMTV.png" , CMTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/10230.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CMTV" tvg-logo="http://channelart.8b90287dn2.online/images/logos/CMTV.png" , CMTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1494.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN Portugal HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/CNN.png" , CNN Portugal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/899603.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN Portugal " tvg-logo="http://channelart.8b90287dn2.online/images/logos/CNN.png" , CNN Portugal 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/75838.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TCV Internacional " tvg-logo="http://channelart.8b90287dn2.online/images/logos/TCV%20Internacional.png" , TCV Internacional 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/899602.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Portugal" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20Portugal.png" , Globo Portugal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/2433.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC Caras HD " tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sic%20Caras.png" , SIC Caras HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/51991.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC Mulher HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SIC%20Mulher.png" , SIC Mulher HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/10227.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC Mulher" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SIC%20Mulher.png" , SIC Mulher
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1490.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC Radical HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sic%20Radical.png" , SIC Radical HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/10225.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC Radical" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sic%20Radical.png" , SIC Radical
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1492.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVI Ficcao HD " tvg-logo="https://prinplay.com.br/server/TVI%20Fic%C3%A7%C3%A3o.png" , TVI Ficcao HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/51992.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVI Ficcao" tvg-logo="https://prinplay.com.br/server/TVI%20Fic%C3%A7%C3%A3o.png" , TVI Ficcao
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1487.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVI Reality HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TVI%20Reality.png" , TVI Reality HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1489.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Porto Canal" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Porto%20Canal.png" , Porto Canal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1497.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVCine Top HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TVCine%20Top.png" , TVCine Top HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1544.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVCine Edition HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TVCine%20Edition.png" , TVCine Edition HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1546.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVCine Emotion HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TVCine%20Emotion.png" , TVCine Emotion HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1548.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVCine Action HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TVCine%20Action.png" , TVCine Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1550.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/AMC.png" , AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1568.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/AXN.png" , AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1553.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN Movies HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/AXN.png" , AXN Movies HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1554.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN White HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/AXN%20White.png" , AXN White HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1557.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Comedy HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Fox%20Comedy.png" , Star Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1563.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Crime HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Fox%20Crime.png" , Star Crime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1564.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Fox.png" , Star Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1561.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Life HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Fox%20Life.png" , Star Life HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1562.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Movies HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Fox%20Movies.png" , Star Movies HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1565.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Canal%20Hollywood.png" , Hollywood HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1566.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nos Studios HD " tvg-logo="http://channelart.8b90287dn2.online/images/logos/Canal%20NOS.png" , Nos Studios HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/45491.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Syfy HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Syfy.png" , Syfy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1570.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemundo HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Cine%20Mundo.png" , Cinemundo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1569.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC Crime HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/AMC.png" , AMC Crime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1571.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Panda" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Canal%20Panda.png" , Canal Panda
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1503.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Panda Kids" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Panda%20Biggs.png" , Panda Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1504.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Cartoon%20Network.png" , Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1505.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Baby%20TV.png" , Baby TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1508.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Discovery%20Channel.png" , Discovery Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1574.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel³" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Disney%20Channel.png" , Disney Channel³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1510.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Disney%20Jr..png" , Disney Junior HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1511.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC K" tvg-logo="http://channelart.8b90287dn2.online/images/logos/SIC%20Kids.png" , SIC K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1509.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Nickelodeon.png" , Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1506.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://channelart.8b90287dn2.online/images/logos/TLC.png" , TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1587.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24 Kitchen HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/24%20Kitchen.png" , 24 Kitchen HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1586.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24 Kitchen" tvg-logo="http://channelart.8b90287dn2.online/images/logos/24%20Kitchen.png" , 24 Kitchen
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/12779.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/National%20Geographic.png" , National Geographic Wild HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1576.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Nat%20Geo%20Wild.png" , National Geographic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1578.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Historia HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Canal%20Hist%C3%B3ria.png" , Historia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1577.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Caça e Pesca" tvg-logo="https://prinplay.com.br/server/Ca%C3%A7a%20e%20Pesca.png" , Caça e Pesca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1583.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cacavision" tvg-logo="https://prinplay.com.br/server/Ca%C3%A7avision.png" , Cacavision
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1584.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fuel TV" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Fuel%20TV.png" , Fuel TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1596.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MCM Pop" tvg-logo="http://channelart.8b90287dn2.online/images/logos/MCM%20Pop.png" , MCM Pop
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1593.m3u8
