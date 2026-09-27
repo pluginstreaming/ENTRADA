@@ -1,79 +1,122 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV + HD " tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%20%2B.png" , Sport TV + HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/51993.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1 UHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%201.png" , Sport TV 1 UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1237812.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%201.png" , Sport TV 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1514.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%201.png" , Sport TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1515.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%202.png" , Sport TV 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1517.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2  HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%202.png" , Sport TV 2  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1518.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 3 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%203.png" , Sport TV 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1520.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 3  HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%203.png" , Sport TV 3  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1521.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 4 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%204.png" , Sport TV 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1523.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 4 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%204.png" , Sport TV 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1524.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 5 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%205.png" , Sport TV 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1526.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 5 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sport%20TV%205.png" , Sport TV 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1527.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 6 HD " tvg-logo="https://i.postimg.cc/d3NHk70d/Sport-TV.png" , Sport TV 6 HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/68314.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 7 FHD" tvg-logo="https://i.postimg.cc/Px8Xz7cr/Sport-TV.png" , Sport TV 7 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1271684.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 7 HD" tvg-logo="https://i.postimg.cc/Px8Xz7cr/Sport-TV.png" , Sport TV 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1271685.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BTV 4K" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Benfica%20TV.png" , BTV 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1237811.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BTV FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Benfica%20TV.png" , BTV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1529.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BTV TV HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Benfica%20TV.png" , BTV TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1530.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Benfica%20TV.png" , BTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1531.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sporting TV HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Sporting%20TV.png" , Sporting TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1533.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" , DAZN 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/2377.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" , DAZN 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/2375.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" , DAZN 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/2385.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" , DAZN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/2382.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" , DAZN 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/2391.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" , DAZN 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/2390.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" , DAZN 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/2398.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" , DAZN 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/2396.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 5 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" , DAZN 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/2405.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 5 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" , DAZN 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/2402.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 6 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" , DAZN 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/2411.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 6 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Eleven%20Sports.png" , DAZN 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/2409.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Bola TV HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/A%20Bola%20TV.png" , A Bola TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1535.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 11 HD" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2019/07/logo11.png" , Canal 11 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/2623.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 11" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2019/07/logo11.png" , Canal 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/911027.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1" tvg-logo="http://channelart.8b90287dn2.online/images/logos/EuroSport%201.png" , Eurosport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1536.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="http://channelart.8b90287dn2.online/images/logos/EuroSport%202.png" , Eurosport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1537.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fight Sports HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Fight%20Network.png" , Fight Sports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1538.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MotorVision TV" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Motorvision.png" , MotorVision TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://85.137.49.29.dyn.user.ono.com/live/Niltoncarcida/Fogo22/1541.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24 Kitchen HD" tvg-logo="http://top-logos.xyz/pt/24kitchen.png" group-title="Portugal Abertos", 24 Kitchen HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422415.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bola TV FHD" tvg-logo="http://top-logos.xyz/pt/abolatv.png" group-title="Portugal Esportes", Bola TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Btv  FHD" tvg-logo="https://i.imgur.com/LKgrMqx.png" group-title="Portugal Esportes", Btv  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422163.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Btv HD" tvg-logo="http://top-logos.xyz/pt/benficatv.png" group-title="Portugal Esportes", Btv HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422162.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Btv Multicâmeras" tvg-logo="https://i.imgur.com/Cn7dt9w.png" group-title="Portugal Esportes", Btv Multicâmeras
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal  Q HD" tvg-logo="http://top-logos.xyz/pt/canalq.png" group-title="Portugal Abertos", Canal  Q HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422325.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 11 FHD" tvg-logo="http://top-logos.xyz/pt/canal11.png" group-title="Portugal Esportes", Canal 11 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 11 HD" tvg-logo="http://top-logos.xyz/pt/canal11.png" group-title="Portugal Esportes", Canal 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422125.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cmtv FHD" tvg-logo="http://top-logos.xyz/pt/cmtv.png" group-title="Portugal Notícias", Cmtv FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422299.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cmtv HD" tvg-logo="http://top-logos.xyz/pt/cmtv.png" group-title="Portugal Notícias", Cmtv HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422298.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cnbc Europe HD" tvg-logo="http://top-logos.xyz/pt/cnbc.png" group-title="Portugal Notícias", Cnbc Europe HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422450.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cnn HD" tvg-logo="http://top-logos.xyz/pt/cnn.png" group-title="Portugal Notícias", Cnn HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422441.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cnn Portugal HD" tvg-logo="http://top-logos.xyz/pt/cnnportugal.png" group-title="Portugal Notícias", Cnn Portugal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422296.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cnn Portugall FHD" tvg-logo="http://top-logos.xyz/pt/cnnportugal.png" group-title="Portugal Notícias", Cnn Portugall FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422297.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 01 HD" tvg-logo="http://top-logos.xyz/pt/eleven5.png" group-title="Portugal Esportes", Dazn 01 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 02 HD" tvg-logo="http://top-logos.xyz/pt/eleven5.png" group-title="Portugal Esportes", Dazn 02 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 03 HD" tvg-logo="http://top-logos.xyz/pt/eleven5.png" group-title="Portugal Esportes", Dazn 03 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 04 HD" tvg-logo="http://top-logos.xyz/pt/eleven1.png" group-title="Portugal Esportes", Dazn 04 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422154.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 05 HD" tvg-logo="http://top-logos.xyz/pt/eleven1.png" group-title="Portugal Esportes", Dazn 05 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422153.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Euro News HD" tvg-logo="http://top-logos.xyz/pt/euronews.png" group-title="Portugal Notícias", Euro News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422434.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 01 FHD" tvg-logo="http://top-logos.xyz/pt/eurosport1.png" group-title="Portugal Esportes", Eurosport 01 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422173.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 01 HD" tvg-logo="http://top-logos.xyz/pt/eurosport1.png" group-title="Portugal Esportes", Eurosport 01 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422172.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 02 HD" tvg-logo="http://top-logos.xyz/pt/eurosport2.png" group-title="Portugal Esportes", Eurosport 02 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422174.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fight Network HD" tvg-logo="http://top-logos.xyz/pt/fightnetwork.png" group-title="Portugal Esportes", Fight Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422176.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Portugall HD" tvg-logo="http://top-logos.xyz/pt/tvglobo.png" group-title="Portugal Abertos", Globo Portugall HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422329.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kombat Sport HD" tvg-logo="https://i.imgur.com/Vey9HWZ.png" group-title="Portugal Esportes", Kombat Sport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422175.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Motorvision HD" tvg-logo="http://top-logos.xyz/pt/motorvision.png" group-title="Portugal Esportes", Motorvision HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422169.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News Now HD" tvg-logo="https://i.imgur.com/i8wWOtn.png" group-title="Portugal Notícias", News Now HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pfc HD" tvg-logo="http://top-logos.xyz/pt/pfc.png" group-title="Portugal Esportes", Pfc HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Porto Canal HD" tvg-logo="http://top-logos.xyz/pt/portocanal.png" group-title="Portugal Esportes", Porto Canal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rally Mania HD" tvg-logo="https://i.ibb.co/Q8KMFT2/Atj-Uwhtf-400x400.jpg" group-title="Portugal Esportes", Rally Mania HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422171.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV HD" tvg-logo="http://top-logos.xyz/pt/realmadridtv.png" group-title="Portugal Esportes", Real Madrid TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422178.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Record News HD" tvg-logo="http://top-logos.xyz/pt/recordnews.png" group-title="Portugal Notícias", Record News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422451.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV HD" tvg-logo="http://top-logos.xyz/pt/redbulltv.png" group-title="Portugal Esportes", Red Bull TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rtp 1 FHD" tvg-logo="http://top-logos.xyz/pt/1rtp.png" group-title="Portugal Abertos", Rtp 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422283.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rtp 1 HD" tvg-logo="http://top-logos.xyz/pt/1rtp.png" group-title="Portugal Abertos", Rtp 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422281.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rtp 2 FHD" tvg-logo="http://top-logos.xyz/pt/2rtp.png" group-title="Portugal Abertos", Rtp 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422284.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rtp 2 HD" tvg-logo="http://top-logos.xyz/pt/2rtp.png" group-title="Portugal Abertos", Rtp 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422285.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rtp Acores HD" tvg-logo="http://top-logos.xyz/pt/rtpacores.png" group-title="Portugal Abertos", Rtp Acores HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422304.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rtp Africa HD" tvg-logo="http://top-logos.xyz/pt/rtpafrica.png" group-title="Portugal Abertos", Rtp Africa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422303.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rtp Madeira HD" tvg-logo="http://top-logos.xyz/pt/rtpmadeira.png" group-title="Portugal Abertos", Rtp Madeira HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422306.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rtp Memória HD" tvg-logo="http://top-logos.xyz/pt/rtpmemoria.png" group-title="Portugal Abertos", Rtp Memória HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422305.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rtp Noticias HD" tvg-logo="https://i.imgur.com/ZtCm9wM.jpeg" group-title="Portugal Notícias", Rtp Noticias HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422302.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sic FHD" tvg-logo="http://top-logos.xyz/pt/4sic.png" group-title="Portugal Abertos", Sic FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422288.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sic HD" tvg-logo="http://top-logos.xyz/pt/4sic.png" group-title="Portugal Abertos", Sic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422287.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sic Caras HD" tvg-logo="http://top-logos.xyz/pt/siccaras.png" group-title="Portugal Abertos", Sic Caras HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422315.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sic K HD" tvg-logo="http://top-logos.xyz/pt/sick.png" group-title="Portugal Abertos", Sic K HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422403.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sic Mulher FHD" tvg-logo="http://top-logos.xyz/pt/sicmulher.png" group-title="Portugal Abertos", Sic Mulher FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422314.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sic Mulher HD" tvg-logo="http://top-logos.xyz/pt/sicmulher.png" group-title="Portugal Abertos", Sic Mulher HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422313.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sic Noticias FHD" tvg-logo="http://top-logos.xyz/pt/6sicnoticias.png" group-title="Portugal Notícias", Sic Noticias FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422293.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sic Noticias HD" tvg-logo="http://top-logos.xyz/pt/6sicnoticias.png" group-title="Portugal Notícias", Sic Noticias HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422294.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sic Radical FHD" tvg-logo="http://top-logos.xyz/pt/sicradical.png" group-title="Portugal Abertos", Sic Radical FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422317.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sic Rdical HD" tvg-logo="http://top-logos.xyz/pt/sicradical.png" group-title="Portugal Abertos", Sic Rdical HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422316.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sic Replay HD" tvg-logo="https://i.imgur.com/RmZ1sDG.jpeg" group-title="Portugal Abertos", Sic Replay HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422311.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky News HD" tvg-logo="http://top-logos.xyz/pt/skynews.png" group-title="Portugal Notícias", Sky News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422440.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sporting TV HD" tvg-logo="http://top-logos.xyz/pt/sportingtv.png" group-title="Portugal Esportes", Sporting TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tvi FHD" tvg-logo="http://top-logos.xyz/pt/5tvi.png" group-title="Portugal Abertos", Tvi FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422291.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tvi HD" tvg-logo="http://top-logos.xyz/pt/5tvi.png" group-title="Portugal Abertos", Tvi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422290.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Wwe Network HD" tvg-logo="http://top-logos.xyz/pt/wwe.png" group-title="Portugal Esportes", Wwe Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://nitrohd.xyz/live/234685585/756823989/6422166.m3u8
